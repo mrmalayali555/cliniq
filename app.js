@@ -691,7 +691,8 @@ function pauseAndSaveTest() {
     options: q.options,
     correct: q.correct,
     explanation: q.explanation,
-    isSpecialFormat: q.isSpecialFormat
+    isSpecialFormat: q.isSpecialFormat,
+    reviewMarked: q.reviewMarked || false
   }));
 
   const testState = {
@@ -725,7 +726,8 @@ function saveIncompleteTestSilent() {
     options: q.options,
     correct: q.correct,
     explanation: q.explanation,
-    isSpecialFormat: q.isSpecialFormat
+    isSpecialFormat: q.isSpecialFormat,
+    reviewMarked: q.reviewMarked || false
   }));
 
   const testState = {
