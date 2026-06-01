@@ -549,6 +549,8 @@ function renderQuestion() {
   document.getElementById('progressFill').style.width = `${((currentQ) / total) * 100}%`;
   document.getElementById('questionNum').textContent = `Question ${currentQ + 1}`;
   document.getElementById('questionText').textContent = q.question;
+  const reviewToggle = document.getElementById('reviewToggleInput');
+  if (reviewToggle) reviewToggle.checked = !!q.reviewMarked;
   
   const optList = document.getElementById('optionsList');
   
@@ -613,6 +615,12 @@ function selectAnswer(label, btn) {
   expBox.style.display = 'flex';
   document.getElementById('nextBtn').style.display = 'block';
   document.getElementById('nextBtn').textContent = currentQ + 1 >= testQuestions.length ? 'See Results →' : 'Next Question →';
+}
+
+function toggleReviewMark(checked) {
+  const q = testQuestions[currentQ];
+  if (!q) return;
+  q.reviewMarked = checked;
 }
 
 function nextQuestion() {
