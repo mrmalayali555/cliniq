@@ -521,6 +521,30 @@ body {
   .page-header { padding: 72px 0 24px; }
 }
 
+/* Mobile improvements: make hero content stack neatly and stats readable */
+@media (max-width: 520px) {
+  .hero-content { padding: 8px; }
+  .hero-sub { font-size: 0.98rem; max-width: 92%; }
+  .hero-title { font-size: clamp(1.6rem, 6vw, 2.4rem); }
+  .hero-stats { width: 100%; padding: 12px; display: flex; flex-direction: row; gap: 10px; justify-content: space-between; }
+  .hero-stats .stat { text-align: center; min-width: 30%; }
+  .stat-num { font-size: 1.15rem; }
+}
+
+/* Developer watermark */
+#devWatermark {
+  position: fixed; right: 12px; bottom: 12px; z-index: 9999;
+  background: rgba(0,0,0,0.45); color: #fff; padding: 8px 12px; border-radius: 999px;
+  font-family: var(--font-body); font-weight: 600; font-size: 0.85rem; text-decoration: none;
+  opacity: 0.85; box-shadow: 0 6px 24px rgba(0,0,0,0.5);
+}
+@media (prefers-color-scheme: light) {
+  #devWatermark { background: rgba(255,255,255,0.92); color: #002020; border: 1px solid var(--border); }
+}
+
+.footer-dev { margin-top: 6px; font-size: 0.9rem; }
+.footer-dev a { color: var(--primary); text-decoration: none; font-weight: 700; }
+
 /* ── Poster & Logo Overlay ── */
 .hero-poster-wrap { position: relative; width: 100%; max-width: 720px; margin: 0 auto 18px; border-radius: 12px; overflow: hidden; box-shadow: 0 12px 40px rgba(0,0,0,0.45); }
 .hero-poster { width: 100%; height: auto; display: block; object-fit: cover; filter: saturate(1.05) contrast(1.03); }

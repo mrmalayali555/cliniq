@@ -621,36 +621,95 @@ function retryTest() {
 }
 
 function confirmExit() {
-  if (answered === 0 || confirm('Exit test? Your progress will be lost.')) {
+  // Save current test state before exiting so user can resume later
+  if (answered === 0) {
+    // If nothing answered yet, still save snapshot and go back
+    saveIncompleteTestSilent();
+    showView('subjects');
+    return;
+  }
+
+  if (confirm('Exit test? Your progress will be saved as an incomplete test.')) {
+    saveIncompleteTestSilent();
     showView('subjects');
   }
 }
 
+// Save silently on page unload/navigation so users who close the tab can resume later
+window.addEventListener('beforeunload', () => {
+  try { saveIncompleteTestSilent(); } catch (e) {}
+});
+
 // ── Pause & Resume ──
 function pauseAndSaveTest() {
   if (testQuestions.length === 0) return;
-  
+
+  // Build minimal serializable snapshot of the active test (store full question objects
+  // so users can resume even if the question bank isn't reloaded)
+  const snapshotQs = testQuestions.map(q => ({
+    id: q.id,
+    question: q.question,
+    options: q.options,
+    correct: q.correct,
+    explanation: q.explanation,
+    isSpecialFormat: q.isSpecialFormat
+  }));
+
   const testState = {
     sessionId: Date.now() + Math.random(),
     subject: selectedSubject,
     topic: selectedTopic,
-    totalQuestions: testQuestions.length,
+    totalQuestions: snapshotQs.length,
     currentQuestion: currentQ,
     score: score,
     answered: answered,
     wrongCount: wrongCount,
-    testQuestions: testQuestions.map(q => ({ id: q.id, correct: q.correct })),
-    userAnswers: document.querySelectorAll('.option-btn').length > 0 ? 
-      Array.from(document.querySelectorAll('.option-btn.correct')).map(b => b.dataset.label) : [],
+    testQuestions: snapshotQs,
     pausedAt: new Date().toLocaleString()
   };
-  
+
   let incompleteTests = JSON.parse(localStorage.getItem('cliniq-incomplete-tests') || '[]');
   incompleteTests.unshift(testState);
   localStorage.setItem('cliniq-incomplete-tests', JSON.stringify(incompleteTests));
-  
+
   alert('✅ Test paused! You can resume it from the home page.');
   showView('home');
+}
+
+// Save incomplete test silently (no alert) — used on unload
+function saveIncompleteTestSilent() {
+  if (testQuestions.length === 0 || answered >= testQuestions.length) return;
+
+  const snapshotQs = testQuestions.map(q => ({
+    id: q.id,
+    question: q.question,
+    options: q.options,
+    correct: q.correct,
+    explanation: q.explanation,
+    isSpecialFormat: q.isSpecialFormat
+  }));
+
+  const testState = {
+    sessionId: Date.now() + Math.random(),
+    subject: selectedSubject,
+    topic: selectedTopic,
+    totalQuestions: snapshotQs.length,
+    currentQuestion: currentQ,
+    score: score,
+    answered: answered,
+    wrongCount: wrongCount,
+    testQuestions: snapshotQs,
+    pausedAt: new Date().toLocaleString()
+  };
+
+  let incompleteTests = JSON.parse(localStorage.getItem('cliniq-incomplete-tests') || '[]');
+  // Avoid storing duplicate snapshot if the most recent is identical session
+  if (!incompleteTests.length || incompleteTests[0].sessionId !== testState.sessionId) {
+    incompleteTests.unshift(testState);
+    // keep max 10 saved sessions
+    incompleteTests = incompleteTests.slice(0, 10);
+    localStorage.setItem('cliniq-incomplete-tests', JSON.stringify(incompleteTests));
+  }
 }
 
 function loadIncompleteTests() {
@@ -699,10 +758,11 @@ function resumeTest(testIndex) {
   selectedSubject = testState.subject;
   selectedTopic = testState.topic;
   
-  // Restore full question objects from the loaded all questions
+  // Restore full question objects from the saved snapshot. If a question bank is
+  // available locally (allQuestions), try to replace with the canonical object.
   testQuestions = testState.testQuestions.map(saved => {
     const fullQ = allQuestions.find(q => q.id === saved.id);
-    return fullQ || saved;
+    return fullQ ? fullQ : saved;
   });
   
   currentQ = testState.currentQuestion;
