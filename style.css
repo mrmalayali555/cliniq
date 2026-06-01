@@ -531,6 +531,21 @@ body {
   .stat-num { font-size: 1.15rem; }
 }
 
+/* Subjects / Topics mobile improvements */
+@media (max-width: 768px) {
+  .subjects-grid { grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 12px; }
+  .topics-grid { grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 12px; }
+  .subject-card { padding: 18px; }
+  .subj-name { font-size: 0.98rem; }
+  .subj-info { font-size: 0.78rem; }
+}
+
+@media (max-width: 420px) {
+  .subjects-grid { grid-template-columns: repeat(2, 1fr); gap: 10px; }
+  .count-presets { grid-template-columns: repeat(2,1fr); }
+  .year-tabs { gap: 6px; }
+}
+
 /* Developer watermark */
 #devWatermark {
   position: fixed; right: 12px; bottom: 12px; z-index: 9999;
