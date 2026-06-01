@@ -351,41 +351,56 @@ function parseQuestions(text, subject = '') {
     
     if (options.length < 2) continue;
     
-    // Figure out correct answer label
+    // Figure out correct answer label(s) robustly using word boundaries so we don't
+    // accidentally match letters inside words. Support answers like: "a", "a,c", "A and C".
     const answerLower = answerLine.toLowerCase();
     let correctLabel = '';
-    const labelMatch = answerLower.match(/^([a-d])[.)]/);
-    if (labelMatch) correctLabel = labelMatch[1];
-    else {
-      // Try to match from answer text
-      for (const opt of options) {
-        if (answerLower.includes(opt.text.substring(0, 20).toLowerCase())) {
-          correctLabel = opt.label;
-          break;
-        }
-      }
-    }
-    
-    if (!correctLabel) {
-      // Fallback: check which option letter appears in answer
-      for (const l of ['a','b','c','d']) {
-        if (answerLower.startsWith(l) || answerLower.includes(`. ${l}.`) || answerLower.includes(`${l})`)) {
-          correctLabel = l;
-          break;
+
+    // Prefer an explicit starting letter like "a.", "a)" at the beginning of the line
+    const labelMatch = answerLower.match(/^\s*([a-e])[.)\s]/i);
+    if (labelMatch) {
+      correctLabel = labelMatch[1].toLowerCase();
+    } else {
+      // Extract standalone letters (a-e) using word boundaries to avoid matching letters inside words
+      const letterMatches = [...answerLower.matchAll(/\b([a-e])\b/gi)].map(m => m[1].toLowerCase());
+      // Filter letters that actually correspond to one of the option labels
+      const optionLabels = options.map(o => o.label.toLowerCase());
+      const filtered = letterMatches.filter(l => optionLabels.includes(l));
+      if (filtered.length === 1) {
+        correctLabel = filtered[0];
+      } else if (filtered.length > 1) {
+        // Multi-answer detected; for now pick the first one as the primary correct
+        // and store the full set in the question object for potential future multi-select support
+        correctLabel = filtered[0];
+        // attach a multiCorrect array so UI improvements can use it later
+        // (we will add it to the question object below before pushing)
+      } else {
+        // Try to match by option text snippet (fallback)
+        for (const opt of options) {
+          if (answerLower.includes(opt.text.substring(0, 20).toLowerCase())) {
+            correctLabel = opt.label;
+            break;
+          }
         }
       }
     }
     
     if (!correctLabel || !options.find(o => o.label === correctLabel)) continue;
     
-    questions.push({
+    // If multiple letters were found earlier, record them on the question for accuracy
+    const multiLetters = [...answerLine.toLowerCase().matchAll(/\b([a-e])\b/gi)].map(m => m[1].toLowerCase());
+    const multiCorrect = multiLetters.filter(l => options.find(o => o.label === l));
+    
+    const qObj = {
       id: i + 1, // 1-based question number corresponding to the index in the question bank
       question: questionText,
       options: options,
       correct: correctLabel,
       explanation: `Answer: ${answerLine}`,
       isSpecialFormat: isSpecialFormat
-    });
+    };
+    if (multiCorrect.length > 1) qObj.multiCorrect = multiCorrect;
+    questions.push(qObj);
   }
   
   return questions;
@@ -415,8 +430,10 @@ function parseQuadcrackFormat(text) {
     if (!firstAnswer) continue;
     
     const correctAnswer = firstAnswer.replace(/^\d+\.\s*/, '').trim().toLowerCase();
-    const answerLabels = correctAnswer.match(/[a-z]/gi) || [];
-    const correctLabel = answerLabels[0] ? answerLabels[0].toLowerCase() : '';
+    // Extract standalone letters only (a-e) to avoid matching letters inside words
+    const letterMatches = [...correctAnswer.matchAll(/\b([a-e])\b/gi)].map(m => m[1].toLowerCase());
+    const answerLabels = letterMatches;
+    const correctLabel = answerLabels[0] ? answerLabels[0] : '';
     
     // Get question block - it's the part after the last question number
     const lines = questionPart.split('\n').map(l => l.trim()).filter(l => l);
