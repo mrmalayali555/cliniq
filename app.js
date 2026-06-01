@@ -40,43 +40,43 @@ function scrollToFeatures() {
 // ── Subjects Data ──
 const SUBJECTS = [
   // 1st Year
-  { id:'anatomy',      name:'Anatomy',        year:'1st', icon:'🦴', info:'8 Topics • 1200+ MCQs', available:true },
-  { id:'physiology',   name:'Physiology',     year:'1st', icon:'❤️', info:'300+ MCQs',            available:true },
-  { id:'biochemistry', name:'Biochemistry',   year:'1st', icon:'🧬', info:'200+ MCQs',            available:true },
+  { id:'anatomy',      name:'Anatomy',        year:'1st', icon:'AN', info:'8 Topics • 1200+ MCQs', available:true },
+  { id:'physiology',   name:'Physiology',     year:'1st', icon:'PH', info:'300+ MCQs',            available:true },
+  { id:'biochemistry', name:'Biochemistry',   year:'1st', icon:'BC', info:'200+ MCQs',            available:true },
 
   // 2nd Year
-  { id:'pathology',    name:'Pathology',      year:'2nd', icon:'🔬', info:'Coming Soon',          available:false },
-  { id:'microbiology', name:'Microbiology',   year:'2nd', icon:'🦠', info:'Coming Soon',          available:false },
-  { id:'pharmacology', name:'Pharmacology',   year:'2nd', icon:'💊', info:'Coming Soon',          available:false },
+  { id:'pathology',    name:'Pathology',      year:'2nd', icon:'PA', info:'Coming Soon',          available:false },
+  { id:'microbiology', name:'Microbiology',   year:'2nd', icon:'MI', info:'Coming Soon',          available:false },
+  { id:'pharmacology', name:'Pharmacology',   year:'2nd', icon:'PR', info:'Coming Soon',          available:false },
 
   // 3rd Year
-  { id:'psm',          name:'PSM',            year:'3rd', icon:'🏘️', info:'500+ MCQs',            available:true },
-  { id:'fmt',          name:'FMT',            year:'3rd', icon:'⚖️', info:'200+ MCQs',            available:true },
+  { id:'psm',          name:'PSM',            year:'3rd', icon:'PS', info:'500+ MCQs',            available:true },
+  { id:'fmt',          name:'FMT',            year:'3rd', icon:'FM', info:'200+ MCQs',            available:true },
 
   // Final Year
-  { id:'medicine',     name:'Medicine',       year:'final', icon:'🩺', info:'400+ MCQs',            available:true },
-  { id:'obgyn',        name:'Obs & Gynae',    year:'final', icon:'🤱', info:'Coming Soon',          available:false },
-  { id:'surgery',      name:'Surgery',        year:'final', icon:'🔪', info:'Coming Soon',          available:false },
-  { id:'ent',          name:'ENT',            year:'final', icon:'👂', info:'Coming Soon',          available:false },
-  { id:'ophthalmology',name:'Ophthalmology',  year:'final', icon:'👁️', info:'Coming Soon',          available:false },
-  { id:'paediatrics',  name:'Paediatrics',    year:'final', icon:'👶', info:'Coming Soon',          available:false },
-  { id:'dermatology',  name:'Dermatology',    year:'final', icon:'🧴', info:'Coming Soon',          available:false },
-  { id:'psychiatry',   name:'Psychiatry',     year:'final', icon:'🧠', info:'Coming Soon',          available:false },
-  { id:'orthopaedics', name:'Orthopaedics',   year:'final', icon:'🦴', info:'Coming Soon',          available:false },
-  { id:'anaesthesia',  name:'Anaesthesia',    year:'final', icon:'😴', info:'Coming Soon',          available:false },
-  { id:'radiology',    name:'Radiology',      year:'final', icon:'🩻', info:'Coming Soon',          available:false },
+  { id:'medicine',     name:'Medicine',       year:'final', icon:'MD', info:'400+ MCQs',            available:true },
+  { id:'obgyn',        name:'Obs & Gynae',    year:'final', icon:'OG', info:'Coming Soon',          available:false },
+  { id:'surgery',      name:'Surgery',        year:'final', icon:'SU', info:'Coming Soon',          available:false },
+  { id:'ent',          name:'ENT',            year:'final', icon:'EN', info:'Coming Soon',          available:false },
+  { id:'ophthalmology',name:'Ophthalmology',  year:'final', icon:'OP', info:'Coming Soon',          available:false },
+  { id:'paediatrics',  name:'Paediatrics',    year:'final', icon:'PD', info:'Coming Soon',          available:false },
+  { id:'dermatology',  name:'Dermatology',    year:'final', icon:'DE', info:'Coming Soon',          available:false },
+  { id:'psychiatry',   name:'Psychiatry',     year:'final', icon:'PSY', info:'Coming Soon',         available:false },
+  { id:'orthopaedics', name:'Orthopaedics',   year:'final', icon:'OR', info:'Coming Soon',          available:false },
+  { id:'anaesthesia',  name:'Anaesthesia',    year:'final', icon:'ANE', info:'Coming Soon',         available:false },
+  { id:'radiology',    name:'Radiology',      year:'final', icon:'RA', info:'Coming Soon',          available:false },
 ];
 
 const ANATOMY_TOPICS = [
-  { id:'all',      name:'All Topics',        icon:'🎯' },
-  { id:'general',  name:'General Anatomy',   icon:'📐' },
-  { id:'headneck', name:'Head & Neck',        icon:'👤' },
-  { id:'neuro',    name:'Neuroanatomy',       icon:'🧠' },
-  { id:'thorax',   name:'Thorax',             icon:'🫁' },
-  { id:'abdomen',  name:'Abdomen',            icon:'🫃' },
-  { id:'pelvis',   name:'Pelvis & Perineum',  icon:'🦴' },
-  { id:'upper',    name:'Upper Limb',         icon:'💪' },
-  { id:'lower',    name:'Lower Limb',         icon:'🦵' },
+  { id:'all',      name:'All Topics',        icon:'ALL' },
+  { id:'general',  name:'General Anatomy',   icon:'GEN' },
+  { id:'headneck', name:'Head & Neck',       icon:'HN' },
+  { id:'neuro',    name:'Neuroanatomy',      icon:'NE' },
+  { id:'thorax',   name:'Thorax',            icon:'TH' },
+  { id:'abdomen',  name:'Abdomen',           icon:'AB' },
+  { id:'pelvis',   name:'Pelvis & Perineum', icon:'PE' },
+  { id:'upper',    name:'Upper Limb',        icon:'UL' },
+  { id:'lower',    name:'Lower Limb',        icon:'LL' },
 ];
 
 // ── Render Subjects ──
