@@ -1,0 +1,2350 @@
+    BIOCHEMISTRY
+    QUESTION BANK
+
+
+                                                       SFI MEDICOS KERALA
+
+
+
+
+i. Regarding HbF all are true except:
+
+A) It is a tetramer of 2 alpha and 2 gamma chains
+
+B) Affinity for oxygen is more than HbA
+
+C) Increased interaction with 2,3 – BPG
+
+D) Will not copolymerize with HbS
+
+✅ Answer: C (HbF has reduced interaction with 2,3-BPG)
+ii. Branched chain keto acids are excreted in urine in large quantities in:
+
+A) Phenylketonuria
+
+B) Homocystinuria
+
+C) Maple syrup urine disease
+
+D) Cystinuria
+
+✅ Answer: C
+
+iii. Mechanism of enzyme inhibition of Ornithine decarboxylase by Di Fluoro Methyl Ornithine:
+
+A) Competitive inhibition
+
+B) Suicide inhibition
+
+C) Non-competitive inhibition
+
+D) Allosteric inhibition
+✅ Answer: B
+iv. Essential pentosuria is caused by deficiency of:
+
+A) Glucose 6 phosphate dehydrogenase
+
+B) L-xylulose reductase
+
+C) UDP-glucose dehydrogenase
+
+D) Aldolase B
+
+✅ Answer: B
+v. Which amino acid can enter the TCA cycle as fumarate and oxaloacetate?
+
+A) Aspartate
+
+B) Glutamate
+
+C) Arginine
+
+D) Serine
+
+✅ Answer: A
+
+✅ Multiple Response Questions (vi–x)
+
+vi. Pellagra-like features are seen in:
+
+1. Pyridoxine deficiency
+
+2. Tryptophan deficiency
+
+3. Carcinoid syndrome
+
+4. Hartnup’s disease
+
+✅ Answer: C) 1, 2, 3, 4 correct
+vii. Urea level in blood may be elevated in:
+
+1. Dehydration
+
+2. Renal failure
+
+3. Hepatic failure
+4. Starvation
+
+✅ Answer: D) 1, 2, 3, 4 correct
+viii. Following are true about collagen:
+
+1. 33% of amino acid composition of collagen is glycine
+
+2. Glycosylation of procollagen occurs on glycine residues
+
+3. In copper deficiency there is reduced cross-linkage of collagen
+
+4. Osteogenesis imperfecta is due to replacement of single glycine residue by cysteine in
+Type 1 collagen
+
+✅ Answer: C) 1, 3 correct
+ix. Functions of NADPH produced in HMP pathway:
+
+1. Fatty acid synthesis
+
+2. Detoxification via glutathione reduction
+
+3. Glycogenolysis
+
+4. Cholesterol synthesis
+
+✅ Answer: D) 1, 2, 4 correct
+x. Which of the following statements are true regarding polyamines?
+
+1. Formed from ornithine and citrulline
+
+2. Necessary for protein synthesis
+
+3. Necessary for stabilization of ribosomes
+
+4. Causes depurination of DNA
+
+5. Cadaverine is a polyamine in mammalian tissue
+
+✅ Answer: C) 1, 3, 4 correct
+xi.
+
+Assertion (A): Haemoglobin S (HbS) leads to the formation of sickle-shaped red blood cells.
+
+Reason (R): Copolymerization of HbS occurs in deoxygenated state.
+
+✅ Answer: D (Both A and R are true, and R is the correct explanation of A)
+xii.
+
+Assertion (A): Transferrin is the primary protein responsible for iron transport in blood.
+
+Reason (R): Transferrin binds to iron in its ferrous (Fe²⁺) form for transport.
+
+✅ Answer: C (A is true, but R is false — transferrin binds iron in ferric (Fe³⁺) form)
+xiii.
+
+Assertion (A): Low level of Pyridoxal phosphate would lead to convulsions.
+
+Reason (R): GABA is an inhibitory neurotransmitter and it opens the chloride channel in the
+postsynaptic membranes in CNS.
+
+✅ Answer: D (Both A and R are true, and R is the correct explanation of A)
+xiv.
+
+Assertion (A): Creatinine clearance overestimates the true GFR.
+
+Reason (R): In addition to glomerular filtration, creatinine is also secreted by renal tubules.
+
+✅ Answer: D (Both A and R are true, and R is the correct explanation of A)
+xv.
+
+Assertion (A): Brain cannot utilize ketone bodies as fuel.
+
+Reason (R): Brain lacks the enzyme thiophorase for utilization of ketone bodies.
+
+✅ Answer: D (Both A and R are true, and R is the correct explanation of A)
+✅ Case-Based Questions (xvi–xx)
+
+Case Summary:
+
+A 47-year-old male has severe pain, redness, and swelling of the first metatarsophalangeal
+joint and right foot. Serum uric acid is 11.2 mg/dL.
+
+xvi. Probable causes of the condition except:
+
+A) Deficiency of glucose 6 phosphatase
+
+B) Deficiency of HGPRT
+
+C) Deficiency of adenosine deaminase
+
+D) Renal failure
+✅ Answer: C (Not associated with gout)
+xvii. Definitive diagnosis of the condition is by:
+
+A) Serum uric acid ≥ 10 mg/dl
+
+B) Negatively birefringent crystals present in synovial fluid
+
+C) Urate crystals deposited in soft tissue
+
+D) Presence of uric acid stone in the urinary tract
+
+✅ Answer: B
+xviii. Features of gout are all except:
+
+A) Serum uric acid ≥ 10 mg/dl
+
+B) Urate crystals present in synovial fluid
+
+C) Urate crystals deposited in soft tissue
+
+D) Presence of uric acid stone in the urinary tract visualised on X-ray
+
+✅ Answer: A (Hyperuricemia alone does not confirm gout)
+xix. Which property of uric acid is responsible for the manifestations in the patient?
+
+A) Keto-enol tautomerism
+
+B) Acidic nature
+
+C) Reducing action
+
+D) Solubility constant
+
+✅ Answer: D (Low solubility causes precipitation in joints)
+xx. All the following medications may be given to the patient for immediate relief except:
+
+A) Allopurinol
+
+B) Colchicine
+
+C) Corticosteroids
+
+D) Non-steroidal anti-inflammatory drugs (NSAIDs)
+
+✅ Answer: A (Allopurinol is used for long-term management, not acute relief)
+i) Which of the following best describes the function of telomerase?
+
+a) It repairs mismatched base pairs during DNA replication
+
+b) It synthesizes Okazaki fragments on the lagging strand
+
+c) It adds repetitive sequences to the ends of chromosomes
+
+d) It unwinds the DNA helix ahead of the replication fork
+
+Answer: c) It adds repetitive sequences to the ends of chromosomes
+
+
+
+
+ii) The enzyme primarily responsible for converting superoxide radicals into hydrogen
+peroxide is:
+
+a) Catalase
+
+b) Peroxidase
+
+c) Superoxide dismutase
+
+d) Glutathione peroxidase
+
+Answer: c) Superoxide dismutase
+
+
+
+
+iii) Which statement accurately describes a key characteristic of the genetic code?
+
+a) It is overlapping and degenerate
+
+b) It is universal and overlapping
+
+c) It is non-overlapping and nearly universal
+
+d) It is organism-specific and non-overlapping
+
+Answer: c) It is non-overlapping and nearly universal
+
+
+
+
+iv) Which checkpoint in the cell cycle ensures that DNA is undamaged before replication
+begins?
+
+a) G2/M checkpoint
+
+b) G1/S checkpoint
+c) Spindle assembly checkpoint
+
+d) Cytokinesis checkpoint
+
+Answer: b) G1/S checkpoint
+
+
+
+
+v) The application of CRISPR-Cas9 among the following is:
+
+a) Protein purification
+
+b) DNA sequencing
+
+c) Genome editing tool
+
+d) RNA interference
+
+Answer: c) Genome editing tool
+
+
+
+
+vi) Select the porphyrias that are correctly matched with their enzyme deficiencies:
+
+
+
+
+1. Acute intermittent porphyria — Uroporphyrinogen decarboxylase deficiency
+
+2. Porphyria cutanea tarda — Uroporphyrinogen decarboxylase deficiency
+
+3. Erythropoietic protoporphyria — Ferrochelatase deficiency
+
+4. Variegate porphyria Delta-aminolevulinic acid synthase deficiency
+
+a) 1 & 4
+
+b) 1 & 3
+
+c) 2 & 3
+
+d) 3 & 4
+
+Answer: c) 2 & 3
+
+
+
+
+vii) The substances primarily transported in the blood by albumin are:
+
+
+
+
+1. Bilirubin
+2. Fatty acids
+
+3. Calcium
+
+4. Iron
+
+a) 1, 2 & 3
+
+b) 1, 2 & 4
+
+c) 2, 3 & 4
+
+d) 1, 3 & 4
+
+Answer: a) 1, 2 & 3
+
+
+
+
+viii) Select the correct statements regarding PCR:
+
+
+
+
+1. Requires thermostable DNA polymerase
+
+2. Uses RNA primers
+
+3. Involves repeated cycles of denaturation, annealing, and extension
+
+4. Requires prior knowledge of the target sequence
+
+a) 1, 2 & 3
+
+b) 2, 3 & 4
+
+c) 1, 3 & 4
+
+d) 1, 2 & 4
+
+Answer: d) 1, 2 & 4
+
+
+
+
+ix) Which of the following values fall within the normal reference range for a healthy adult?
+
+
+
+
+1. Fasting blood glucose: 90 mg/dL
+
+2. Serum sodium: 150 mEq/L
+
+3. Serum potassium: 4.5 mEq/L
+4. Total serum calcium: 14 mg/dL
+
+a) 1 & 2
+
+b) 2 & 4
+
+c) 1 & 3
+
+d) 3 & 4
+
+Answer: c) 1 & 3
+
+
+
+
+x) Regarding adrenal function the true statements are:
+
+
+
+
+1. Cortisol increases gluconeogenesis
+
+2. Aldosterone promotes sodium retention
+
+3. ACTH stimulates cortisol release
+
+4. Cortisol has anti-inflammatory effects
+
+a) 1 & 2
+
+b) 2 & 3
+
+c) 1, 2 & 3
+
+d) 1, 2, 3 & 4
+
+Answer: d) 1, 2, 3 & 4
+
+
+
+
+xi) Assertion (A): Cytochrome P450 enzymes are involved in the metabolism of many drugs in
+the liver.
+
+Reason (R): Cytochrome P450 enzymes act as oxygen carriers in the mitochondrial electron
+transport chain.
+
+a) Both A and R are true, and R is the correct explanation of A
+
+b) Both A and R are true, but R is not the correct explanation of A
+
+c) A is true, but R is false
+
+d) A is false, but R is true
+Answer: c) A is true, but R is false
+
+
+
+
+xii) Assertion (A): Patients with Xeroderma Pigmentosum have an increased chance of
+developing skin cancer.
+
+Reason (R): Due to the defect in Base excision repair.
+
+a) Both A and R are true, and R is the correct explanation of A
+
+b) Both A and R are true, but R is not the correct explanation of A
+
+c) A is true, but R is false
+
+d) A is false, but R is true
+
+Answer: c) A is true, but R is false
+
+
+
+
+xiii) Assertion (A): Cystatin C is a more sensitive early marker of reduced GFR than creatinine.
+
+Reason (R): Cystatin C detects kidney dysfunction earlier than creatinine, overcoming the
+"creatinine blind area."
+
+a) Both A and R are true, and R is the correct explanation of A
+
+b) Both A and R are true, but R is not the correct explanation of A
+
+c) A is true, but R is false
+
+d) A is false, but R is true
+
+Answer: a) Both A and R are true, and R is the correct explanation of A
+
+
+
+
+xiv) Assertion (A): Histones do not participate in the organization of DNA within the nucleus.
+
+Reason (R): Histones, rich in lysine and arginine, bind to negatively charged DNA.
+
+a) Both A and R are true, and R is the correct explanation of A
+
+b) Both A and R are true, but R is not the correct explanation of A
+
+c) A is true, but R is false
+
+d) A is false, but R is true
+
+Answer: d) A is false, but R is true
+xv) Assertion (A): Methotrexate is an anticancer drug.
+
+Reason (R): Methotrexate inhibits thymidylate synthase.
+
+a) Both A and R are true, and R is the correct explanation of A
+
+b) Both A and R are true, but R is not the correct explanation of A
+
+c) A is true, but R is false
+
+d) A is false, but R is true
+
+Answer: c) A is true, but R is false
+
+
+
+
+xvi) A 5-year-old child presents to the hospital with yellow discoloration of skin, sclera, and
+mucous membranes. Laboratory findings reveal anemia, increased reticulocyte count,
+elevated unconjugated bilirubin, and normal liver enzymes. What is the most likely diagnosis?
+
+a) Hepatitis
+
+b) Hemolytic anemia
+
+c) Obstructive jaundice
+
+d) Dubin-Johnson syndrome
+
+Answer: b) Hemolytic anemia
+
+
+
+
+xvii) Which type of bilirubin is elevated in pre-hepatic jaundice?
+
+a) Conjugated bilirubin
+
+b) Unconjugated bilirubin
+
+c) Delta bilirubin
+
+d) Both conjugated and unconjugated bilirubin
+
+Answer: b) Unconjugated bilirubin
+
+
+
+
+xviii) Which urine finding is commonly seen in cases of jaundice?
+
+a) Presence of bile salts and bile pigments
+b) Increased urobilinogen
+
+c) Hematuria
+
+d) Ketonuria
+
+Answer: a) Presence of bile salts and bile pigments
+
+
+
+
+xix) What is the underlying biochemical defect in sickle cell disease?
+
+a) Mutation in beta globin gene causing glutamic acid to valine substitution
+
+b) Mutation in alpha globin gene causing glutamic acid to lysine substitution
+
+c) Deficiency of glucose-6-phosphate dehydrogenase
+
+d) Increased synthesis of fetal hemoglobin
+
+Answer: a) Mutation in beta globin gene causing glutamic acid to valine substitution
+
+
+
+
+xx) True statement regarding HbS:
+
+a) HbS is more soluble than HbA
+
+b) HbS confers malaria resistance through balanced polymorphism
+
+c) HbS polymerizes in the oxygenated state
+
+d) HbS is caused by mutation in alpha globin gene
+
+Answer: b) HbS confers malaria resistance through balanced polymorphism
+
+
+
+
+i) Frame shift mutation results from
+
+a) Substitution of a single base
+
+b) Deletion of a single base
+
+c) Addition of a codon
+
+d) Deletion of a codon
+
+Answer: b) Deletion of a single base
+ii) Which enzyme of heme biosynthesis is inhibited by lead?
+
+a) ALA dehydratase
+
+b) Uroporphyrinogen I synthase
+
+c) Uroporphyrinogen Decarboxylase
+
+d) Protoporphyrinogen Oxidase
+
+Answer: a) ALA dehydratase
+
+
+
+
+iii) Renal tubular functions can be assessed by
+
+a) Urea clearance
+
+b) Plasma electrolytes
+
+c) Specific gravity of urine
+
+d) Plasma urea
+
+Answer: c) Specific gravity of urine
+
+
+
+
+iv) Metabolic alkalosis is characterised by
+
+a) High hydrogen ion concentration in plasma
+
+b) Increased pCO₂
+
+c) Elevated chloride level in serum
+
+d) Low potassium level
+
+Answer: d) Low potassium level
+
+
+
+
+v) Which amino acid is required for the both purine and pyrimidine synthesis?
+
+a) Glycine
+
+b) Aspartate
+
+c) Alanine
+d) Glutamate
+
+Answer: b) Aspartate
+
+
+
+
+vi) All the findings are seen in Orotic aciduria
+
+
+
+
+1. Megaloblastic anemia
+
+2. Response to oral uridine
+
+3. Failure to thrive
+
+4. Deficiency of HGPRTase
+
+a) 1, 2, 3
+
+b) 2, 3, 4
+
+c) 1, 3, 4
+
+d) 1, 2, 4
+
+Answer: a) 1, 2, 3
+
+
+
+
+vii) Post translational modifications include
+
+
+
+
+1. Glycosylation
+
+2. Hydroxylation
+
+3. Decarboxylation
+
+4. Phosphorylation
+
+a) 1, 2, 3
+
+b) 2, 3, 4
+
+c) 1, 3, 4
+
+d) 1, 2, 4
+
+Answer: d) 1, 2, 4
+viii) All the following can lead to cancer
+
+
+
+
+1. Promotor insertion
+
+2. Chromosomal translocation
+
+3. Point mutation
+
+4. Trinucleotide expansion
+
+a) 1, 2, 3
+
+b) 2, 3, 4
+
+c) 1, 3, 4
+
+d) 1, 2, 4
+
+Answer: a) 1, 2, 3
+
+
+
+
+ix) Southern Blotting analysis is used for
+
+
+
+
+1. Detecting the presence of a mutant gene
+
+2. Visualising DNA profile
+
+3. Studying a microarray
+
+4. Detecting Restriction fragment length polymorphism
+
+a) 1, 2, 3
+
+b) 2, 3, 4
+
+c) 1, 3, 4
+
+d) 1, 2, 4
+
+Answer: d) 1, 2, 4
+
+
+
+
+x) All are true regarding tRNA
+1. Aminoacid is attached to 3’ end
+
+2. Anticodon sequence is at 5’ end
+
+3. Contains several modified bases
+
+4. Has a clover leaf pattern due to hydrogen bonding
+
+a) 1, 2, 3
+
+b) 2, 3, 4
+
+c) 1, 3, 4
+
+d) 1, 2, 4
+
+Answer: c) 1, 3, 4
+
+
+
+xi) Assertion (A): Phototherapy with blue light is given to newborns with jaundice
+
+Reason (R): Phototherapy isomerizes soluble isomers of bilirubin to insoluble forms and
+increases the blood level of bilirubin
+
+a) Both A and R are correct and R is the reason for A
+
+b) A correct and R incorrect
+
+c) A incorrect and R correct
+
+d) Both A and R are incorrect
+
+Answer: b) A correct and R incorrect
+
+
+
+
+xii) Assertion (A): Protein buffer system is the most efficient extracellular buffer system
+
+Reason (R): Presence of bicarbonate in relatively very high concentrations in protein buffer
+system
+
+a) Both A and R are correct and R is the reason for A
+
+b) A correct and R incorrect
+
+c) A incorrect and R correct
+
+d) Both A and R are incorrect
+Answer: d) Both A and R are incorrect
+
+
+
+
+xiii) Assertion (A): Retroviruses are used as vectors in gene therapy
+
+Reason (R): Retroviruses are replication deficient and infection with viral particle is limited to
+one cycle
+
+a) Both A and R are correct and R is the reason for A
+
+b) A correct and R incorrect
+
+c) A incorrect and R correct
+
+d) Both A and R are incorrect
+
+Answer: a) Both A and R are correct and R is the reason for A
+
+
+
+
+xiv) Assertion (A): The largest and primary response immunoglobulin is Immunoglobulin G
+
+Reason (R): Immunoglobulin G can pass from vascular compartment to interstitial space
+
+a) Both A and R are correct and R is the reason for A
+
+b) A correct and R incorrect
+
+c) A incorrect and R correct
+
+d) Both A and R are incorrect
+
+Answer: c) A incorrect and R correct
+
+
+
+
+xv) Assertion (A): p53 is an oncogene
+
+Reason (R): p53 upregulates PCNA gene transcription and induces cell division
+
+a) Both A and R are correct and R is the reason for A
+
+b) A correct and R incorrect
+
+c) A incorrect and R correct
+
+d) Both A and R are incorrect
+
+Answer: d) Both A and R are incorrect
+xvi) A 3 year old boy was brought to the Paediatric OP with periorbital puffiness, oedema of
+legs, reduction in urine output and hematuria. On examination, Blood urea–90mg%, Serum
+creatinine – 2.7 mg%, urine-albumin ++, blood - +, sugar - nil. What is the probable diagnosis?
+
+a) Nephrotic syndrome
+
+b) Glomerulonephritis
+
+c) Renal tubular acidosis
+
+d) Diabetic nephropathy
+
+Answer: b) Glomerulonephritis
+
+
+
+
+xvii) Measurement of clearance is predominantly the test for detecting the function of
+
+a) Glomeruli
+
+b) Proximal convoluted tubule
+
+c) Loop of Henle
+
+d) Distal convoluted tubule
+
+Answer: a) Glomeruli
+
+
+
+
+xviii) Creatinine clearance test depend on
+
+a) Diet
+
+b) Total muscle mass of body
+
+c) Age
+
+d) Sex
+
+Answer: b) Total muscle mass of body
+
+
+
+
+xix) The first protein to be excreted in urine in glomerular damage is
+
+a) Albumin
+
+b) Transferrin
+c) Hemoglobin
+
+d) Bence-Jones protein
+
+Answer: b) Transferrin
+
+
+
+
+xx) Which anions are not normally present in urine?
+
+a) Phosphate
+
+b) Sulphate
+
+c) Chloride
+
+d) Protein
+
+Answer: d) Protein
+
+
+
+
+(i) In lipid storage disorder characterized by cherry red spot in the retina is
+
+a) Gaucher’s disease
+
+b) Zellweger’s syndrome
+
+c) Fabry’s disease
+
+d) Tay–Sachs disease
+
+Answer: d) Tay–Sachs disease
+
+
+
+
+(ii) Glycine is used for synthesis of all the following compounds except
+
+a) Guanine
+
+b) Glutamine
+
+c) Glutathione
+
+d) Creatine
+
+Answer: b) Glutamine
+(iii) The structure of insulin receptor is
+
+a) Contains extracellular units only
+
+b) Made up of four similar subunits
+
+c) Has binding sites for insulin in four subunits
+
+d) Possesses tyrosine kinase activity
+
+Answer: d) Possesses tyrosine kinase activity
+
+
+
+
+(iv) Which of the following contain iron?
+
+a) Ceruloplasmin
+
+b) Xanthine oxidase
+
+c) Albumin
+
+d) Superoxide dismutase
+
+Answer: d) Superoxide dismutase
+
+
+
+
+(v) The water-soluble vitamin synthesised in human body is
+
+a) Ascorbic acid
+
+b) Pyridoxine
+
+c) Niacin
+
+d) Pantothenic acid
+
+Answer: c) Niacin
+
+
+
+
+(vi) Mitochondria is the site of the following pathways
+
+
+
+
+1. Citric acid cycle
+
+2. Electron transport chain
+
+3. Beta oxidation of fatty acid
+4. De novo fatty acid synthesis
+
+a) 1, 2, 3
+
+b) 2, 3, 4
+
+c) 1, 3, 4
+
+d) 1, 2, 4
+
+Answer: a) 1, 2, 3
+
+
+
+
+(vii) The characteristics by which isoenzymes can be separated are
+
+
+
+
+1. Electrophoretic motility
+
+2. Heat stability
+
+3. Difference in Km value
+
+4. Chemical reaction catalyzed
+
+a) 1, 2, 3
+
+b) 2, 3, 4
+
+c) 1, 3, 4
+
+d) 1, 2, 4
+
+Answer: a) 1, 2, 3
+
+
+
+(viii) The abnormalities seen in obese individuals are
+
+
+
+
+1. Decreased glucose tolerance
+
+2. High insulin levels
+
+3. Hypoalbuminemia
+
+4. Hyperlipidemia
+
+a) 1, 2, 3
+b) 2, 3, 4
+
+c) 1, 3, 4
+
+d) 1, 2, 4
+
+Answer: d) 1, 2, 4
+
+
+
+
+(ix) Acetyl CoA is used for the production of
+
+
+
+
+1. Oxidation in TCA cycle
+
+2. De novo synthesis of fatty acid
+
+3. Glucose
+
+4. Cholesterol
+
+a) 1, 2, 3
+
+b) 2, 3, 4
+
+c) 1, 3, 4
+
+d) 1, 2, 4
+
+Answer: d) 1, 2, 4
+
+
+
+
+(x) The following statements are true regarding ATP synthesis
+
+
+
+1. ATP is formed by phosphorylation of ADP
+
+2. Proton gradient is dissipated
+
+3. Oxidation is coupled to phosphorylation
+
+4. Inner membrane pores of mitochondria are opened to release ATP
+
+a) 1, 2, 3
+
+b) 2, 3, 4
+
+c) 1, 3, 4
+d) 1, 2, 4
+
+Answer: a) 1, 2, 3
+
+
+
+
+(xi) Assertion (A): Calcitonin lowers blood calcium level
+
+Reason (R): Calcitonin inhibits bone resorption
+
+a) Both A and R are correct and R is the reason for A
+
+b) A correct and R incorrect
+
+c) A incorrect and R correct
+
+d) Both A and R are incorrect
+
+Answer: a) Both A and R are correct and R is the reason for A
+
+
+
+(xii) Assertion (A): Children have a higher level of alkaline phosphatase in serum compared to
+adults
+
+Reason (R): Increased osteoclastic activity occur in children
+
+a) Both A and R are correct and R is the reason for A
+
+b) A correct and R incorrect
+
+c) A incorrect and R correct
+
+d) Both A and R are incorrect
+
+Answer: b) A correct and R incorrect
+
+
+
+
+(xiii) Assertion (A): Hypouricemia occurs in Von Gierke’s disease
+
+Reason (R): Glucose-6-phosphate channelled to HMP shunt pathway produces more ribose in
+Von Gierke’s disease
+
+a) Both A and R are correct and R is the reason for A
+
+b) A correct and R incorrect
+
+c) A incorrect and R correct
+
+d) Both A and R are incorrect
+Answer: d) Both A and R are incorrect
+
+
+
+
+(xiv) Assertion (A): Lipoprotein(a) is very weakly associated with Myocardial infarction
+
+Reason (R): Lipoprotein(a) is attached to apo-E by a disulfide bond
+
+a) Both A and R are correct and R is the reason for A
+
+b) A correct and R incorrect
+
+c) A incorrect and R correct
+
+d) Both A and R are incorrect
+
+Answer: b) A correct and R incorrect
+
+
+
+
+(xv) Assertion (A): Increased excretion of neutral amino acids occur in Hartnup’s disease
+
+Reason (R): Defective transport of neutral amino acids across the brain cells occur in
+Hartnup’s disease
+
+a) Both A and R are correct and R is the reason for A
+
+b) A correct and R incorrect
+
+c) A incorrect and R correct
+
+d) Both A and R are incorrect
+
+Answer: b) A correct and R incorrect
+
+
+
+
+(xvi) A 4-year-old boy came to paediatric OP with mental retardation, Charlie-Chaplin gait and
+skeletal deformities. On performing the investigations, plasma cysteine levels are markedly
+reduced. What is the probable diagnosis?
+
+a) Cystinosis
+
+b) Homocystinuria
+
+c) Cystinuria
+
+d) Cystathioninuria
+
+Answer: b) Homocystinuria
+(xvii) Which is the common eye abnormality in these patients?
+
+a) Hypermetropia
+
+b) Astigmatism
+
+c) Ectopia lentis
+
+d) Conjunctivitis
+
+Answer: c) Ectopia lentis
+
+
+
+
+(xviii) What is the classical enzyme defect in this disorder?
+
+a) Cystathionase
+
+b) Cystathionine Beta Synthase
+
+c) Methionine synthase
+
+d) Cysteine oxidase
+
+Answer: b) Cystathionine Beta Synthase
+
+
+
+
+(xix) Which test is positive in urine in the above disease?
+
+a) Ferric chloride test
+
+b) Obermeyer test
+
+c) Cyanide nitroprusside test
+
+d) Guthrie test
+
+Answer: a) Ferric chloride test
+
+
+
+
+(xx) Treatment of this condition is to give a diet
+
+a) Low in methionine
+
+b) Low in cysteine
+
+c) Low in cobalamin
+d) Low in pyridoxine
+
+Answer: a) Low in methionine
+
+
+
+
+i) A person has a meal at 8 pm at night and records blood glucose at 6 am on the next day,
+which came to 180 mg/dl. What is the source of this glucose?
+
+a) Dietary glucose
+
+b) Hepatic gluconeogenesis
+
+c) Hepatic glycogenolysis
+
+d) Protein breakdown
+
+Answer: b) Hepatic gluconeogenesis
+
+
+
+
+ii) Patient with tendon xanthoma, high LDL and high serum cholesterol. What is the diagnosis?
+
+a) LPL deficiency
+
+b) Tangier’s disease
+
+c) Familial hypercholesterolemia
+
+d) Familial hyperchylomicronemia
+
+Answer: c) Familial hypercholesterolemia
+
+
+
+
+iii) Which of the following amino acid is both glucogenic and ketogenic?
+
+a) Leucine
+
+b) Serine
+
+c) Phenylalanine
+
+d) Alanine
+
+Answer: c) Phenylalanine
+iv) What is the normal reference range of blood urea in adults?
+
+a) 5–15 g/dL
+
+b) 10–20 g/dL
+
+c) 20–40 mg/dL
+
+d) 40–60 mg/dL
+
+Answer: c) 20–40 mg/dL
+
+
+
+
+v) Which of the following is considered a complete protein source?
+
+a) Legumes
+
+b) Rice
+
+c) Egg
+
+d) Nuts
+
+Answer: c) Egg
+
+
+
+
+vi) Regarding transport mechanisms choose the correct statement
+
+
+
+
+1. Oxygen and nutrients transport through simple diffusion.
+
+2. Facilitated diffusion does not require energy
+
+3. Mechanism of SGLUT is by facilitated diffusion
+
+4. Ion channels are transmembrane proteins.
+
+a) 1 & 2
+
+b) 2 & 4
+
+c) 2 & 3
+
+d) 2, 3 & 4
+
+Answer: b) 2 & 4
+vii) The false statements about citric acid cycle are
+
+
+
+
+1. Enzymes of cycle are in mitochondrial matrix.
+
+2. Substrate level phosphorylation occurs through conversion of succinate to fumarate.
+
+3. Krebs cycle is both catabolic as well as anabolic, hence called as anaplerotic.
+
+4. Fluoroacetate blocks Krebs cycle by inhibiting aconitase.
+
+a) 1 & 2
+
+b) 2 & 4
+
+c) 2 & 3
+
+d) 2, 3 & 4
+
+Answer: c) 2 & 3
+
+
+
+
+viii) Which of the following are considered as lipotropic factors and helps prevent fatty liver
+
+
+
+
+1. Choline
+
+2. Carnitine
+
+3. Selenium
+
+4. Methionine
+
+a) 1 & 2
+
+b) 2 & 4
+
+c) 1 & 3
+
+d) 1, 3 & 4
+
+Answer: a) 1 & 2
+
+
+
+
+ix) Which of the following cell organelles are correctly matched with their marker enzymes?
+1. Mitochondria – ATP synthase
+
+2. Lysosome – Acid phosphatase
+
+3. Peroxisome – Catalase
+
+4. Endoplasmic reticulum – Lactate dehydrogenase
+
+a) 1 & 2
+
+b) 2 & 4
+
+c) 2 & 3
+
+d) 1, 2 & 3
+
+Answer: d) 1, 2 & 3
+
+
+
+x) Essential fatty acids are
+
+
+
+
+1. Linoleic acid
+
+2. Linolenic acid
+
+3. Oleic acid
+
+4. Arachidonic acid
+
+a) 1 & 2
+
+b) 3 & 4
+
+c) 2 & 3
+
+d) 2, 3 & 4
+
+Answer: a) 1 & 2
+
+
+
+
+xi) Assertion (A): Humans and monkeys can synthesise ascorbic acid
+
+Reason (R): Due to presence of enzyme L-gulonolactone hydroxylase
+
+a) Both A and R are correct but R is not the reason for A
+b) Both A and R are incorrect
+
+c) A correct and R incorrect
+
+d) Both A and R are correct and R is the reason for A
+
+Answer: b) Both A and R are incorrect
+
+
+
+
+xii) Assertion (A): When a person moves from bright light to an area of dim light, there is
+difficulty in seeing.
+
+Reason (R): Rhodopsin is depleted in bright light
+
+a) Both A and R are correct but R is not the reason for A
+
+b) Both A and R are incorrect
+
+c) A correct and R incorrect
+
+d) Both A and R are correct and R is the reason for A
+
+Answer: d) Both A and R are correct and R is the reason for A
+
+
+
+xiii) Assertion (A): Polyneuritis is commonly seen in chronic alcoholics
+
+Reason (R): Alcohol metabolism requires thiamine leading to thiamine depletion
+
+a) Both A and R are correct but R is not the reason for A
+
+b) Both A and R are incorrect
+
+c) A correct and R incorrect
+
+d) Both A and R are correct and R is the reason for A
+
+Answer: c) A correct and R incorrect
+
+
+
+
+xiv) Assertion (A): Ethanol is used as an antidote in methanol poisoning.
+
+Reason (R): Ethanol competitively inhibits alcohol dehydrogenase & prevents forming toxic
+methanol metabolites.
+
+a) Both A and R are correct but R is not the reason for A
+
+b) Both A and R are incorrect
+c) A correct and R incorrect
+
+d) Both A and R are correct and R is the reason for A
+
+Answer: d) Both A and R are correct and R is the reason for A
+
+
+
+
+xv) Assertion (A): Aspirin reduces inflammation and pain.
+
+Reason (R): Aspirin inhibits cyclooxygenase enzyme, blocking prostaglandin synthesis.
+
+a) Both A and R are correct but R is not the reason for A
+
+b) Both A and R are incorrect
+
+c) A correct and R incorrect
+
+d) Both A and R are correct and R is the reason for A
+
+Answer: d) Both A and R are correct and R is the reason for A
+
+
+
+
+xvi) Which of the following enzymes will be inhibited
+
+a) Aconitase
+
+b) Cytochrome oxidase
+
+c) Cytochrome reductase
+
+d) Cytochrome c
+
+Answer: b) Cytochrome oxidase
+
+
+
+xvii) What kind of inhibition will occur in this case?
+
+a) Competitive inhibition
+
+b) Non-competitive inhibition
+
+c) Allosteric inhibition
+
+d) Suicide inhibition
+
+Answer: b) Non-competitive inhibition
+xviii) What will happen to the Vmax?
+
+a) Unchanged
+
+b) Increases
+
+c) Decrease
+
+d) Initially increases then decreases
+
+Answer: c) Decrease
+
+
+
+
+xix) Following are the examples with same process of inhibition EXCEPT
+
+a) Heavy metals
+
+b) Fluoride
+
+c) Iodoacetate
+
+d) Allopurinol
+
+Answer: d) Allopurinol
+
+
+
+xx) Which of the following about the given inhibition is true
+
+a) Increasing substrate concentration will abolish the inhibition
+
+b) Increasing substrate concentration will not abolish the inhibition
+
+c) Inhibitor binds to same domain as the substrate binding site
+
+d) Both a and c
+
+Answer: b) Increasing substrate concentration will not abolish the inhibition
+
+
+
+
+i) Congenital lactic acidosis may occur due to defect in
+
+(A) Pyruvate Carboxylase
+
+(B) Pyruvate Kinase
+
+(C) Pyruvate Dehydrogenase
+(D) Transketolase
+
+Answer: (C) Pyruvate Dehydrogenase
+
+
+
+
+ii) An isoenzyme variant of one of the following appears during pregnancy
+
+(A) Creatine kinase
+
+(B) Lactate dehydrogenase
+
+(C) Alkaline phosphatase
+
+(D) Aldehyde dehydrogenase
+
+Answer: (C) Alkaline phosphatase
+
+
+
+
+iii) Schilling's test is used for assessment of
+
+(A) Calcium deficiency
+
+(B) Iron deficiency
+
+(C) Vitamin B12 deficiency
+
+(D) Vitamin K deficiency
+
+Answer: (C) Vitamin B12 deficiency
+
+
+
+
+iv) Hyperammonemia inhibits TCA cycle by depleting
+
+(A) Oxaloacelate
+
+(B) α-Ketoglutarate
+
+(C) Citrate
+
+(D) Succinyl CoA
+
+Answer: (B) α-Ketoglutarate
+
+
+
+v) A child brought to the emergency department with accidental ingestion of Cyanide. Death
+due to Cyanide poisoning is a result of
+a) Cyanide-hemoglobin complex formation
+
+b) Cyanide inhibits complex I of respiratory chain
+
+c) Cyanide inhibits Cytochrome oxidase
+
+d) Cyanide blocking oxygen transport in blood
+
+Answer: (c) Cyanide inhibits Cytochrome oxidase
+
+
+
+vi) The following statements about Glycosaminoglycans are true
+
+
+
+
+1. Proteins associated with glycosaminoglycans are called core proteins
+
+2. Highly positively charged
+
+3. Hyaluronic acid has role in cell migration during morphogenesis
+
+4. Most abundant GAG is Chondroitin Sulfate
+
+(A) 1, 3 correct
+
+(B) 1, 3, 4 correct
+
+(C) 2, 4 correct
+
+(D) 1, 2, 3, 4 correct
+
+Answer: (B) 1, 3, 4 correct
+
+
+
+
+vii) Elevated Homocysteine levels are associated with which of the following
+
+
+
+
+1. Increased cardiovascular diseases
+
+2. Deficiency of vitamin B6
+
+3. Deficiency of Folic acid
+
+4. Deficiency of Vitamin B12
+
+(A) 1, 3, 4 correct
+
+(B) 2, 4 correct
+(C) 1, 2, 3, 4 correct
+
+(D) 1, 4 correct
+
+Answer: (C) 1, 2, 3, 4 correct
+
+
+
+
+viii) True statements about membrane transport
+
+
+
+
+1. Facilitated diffusion is a carrier mediated process that does not need energy
+
+2. Direction and magnitude of ion fluxes via membrane is determined by electrochemical
+gradient across the membrane
+
+3. Osmosis is the flow of solvent across a selectively permeable membrane
+
+4. Calcium pump operating in sarcoplasmic reticulum in muscle does not need energy
+
+(A) 1, 3 correct
+
+(B) 1, 3, 4 correct
+
+(C) 1, 2, 3 correct
+
+(D) 2, 3 correct
+
+Answer: (C) 1, 2, 3 correct
+
+
+
+
+ix) True statements about biomarkers of myocardial infarction
+
+
+
+1. Elevation of myoglobin is considered to be one of the earliest biomarker of myocardial
+infarction
+
+2. Trop I and Trop T serve as biomarkers of myocardial infarction
+
+3. ALT levels are elevated to the peak at 36 to 48 hours following myocardial infarction
+
+4. CKBB isoenzyme levels elevated 3 to 6 hours following myocardial infarction
+
+(A) 1, 2, 3 correct
+
+(B) 2, 4 correct
+
+(C) 1, 2, 4 correct
+(D) 1, 2 correct
+
+Answer: (D) 1, 2 correct
+
+
+
+
+x) Insulin increases the activity of the following enzymes
+
+
+
+
+1. Acetyl CoA carboxylase
+
+2. Hormone Sensitive Lipase
+
+3. Glycogen Phosphorylase
+
+4. Glucose 6 Phosphate Dehydrogenase
+
+(A) 2, 3 correct
+
+(B) 2, 4 correct
+
+(C) 1, 4 correct
+
+(D) 1, 2, 4 correct
+
+Answer: (C) 1, 4 correct
+
+
+
+
+xi) Assertion (A): Higher primates can synthesise ascorbic acid via Glucuronic acid pathway.
+
+Reason (R): Gulonolactone oxidase enzyme is present in higher primates
+
+a) Both A and R are true, but R is NOT the correct explanation of A
+
+b) Both A and R are false
+
+c) A is true but R is false
+
+d) Both A and R are true, and R is the correct explanation of A
+
+Answer: (b) Both A and R are false
+
+
+
+
+xii) Assertion (A): Mannitol is used to treat head trauma.
+
+Reason (R): Mannitol is an osmotic diuretic and reduces intracranial pressure.
+
+a) Both A and R are true, but R is NOT the correct explanation of A
+b) Both A and R are false
+
+c) A is true but R is false
+
+d) Both A and R are true, and R is the correct explanation of A
+
+Answer: (d) Both A and R are true, and R is the correct explanation of A
+
+
+
+
+xiii) Assertion (A): Piericidin and Rotenone are inhibitors of electron transport chain.
+
+Reason (R): Piericidin and Rotenone inhibit the flow of electron between complex I and
+Ubiquinone
+
+a) Both A and R are true, but R is NOT the correct explanation of A
+
+b) Both A and R are false
+
+c) A is true but R is false
+
+d) Both A and R are true, and R is the correct explanation of A
+
+Answer: (d) Both A and R are true, and R is the correct explanation of A
+
+
+
+xiv) Assertion (A): Hemolysis and renal failure are seen in viper poisoning
+
+Reason (R): Phospholipase C hydrolyzes lecithin to phosphoryl choline
+
+a) Both A and R are true, but R is NOT the correct explanation of A
+
+b) Both A and R are false
+
+c) A is true but R is false
+
+d) Both A and R are true, and R is the correct explanation of A
+
+Answer: (c) A is true but R is false
+
+
+
+
+xv) Assertion (A): Patients with Hartnup's disease are at risk of developing Wernicke's
+Korsakoff's syndrome
+
+Reason (R): Hartnup's disease impairs intestinal absorption and renal reabsorption of neutral
+amino acids like tryptophan
+
+a) Both A and R are true, but R is NOT the correct explanation of A
+b) Both A and R are false
+
+c) A is true but R is false
+
+d) Both A and R are true, and R is the correct explanation of A
+
+Answer: (d) Both A and R are true, and R is the correct explanation of A
+
+
+
+
+xvi) A 45-year-old software engineer presented to the casualty with fracture femur following
+a trivial injury. Laboratory investigations revealed Vitamin D3 level of 5 ng/ml. Serum ALP was
+elevated. What is the probable diagnosis?
+
+(A) Vitamin D resistant rickets
+
+(B) Hypophosphatemic rickets
+
+(C) Osteomalacia
+
+(D) Ehlers–Danlos Syndrome
+
+Answer: (C) Osteomalacia
+
+
+
+
+xvii) Clinical features of Rickets include all except?
+
+(A) Rickety Rosary
+
+(B) Excavated Chest
+
+(C) Knock-Knee
+
+(D) Harrison's Sulcus
+
+Answer: (B) Excavated Chest
+
+
+
+
+xviii) What is the active form of Vitamin D?
+
+(A) 1,25 dihydroxy cholecalciferol
+
+(B) Cholecalciferol
+
+(C) 24,25 dihydroxy cholecalciferol
+
+(D) 25 hydroxy cholecalciferol
+
+Answer: (A) 1,25 dihydroxy cholecalciferol
+xix) What is the adequate level of Vitamin D3?
+
+(A) 40 ng/ml
+
+(B) 50 ng/ml
+
+(C) 30 ng/ml
+
+(D) 60 ng/ml
+
+Answer: (C) 30 ng/ml
+
+
+
+
+xx) Following are good sources of Vitamin D, except
+
+(A) Fish
+
+(B) Egg White
+
+(C) Egg Yolk
+
+(D) Meat
+
+Answer: (B) Egg White
+
+
+
+
+i. Hepatorenal tyrosinemia is due to defect of the enzyme
+
+(A) Phenylalanine hydroxylase
+
+(B) Homogentisic acid oxidase
+
+(C) Fumaryl acetoacetate hydrolase
+
+(D) Tyrosine amino transferase
+
+Answer: (C) Fumaryl acetoacetate hydrolase
+
+
+
+ii. All the compounds given below are nitrogenous phospholipids except
+
+(A) Phosphatidyl Serine
+(B) Phosphatidyl Ethanolamine
+
+(C) Phosphatidyl Choline
+
+(D) Phosphatidyl Inositol
+
+Answer: (D) Phosphatidyl Inositol
+
+
+
+
+iii. Which among these bases is not a purine
+
+(A) Xanthine
+
+(B) Adenine
+
+(C) Uracil
+
+(D) Guanine
+
+Answer: (C) Uracil
+
+
+
+
+iv. Mobility of particles during electrophoresis is based on all the following factors except;
+
+(A) Current, voltage, ampere
+
+(B) Quality of supporting medium
+
+(C) pH of buffer
+
+(D) Solubility of particular protein
+
+Answer: (D) Solubility of particular protein
+
+
+
+v. Cyanide Nitroprusside test is negative in
+
+(A) Cystinuria
+
+(B) Cystinosis
+
+(C) Homocystinuria
+
+(D) Cystathioninuria
+
+Answer: (B) Cystinosis
+vi. Assertion (A) - Essential Fatty acids have to be supplied to the body through diet; because
+they cannot be synthesized by the body
+
+Reasoning (R) - Humans lack desaturase enzyme which introduce double bonds at carbon
+atom beyond C9 in fatty acid chain.
+
+(A) Both A and R are correct but R is not the reason for A
+
+(B) A incorrect R correct
+
+(C) Both A and R are incorrect
+
+(D) Both A and R are correct but R is the reason for A
+
+Answer: (D) Both A and R are correct but R is the reason for A
+
+
+
+
+vii. A - The aminoacid which is abundant in the structure of collagen is glycine.
+
+R - glycine is the simplest and smallest aminoacid
+
+(A) Both A and R are correct but R is not the reason for A
+
+(B) A incorrect R correct
+
+(C) Both A and R are incorrect
+
+(D) Both A and R are correct but R is the reason for A
+
+Answer: (D) Both A and R are correct but R is the reason for A
+
+
+
+
+viii. A - Excess glucose is stored as glycogen in the body
+
+R - Storage of glucose as glycogen creates no osmotic pressure problem for the cell
+
+(A) Both A and R are correct but R is not the reason for A
+
+(B) A incorrect R correct
+
+(C) Both A and R are incorrect
+
+(D) Both A and R are correct but R is the reason for A
+
+Answer: (D) Both A and R are correct but R is the reason for A
+
+
+
+
+ix. A - Lipids are amphipathic
+R - Lipids possess both hydrophobic and hydrophilic groups
+
+(A) Both A and R are correct but R is not the reason for A
+
+(B) A incorrect R correct
+
+(C) Both A and R are incorrect
+
+(D) Both A and R are correct but R is the reason for A
+
+Answer: (D) Both A and R are correct but R is the reason for A
+
+
+
+
+x. A - Primary hyperoxaluria is an autosomal recessive disease due to protein targeting defect.
+
+R - Enzyme alanine glyoxylate aminotransferase is located in hepatic peroxisomes, instead of
+mitochondria
+
+(A) Both A and R are correct but R is not the reason for A
+
+(B) A incorrect R correct
+
+(C) Both A and R are incorrect
+
+(D) Both A and R are correct but R is the reason for A
+
+Answer: (D) Both A and R are correct but R is the reason for A
+
+
+
+
+xi. Enzymes catalysing irreversible steps in glycolysis are
+
+
+
+
+1. Hexokinase
+
+2. Glyceraldehyde 3-phosphate dehydrogenase
+
+3. 1,3 bisphosphoglycerate kinase
+
+4. Pyruvate kinase
+
+(A) 1,4 correct
+
+(B) 1,3 correct
+
+(C) 1,2,3,4 correct
+
+(D) 1,3,4 correct
+Answer: (A) 1,4 correct
+
+
+
+
+xii. Which of the following lipids are present in cell membranes
+
+
+
+
+1. Lecithin
+
+2. Cholesterol
+
+3. Phosphatidyl Inositol
+
+4. Triacylglycerol
+
+(A) 1,3 correct
+
+(B) 1,2,3 correct
+
+(C) 1,2,4 correct
+
+(D) 1,2,3,4 correct
+
+Answer: (B) 1,2,3 correct
+
+
+
+
+xiii. Markers of Lysosome
+
+
+
+
+1. ATP Synthase
+
+2. Cathepsin
+
+3. Lactate dehydrogenase
+
+4. Acid phosphatase
+
+(A) 1,2 correct
+
+(B) 1,2,3 correct
+
+(C) 2,4 correct
+
+(D) 1,3,4 correct
+
+Answer: (C) 2,4 correct
+xiv. Aminoacids that will undergo transamination
+
+
+
+
+1. Lysine
+
+2. Proline
+
+3. Tryptophan
+
+4. Threonine
+
+(A) 1,2,4 correct
+
+(B) 1,2,3 correct
+
+(C) only 1 correct
+
+(D) 2,3,4 correct
+
+Answer: (D) 2,3,4 correct
+
+
+
+
+xv. Serine is a precursor for
+
+
+
+1. Cysteine
+
+2. Ethanolamine
+
+3. Choline
+
+4. Glycine
+
+5. Methionine
+
+(A) 1,2,3,4,5 correct
+
+(B) 1,2,3,4 correct
+
+(C) 1,2,3,5 correct
+
+(D) 2,3,4 correct
+
+Answer: (B) 1,2,3,4 correct
+Scenario: A 4 year old child developed hypoglycemia after moderate activity in the morning.
+On examination liver and kidneys were enlarged. Blood examination revealed raised levels of
+ketone bodies, lactic acid and triglycerides. Biopsy of liver showed increased glycogen
+content
+
+
+
+
+xvi. What is the probable diagnosis?
+
+(A) McArdle's disease
+
+(B) Cori's disease
+
+(C) Von Gierke's disease
+
+(D) Pompe's disease
+
+Answer: (C) Von Gierke's disease
+
+
+
+
+xvii. Enzyme defect in the above case?
+
+(A) Glycogen phosphorylase
+
+(B) Glucose 6 phosphatase
+
+(C) Debranching enzyme
+
+(D) Branching enzyme
+
+Answer: (B) Glucose 6 phosphatase
+
+
+
+
+xviii. Which of the following is not affected in the above disease?
+
+(A) Liver
+
+(B) Kidney
+
+(C) Intestinal mucosa
+
+(D) Muscle
+
+Answer: (D) Muscle
+
+
+
+
+xix. The enzyme common to both glycogenolysis and glycogenesis
+(A) Glycogen phosphorylase
+
+(B) Glycogen synthase
+
+(C) Glucotransferase
+
+(D) Carboxykinase
+
+Answer: (C) Glucotransferase
+
+
+
+
+xx. An enzyme not involved in Muscle Glycogenolysis is
+
+(A) Glycogen phosphorylase
+
+(B) Glucose 6 phosphatase
+
+(C) Debranching enzyme
+
+(D) Glucotransferase
+
+Answer: (B) Glucose 6 phosphatase
+
