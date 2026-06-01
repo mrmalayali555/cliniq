@@ -39,26 +39,32 @@ function scrollToFeatures() {
 
 // ── Subjects Data ──
 const SUBJECTS = [
+  // 1st Year
   { id:'anatomy',      name:'Anatomy',        year:'1st', icon:'🦴', info:'8 Topics • 1200+ MCQs', available:true },
-  { id:'physiology',   name:'Physiology',      year:'1st', icon:'❤️', info:'300+ MCQs',            available:true },
-  { id:'biochemistry', name:'Biochemistry',    year:'1st', icon:'🧬', info:'200+ MCQs',            available:true },
-  { id:'mednucleus',   name:'MedNucleus',      year:'1st', icon:'🧪', info:'600+ MCQs (A+P+B)',    available:true },
-  { id:'pathology',    name:'Pathology',       year:'2nd', icon:'🔬', info:'Coming Soon',            available:false },
-  { id:'microbiology', name:'Microbiology',    year:'2nd', icon:'🦠', info:'Coming Soon',            available:false },
-  { id:'pharmacology', name:'Pharmacology',    year:'2nd', icon:'💊', info:'Coming Soon',            available:false },
-  { id:'psm',          name:'PSM',             year:'3rd', icon:'🏘️', info:'500+ MCQs',            available:true },
-  { id:'fmt',          name:'FMT',             year:'3rd', icon:'⚖️', info:'200+ MCQs',            available:true },
-  { id:'medicine',     name:'Medicine',        year:'final', icon:'🩺', info:'400+ MCQs',           available:true },
-  { id:'obgyn',        name:'Obs & Gynae',     year:'final', icon:'🤱', info:'Coming Soon',           available:false },
-  { id:'surgery',      name:'Surgery',         year:'final', icon:'🔪', info:'Coming Soon',           available:false },
-  { id:'ent',          name:'ENT',             year:'final', icon:'👂', info:'Coming Soon',           available:false },
-  { id:'ophthalmology',name:'Ophthalmology',   year:'final', icon:'👁️', info:'Coming Soon',          available:false },
-  { id:'paediatrics',  name:'Paediatrics',     year:'final', icon:'👶', info:'Coming Soon',           available:false },
-  { id:'dermatology',  name:'Dermatology',     year:'final', icon:'🧴', info:'Coming Soon',           available:false },
-  { id:'psychiatry',   name:'Psychiatry',      year:'final', icon:'🧠', info:'Coming Soon',           available:false },
-  { id:'orthopaedics', name:'Orthopaedics',    year:'final', icon:'🦴', info:'Coming Soon',           available:false },
-  { id:'anaesthesia',  name:'Anaesthesia',     year:'final', icon:'😴', info:'Coming Soon',           available:false },
-  { id:'radiology',    name:'Radiology',       year:'final', icon:'🩻', info:'Coming Soon',           available:false },
+  { id:'physiology',   name:'Physiology',     year:'1st', icon:'❤️', info:'300+ MCQs',            available:true },
+  { id:'biochemistry', name:'Biochemistry',   year:'1st', icon:'🧬', info:'200+ MCQs',            available:true },
+
+  // 2nd Year
+  { id:'pathology',    name:'Pathology',      year:'2nd', icon:'🔬', info:'Coming Soon',          available:false },
+  { id:'microbiology', name:'Microbiology',   year:'2nd', icon:'🦠', info:'Coming Soon',          available:false },
+  { id:'pharmacology', name:'Pharmacology',   year:'2nd', icon:'💊', info:'Coming Soon',          available:false },
+
+  // 3rd Year
+  { id:'psm',          name:'PSM',            year:'3rd', icon:'🏘️', info:'500+ MCQs',            available:true },
+  { id:'fmt',          name:'FMT',            year:'3rd', icon:'⚖️', info:'200+ MCQs',            available:true },
+
+  // Final Year
+  { id:'medicine',     name:'Medicine',       year:'final', icon:'🩺', info:'400+ MCQs',            available:true },
+  { id:'obgyn',        name:'Obs & Gynae',    year:'final', icon:'🤱', info:'Coming Soon',          available:false },
+  { id:'surgery',      name:'Surgery',        year:'final', icon:'🔪', info:'Coming Soon',          available:false },
+  { id:'ent',          name:'ENT',            year:'final', icon:'👂', info:'Coming Soon',          available:false },
+  { id:'ophthalmology',name:'Ophthalmology',  year:'final', icon:'👁️', info:'Coming Soon',          available:false },
+  { id:'paediatrics',  name:'Paediatrics',    year:'final', icon:'👶', info:'Coming Soon',          available:false },
+  { id:'dermatology',  name:'Dermatology',    year:'final', icon:'🧴', info:'Coming Soon',          available:false },
+  { id:'psychiatry',   name:'Psychiatry',     year:'final', icon:'🧠', info:'Coming Soon',          available:false },
+  { id:'orthopaedics', name:'Orthopaedics',   year:'final', icon:'🦴', info:'Coming Soon',          available:false },
+  { id:'anaesthesia',  name:'Anaesthesia',    year:'final', icon:'😴', info:'Coming Soon',          available:false },
+  { id:'radiology',    name:'Radiology',      year:'final', icon:'🩻', info:'Coming Soon',          available:false },
 ];
 
 const ANATOMY_TOPICS = [
@@ -201,7 +207,6 @@ const SUBJECT_FILES = {
   'anatomy': 'Anatomy-Question-bank.txt',
   'physiology': 'Physiology-Question-bank.txt',
   'biochemistry': 'Biochemistry-Question-bank.txt',
-  'mednucleus': 'Mednucleus-_1_.txt',
   'psm': 'Community-Medicine-MCQ-Companion-Clean.txt',
   'fmt': 'Forensic-Medicine-MCQ-Companion-Clean.txt',
   'medicine': 'QUADCRACK IMA MSN KERALA 2025.. - Google Docs.txt'
@@ -239,14 +244,7 @@ function parseQuestions(text, subject = '') {
   // Normalize line endings and remove form feeds
   text = text.replace(/\r\n/g, '\n').replace(/\r/g, '\n').replace(/\f/g, '\n');
   
-  // Special handling for Mednucleus - skip header/contents section
-  if (subject === 'mednucleus') {
-    // Skip everything before "ANATOMY Paper 1:" or similar section headers
-    const startMatch = text.search(/(?:ANATOMY|PHYSIOLOGY|BIOCHEMISTRY)\s+(?:Paper|Section|\d+:|$)/i);
-    if (startMatch > 0) {
-      text = text.substring(startMatch);
-    }
-  }
+  // General parsing - no special subject header-skipping by default
   
   // Detect if this is QUADCRACK format (has "Options:" with numbered answers)
   const isQuadcrackFormat = /Options:\s*\n\s*\d+\./m.test(text);
