@@ -491,6 +491,21 @@ let answered = 0;
 let wrongCount = 0;
 
 async function startTest() {
+  // Show a short loading state while the selected question bank is prepared
+  showView('test');
+  const testBody = document.getElementById('testBody');
+  testBody.innerHTML = `
+    <div class="question-card question-loading">
+      <div class="loader" aria-label="Loading questions">
+        <svg id="pegtopone" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><g><path d="M63,37c-6.7-4-4-27-13-27s-6.3,23-13,27-27,4-27,13,20.3,9,27,13,4,27,13,27,6.3-23,13-27,27-4,27-13-20.3-9-27-13Z"></path></g></svg>
+        <svg id="pegtoptwo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><g><path d="M63,37c-6.7-4-4-27-13-27s-6.3,23-13,27-27,4-27,13,20.3,9,27,13,4,27,13,27,6.3-23,13-27,27-4,27-13-20.3-9-27-13Z"></path></g></svg>
+        <svg id="pegtopthree" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><g><path d="M63,37c-6.7-4-4-27-13-27s-6.3,23-13,27-27,4-27,13,20.3,9,27,13,4,27,13,27,6.3-23,13-27,27-4,27-13-20.3-9-27-13Z"></path></g></svg>
+      </div>
+      <div>
+        <div class="question-num">Loading</div>
+        <div class="question-text">Preparing your questions...</div>
+      </div>
+    </div>`;
   await loadQuestions(selectedSubject);
   
   if (allQuestions.length === 0) {
@@ -523,7 +538,6 @@ async function startTest() {
   currentQ = 0; score = 0; answered = 0; wrongCount = 0;
   document.getElementById('scoreTotal').textContent = '0';
   document.getElementById('scoreCorrect').textContent = '0';
-  showView('test');
   renderQuestion();
 }
 
