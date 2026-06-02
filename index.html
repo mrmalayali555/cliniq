@@ -293,6 +293,19 @@
   </div>
 </div>
 
+<!-- Exit confirmation modal -->
+<div class="modal-overlay" id="exitModal" hidden>
+  <div class="modal-card" role="dialog" aria-modal="true" aria-labelledby="exitModalTitle">
+    <div class="modal-icon">⚠️</div>
+    <h2 class="modal-title" id="exitModalTitle">Exit test?</h2>
+    <p class="modal-desc">Your progress will be saved so you can resume later from the home screen.</p>
+    <div class="modal-btns">
+      <button type="button" class="btn-primary" id="exitConfirmBtn">Yes, exit</button>
+      <button type="button" class="btn-ghost" id="exitCancelBtn">Keep going</button>
+    </div>
+  </div>
+</div>
+
 <script src="app.js"></script>
 </body>
 </html>

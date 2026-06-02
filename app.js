@@ -744,9 +744,10 @@ function confirmExit() {
     showView('subjects');
     return;
   }
-  if (confirm('Exit test? Your progress will be saved so you can resume later.')) {
-    saveIncompleteTestSilent();
-    showView('home');
+  // Use custom modal instead of browser confirm() which gets blocked on mobile
+  const modal = document.getElementById('exitModal');
+  if (modal) {
+    modal.hidden = false;
   }
 }
 
@@ -1009,4 +1010,28 @@ document.addEventListener('DOMContentLoaded', () => {
   loadQuestions('anatomy');
   setTimeout(() => loadQuestions('physiology'), 500);
   setTimeout(() => loadQuestions('biochemistry'), 1000);
+
+  // ── Exit modal wiring ──
+  const exitModal     = document.getElementById('exitModal');
+  const exitConfirm   = document.getElementById('exitConfirmBtn');
+  const exitCancel    = document.getElementById('exitCancelBtn');
+
+  if (exitConfirm) {
+    exitConfirm.addEventListener('click', () => {
+      exitModal.hidden = true;
+      saveIncompleteTestSilent();
+      showView('home');
+    });
+  }
+  if (exitCancel) {
+    exitCancel.addEventListener('click', () => {
+      exitModal.hidden = true;
+    });
+  }
+  // Close on backdrop click
+  if (exitModal) {
+    exitModal.addEventListener('click', (e) => {
+      if (e.target === exitModal) exitModal.hidden = true;
+    });
+  }
 });

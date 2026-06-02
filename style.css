@@ -438,7 +438,7 @@ body::after {
 }
 .mobile-menu.open { display: flex; }
 .mobile-menu a,
-.mobile-menu button {
+.mobile-menu button:not(.btn-primary):not(.theme-toggle-mobile) {
   color: var(--text);
   text-decoration: none;
   font-size: 1rem;
@@ -453,7 +453,21 @@ body::after {
   transition: background var(--duration) var(--ease-out);
 }
 .mobile-menu a:hover,
-.mobile-menu button:hover { background: var(--accent-muted); }
+.mobile-menu button:not(.btn-primary):not(.theme-toggle-mobile):hover { background: var(--accent-muted); }
+
+/* Mobile menu btn-primary — force full styles */
+.mobile-menu .btn-primary {
+  width: 100%;
+  justify-content: center;
+  padding: 14px 20px;
+  background: linear-gradient(135deg, var(--accent-strong), var(--accent)) !important;
+  color: #fff !important;
+  border: none !important;
+  border-radius: var(--radius-full) !important;
+  box-shadow: 0 4px 16px var(--accent-glow);
+  font-size: 1rem;
+  font-weight: 700;
+}
 
 /* ── Buttons ── */
 .btn-primary {
@@ -1921,4 +1935,83 @@ body::after {
 .feature-card, .year-tab, .option-btn, .back-btn, .exit-btn,
 .nav-brand, .hamburger, .count-btn, .incomplete-test-card {
   transition: all var(--duration) var(--ease-spring);
+}
+
+/* ── Exit Confirmation Modal ── */
+@keyframes modalIn {
+  from { opacity: 0; transform: scale(0.92) translateY(16px); }
+  to   { opacity: 1; transform: scale(1) translateY(0); }
+}
+@keyframes overlayIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 500;
+  background: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  animation: overlayIn 0.25s var(--ease-out) both;
+}
+.modal-overlay[hidden] { display: none; }
+
+.modal-card {
+  background: var(--surface-solid);
+  border: 1px solid var(--border-strong);
+  border-radius: var(--radius-xl);
+  padding: 40px 32px;
+  max-width: 380px;
+  width: 100%;
+  text-align: center;
+  box-shadow: var(--shadow-lg);
+  animation: modalIn 0.35s var(--ease-spring) both;
+}
+
+.modal-icon {
+  font-size: 2.8rem;
+  margin-bottom: 16px;
+  line-height: 1;
+}
+
+.modal-title {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  font-weight: 600;
+  letter-spacing: -0.03em;
+  margin-bottom: 12px;
+  color: var(--text);
+}
+
+.modal-desc {
+  color: var(--text-secondary);
+  font-size: 0.95rem;
+  line-height: 1.65;
+  margin-bottom: 28px;
+}
+
+.modal-btns {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.modal-btns .btn-primary {
+  width: 100%;
+  padding: 14px;
+  background: linear-gradient(135deg, #ef4444, #f87171) !important;
+  box-shadow: 0 4px 16px rgba(248, 113, 113, 0.35) !important;
+}
+.modal-btns .btn-primary:hover {
+  box-shadow: 0 8px 24px rgba(248, 113, 113, 0.45) !important;
+}
+.modal-btns .btn-ghost {
+  width: 100%;
+  padding: 13px;
 }
