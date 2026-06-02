@@ -4,33 +4,98 @@
 const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
 let currentTheme = localStorage.getItem('cliniq-theme') || (prefersDark ? 'dark' : 'light');
 document.documentElement.setAttribute('data-theme', currentTheme);
+
+function updateThemeUI() {
+  // SVG icons are toggled via CSS [data-theme] selectors — no JS icon swap needed
+  const meta = document.getElementById('themeColorMeta');
+  if (meta) meta.content = currentTheme === 'dark' ? '#080c10' : '#f4f7fb';
+  // Update mobile toggle label
+  const mobileLabel = document.getElementById('mobileThemeIcon');
+  if (mobileLabel) {
+    mobileLabel.textContent = currentTheme === 'dark' ? '☀️  Switch to Light' : '🌙  Switch to Dark';
+  }
+}
+
 function toggleTheme() {
   currentTheme = currentTheme === 'dark' ? 'light' : 'dark';
   document.documentElement.setAttribute('data-theme', currentTheme);
   localStorage.setItem('cliniq-theme', currentTheme);
-  document.querySelector('.theme-icon').textContent = currentTheme === 'dark' ? '☀️' : '🌙';
+  updateThemeUI();
 }
 document.getElementById('themeToggle').addEventListener('click', toggleTheme);
-document.querySelector('.theme-icon').textContent = currentTheme === 'dark' ? '☀️' : '🌙';
+updateThemeUI();
 
 // ── Hamburger ──
 const hamburger = document.getElementById('hamburger');
 const mobileMenu = document.getElementById('mobileMenu');
-hamburger.addEventListener('click', () => mobileMenu.classList.toggle('open'));
-function closeMobileMenu() { mobileMenu.classList.remove('open'); }
+hamburger.addEventListener('click', () => {
+  const open = mobileMenu.classList.toggle('open');
+  hamburger.classList.toggle('is-open', open);
+  hamburger.setAttribute('aria-expanded', open);
+  mobileMenu.hidden = !open;
+});
+function closeMobileMenu() {
+  mobileMenu.classList.remove('open');
+  mobileMenu.hidden = true;
+  hamburger.classList.remove('is-open');
+  hamburger.setAttribute('aria-expanded', 'false');
+}
+
+// ── Navbar scroll ──
+function initNavbarScroll() {
+  const navbar = document.getElementById('navbar');
+  if (!navbar) return;
+  const onScroll = () => navbar.classList.toggle('is-scrolled', window.scrollY > 24);
+  onScroll();
+  window.addEventListener('scroll', onScroll, { passive: true });
+}
+
+// ── Scroll reveal ──
+function initScrollReveal() {
+  const els = document.querySelectorAll('.reveal');
+  if (!els.length || !('IntersectionObserver' in window)) {
+    els.forEach(el => el.classList.add('is-visible'));
+    return;
+  }
+  const io = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('is-visible');
+        io.unobserve(entry.target);
+      }
+    });
+  }, { threshold: 0.12, rootMargin: '0px 0px -40px 0px' });
+  els.forEach(el => io.observe(el));
+}
+
+function refreshScrollReveal() {
+  document.querySelectorAll('.reveal:not(.is-visible)').forEach(el => {
+    const rect = el.getBoundingClientRect();
+    if (rect.top < window.innerHeight * 0.92) el.classList.add('is-visible');
+  });
+}
 
 // ── View Manager ──
 let currentView = 'home';
 function showView(id) {
-  document.querySelectorAll('.view').forEach(v => v.classList.remove('active'));
-  document.getElementById('view-' + id).classList.add('active');
+  const next = document.getElementById('view-' + id);
+  const prev = document.querySelector('.view.active');
+  if (prev && prev !== next) {
+    prev.classList.remove('active');
+  }
+  if (next) {
+    next.classList.remove('active');
+    void next.offsetWidth;
+    next.classList.add('active');
+  }
   currentView = id;
   window.scrollTo(0, 0);
   closeMobileMenu();
   if (id === 'subjects') renderSubjects();
   if (id === 'home') {
-    renderPreviewGrid('1st');
+    renderPreviewGrid(activePreviewYear || '1st');
     loadIncompleteTests();
+    requestAnimationFrame(refreshScrollReveal);
   }
 }
 function scrollToFeatures() {
@@ -51,9 +116,6 @@ const SUBJECTS = [
 
   // 3rd Year
   { id:'psm',          name:'PSM',            year:'3rd', icon:'PS', info:'500+ MCQs',            available:true },
-  { id:'fmt',          name:'FMT',            year:'3rd', icon:'FM', info:'200+ MCQs',            available:true },
-
-  // Final Year
   { id:'medicine',     name:'Medicine',       year:'final', icon:'MD', info:'400+ MCQs',            available:true },
   { id:'obgyn',        name:'Obs & Gynae',    year:'final', icon:'OG', info:'Coming Soon',          available:false },
   { id:'surgery',      name:'Surgery',        year:'final', icon:'SU', info:'Coming Soon',          available:false },
@@ -107,9 +169,15 @@ function filterSubjects(btn, year) {
 function renderPreviewGrid(year) {
   renderSubjectCards(year, 'previewGrid');
 }
+let activePreviewYear = '1st';
 function filterYear(btn, year) {
-  document.querySelectorAll('#view-home .year-tab').forEach(b => b.classList.remove('active'));
+  activePreviewYear = year;
+  document.querySelectorAll('#view-home .year-tab').forEach(b => {
+    b.classList.remove('active');
+    b.setAttribute('aria-selected', 'false');
+  });
   btn.classList.add('active');
+  btn.setAttribute('aria-selected', 'true');
   renderPreviewGrid(year);
 }
 
@@ -196,7 +264,6 @@ const ANATOMY_MAPPING = {
   headneck: [1, 11, 17, 41, 42, 46, 47, 48, 49, 50, 61, 62, 66, 67, 68, 69, 70, 83, 126, 132, 134, 141, 142, 143, 144, 145, 146, 151, 152, 153, 154, 155, 160, 181, 192, 194, 196, 199, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 217],
   neuro: [3, 13, 19, 51, 54, 56, 60, 71, 74, 76, 80, 121, 122, 123, 124, 125, 137, 147, 148, 149, 150, 156, 158, 159, 201, 212, 219, 220],
   thorax: [22, 23, 33, 36, 37, 52, 72, 82, 94, 97, 98, 103, 115, 161, 164, 171, 176, 179, 185, 218, 221, 232, 238],
-  abdomen: [25, 35, 39, 81, 85, 91, 93, 96, 101, 102, 103, 104, 105, 108, 109, 110, 113, 114, 117, 119, 182, 186, 187, 188, 189, 190, 195, 197, 224, 226, 227, 228, 229, 230, 231, 234, 237],
   pelvis: [24, 26, 27, 28, 29, 30, 38, 95, 99, 100, 106, 107, 112, 116, 118, 120, 127, 183, 184, 193, 198, 200, 223, 225, 235, 239],
   upper: [6, 7, 8, 9, 10, 12, 16, 45, 59, 65, 79, 129, 130, 131, 133, 138, 162, 172, 173, 177, 180, 203, 215, 216],
   lower: [4, 21, 31, 32, 34, 40, 86, 87, 88, 89, 90, 91, 92, 111, 166, 167, 168, 169, 170, 175, 222, 233, 236, 240]
@@ -489,6 +556,8 @@ let currentQ = 0;
 let score = 0;
 let answered = 0;
 let wrongCount = 0;
+/** Set when resuming from home; used to remove the entry after the test is finished */
+let activeIncompleteSessionId = null;
 
 async function startTest() {
   await loadQuestions(selectedSubject);
@@ -521,6 +590,7 @@ async function startTest() {
   }
   
   currentQ = 0; score = 0; answered = 0; wrongCount = 0;
+  activeIncompleteSessionId = null;
   document.getElementById('scoreTotal').textContent = '0';
   document.getElementById('scoreCorrect').textContent = '0';
   showView('test');
@@ -530,13 +600,20 @@ async function startTest() {
 function renderQuestion() {
   const q = testQuestions[currentQ];
   const total = testQuestions.length;
-  
+  const card = document.getElementById('questionCard');
+  if (card) {
+    card.style.animation = 'none';
+    void card.offsetWidth;
+    card.style.animation = '';
+  }
+
+  const pct = Math.round((currentQ / total) * 100);
   document.getElementById('progressText').textContent = `Q ${currentQ + 1} / ${total}`;
-  document.getElementById('progressFill').style.width = `${((currentQ) / total) * 100}%`;
+  document.getElementById('progressFill').style.width = `${pct}%`;
+  const bar = document.getElementById('progressBar');
+  if (bar) bar.setAttribute('aria-valuenow', String(pct));
   document.getElementById('questionNum').textContent = `Question ${currentQ + 1}`;
   document.getElementById('questionText').textContent = q.question;
-  const reviewToggle = document.getElementById('reviewToggleInput');
-  if (reviewToggle) reviewToggle.checked = !!q.reviewMarked;
   
   const optList = document.getElementById('optionsList');
   
@@ -580,10 +657,17 @@ function selectAnswer(label, btn) {
   document.querySelectorAll('.option-btn').forEach(b => b.disabled = true);
   
   const isCorrect = label === q.correct;
+  const scoreEl = document.getElementById('scoreCorrect');
+
   if (isCorrect) {
     btn.classList.add('correct');
     score++;
-    document.getElementById('scoreCorrect').textContent = score;
+    scoreEl.textContent = score;
+    // Trigger score pop animation
+    scoreEl.classList.remove('score-pop');
+    void scoreEl.offsetWidth; // reflow
+    scoreEl.classList.add('score-pop');
+    scoreEl.addEventListener('animationend', () => scoreEl.classList.remove('score-pop'), { once: true });
   } else {
     btn.classList.add('wrong');
     wrongCount++;
@@ -620,6 +704,15 @@ function nextQuestion() {
   }
 }
 
+function removeCompletedIncompleteTest() {
+  let incompleteTests = JSON.parse(localStorage.getItem('cliniq-incomplete-tests') || '[]');
+  if (activeIncompleteSessionId) {
+    incompleteTests = incompleteTests.filter(t => t.sessionId !== activeIncompleteSessionId);
+  }
+  localStorage.setItem('cliniq-incomplete-tests', JSON.stringify(incompleteTests));
+  activeIncompleteSessionId = null;
+}
+
 function showResults() {
   const total = testQuestions.length;
   const pct = total > 0 ? Math.round((score / total) * 100) : 0;
@@ -631,6 +724,7 @@ function showResults() {
   document.getElementById('resSkipped').textContent = skipped;
   document.getElementById('resultsIcon').textContent = pct >= 75 ? '🏆' : pct >= 50 ? '📚' : '💪';
   
+  removeCompletedIncompleteTest();
   showView('results');
   
   // Animate ring
@@ -646,17 +740,13 @@ function retryTest() {
 }
 
 function confirmExit() {
-  // Save current test state before exiting so user can resume later
   if (answered === 0) {
-    // If nothing answered yet, still save snapshot and go back
-    saveIncompleteTestSilent();
     showView('subjects');
     return;
   }
-
-  if (confirm('Exit test? Your progress will be saved as an incomplete test.')) {
+  if (confirm('Exit test? Your progress will be saved so you can resume later.')) {
     saveIncompleteTestSilent();
-    showView('subjects');
+    showView('home');
   }
 }
 
@@ -681,8 +771,11 @@ function pauseAndSaveTest() {
     reviewMarked: q.reviewMarked || false
   }));
 
+  const sessionId = activeIncompleteSessionId || (Date.now() + '-' + Math.random());
+  activeIncompleteSessionId = sessionId;
+
   const testState = {
-    sessionId: Date.now() + Math.random(),
+    sessionId,
     subject: selectedSubject,
     topic: selectedTopic,
     totalQuestions: snapshotQs.length,
@@ -694,12 +787,22 @@ function pauseAndSaveTest() {
     pausedAt: new Date().toLocaleString()
   };
 
-  let incompleteTests = JSON.parse(localStorage.getItem('cliniq-incomplete-tests') || '[]');
-  incompleteTests.unshift(testState);
-  localStorage.setItem('cliniq-incomplete-tests', JSON.stringify(incompleteTests));
+  upsertIncompleteTest(testState);
 
   alert('✅ Test paused! You can resume it from the home page.');
   showView('home');
+}
+
+function upsertIncompleteTest(testState) {
+  let incompleteTests = JSON.parse(localStorage.getItem('cliniq-incomplete-tests') || '[]');
+  const existingIdx = incompleteTests.findIndex(t => t.sessionId === testState.sessionId);
+  if (existingIdx >= 0) {
+    incompleteTests[existingIdx] = testState;
+  } else {
+    incompleteTests.unshift(testState);
+    incompleteTests = incompleteTests.slice(0, 10);
+  }
+  localStorage.setItem('cliniq-incomplete-tests', JSON.stringify(incompleteTests));
 }
 
 // Save incomplete test silently (no alert) — used on unload
@@ -716,8 +819,11 @@ function saveIncompleteTestSilent() {
     reviewMarked: q.reviewMarked || false
   }));
 
+  const sessionId = activeIncompleteSessionId || (Date.now() + '-' + Math.random());
+  activeIncompleteSessionId = sessionId;
+
   const testState = {
-    sessionId: Date.now() + Math.random(),
+    sessionId,
     subject: selectedSubject,
     topic: selectedTopic,
     totalQuestions: snapshotQs.length,
@@ -729,14 +835,7 @@ function saveIncompleteTestSilent() {
     pausedAt: new Date().toLocaleString()
   };
 
-  let incompleteTests = JSON.parse(localStorage.getItem('cliniq-incomplete-tests') || '[]');
-  // Avoid storing duplicate snapshot if the most recent is identical session
-  if (!incompleteTests.length || incompleteTests[0].sessionId !== testState.sessionId) {
-    incompleteTests.unshift(testState);
-    // keep max 10 saved sessions
-    incompleteTests = incompleteTests.slice(0, 10);
-    localStorage.setItem('cliniq-incomplete-tests', JSON.stringify(incompleteTests));
-  }
+  upsertIncompleteTest(testState);
 }
 
 function loadIncompleteTests() {
@@ -750,6 +849,7 @@ function loadIncompleteTests() {
   }
   
   section.style.display = 'block';
+  requestAnimationFrame(refreshScrollReveal);
   grid.innerHTML = incompleteTests.map((test, idx) => {
     const subjectName = SUBJECTS.find(s => s.id === test.subject)?.name || test.subject;
     const topicName = test.topic && test.topic !== 'all' ? 
@@ -777,10 +877,16 @@ function loadIncompleteTests() {
 }
 
 function resumeTest(testIndex) {
-  const incompleteTests = JSON.parse(localStorage.getItem('cliniq-incomplete-tests') || '[]');
+  let incompleteTests = JSON.parse(localStorage.getItem('cliniq-incomplete-tests') || '[]');
   const testState = incompleteTests[testIndex];
   
   if (!testState) return;
+
+  if (!testState.sessionId) {
+    testState.sessionId = Date.now() + '-' + Math.random();
+    incompleteTests[testIndex] = testState;
+    localStorage.setItem('cliniq-incomplete-tests', JSON.stringify(incompleteTests));
+  }
   
   selectedSubject = testState.subject;
   selectedTopic = testState.topic;
@@ -796,6 +902,7 @@ function resumeTest(testIndex) {
   score = testState.score;
   answered = testState.answered;
   wrongCount = testState.wrongCount;
+  activeIncompleteSessionId = testState.sessionId || null;
   
   document.getElementById('scoreTotal').textContent = answered;
   document.getElementById('scoreCorrect').textContent = score;
@@ -820,54 +927,69 @@ function initCanvas() {
   if (!canvas) return;
   const ctx = canvas.getContext('2d');
   let W, H, particles = [];
-  
+  const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  function accentRgb() {
+    const c = getComputedStyle(document.documentElement).getPropertyValue('--accent').trim() || '#2dd4bf';
+    if (c.startsWith('#') && c.length >= 7) {
+      const n = parseInt(c.slice(1), 16);
+      return [(n >> 16) & 255, (n >> 8) & 255, n & 255];
+    }
+    return [45, 212, 191];
+  }
+
   function resize() {
     W = canvas.width = canvas.offsetWidth;
     H = canvas.height = canvas.offsetHeight;
   }
   resize();
   window.addEventListener('resize', resize);
-  
+
   class Particle {
     constructor() { this.reset(); }
     reset() {
       this.x = Math.random() * W;
       this.y = Math.random() * H;
-      this.vx = (Math.random() - 0.5) * 0.4;
-      this.vy = (Math.random() - 0.5) * 0.4;
-      this.r = Math.random() * 2 + 0.5;
-      this.alpha = Math.random() * 0.6 + 0.1;
+      this.vx = (Math.random() - 0.5) * 0.35;
+      this.vy = (Math.random() - 0.5) * 0.35;
+      this.r = Math.random() * 1.8 + 0.4;
+      this.alpha = Math.random() * 0.45 + 0.08;
     }
     update() {
-      this.x += this.vx; this.y += this.vy;
+      if (reducedMotion) return;
+      this.x += this.vx;
+      this.y += this.vy;
       if (this.x < 0 || this.x > W || this.y < 0 || this.y > H) this.reset();
     }
-    draw() {
+    draw(rgb) {
       ctx.beginPath();
       ctx.arc(this.x, this.y, this.r, 0, Math.PI * 2);
-      ctx.fillStyle = `rgba(0,206,209,${this.alpha})`;
+      ctx.fillStyle = `rgba(${rgb[0]},${rgb[1]},${rgb[2]},${this.alpha})`;
       ctx.fill();
     }
   }
-  
-  for (let i = 0; i < 80; i++) particles.push(new Particle());
-  
+
+  const count = reducedMotion ? 24 : 64;
+  for (let i = 0; i < count; i++) particles.push(new Particle());
+
   function loop() {
+    const rgb = accentRgb();
     ctx.clearRect(0, 0, W, H);
-    particles.forEach(p => { p.update(); p.draw(); });
-    // Draw lines between nearby particles
-    for (let i = 0; i < particles.length; i++) {
-      for (let j = i + 1; j < particles.length; j++) {
-        const dx = particles[i].x - particles[j].x;
-        const dy = particles[i].y - particles[j].y;
-        const dist = Math.sqrt(dx*dx + dy*dy);
-        if (dist < 100) {
-          ctx.beginPath();
-          ctx.moveTo(particles[i].x, particles[i].y);
-          ctx.lineTo(particles[j].x, particles[j].y);
-          ctx.strokeStyle = `rgba(0,206,209,${0.12 * (1 - dist/100)})`;
-          ctx.lineWidth = 0.8;
-          ctx.stroke();
+    particles.forEach(p => { p.update(); p.draw(rgb); });
+    if (!reducedMotion) {
+      for (let i = 0; i < particles.length; i++) {
+        for (let j = i + 1; j < particles.length; j++) {
+          const dx = particles[i].x - particles[j].x;
+          const dy = particles[i].y - particles[j].y;
+          const dist = Math.sqrt(dx * dx + dy * dy);
+          if (dist < 110) {
+            ctx.beginPath();
+            ctx.moveTo(particles[i].x, particles[i].y);
+            ctx.lineTo(particles[j].x, particles[j].y);
+            ctx.strokeStyle = `rgba(${rgb[0]},${rgb[1]},${rgb[2]},${0.1 * (1 - dist / 110)})`;
+            ctx.lineWidth = 0.7;
+            ctx.stroke();
+          }
         }
       }
     }
@@ -880,6 +1002,8 @@ function initCanvas() {
 document.addEventListener('DOMContentLoaded', () => {
   renderPreviewGrid('1st');
   loadIncompleteTests();
+  initNavbarScroll();
+  initScrollReveal();
   initCanvas();
   // Preload questions in background for main subjects
   loadQuestions('anatomy');
