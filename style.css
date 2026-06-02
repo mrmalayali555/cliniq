@@ -1211,29 +1211,49 @@ body::after {
   display: inline-flex;
   align-items: center;
   gap: 6px;
-  padding: 10px 16px;
-  background: rgba(248, 113, 113, 0.1);
-  border: 1.5px solid rgba(248, 113, 113, 0.35);
+  padding: 10px 18px;
+  background: rgba(248, 113, 113, 0.12);
+  border: 2px solid rgba(248, 113, 113, 0.5);
   border-radius: var(--radius-full);
-  color: var(--danger);
-  font-size: 0.85rem;
+  color: #ef4444;
+  font-size: 0.9rem;
   font-weight: 700;
   cursor: pointer;
   font-family: var(--font-ui);
-  transition: all var(--duration) var(--ease-out);
+  transition: all var(--duration) var(--ease-out) !important;
   white-space: nowrap;
   flex-shrink: 0;
+  position: relative;
+  z-index: 10;
+  -webkit-tap-highlight-color: rgba(248,113,113,0.2);
+  user-select: none;
 }
-.exit-btn:hover {
-  background: rgba(248, 113, 113, 0.2);
-  border-color: var(--danger);
+/* Prevent SVG from eating clicks */
+.exit-btn svg,
+.exit-btn * {
+  pointer-events: none;
+}
+.exit-btn:hover,
+.exit-btn:active {
+  background: rgba(248, 113, 113, 0.25);
+  border-color: #ef4444;
   transform: scale(1.04);
-  box-shadow: 0 0 16px rgba(248, 113, 113, 0.25);
+  box-shadow: 0 0 20px rgba(248, 113, 113, 0.3);
 }
-.exit-btn svg { flex-shrink: 0; }
-@media (max-width: 480px) {
-  .exit-label { display: inline; }
-  .exit-btn { padding: 10px 14px; }
+.exit-label { font-size: 0.88rem; }
+
+/* Mobile — make exit button very visible */
+@media (max-width: 768px) {
+  .exit-btn {
+    padding: 10px 16px;
+    font-size: 0.85rem;
+    border-width: 2px;
+    gap: 5px;
+  }
+  .exit-label { display: inline !important; }
+}
+@media (max-width: 400px) {
+  .exit-btn { padding: 9px 12px; font-size: 0.8rem; }
 }
 
 .test-body {
@@ -1874,11 +1894,6 @@ body::after {
     flex-wrap: nowrap;
     gap: 10px;
   }
-  .exit-btn {
-    padding: 9px 12px;
-    font-size: 0.8rem;
-  }
-  .exit-label { font-size: 0.8rem; }
   .test-score-badge {
     font-size: 0.82rem;
     padding: 7px 10px;
@@ -1924,13 +1939,18 @@ body::after {
   color: var(--text);
 }
 
-/* ── Smooth theme transition on all elements ── */
-*, *::before, *::after {
-  transition-property: background-color, border-color, color, fill, stroke;
+/* ── Smooth theme transition — scoped, NOT universal (universal breaks pointer events) ── */
+body, .navbar, .nav-brand, .nav-link, .hero, .hero-bg,
+.subject-card, .topic-card, .feature-card, .configure-card,
+.question-card, .option-btn, .explanation-box,
+.results-card, .incomplete-test-card, .footer,
+.page-header, .section-head, .year-tab,
+.modal-overlay, .modal-card, h1, h2, h3, p, span, a, input {
+  transition-property: background-color, border-color, color;
   transition-duration: 0.3s;
   transition-timing-function: var(--ease-out);
 }
-/* But keep transform/animation snappy */
+/* Keep transform/animation snappy for interactive elements */
 .btn-primary, .btn-ghost, .subject-card, .topic-card,
 .feature-card, .year-tab, .option-btn, .back-btn, .exit-btn,
 .nav-brand, .hamburger, .count-btn, .incomplete-test-card {
