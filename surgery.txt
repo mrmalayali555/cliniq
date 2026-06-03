@@ -1,0 +1,1049 @@
+# SURGERY (General Surgery only – excluding Orthopedics)
+
+## SINGLE RESPONSE MCQs
+
+1. The maximum permissible dose of Lignocaine with Adrenaline as a local anaesthetic is:
+   a. 3 mg/kg b. 7 mg/kg c. 12 mg/kg d. 15 mg/kg
+   **Answer: b. 7 mg/kg**
+
+2. True statement regarding Opportunistic Post-Splenectomy Infections:
+   a. May result from animal bites b. Gram Negative Anaerobes often responsible c. Prophylaxis not needed in children d. Prophylactic Vaccines recommended on the day of Splenectomy
+   **Answer: a. May result from animal bites**
+
+3. True about Rectal Cancers:
+   a. 20% show complete response to radiation b. Lower rectal cancers need 5 cm clearance all around c. A permanent colostomy follows an Anterior Resection d. Lymphatic spread occurs mainly downwards
+   **Answer: a. 20% show complete response to radiation**
+
+4. The normal lower esophageal sphincter pressure is:
+   a. 3-5 mmHg b. 5-10 mmHg c. 10-25 mmHg d. 25-40 mmHg
+   **Answer: c. 10-25 mmHg**
+
+5. Dynamic form of assessing coagulation status is:
+   a. Kaolin-Cephalin Clotting Time b. Prothrombin Time c. INR d. Thromboblastography
+   **Answer: d. Thromboblastography**
+
+6. In hypovolemic shock, the decrease in cardiac output (CO) is due to:
+   a. Inadequate blood/plasma volume b. Reduced venous return c. Failure of myocardial pump d. A & B
+   **Answer: d. A & B**
+
+7. When is the maximum collagen content of wound tissue?
+   a. Between 3rd to 5th day b. Between 6th to 17th day c. Between 17th to 21st day d. None
+   **Answer: b. Between 6th to 17th day**
+
+8. Management of an open wound seen 12 hours after the injury (AIIMS 1987):
+   a. Suturing b. Debridement and suture c. Secondary suturing d. Heal by granulation
+   **Answer: c. Secondary suturing**
+
+9. The radiodensity or the radiopacity in CT is measured in:
+   a. mA b. mV c. g/m3 d. Hounsfield Unit
+   **Answer: d. Hounsfield Unit**
+
+10. What is the typical diameter of a laparoscopic trocar?
+    a. 5 mm b. 10 mm c. 15 mm d. 20 mm
+    **Answer: b. 10 mm**
+
+11. Plaster of Paris is chemically:
+    A) Calcium Carbonate B) Anhydrous Calcium Phosphate C) Hemihydrate Calcium Sulphate D) Anhydrous Calcium Sulphate
+    **Answer: C) Hemihydrate Calcium Sulphate**
+
+12. Which is not seen in gastric outlet obstruction?
+    A. Hyponatraemia B. Hypokalemia C. Hyperkalemia D. Metabolic alkalosis
+    **Answer: C. Hyperkalemia**
+
+13. Ochsner-Sherren regimen is for treatment of:
+    A. Acute appendicitis B. Appendicular abscess C. Appendicular mass D. Appendicular rupture
+    **Answer: C. Appendicular mass**
+
+14. Out of the following, which has got a better prognosis?
+    A. Carcinoma head of pancreas B. Hepatocellular carcinoma C. Klatskin tumour D. Periampullary carcinoma
+    **Answer: D. Periampullary carcinoma**
+
+15. Which will produce osteoblastic secondaries in bone? (Note: this is about metastasis – included as surgical oncology)
+    A. Carcinoma thyroid B. Carcinoma breast C. Carcinoma kidney D. Carcinoma prostate
+    **Answer: D. Carcinoma prostate**
+
+16. Toxic megacolon is a complication of:
+    A. Paralytic ileus B. Ulcerative colitis C. Volvulus D. Crohn's disease
+    **Answer: B. Ulcerative colitis**
+
+17. "Rat tail" appearance in barium swallow is diagnostic of:
+    A. Achalasia cardia
+    **Answer: A. Achalasia cardia**
+
+18. The typical cell involved in the 'proliferation' phase of wound healing is:
+    A. Macrophage B. Fibroblast C. Polymorphonuclear WBC D. Epithelial cell
+    **Answer: B. Fibroblast**
+
+19. In antimicrobial treatment of surgical infection, antibiotic that acts at the ribosomal level preventing protein production is:
+    A. Cephalosporins B. Penicillin C. Aminoglycoside D. Erythromycin
+    **Answer: C. Aminoglycoside**
+
+20. In specimen processing for histopathology, how much thickness is the section made using a microtome?
+    A. 0.5 μm B. 1 μm C. 0.5 mm D. 1 mm
+    **Answer: A. 0.5 μm**
+
+21. What does "PAIR" stand for in hydatid cyst treatment?
+    A. Puncture, Aspiration, Injection, Reaspiration B. Partial Aspiration and Injection of Radiocontrast C. Percutaneous Approach for Invasive Removal D. Prophylaxis, Antibiotic, Incision, Resection
+    **Answer: A. Puncture, Aspiration, Injection, Reaspiration**
+
+22. A sharply demarcated streptococcal infection of the superficial lymphatics of the face is:
+    A. Impetigo B. Pyoderma gangrenosum C. Erysipelas D. Hidradenitis suppurativa
+    **Answer: C. Erysipelas**
+
+23. Which condition is associated with "bird-beak" appearance on barium swallow?
+    a) Achalasia b) Esophageal stricture c) GERD d) Esophageal cancer
+    **Answer: a) Achalasia**
+
+24. Which is NOT part of surgical management of perforated peptic ulcer?
+    a) Graham's patch repair b) Truncal vagotomy c) Gastrojejunostomy d) Nissen fundoplication
+    **Answer: d) Nissen fundoplication**
+
+25. Which is a common feature of Meckel's diverticulum?
+    a) Located in duodenum b) Derived from vitelline duct c) Always symptomatic d) Found in 10% of population
+    **Answer: b) Derived from vitelline duct**
+
+26. The normal lower esophageal sphincter pressure is:
+    a) 3-5 mmHg b) 5-10 mmHg c) 10-25 mmHg d) 25-40 mmHg
+    **Answer: c) 10-25 mmHg**
+
+27. Dynamic form of assessing coagulation status is:
+    a) Kaolin-Cephalin Clotting Time b) Prothrombin Time c) INR d) Thromboemblastography
+    **Answer: d) Thromboemblastography**
+
+28. Which is not a malignant tumour? (Surgical oncology)
+    a) Osteosarcoma b) Multiple myeloma c) Ewing's sarcoma d) Osteochondroma
+    **Answer: d) Osteochondroma**
+
+29. The volume of post-void residual volume is said to be ___ or more in chronic urinary retention:
+    A. 100 ml B. 250 ml C. 300 ml D. 500 ml
+    **Answer: D. 500 ml**
+
+30. Which type of shock does cardiac tamponade cause?
+    A. Hypovolemic shock B. Cardiogenic shock C. Distributive shock D. Obstructive shock
+    **Answer: D. Obstructive shock**
+
+31. PRBC should be stored in:
+    A. CPD B. SAG-M C. Special aggregator D. All of the above
+    **Answer: D. All of the above**
+
+32. Repeat FNAC is indicated in:
+    A. Bethesda II B. Bethesda III C. Bethesda IV D. Bethesda V
+    **Answer: B. Bethesda III**
+
+33. How many layers of cells does the peritoneum have?
+    A) 1 B) 2 C) 3 D) 4
+    **Answer: A) 1**
+
+34. In the Sengstaken-Blakemore tube, the balloon should be deflated every ___ to prevent pressure necrosis:
+    A) 2 hours B) 4 hours C) 6 hours D) 8 hours
+    **Answer: B) 4 hours**
+
+35. Most common site of involvement in Crohn's disease is:
+    A) Jejunum B) Transverse colon C) Terminal ileum D) Rectum
+    **Answer: C) Terminal ileum**
+
+36. Constricting type of colonic carcinoma is seen in:
+    A) Left colon B) Right colon C) Transverse colon D) Caecum
+    **Answer: A) Left colon**
+
+37. Most common nerve injured in inguinal hernia repair is:
+    A) Iliohypogastric nerve B) Genitofemoral nerve C) Ilioinguinal nerve D) None
+    **Answer: C) Ilioinguinal nerve**
+
+38. The best initial investigation for suspected bladder cancer is:
+    a) Ultrasound b) CT urogram c) Cystoscopy d) MRI pelvis
+    **Answer: c) Cystoscopy**
+
+39. The gold standard investigation for DVT is:
+    a) D-dimer test b) Doppler ultrasound c) CT angiography d) Venography
+    **Answer: d) Venography**
+
+40. The most reliable level of evidence in medical research is:
+    a) Case reports b) Cohort studies c) Randomized controlled trials d) Expert opinion
+    **Answer: c) Randomized controlled trials**
+
+41. Breaking bad news to a patient should follow which protocol?
+    a) SPIKEs protocol b) ABCDE protocol c) FAST protocol d) SOAP protocol
+    **Answer: a) SPIKEs protocol**
+
+42. Which is a feature of Graves' disease?
+    a) Cold nodules on scintigraphy b) Exophthalmos c) Decreased T3 and T4 d) Hypocalcemia
+    **Answer: b) Exophthalmos**
+
+43. What biochemical investigation will hint to the diagnosis of acute pancreatitis?
+    A) 2-fold rise in serum amylase & lipase B) 2-fold increase in serum gastrin C) 3-fold rise in serum amylase & lipase D) 2-fold increase in serum gastrin
+    **Answer: C) 3-fold rise in serum amylase & lipase**
+
+44. What is the mainstay of management of acute pancreatitis?
+    A) Emergency laparotomy B) Intravenous fluid administration & monitoring C) Emergency transfusion D) Broad spectrum antibiotics
+    **Answer: B) Intravenous fluid administration & monitoring**
+
+45. Which is not a complication of acute pancreatitis?
+    A) Splenic vein thrombosis B) ARDS C) Hypercalcemia D) Infected pancreatic necrosis
+    **Answer: C) Hypercalcemia**
+
+46. Which is the prognostic and scoring system for acute pancreatitis?
+    A) Rockall scoring system B) Ranson scoring system C) Forrest classification D) Milan's criteria
+    **Answer: B) Ranson scoring system**
+
+47. What investigation is most helpful in confirming diagnosis in acute pancreatitis?
+    A) Abdominal ultrasound B) Contrast-enhanced CT abdomen C) X-ray abdomen erect D) Upper GI endoscopy
+    **Answer: B) Contrast-enhanced CT abdomen**
+
+48. Which statement regarding Bier's block (IV regional anesthesia) is FALSE?
+    A) Minimum cuff inflation duration 20 minutes B) Bupivacaine is anesthetic of choice C) If used on lower limb carries higher risk of toxicity D) Patients do not need to be fasted
+    **Answer: B) Bupivacaine is anesthetic of choice**
+
+49. Which are NOT parameters to assess severity of acute pancreatitis in Ranson or Glasgow score?
+    A) Age B) WBC count C) Serum amylase D) Serum calcium
+    **Answer: C) Serum amylase**
+
+50. Which statement about Wilms' tumour is TRUE?
+    A) Tumour of embryonic nephrogenic tissue occurring below age 5 years B) Haematuria and fever are most common presentations C) It is radiosensitive and chemosensitive D) Usually presents as a painful abdominal mass
+    **Answer: A) Tumour of embryonic nephrogenic tissue occurring below age 5 years**
+
+51. Regarding bariatric surgery, which surgery has high calorie and protein malabsorption?
+    A) Gastric banding B) Sleeve gastrectomy C) Gastric bypass D) Bilopancreatic diversion and duodenal switch
+    **Answer: D) Bilopancreatic diversion and duodenal switch**
+
+52. Regarding Familial Adenomatous Polyposis (FAP), which are TRUE?
+    A) >100 colorectal adenomas diagnostic of FAP B) APC gene mutation as Autosomal Dominant C) CHRPE can be used as screening tool D) All of the above
+    **Answer: D) All of the above**
+
+53. Most common cause of upper GI bleeding?
+    a) Gastric cancer b) Peptic ulcer disease c) Esophageal varices d) Mallory-Weiss tear
+    **Answer: b) Peptic ulcer disease**
+
+54. Most common site for development of colorectal cancer?
+    a) Rectum b) Sigmoid colon c) Caecum d) Ascending colon
+    **Answer: a) Rectum**
+
+55. Most common cause of acute pancreatitis:
+    a) Alcohol b) Cholelithiasis c) Hyperlipidemia d) Trauma
+    **Answer: b) Cholelithiasis**
+
+56. 'Bird beak' appearance on barium swallow is seen in:
+    a) Achalasia b) Esophageal cancer c) GERD d) Barrett's esophagus
+    **Answer: a) Achalasia**
+
+57. Most common benign liver tumour:
+    a) Focal nodular hyperplasia b) Hemangioma c) Hepatic adenoma d) Hepatocellular carcinoma
+    **Answer: b) Hemangioma**
+
+58. Which is the best suture material for skin closure in RTA wound?
+    a) Catgut b) Polyglactin 910 c) Polyamide d) Polydioxanone
+    **Answer: c) Polyamide**
+
+59. Wagner's grading is done in:
+    a) Diabetic Foot b) Madhura foot c) PVOD d) Club foot
+    **Answer: a) Diabetic Foot**
+
+60. Hermiotomy is done in:
+    a) Direct Hernia b) Indirect Hernia c) Congenital Hernia d) Both b & c
+    **Answer: d) Both b & c**
+
+61. Gastric outlet obstruction causes:
+    a) Hypochloremic, hypokalemic, metabolic alkalosis b) Hypochloremic, hyperkalemic, metabolic acidosis c) Hyperchloremic, hyponatremic, metabolic acidosis with paradoxical aciduria d) Hyperchloremic, hypokalemic, respiratory acidosis
+    **Answer: a) Hypochloremic, hypokalemic, metabolic alkalosis**
+
+62. MEN Type 1 includes all except:
+    a) Pancreatic Duodenal adenoma b) Pituitary adenoma c) Parathyroid adenoma d) Medullary thyroid carcinoma
+    **Answer: d) Medullary thyroid carcinoma**
+
+63. Most common symptom of head of pancreas malignancy:
+    a) Pain b) Jaundice c) Weight loss d) Anorexia
+    **Answer: b) Jaundice**
+
+64. Most common complication after Nissen's fundoplication:
+    a) Liver injury b) Stomach injury c) Pneumothorax d) Esophageal injury
+    **Answer: d) Esophageal injury**
+
+65. In a newborn, the most common cause of intestinal obstruction:
+    a) Duodenal atresia b) Annular pancreas c) Jejunal atresia d) Esophageal atresia
+    **Answer: a) Duodenal atresia**
+
+66. Massive bleeding per rectum in a 70-year-old patient is most commonly due to:
+    a) Diverticulitis b) Carcinoma colon c) Polyp d) Colitis
+    **Answer: a) Diverticulitis**
+
+67. Which of the following is used in the treatment of thyroid malignancy?
+    A. Iodine-131 B. Technetium-99m C. Phosphorus-32 D. MIBG
+    **Answer: A. Iodine-131**
+
+68. Excision of hyoid bone is done in:
+    A. Branchial cyst B. Branchial fistula C. Thyroglossal cyst D. Sublingual dermoid
+    **Answer: C. Thyroglossal cyst**
+
+---
+
+## MULTIPLE RESPONSE MCQs (Surgery only)
+
+1. Medical management of Crohn's Disease includes:
+   1. Steroid 2. Azathioprine 3. Infliximab 4. Aminosalicylates
+   a. 1,2&3 b. 1&2 c. 2&3 d. 1,2,3&4
+   **Answer: d. 1,2,3&4**
+
+2. Meckel's diverticulum presents with:
+   1. Haemorrhage 2. Intestinal Obstruction 3. Intussusception 4. Chronic Ulceration
+   a. 1&2 b. 1,2,3&4 c. 1,2&3 d. 2&3
+   **Answer: b. 1,2,3&4**
+
+3. Examples of Bariatric Surgery include:
+   1. Sleeve Gastrectomy 2. Roux-en-Y Gastric Bypass 3. Cardiomyotomy 4. Biliopancreatic Diversion
+   a. 1&2 b. 1,3&4 c. 1,2&4 d. 3&4
+   **Answer: c. 1,2&4**
+
+4. Hernia repair without a mesh includes:
+   1. TEP 2. Bassini 3. Lichtenstein 4. Desarda
+   a. 1&2 b. 1,3&4 c. 1,2,3&4 d. 2&4
+   **Answer: d. 2&4**
+
+5. In Highly Selective Vagotomy for peptic ulcer:
+   1. The Anterior and Posterior Vagal trunks are preserved 2. The GI tract is not opened 3. The operation is not commonly done nowadays 4. Unacceptable rate of recurrence
+   a. 1&2 b. 1,2&3 c. 1,2,3&4 d. 3&4
+   **Answer: b. 1,2&3**
+
+6. Factors influencing the development of surgical site infections (SSIs):
+   1. Duration of procedure 2. Degree of microbial contamination 3. Malnutrition 4. General anaesthesia
+   a. 1,2&3 b. 1&2 c. 2&3 d. 1,2,3&4
+   **Answer: d. 1,2,3&4**
+
+7. Advantages of laparoscopic surgery:
+   1. Reduced blood loss 2. Shorter recovery time 3. Lower risk of infection 4. Better tactile feedback
+   a. 1&2 b. 1,2&4 c. 1,2&3 d. 3&4
+   **Answer: c. 1,2&3**
+
+8. All the following favour postoperative wound dehiscence:
+   1. Malignancy 2. Vitamin B complex deficiency 3. Hypoproteinemia 4. Jaundice
+   a. 1&2 b. 1,3&4 c. 1,2&3 d. 3&4
+   **Answer: b. 1,3&4**
+
+9. Causes of persistence of a sinus or fistula include:
+   1. Foreign body 2. Non-dependent drainage 3. Unrelieved obstruction 4. Presence of malignancy
+   a. 1&2 b. 1,3&4 c. 1,2,3&4 d. 3&4
+   **Answer: c. 1,2,3&4**
+
+10. The cardiac output (CO) is normal or elevated in which types of shock, except:
+    1. Hypovolemic shock 2. Cardiogenic shock 3. Distributive shock 4. Obstructive shock
+    a. 1&2 b. 1,2&4 c. 1,2,3&4 d. 3&4
+    **Answer: a. 1&2**
+
+11. Features of basal cell carcinoma:
+    1. Rolled edges 2. Hyperpigmentation 3. Ulceration 4. Lymph node spread
+    a. 1,2,3 b. 1,3,4 c. 1,3 d. 1,2,3,4
+    **Answer: a. 1,2,3**
+
+12. Associated with squamous cell carcinoma of the skin:
+    1. It bleeds easily to touch 2. Cauliflower type of edge 3. HPV is a carcinogen 4. Also called rodent ulcer
+    a. 1,3 b. 1,2,3,4 c. 1,2,3 d. 1,2,4
+    **Answer: c. 1,2,3**
+
+13. Premalignant or in situ lesions that can progress to squamous cell carcinoma:
+    1. Actinic keratosis 2. Bowen's disease 3. Keratoacanthoma 4. Basal cell papilloma
+    a. 1,2,3 b. 1,2 c. 1,3,4 d. 1,2,3,4
+    **Answer: a. 1,2,3**
+
+14. Potential causes of postoperative hypotension:
+    1. Myocardial impairment 2. Epidural anaesthesia 3. Pulmonary embolism 4. Tension pneumothorax
+    a. 1&2 b. 1,2&4 c. 1,2&3 d. 1,2,3&4
+    **Answer: d. 1,2,3&4**
+
+15. High-grade salivary gland malignancies:
+    1. Salivary duct carcinoma 2. Carcinoma ex pleomorphic adenoma 3. Acinic cell carcinoma 4. Adenoid cystic carcinoma
+    a. 1&2 b. 1,2&4 c. 1,2&3 d. 3&4
+    **Answer: b. 1,2&4**
+
+16. Types of debridement (select correct statements):
+    i. Surgical ii. Enzymatic iii. Autolytic iv. Mechanical v. Biological
+    Options: A.i,iii,v B.ii,iv C.i,ii,iii,iv,v D.iii,iv,v
+    **Answer: C.i,ii,iii,iv,v**
+
+17. Pressure sores staging match:
+    Grade 1 – Non-blanchable erythema; Grade 2 – Partial-thickness skin loss; Grade 3 – Full-thickness skin loss; Grade 4 – Full-thickness skin and tissue loss
+    Options: A.i-B,ii-A,iii-D,iv-C B.i-C,ii-D,iii-A,iv-B C.i-A,ii-C,iii-D,iv-B D.i-D,ii-B,iii-C,iv-A
+    **Answer: C.i-A,ii-C,iii-D,iv-B**
+
+18. True about thyroid malignancies:
+    [1] Papillary carcinoma most common [2] Medullary associated with MEN2 [3] Anaplastic has good prognosis [4] FNAC is initial investigation
+    a. 1,2&3 b. 1,2&4 c. Only 1&4 d. All
+    **Answer: b. 1,2&4**
+
+19. Features of tension pneumothorax:
+    [1] Tracheal deviation away [2] Hyperresonant percussion [3] Distended neck veins [4] Bilateral lung involvement common
+    a. 1,2&3 b. All c. Only 1&3 d. None
+    **Answer: a. 1,2&3**
+
+20. True regarding renal cell carcinoma (RCC):
+    [1] Hematuria most common symptom [2] Associated with von Hippel-Lindau [3] Highly sensitive to chemotherapy [4] Radical nephrectomy for localized disease
+    a. All wrong b. 1,2&4 c. 1,2&3 d. 2,3&4
+    **Answer: b. 1,2&4**
+
+21. Correct about Wilms' tumor:
+    [1] Common childhood renal malignancy [2] Hematuria and abdominal mass common [3] Common in adults [4] Associated with WAGR syndrome
+    a. 2&3 correct b. 2&3 wrong c. 1,2&4 correct d. All correct
+    **Answer: c. 1,2&4 correct**
+
+22. Common complications of severe burns:
+    [1] Hypovolemic shock [2] Hyperkalemia [3] Decreased risk of infections [4] ARDS
+    a. 1,2,4 b. 1,2,3 c. All d. 2,3,4
+    **Answer: a. 1,2,4**
+
+23. Types of mesenteric cyst:
+    1. Chylolymphatic 2. Enterogenous 3. Spontaneous 4. Hydration
+    A) 1&2 B) 2&4 C) 1,2&4 D) 1,2&3
+    **Answer: D) 1,2&3**
+
+24. Esophagus narrow areas distances from incisor teeth:
+    1. 15 cm 2. 30 cm 3. 35 cm 4. 40 cm
+    A) 2&3 B) 2&4 C) 1&3 D) 1&4
+    **Answer: D) 1&4**
+
+25. In surgery for hydatid cyst, contamination avoided by:
+    1. Albendazole 2. Pre-op praziquantel 3. Packing with 20% hypertonic saline soaks 4. Instilling 20% hypertonic saline into cyst before opening
+    A)1&2 B)1,2&3 C)2&4 D)All
+    **Answer: D) All**
+
+26. Post-operative complications of splenectomy include:
+    A) Basal atelectasis B) Pancreatitis C) Postoperative thrombocytopenia D) OPSI
+    A)1&3 B)2&3 C)2&4 D)3&4
+    **Answer: C)2&4 (Pancreatitis and OPSI)**
+
+27. Calot's triangle is bordered by:
+    1. Cystic duct 2. Common hepatic duct 3. Superior border of cystic duct 4. Inferior border of liver
+    A)1,2&3 B)1,2&4 C)2,3&4 D)1,3&4
+    **Answer: B)1,2&4**
+
+28. Characteristic feature of basal cell carcinoma:
+    1. Rapid metastasis 2. Pearly nodules with central ulceration 3. Irregular pigmented lesion 4. Painful ulcer
+    a) 1 and 3 b) 2 c) All d) 1,2,3
+    **Answer: b) 2**
+
+29. In a patient with hemothorax following trauma, management:
+    1. Needle decompression 2. Chest tube insertion 3. Blood transfusion 4. IV fluid resuscitation
+    a) 1 b) 1 and 2 c) All d) 2,3 and 4
+    **Answer: d) 2,3 and 4**
+
+30. Sign of tension pneumothorax:
+    1. Hyperresonance 2. Tracheal deviation 3. Muffled heart sounds
+    a) 1,2,3 b) 1 alone c) None d) 1 and 2
+    **Answer: a) 1,2,3**
+
+31. Risk factors for DVT:
+    1. Immobility 2. Smoking 3. Oral contraceptive use
+    a) 2,3 b) 1,2 c) None d) 1,2,3
+    **Answer: d) 1,2,3**
+
+32. Signs known to occur in acute pancreatitis:
+    A) Trousseau's sign B) Courvoisier's sign C) Grey-Turner's sign D) Cullen's sign
+    **Answer: C, D**
+
+33. Examples of closed loop obstruction:
+    A) Obstructed inguinal hernia B) Malignant colonic stricture with competent ileocecal valve C) Gallstone ileus D) Intussusception
+    **Answer: A, B**
+
+34. Regarding portal hypertension, which are TRUE:
+    A) If variceal bleeding unresponsive to medical/endoscopic treatment, next option is TIPSS B) Non-variceal source of bleeding seen in 50% patients C) Surgical shunt preferred over TIPSS D) Liver transplantation contraindicated
+    **Answer: A**
+
+35. Causes of pancreatitis:
+    A) Alcoholism B) Hypoparathyroidism C) Hyperkalemia D) Pancreas divisum
+    **Answer: A, D**
+
+36. Regarding ureteric injuries, TRUE:
+    A) Cut ends approximated over Double-J stent B) Boari surgery for upper ureter injury C) Urinary fistula through surgical incision can be presentation D) In postoperative discovery, delayed repair indicated
+    **Answer: A, C, D**
+
+37. The conjoint tendon is formed by:
+    a) Internal oblique aponeurosis b) External oblique aponeurosis c) Transversus abdominis d) Rectus abdominis
+    **Answer: a, c**
+
+38. Functions of the peritoneum include:
+    a) Fluid and particulate absorption b) Inflammatory and immune responses c) Fibrinolytic activity d) Visceral lubrication
+    **Answer: a, b, c, d**
+
+39. Common risk factors for colorectal cancer:
+    a) Family history b) Low fiber diet c) Smoking and alcohol d) Chronic IBD
+    **Answer: a, b, c, d**
+
+40. Typical symptoms of acute appendicitis:
+    a) Nausea and vomiting b) Jaundice c) Fever d) Loss of appetite
+    **Answer: a, c, d**
+
+41. Key components of ERAS (Enhanced Recovery After Surgery):
+    a) Preoperative carbohydrate loading b) Epidural analgesia c) Early mobilization d) Minimize opioids e) Routine NG tubes postop
+    **Answer: a, b, c, d (e is false)**
+
+42. T1N0M0 in carcinoma tongue is treated by:
+    a) Wide excision b) Brachytherapy c) Chemotherapy d) Hemiglossectomy
+    **Answer: a, b**
+
+43. Brilliantly transilluminant:
+    a) Cystic hygroma b) Epididymal cyst c) Meningocele d) Ranula e) Thyroglossal cyst
+    **Answer: a, b, c, d**
+
+44. Tests for Peripheral Arterial Diseases:
+    a) Allen's test b) Buerger's test c) Ankle-brachial index d) Trendelenburg test
+    **Answer: a, c**
+
+45. Delphian nodes are:
+    a) Prelaryngeal lymph nodes b) Level 6 cervical nodes c) Level 5 cervical nodes d) Lower jugular nodes
+    **Answer: a, b**
+
+46. Pilonidal sinus occurs commonly over:
+    a) Gluteal cleft b) Intermammary region c) Umbilicus d) Palm e) Interdigital web
+    **Answer: a**
+
+47. Causes of pancreatitis:
+    1. Alcohol 2. Post-ERCP 3. Snake bite 4. Trauma
+    a) 1,2 b) 1,2,3 c) 1,2,3,4 d) 1,3,4
+    **Answer: c) 1,2,3,4**
+
+48. Causes of intestinal obstruction:
+    1. Adhesion 2. Trauma 3. Malignancy 4. Splenic flexure growth
+    a) 1,2,3 b) 1,2,3,4 c) 1,3,4 d) 1,4
+    **Answer: b) 1,2,3,4**
+
+49. Post spinal headache is due to:
+    1. Bifrontal or occipital location 2. Worse than lying down 3. Seen within 4 hours of dural puncture 4. Caffeine may provide relief
+    a)1,2 b)1,4 c)1,2,3 d)1,2,3,4
+    **Answer: d)1,2,3,4**
+
+50. Inferior thyroid artery supplies:
+    1. Esophagus 2. Parathyroid 3. Thyroid 4. Thymus
+    A.1&3 B.1,2,&3 C.1,3,&4 D.1,2,3,4
+    **Answer: B.1,2,&3**
+
+51. MEN-2A (Sipple Syndrome) includes:
+    1. Pheochromocytoma 2. Hyperparathyroidism 3. Mucocutaneous neuroma 4. Medullary carcinoma of thyroid
+    A.1&2 B.1,2,&3 C.1,2,&4 D.1,2,3,4
+    **Answer: C.1,2,&4**
+
+52. Treatment of BPH includes:
+    1. Antibiotics 2. TURP 3. Tamsulosin 4. Dutasteride
+    A.1,2,3,4 B.1&4 C.2,3,4 D.3&4
+    **Answer: C.2,3,4**
+
+53. Cabana procedure is done for:
+    1. Carcinoma penis 2. Carcinoma testis 3. Carcinoma scrotum 4. Carcinoma bladder
+    A.1&2 B.1 alone C.1&3 D.2&3
+    **Answer: A.1&2**
+
+54. Causes of thoracic outlet syndrome include:
+    1. Cervical rib 2. Carpal tunnel syndrome 3. TAO 4. Neoplasm
+    A.1,2,3&4 B.1&4 C.1,2&3 D.2,3&4
+    **Answer: B.1&4**
+
+55. Examples of bariatric surgery:
+    i) Pyloromyotomy ii) Sleeve gastrectomy iii) Roux-en-Y gastric bypass iv) Biliopancreatic diversion
+    a) i and ii b) i,ii,iii c) iii and iv d) ii and iii
+    **Answer: d) ii and iii**
+
+56. Indications for choledochotomy:
+    i) Palpable duct stone ii) History of obstructive jaundice iii) Dilated CBD iv) Raised ALP
+    a) i,ii b) i,ii,iii,iv c) i,iii,iv d) i,iv
+    **Answer: b) i,ii,iii,iv**
+
+57. Extraintestinal manifestations of Crohn's disease:
+    i) Erythema nodosum ii) Sarcoidosis iii) Aphthous ulcer iv) Pyoderma gangrenosum
+    a) i,iii,iv b) i,ii,iii c) i,iv d) ii,iii,iv
+    **Answer: a) i,iii,iv**
+
+58. Classical clinical features of intestinal obstruction:
+    i) Colicky abdominal pain ii) Constipation iii) Vomiting iv) Abdominal distension
+    a) i,ii b) i,ii,iii c) i,ii,iii,iv d) i,iii,iv
+    **Answer: c) i,ii,iii,iv**
+
+59. Criteria for stopping conservative treatment of appendicular mass:
+    i) Rising pulse rate ii) Vomiting iii) Spreading abdominal pain iv) Increasing size of mass
+    a) i,iii,iv b) i,ii,iii,iv c) iii,iv d) i,ii,iv
+    **Answer: b) i,ii,iii,iv**
+
+60. Factors associated with increased chance of malignant transformation in oral cavity lesion:
+    1. Male sex 2. Non-homogeneous lesion 3. Lateral border of tongue 4. Multiple lesions
+    a)1&4 b)1,2&3 c)2&4 d)2,3&4
+    **Answer: d)2,3&4**
+
+61. Nerves at risk of injury in submandibular sialadenectomy:
+    1. Lingual nerve 2. Hypoglossal nerve 3. Ansa cervicalis 4. Marginal mandibular nerve
+    a)1&4 b)3&4 c)1,2&4 d)1,2&3
+    **Answer: c)1,2&4**
+
+62. Regarding mammography, true:
+    1. High voltage, low amperage X-rays 2. MLO and craniocaudal views 3. Dose is 1 mGy per film 4. Useful as initial screening in asymptomatic women
+    a)1,2&3 b)1,2&4 c)2,3&4 d)2&3
+    **Answer: b)1,2&4**
+
+63. High-risk factors for differentiated thyroid carcinoma:
+    1. Size >4 cm 2. Extrathyroid spread 3. Distant metastasis 4. Female sex
+    a)1,2&4 b)2&3 c)1,2&3 d)2,3&4
+    **Answer: c)1,2&3**
+
+64. True about Ankle-Brachial Pressure Index (ABPI):
+    1. Normal range 0.9-1.4 2. Reliable in diabetes 3. <0.9 can be seen in tunica media sclerosis 4. <0.4 indicates CLTI
+    a)1&4 b)2&4 c)1,3&4 d)3&4
+    **Answer: c)1,3&4**
+
+65. Surgery for ileal and ileocaecal tuberculosis may involve:
+    (a) Stricturoplasty (b) Limited ileocolic resection (c) Right hemicolectomy (d) Ileotransverse anastomosis
+    **Answer: all**
+
+66. Which predispose to bile duct carcinoma?
+    (a) Ulcerative colitis (b) Gallbladder stones (c) Sclerosing cholangitis (d) Choledochal cyst (e) Colorectal carcinoma
+    **Answer: a, c, d**
+
+67. True statements in carcinoma of the prostate:
+    (a) Most common cancer in men over 65 (b) Mostly originates in peripheral zone (c) In younger age, 10-15% have family history (d) Can develop after prostatectomy for BPH (e) PSA is extremely reliable screening
+    **Answer: a, b, c, d**
+
+68. A pregnant woman with polyhydramnios is associated with:
+    1. PPROM 2. Renal agenesis 3. Down syndrome 4. IUGR
+    a)1&2 b)1,2&4 c)3&2 d)2,3&4
+    **Answer: d)2,3&4**
+
+69. Feature of prolonged pregnancy:
+    1. Polyhydramnios 2. Macrosomia 3. Postmaturity syndrome 4. Oligohydramnios
+    a)2&3 b)1,2&3 c)3,4&1 d)2&4
+    **Answer: a)2&3**
+
+---
+
+## ASSERTION AND REASON TYPE (Surgery only)
+
+Instructions: a. Both A&R true, R correct explanation; b. Both true, R not correct explanation; c. A true, R false; d. A false, R true.
+
+1. A: Around a quarter of acute appendicitis treated successfully with antibiotics needs surgery for recurrent symptoms in a year. R: Antibiotics work successfully in up to 90% of uncomplicated acute appendicitis.
+   **Answer: a**
+
+2. A: Eradication of H. pylori with medication can be achieved in 90% of patients with peptic ulcer and should be instituted. R: H. pylori is crucial in the development of peptic ulcer.
+   **Answer: a**
+
+3. A: Pilonidal sinus cases with minimal symptoms may be treated with cleaning, hygiene and shaving hair frequently. R: Natural history of pilonidal disease is usually one of regression.
+   **Answer: c**
+
+4. A: A mesenteric cyst moves freely from the right lower quadrant to left upper quadrant. R: The root of mesentery spans from the right sacroiliac joint to the left second lumbar transverse process.
+   **Answer: a**
+
+5. A: Radical excision is the treatment of choice for choledochal cysts. R: Excision of the cyst reduces the rate of recurrent cholangitis and malignancy.
+   **Answer: a**
+
+6. A: Insulin resistance in postoperative patients is primarily caused by increased glucose production. R: Decreased glucose uptake in peripheral tissues contributes significantly to insulin resistance.
+   **Answer: d**
+
+7. A: Muscle wasting during the catabolic phase involves activation of the ubiquitin–proteasome pathway. R: This pathway primarily enhances muscle protein synthesis.
+   **Answer: c**
+
+8. A: Blood transfusions should be given to achieve a haemoglobin level >10 g/dL in all patients. R: Achieving Hb >10 g/dL has been shown to be unnecessary and associated with increased morbidity and mortality compared to lower targets.
+   **Answer: d**
+
+9. A: Shaving immediately before surgery reduces the risk of SSIs compared to shaving the night before. R: Shaving the night before leads to minor skin injury that enhances bacterial colonization.
+   **Answer: a**
+
+10. A: Keloid scars extend beyond the boundaries of the original incision and do not spontaneously regress. R: Keloid scars contain excess collagen arranged in a disorganized pattern.
+    **Answer: a**
+
+11. A: A first-degree burn is characterised by redness, swelling, and pain. R: It involves only the epidermis.
+    **Answer: a**
+
+12. A: Escharotomy is performed to treat burns-induced compartment syndrome. R: Escharotomy helps to reduce blood loss from the burn wound.
+    **Answer: c**
+
+13. A: Mastitis is usual in lactating ladies. R: Trauma to nipple during lactation occurs during weaning period.
+    **Answer: b**
+
+14. A: All oral cancers originate from pre-existing lesions. R: Erythroleukoplakia, proliferative verrucous leukoplakia, and dyskeratosis congenita are among the highest risk lesions.
+    **Answer: d**
+
+15. A: Testicular torsion presents with acute sudden pain and swelling in the scrotum of adolescent age. R: Testicular torsion occurs between 10 to 25 years.
+    **Answer: a**
+
+16. A: Around a quarter of acute appendicitis cases treated successfully with antibiotics need surgery for recurrent symptoms within a year. R: Antibiotics work successfully in up to 90% of uncomplicated acute appendicitis.
+    **Answer: a**
+
+17. A: Eradication of H. pylori with medication can be achieved in 90% of patients with peptic ulcer and should be instituted. R: H. pylori is crucial in the development of peptic ulcer.
+    **Answer: a**
+
+18. A: Pilonidal sinus cases with minimal symptoms may be treated with cleaning, hygiene, and shaving hair frequently. R: Natural history of pilonidal disease is usually one of regression.
+    **Answer: c**
+
+19. A: A mesenteric cyst moves freely from the right lower quadrant to the left upper quadrant. R: The root of mesentery spans from the right sacroiliac joint to the left second lumbar transverse process.
+    **Answer: a**
+
+20. A: Radical excision is the treatment of choice for choledochal cysts. R: Excision of the cyst reduces the rate of recurrent cholangitis.
+    **Answer: a**
+
+21. A: Gas gangrene presents with pain, swelling, crepitus, and systemic toxicity. R: Presence of crepitus is due to gas production from anaerobic bacterial metabolism.
+    **Answer: a**
+
+22. A: Mammography is the first-line investigation for all breast lumps. R: Mammography is highly sensitive in detecting breast lumps.
+    **Answer: d**
+
+23. A: Varicose veins are due to venous valve incompetence. R: Failure of venous valves leads to retrograde blood flow and venous stasis.
+    **Answer: a**
+
+24. A: A tension pneumothorax should be treated with immediate chest tube placement or needle decompression. R: Needle decompression is the definitive treatment for pneumothorax.
+    **Answer: c**
+
+25. A: Total thyroidectomy is the preferred treatment for papillary thyroid carcinoma. R: Because papillary carcinoma is an undifferentiated tumour.
+    **Answer: c**
+
+26. A: Physiological relaxation of LES in response to gastric fundus stretching after a meal is called transient LES relaxations (TLSRs). R: An increased number of TLSRs and more compliant LOS would decrease reflux.
+    **Answer: c**
+
+27. A: One characteristic of H. pylori is its ability to hydrolyze urea, producing ammonia. R: The effect of ammonia on antral G cells is to cause inhibition of gastrin via negative feedback.
+    **Answer: c**
+
+28. A: The best way to easily diagnose small bowel obstruction is by identifying multiple air-gas shadows on X-ray abdomen. R: Multiple air-gas shadows indicate trapped gas within the obstructed small intestine.
+    **Answer: a**
+
+29. A: Pigmented stones are primarily formed in the common bile duct. R: Pigmented stones are due to differences in the ratio of bile acids to cholesterol.
+    **Answer: d**
+
+30. A: Investigation of choice for diagnosing DVT is D-dimer. R: A positive D-dimer mandates further investigation with Doppler USG to confirm DVT.
+    **Answer: d**
+
+31. A: Around a quarter of acute appendicitis cases treated successfully with antibiotics need surgery for recurrent symptoms in a year. R: Antibiotics work successfully in up to 90% of uncomplicated acute appendicitis.
+    **Answer: a**
+
+32. A: Eradication of H. pylori with medication can be achieved in 90% of patients with peptic ulcer and should be instituted. R: H. pylori is crucial in the development of peptic ulcer.
+    **Answer: a**
+
+33. A: Pilonidal sinus cases with minimal symptoms may be treated with cleaning, hygiene and shaving hair frequently. R: Natural history of pilonidal disease is usually one of regression.
+    **Answer: c**
+
+34. A: A mesenteric cyst moves freely from the right lower quadrant to the left upper quadrant. R: The root of mesentery spans from the right sacroiliac joint to the left second lumbar transverse process.
+    **Answer: a**
+
+35. A: Radical excision is the treatment of choice for choledochal cysts. R: Excision of the cyst reduces the rate of recurrent cholangitis.
+    **Answer: a**
+
+36. A: Laparoscopic cholecystectomy is preferred over open cholecystectomy. R: It is associated with a shorter recovery time.
+    **Answer: a**
+
+37. A: Octreotide is used in the management of variceal bleeding. R: It reduces splanchnic blood flow and portal pressure.
+    **Answer: a**
+
+38. A: ERCP is a diagnostic tool for choledocholithiasis. R: ERCP allows both visualization and therapeutic intervention.
+    **Answer: a**
+
+39. A: H. pylori infection is a common cause of peptic ulcer disease. R: H. pylori increases gastric acid secretion significantly.
+    **Answer: c**
+
+40. A: In patients undergoing gastrectomy, anemia is a common complication in the late postoperative period. R: The stomach plays a vital role in iron and B12 absorption, and either or both can become deficient.
+    **Answer: b**
+
+41. A: In general anesthesia, rapid sequence induction is the technique of choice in any surgery requiring endotracheal intubation. R: The airway is secured quickly to prevent aspiration of gastric contents.
+    **Answer: c**
+
+42. A: In cholecystectomy, when there is bleeding adjacent to Calot's triangle, pressure should be applied instead of blind clamping. R: Common bile duct injury is a serious complication of cholecystectomy.
+    **Answer: a**
+
+43. A: In patients with carcinoma of the colon, the level of tumor marker CEA is measured. R: CEA is a highly specific and sensitive tumor marker.
+    **Answer: c**
+
+44. A: In a patient with appendicular mass who is clinically stable, standard treatment is the Ochsner-Sherren regimen. R: As an appendicular mass is inflammatory, surgery is difficult and associated with complications.
+    **Answer: a**
+
+45. A: Colonoscopy is the preferred method for screening of colorectal cancer in high-risk patients. R: Colonoscopy allows for direct visualization and biopsy of colorectal lesions.
+    **Answer: a**
+
+46. A: The apple core sign on barium enema is characteristic of colorectal cancer. R: This sign occurs due to an annular mass that narrows the lumen, indicative of a malignant lesion.
+    **Answer: a**
+
+47. A: Most common cause of upper GI bleed is peptic ulcer disease. R: Peptic ulcers can erode into blood vessels causing bleeding in the stomach or duodenum.
+    **Answer: a**
+
+48. A: Colon cancer is the most common type of GI malignancy. R: Colon cancer usually presents with weight loss, changes in bowel habit and blood in stool.
+    **Answer: b**
+
+49. A: A high-fibre diet is helpful in the management of diverticular disease. R: A high-fibre diet prevents constipation, which is a key factor in the development of diverticulosis.
+    **Answer: a**
+
+50. A: Thyroid nodule moves up with deglutition. R: Condensation of pretracheal fascia attaches to cricoid cartilage.
+    **Answer: a**
+
+51. A: Excision and eversion of tunica vaginalis sac is done in hydrocele. R: Hydrocele is accumulation of fluid under the tunica vaginalis due to excess secretion.
+    **Answer: a**
+
+52. A: Septic shock is mostly seen in gram-negative bacterial infections. R: Exotoxin is released by gram-negative bacteria.
+    **Answer: c**
+
+53. A: A patient following RTA lost consciousness in five minutes and regained it, but later had loss of consciousness again. R: Patient has extradural hematoma with lucid interval.
+    **Answer: a**
+
+54. A: Crystalloids are preferred for initial 24 hours resuscitation in burns patient. R: In initial 24 hours colloids will leak out due to high capillary permeability.
+    **Answer: a**
+
+55. A: Fistula in ano is a chronic abnormal communication running outward from the sigmoid colon lumen to the external skin. R: Usually results from cryptoglandular abscess.
+    **Answer: d**
+
+56. A: Damage to the iliohypogastric nerve (during appendicitis) is a cause of inguinal hernia. R: Due to weakness of the conjoint tendon.
+    **Answer: c**
+
+57. A: Kehr's Sign is seen in splenic rupture. R: Periumbilical pain is present due to irritation of dermatomes.
+    **Answer: c**
+
+58. A: A nasogastric tube should be placed in a patient with suspected carcinoma breast. R: NG tube will help to decompress the stomach.
+    **Answer: d**
+
+59. A: A sentinel lymph node biopsy is often performed during melanoma. R: Identifying the sentinel node allows accurate staging and guides further treatment.
+    **Answer: a**
+
+60. A: Within 48 hours of skin grafting, most of the skin graft survives. R: It is due to plasma imbibition.
+    **Answer: a**
+
+61. A: If suture marks are to be prevented, skin sutures should be removed by 1 week. R: It is due to usage of polyfilament sutures.
+    **Answer: c**
+
+62. A: Neurofibromatosis-2 is associated with Schwannoma. R: Adenoma sebaceum is a feature of tuberous sclerosis.
+    **Answer: b**
+
+63. A: A mesenteric cyst moves freely from the right lower quadrant to the left upper quadrant. R: The root of mesentery spans from the right sacroiliac joint to the left second lumbar transverse process.
+    **Answer: a**
+
+64. A: Gallbladder polyps of size >1 cm is an indication for prophylactic cholecystectomy. R: GB polyp has no risk for malignancy irrespective of its size.
+    **Answer: c**
+
+65. A: Barrett's oesophagus increases the risk of GEJ adenocarcinoma. R: Barrett's oesophagus is metaplastic change in the oesophageal mucosa as a result of GERD.
+    **Answer: a**
+
+66. A: Most common site of abdominal tuberculosis is the ileocecal region. R: Peyer's patches are commonly seen in this region.
+    **Answer: a**
+
+67. A: Appendiceal NETs are the most common neoplasm in the appendix. R: An oncological right hemicolectomy should be performed for tumours >20mm in size.
+    **Answer: a**
+
+68. A: Prevention of dilutional coagulopathy is central to damage control resuscitation. R: Resuscitation with a balanced transfusion regimen approximating whole blood is ideal.
+    **Answer: a**
+
+69. A: Extranodal extension is included in TNM staging and will upstage N-stage in oral cavity SCC. R: N2 lesions are grouped as stage IV.
+    **Answer: b**
+
+70. A: Risk of amputation in arterial claudication patients is 50% in 5 years. R: Two main aims of treatment of claudication are prevention of cardiovascular morbidity and symptom improvement.
+    **Answer: d**
+
+71. A: In Graves' disease with large goiter, thyroidectomy is the preferred method of ablation. R: Radioactive iodine ablation may exacerbate.
+    **Answer: a**
+
+72. A: Inflammatory processes lead to increased capillary permeability maximally in the first 24 hours post-burn. R: Fluid resuscitation with colloid should be done after 12 hours post-burn.
+    **Answer: b**
+
+73. A: Prevention of dilutional coagulopathy is central to damage control resuscitation. R: Resuscitation with balanced transfusion regimen approximating whole blood is ideal.
+    **Answer: a**
+
+74. A: Extra nodal extension is included in TNM staging and will upstage N-stage in oral cavity SCC. R: N2 lesions are grouped as stage IV.
+    **Answer: b**
+
+75. A: Risk of amputation in arterial claudication patient is 50% in 5 years duration. R: Two main aims of treatment of claudication are prevention of cardiovascular morbidity and symptom improvement.
+    **Answer: d**
+
+76. A: Graves' disease with large goiter — thyroidectomy is the preferred method of ablation. R: Radioactive iodine ablation may exacerbate.
+    **Answer: a**
+
+77. A: Gastric volvulus commonly presents with severe epigastric pain and vomiting. R: Gastric volvulus occurs due to abnormal rotation of the stomach around its axis, leading to obstruction.
+    **Answer: a**
+
+78. A: Benign Prostatic Hyperplasia (BPH) commonly affects the transitional zone of the prostate. R: The transitional zone surrounds the urethra and is the primary site of hyperplastic changes in BPH.
+    **Answer: a**
+
+79. A: Gallstones can remain asymptomatic for a lifetime in many individuals. R: Small gallstones are more likely to cause symptoms than large ones.
+    **Answer: a**
+
+80. A: Rovsing's sign is positive in acute appendicitis. R: Rovsing's sign is elicited by deep palpation of the left lower quadrant, which causes induced pain in the right lower quadrant.
+    **Answer: a**
+
+81. A: Propofol is commonly used for the induction of general anesthesia. R: Propofol provides rapid onset and smooth induction with antiemetic properties.
+    **Answer: a**
+
+82. A: Ketoacidosis is one of the serious complications in pregestational diabetes. R: Hyperglycemia and ketosis lead to volume depletion and metabolic acidosis.
+    **Answer: a**
+
+83. A: For a patient with acute limb ischemia, a thorough cardiology evaluation is mandatory. R: Source of emboli are left atrium in cardiac arrhythmia and mural thrombus following MI.
+    **Answer: a**
+
+84. A: A patient with Achalasia cardia typically presents with dysphagia, regurgitation, and heartburn. R: There is a failure of contraction of LES in Achalasia Cardia.
+    **Answer: c**
+
+85. A: A 50-year-old female singer, post-thyroidectomy, complains of not being able to sing in high-pitch voice. R: Recurrent laryngeal nerve injury is a common cause of vocal cord paralysis post-thyroidectomy.
+    **Answer: b**
+
+86. A: A 70-year-old male presented with abdominal distension, vomiting, and obstipation for 2 days. X-ray abdomen showed a coffee bean sign. R: Paralytic ileus is a state in which there is failure of transmission of peristaltic waves secondary to neuromuscular failure.
+    **Answer: d**
+
+87. A: About 5-10% of patients post-gastrectomy can develop symptoms of epigastric fullness, sweating, tachycardia, colic, and diarrhea after food. R: Early dumping syndrome is due to the high osmotic load of the food reaching small bowel.
+    **Answer: a**
+
+---
+
+## CLINICAL CASE BASED (Surgery only – selected)
+
+**Case 1:** 68-year-old man with weight loss, jaundice, itching, enlarged liver with palpable gallbladder.
+1. Most probable diagnosis? a. Pancreatic head cancer b. Periampullary Cancer c. Both A & B d. Klatskin tumour
+   **Answer: c. Both A & B (Courvoisier's law)**
+2. Which is unlikely? a. Hb 8 b. Albumin 2 c. INR 2.8 d. ALP 30 units
+   **Answer: d. ALP 30 units (should be elevated)**
+3. Follow-up marker? a. AFP b. CEA c. CA 19-9 d. LDH
+   **Answer: c. CA 19-9**
+4. Likely sign? a. Troisier's sign b. Trousseau's sign c. Double duct sign d. All
+   **Answer: c. Double duct sign**
+5. True about condition? a. Duodenal obstruction in 15% b. With metastases survival 18-24 months c. Diabetes not a risk factor d. Long-term relief after ERCP with plastic stents
+   **Answer: a. Duodenal obstruction in 15%**
+
+**Case 2:** 4-5-year-old man with recurrent upper quadrant pain, no fever, liver enlarged, no palpable gallbladder, USG cyst in right liver, eosinophilia.
+6. Most probable diagnosis? a. Simple cyst b. Amoebic abscess c. Hydatid cyst d. HCC
+   **Answer: c. Hydatid cyst**
+7. Most probable organism? a. E. histolytica b. E. granulosus c. E. multilocularis d. F. hepatica
+   **Answer: b. E. granulosus**
+8. Classic findings except? a. Increased AFP b. 5 arc patterns in counter current immune electrofluorescence c. Cartwheel sign on USG d. Split wall sign on CT
+   **Answer: a. Increased AFP**
+9. Best treatment? a. Cystopericystectomy b. PAIR c. Medical d. Radiotherapy
+   **Answer: a. Cystopericystectomy**
+10. Best drug in medical treatment? a. Metronidazole b. Albendazole c. Tinidazole d. Praziquantel
+    **Answer: b. Albendazole**
+
+**Case 3:** 75-year-old male with gross abdominal distension, constipation 4 days, altered bowel habits, blood and mucus per rectum for 4 months.
+11. Which doesn't fit as diagnosis? A. Carcinoma rectum B. Carcinoma sigmoid C. Carcinoma splenic flexure D. Diverticulitis
+    **Answer: D. Diverticulitis**
+12. Sister Mary Joseph nodule commonly seen in? A. Stomach cancer B. Ovarian cancer C. Pancreatic cancer D. Colon cancer
+    **Answer: A. Stomach cancer**
+13. Most common malignant tumour of liver? A. Hepatoma B. Angiosarcoma C. Lymphoma D. Secondaries
+    **Answer: D. Secondaries**
+14. Percentage of gallstones radio-opaque? A. 10% B. 40% C. 70% D. 90%
+    **Answer: A. 10%**
+
+**Case 4:** 35-year-old man fell from bike, hit belly, pale, thready pulse 110, BP 100/70, conscious.
+15. Most probable cause? a) Spinal injury b) SDH c) Liver injury d) Dehydration
+    **Answer: c) Liver injury**
+16. Color tag during triage? a) Red b) Green c) Yellow d) Black
+    **Answer: a) Red**
+17. In primary survey "cABCDE", first "c" stands for? a) Circulation and hemorrhage control b) Control of external exsanguinating hemorrhage c) Cervical spine stabilization d) Cross match
+    **Answer: b) Control of external exsanguinating hemorrhage**
+18. After resuscitation, BP 120/80, pulse 90. Next step? a) Chest X-ray b) eFAST c) ABG d) CT chest and abdomen
+    **Answer: b) eFAST**
+19. Pringle's manoeuvre is done to treat which injury? a) Spleen b) Liver c) Duodenum d) Aorta
+    **Answer: b) Liver**
+
+**Case 5:** 40-year-old man with lacerated wound leg 7x3x2 cm, grossly contaminated.
+20. Which method not preferred? A. Tight primary closure B. Healing by secondary intention C. Delayed closure D. Lavage & loose approximation
+    **Answer: A. Tight primary closure**
+21. Delayed wound healing seen in all except? A. Malignancy B. Hypertension C. Diabetes D. Infection
+    **Answer: B. Hypertension**
+22. Timing of suture removal over legs? A.5 Days B.7 Days C.10 Days D.14 Days
+    **Answer: D.14 Days**
+23. Which is not an example of a clean wound? A. Inguinal Hernia B. Cholecystectomy C. Thyroidectomy D. Mastectomy
+    **Answer: B. Cholecystectomy (clean-contaminated)**
+24. Most common site of keloid? A. Face B. Leg C. Presternal area D. Arm
+    **Answer: C. Presternal area**
+
+**Case 6:** 52-year-old woman with painless breast lump, blood-tinged nipple discharge, firm irregular lump in upper outer quadrant, spiculated mass with microcalcifications on mammography, biopsy invasive ductal carcinoma.
+25. Most likely diagnosis? a) Fibroadenoma b) Invasive ductal carcinoma
+    **Answer: b) Invasive ductal carcinoma**
+26. Most appropriate next step? a) Observation b) FNAC for staging c) Modified radical mastectomy d) Core needle biopsy for staging
+    **Answer: c) Modified radical mastectomy (or d? Answer key says 26.c)**
+27. Most common site for metastasis in invasive ductal carcinoma? a) Brain b) Bone c) Liver d) Lungs
+    **Answer: b) Bone**
+28. If ER+ and HER2-, most appropriate treatment? a) Chemo + radiation b) Hormonal therapy c) Trastuzumab d) Surgery only
+    **Answer: b) Hormonal therapy**
+29. Postmenopausal, adjuvant therapy indicated? a) Chemo alone b) Hormone therapy c) Herceptin d) Radiation only
+    **Answer: b) Hormone therapy**
+
+**Case 7:** 25-year-old female with sudden onset RLQ pain, fever, nausea, tenderness at McBurney's point.
+30. Most likely diagnosis? a) Ectopic pregnancy b) PID c) Acute appendicitis d) Ruptured ovarian cyst
+    **Answer: c) Acute appendicitis**
+
+**Case 8:** 65-year-old male with abdominal pain, distension, vomiting 24 hours, X-ray multiple air-fluid levels.
+31. Diagnosis? a) Small bowel obstruction b) GERD c) Acute pancreatitis d) Acute cholecystitis
+    **Answer: a) Small bowel obstruction**
+
+**Case 9:** Obese 45-year-old female with severe RUQ pain aggravated by fatty meals, Murphy's sign positive.
+32. Most likely diagnosis? a) Acute appendicitis b) Hepatitis c) Acute pancreatitis d) Acute cholecystitis
+    **Answer: d) Acute cholecystitis**
+
+**Case 10:** 45-year-old with sudden epigastric pain radiating to back, elevated amylase and lipase.
+33. Most appropriate initial management? a) Laparotomy and drainage b) ERCP c) IV fluids and pain control d) IV antibiotics
+    **Answer: c) IV fluids and pain control**
+
+**Case 11:** 45-year-old male with abdominal pain, distension, vomiting, constipation.
+34. Most appropriate first step? a) USG abdomen b) X-ray abdomen erect c) IV antibiotics d) Colonoscopy
+    **Answer: b) X-ray abdomen erect**
+
+**Case 12:** 43-year-old male with hard scrotal swelling (right), lack of testicular sensation, can get above swelling.
+35. Most probable diagnosis? a) Seminoma b) Hydrocele c) Epididymal cyst d) Complete inguinal hernia
+    **Answer: b) Hydrocele**
+
+**Case 13:** Patient with hyperkalemia is managed with:
+36. a) Dextrose + Insulin infusion b) Ringer Lactate + Insulin c) Normal Saline d) Fresh frozen plasma
+    **Answer: a) Dextrose + Insulin infusion**
+
+**Case 14:** RTA patient with abdominal pain and distension, HR 120, BP 80/60, E-FAST positive.
+37. Next step? a) Emergency laparotomy b) CECT abdomen then laparotomy c) CECT abdomen and thorax then laparotomy d) MRI with peritoneal lavage
+    **Answer: a) Emergency laparotomy**
+
+**Case 15:** 55-year-old male with painless hematuria for 3 months, left lumbar ballotable lump 12x5 cm, left-sided varicocele.
+38. Most probable diagnosis? a) Renal cell carcinoma b) Hypernephroma c) Polycystic kidney d) A & B e) A & C
+    **Answer: d) A & B**
+
+**Case 16:** 45-year-old lady with 4x3 cm hard lump in upper outer quadrant of left breast for 4 months, history of breast implants 5 years back, lump fixed to breast tissue.
+39. Most suitable imaging modality? a) MRI b) CECT c) Mammography d) Ultrasonogram
+    **Answer: a) MRI**
+
+**Case 17:** 22-year-old male with clinical features of appendicitis.
+45. Not included in Murphy's triad? a) Abdominal pain b) Vomiting c) Tenderness d) Fever
+    **Answer: c) Tenderness (Murphy's triad for appendicitis: pain, vomiting, fever)**
+46. Most dangerous position of appendix? a) Rectocecal b) Paracolic c) Pelvic d) Retroperitoneal
+    **Answer: d) Retroperitoneal**
+47. True about appendicular mass except? a) Ochsner Sherren regimen followed b) Develops after 72 hours c) Fever present d) Operation to be done immediately
+    **Answer: d) Operation to be done immediately**
+48. Best test to diagnose acute appendicitis in a pregnant female? a) Alder's test b) Aerron's test c) Angell's test d) McBurney's test
+    **Answer: a) Alder's test**
+
+**Case 18:** 35-year-old male chronic smoker with bilateral lower leg pain, dorsalis pedis not palpable.
+49. Buerger's disease includes all except? A. Small arteries B. Medium arteries C. Large arteries D. Deep veins
+    **Answer: C. Large arteries**
+50. Drugs used for Buerger's disease? A. Xantinol nicotinate B. Propranolol C. Glyceryl trinitrate D. All
+    **Answer: D. All**
+51. Most common cause for gangrene of foot in above patient? A. MI B. TAO C. Atherosclerosis D. Raynaud's
+    **Answer: B. TAO**
+52. Buerger's disease affects all except? A. Lymphatics B. Veins C. Nerves D. Arteries
+    **Answer: A. Lymphatics**
+53. Commonest site of Buerger's disease? A. Femoral B. Popliteal C. Iliac D. Small vessels
+    **Answer: D. Small vessels**
+
+**Case 19:** 60-year-old male with COPD, right inguinal swelling for 2 years, gets up 3-4 times at night to pass urine, globular 3x2 cm swelling confined to right inguinal region, expansile cough impulse, reducible.
+54. All predispose except? a) Alcoholism b) Collagen vascular disease c) BPH d) Open appendicectomy
+    **Answer: a) Alcoholism**
+55. Cough impulse may be absent in? a) Femoral hernia b) Saphena varix c) Reducible inguinal hernia d) Paraumbilical hernia
+    **Answer: b) Saphena varix**
+56. Nerve not passing through inguinal canal? a) Ilioinguinal b) Iliohypogastric c) Genital branch of GFN d) Femoral branch of GFN
+    **Answer: d) Femoral branch of GFN**
+
+57. Mesh kept within the defect is known as? a) Onlay b) Sublay c) Inlay d) Underlay
+    **Answer: c) Inlay**
+
+**Case 20:** 43-year-old lady with left breast lump for 2 months, noticed after mild pain during menses, increased in size, no family history. 3x2 cm hard lump fixed to breast tissue in upper outer quadrant, 2x1 cm mobile node in left axilla.
+58. First investigation to diagnose? a) FNAC b) Digital mammogram c) Tru-cut biopsy d) MR mammogram
+    **Answer: a) FNAC**
+59. Investigation of choice for tissue diagnosis? a) Excision biopsy b) FNAC c) Incisional biopsy d) Core needle biopsy
+    **Answer: d) Core needle biopsy**
+60. Likely chance of HER-2 positive? a) 20-25% b) <10% c) 25-50% d) 5-10%
+    **Answer: a) 20-25%**
+61. If USG axilla shows multiple axillary and infraclavicular nodes enlarged with loss of fatty hilum, nodal staging? a) N2c b) N2b c) N2a d) N3a
+    **Answer: a) N2c**
+62. If genetic study positive for BRCA1, lifetime risk of ovarian cancer? a) 100% b) 80% c) 30% d) 40%
+    **Answer: d) 40%**
+63. Synthetic absorbable mesh? a) Polyester b) Polyglycolic c) Polypropylene d) All
+    **Answer: b) Polyglycolic**
+
+**Case 21:** 65-year-old male with massive abdominal distension, absolute constipation, abdominal pain 1 day, tachycardia, no guarding/rigidity, X-ray coffee bean sign.
+64. Diagnosis? (A) Small bowel obstruction (B) Sigmoid volvulus (C) Transverse colon volvulus (D) Hollow viscus perforation
+    **Answer: (B) Sigmoid volvulus**
+
+**Case 22:** 48-year-old male underwent open appendectomy for gangrenous appendicitis. On 5th postoperative day, high fever and pus discharge at wound site.
+66. a) Diagnosis? **Surgical Site Infection (SSI) – deep incisional**
+    b) Causative organisms? **E. coli, Bacteroides fragilis, Staphylococcus aureus, Streptococcus spp.**
+    c) Abnormality in blood investigation? **Leukocytosis, elevated CRP**
+    d) Surgical treatment? **Open wound, drain pus, irrigate, debride, leave open for secondary healing**
+    e) Prevention? **Pre-op antibiotic prophylaxis, aseptic technique, proper wound care, glycemic control**
+
+---
+
+**End of Surgery (General Surgery only) Questions**

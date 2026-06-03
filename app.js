@@ -125,16 +125,17 @@ const SUBJECTS = [
 
   // 3rd Year
   { id:'psm',          name:'PSM',            year:'3rd', icon:'PS', info:'500+ MCQs',            available:true },
-  { id:'medicine',     name:'Medicine',       year:'final', icon:'MD', info:'400+ MCQs',            available:true },
-  { id:'obgyn',        name:'Obs & Gynae',    year:'final', icon:'OG', info:'Coming Soon',          available:false },
-  { id:'surgery',      name:'Surgery',        year:'final', icon:'SU', info:'Coming Soon',          available:false },
+  { id:'medicine',     name:'Medicine',       year:'final', icon:'MD', info:'400+ MCQs',          available:true },
+  { id:'obstetrics',   name:'Obstetrics',     year:'final', icon:'OB', info:'200+ MCQs',          available:true },
+  { id:'gynaecology',  name:'Gynaecology',    year:'final', icon:'GY', info:'200+ MCQs',          available:true },
+  { id:'surgery',      name:'Surgery',        year:'final', icon:'SU', info:'200+ MCQs',          available:true },
+  { id:'orthopaedics', name:'Orthopaedics',   year:'final', icon:'OR', info:'150+ MCQs',          available:true },
+  { id:'paediatrics',  name:'Paediatrics',    year:'final', icon:'PD', info:'150+ MCQs',          available:true },
   { id:'ent',          name:'ENT',            year:'final', icon:'EN', info:'Coming Soon',          available:false },
   { id:'ophthalmology',name:'Ophthalmology',  year:'final', icon:'OP', info:'Coming Soon',          available:false },
-  { id:'paediatrics',  name:'Paediatrics',    year:'final', icon:'PD', info:'Coming Soon',          available:false },
   { id:'dermatology',  name:'Dermatology',    year:'final', icon:'DE', info:'Coming Soon',          available:false },
-  { id:'psychiatry',   name:'Psychiatry',     year:'final', icon:'PSY', info:'Coming Soon',         available:false },
-  { id:'orthopaedics', name:'Orthopaedics',   year:'final', icon:'OR', info:'Coming Soon',          available:false },
-  { id:'anaesthesia',  name:'Anaesthesia',    year:'final', icon:'ANE', info:'Coming Soon',         available:false },
+  { id:'psychiatry',   name:'Psychiatry',     year:'final', icon:'PSY',info:'Coming Soon',          available:false },
+  { id:'anaesthesia',  name:'Anaesthesia',    year:'final', icon:'ANE',info:'Coming Soon',          available:false },
   { id:'radiology',    name:'Radiology',      year:'final', icon:'RA', info:'Coming Soon',          available:false },
 ];
 
@@ -280,12 +281,17 @@ const ANATOMY_MAPPING = {
 
 // ── Subject to File Mapping ──
 const SUBJECT_FILES = {
-  'anatomy': 'Anatomy-Question-bank.txt',
-  'physiology': 'Physiology-Question-bank.txt',
+  'anatomy':      'Anatomy-Question-bank.txt',
+  'physiology':   'Physiology-Question-bank.txt',
   'biochemistry': 'Biochemistry-Question-bank.txt',
-  'psm': 'Community-Medicine-MCQ-Companion-Clean.txt',
-  'fmt': 'Forensic-Medicine-MCQ-Companion-Clean.txt',
-  'medicine': 'QUADCRACK IMA MSN KERALA 2025.. - Google Docs.txt'
+  'psm':          'Community-Medicine-MCQ-Companion-Clean.txt',
+  'fmt':          'Forensic-Medicine-MCQ-Companion-Clean.txt',
+  'medicine':     'general.txt',
+  'obstetrics':   'Obstetrics.txt',
+  'gynaecology':  'Obstetrics.txt',
+  'surgery':      'surgery.txt',
+  'orthopaedics': 'orthpedics.txt',
+  'paediatrics':  'Paediatrics.txt'
 };
 
 // ── Question Parser ──
@@ -319,104 +325,84 @@ function parseQuestions(text, subject = '') {
   const questions = [];
   // Normalize line endings and remove form feeds
   text = text.replace(/\r\n/g, '\n').replace(/\r/g, '\n').replace(/\f/g, '\n');
-  
-  // General parsing - no special subject header-skipping by default
-  
-  // Detect if this is QUADCRACK format (has "Options:" with numbered answers)
+
+  // Detect QUADCRACK format
   const isQuadcrackFormat = /Options:\s*\n\s*\d+\./m.test(text);
-  
-  if (isQuadcrackFormat) {
-    return parseQuadcrackFormat(text);
-  }
-  
-  // Split by answer marker (handle both ✅ Answer: and plain Answer:)
+  if (isQuadcrackFormat) return parseQuadcrackFormat(text);
+
+  // Detect bold-answer format: **Answer: ...** used in surgery/ortho/paeds/obs/medicine files
+  const isBoldAnswerFormat = /\*\*Answer:/i.test(text);
+  if (isBoldAnswerFormat) return parseBoldAnswerFormat(text);
+
+  // Original format: split by Answer: marker
   const blocks = text.split(/(?:✅\s*)?Answer:\s*/i);
-  
+
   for (let i = 0; i < blocks.length - 1; i++) {
     const answerAndNext = blocks[i + 1];
     let questionBlock = blocks[i];
-    
-    // Extract answer (first line of next block)
+
     const answerLine = answerAndNext.split('\n')[0].trim();
-    
-    // Fix parser bug: strip previous answer from the start of the question block
+
     if (i > 0) {
       const lines = questionBlock.split('\n');
-      lines.shift(); // Remove the answer line
+      lines.shift();
       questionBlock = lines.join('\n');
     }
-    
-    // Clean up headers before the first question marker
+
     const questionMarkerMatch = questionBlock.match(/\b(xvi{0,3}|xi{0,3}v?|i{1,3}v?|vi{0,3}|ix|x{1,2}i{0,3}v?|x{1,3}|[0-9]+)\s*[\.\)]\s+/i);
     if (questionMarkerMatch) {
       const markerIdx = questionBlock.indexOf(questionMarkerMatch[0]);
       questionBlock = questionBlock.substring(markerIdx);
     }
-    
-    // Check if this is a "Which are CORRECT" type question with i), ii), iii), iv) format
-    const isCorrectTypeQuestion = /which.*correct|which.*true/i.test(questionBlock) && 
-                                  /\bi\)/i.test(questionBlock) && 
+
+    const isCorrectTypeQuestion = /which.*correct|which.*true/i.test(questionBlock) &&
+                                  /\bi\)/i.test(questionBlock) &&
                                   /\bii\)/i.test(questionBlock);
-    
+
     let options = [];
     let questionText = '';
     let isSpecialFormat = false;
-    
+
     if (isCorrectTypeQuestion) {
-      // Parse special format: Which are CORRECT about X?
-      // i) statement
-      // ii) statement
-      // etc.
-      // a) i, ii
-      // b) i, iii
-      
       const mainStatementMatches = [...questionBlock.matchAll(/^\s*([iv]+)\)\s*(.+?)(?=\n\s*[iv]+\)|$)/gims)];
       const optionsMatches = [...questionBlock.matchAll(/^([a-d])\)\s*(.+?)(?=\n[a-d]\)|\n(?:✅\s*)?Answer|\n\n[a-d]\)|$)/gims)];
-      
+
       if (mainStatementMatches.length >= 2 && optionsMatches.length >= 2) {
-        // Extract question text (before first i))
         const firstIIdx = questionBlock.search(/\n\s*i\)/i);
         if (firstIIdx !== -1) {
           questionText = questionBlock.substring(0, firstIIdx).trim();
           questionText = questionText.replace(/^(xvi{0,3}|xi{0,3}v?|i{1,3}v?|vi{0,3}|ix|x{1,2}i{0,3}v?|x{1,3}|[0-9]+)\s*[\.\)]\s*/i, '').trim();
-          
-          // Build statement list for display
+
           const statements = mainStatementMatches.map((m, idx) => ({
             number: idx + 1,
             label: m[1].toLowerCase(),
             text: m[2].replace(/\n+/g, ' ').trim()
           }));
-          
-          // Build combination options
+
           options = optionsMatches.map(m => ({
             label: m[1].toLowerCase(),
             text: m[2].replace(/\n+/g, ' ').trim(),
-            statements: statements // Include statements for rendering
+            statements: statements
           }));
-          
+
           isSpecialFormat = true;
         }
       }
     }
-    
+
     if (!isSpecialFormat) {
-      // Original format: Find options in question block
       const optionMatches = [...questionBlock.matchAll(/^([a-d])[.)]\s*(.+?)(?=\n[a-d][.)]\s|\n(?:✅\s*)?Answer|\n\n[a-d][.)]\s|$)/gims)];
-      
       if (optionMatches.length < 2) continue;
-      
-      // Extract question text - find the text before the options
+
       const firstOptionIdx = questionBlock.search(/\n[a-d][.)]\s/i);
       if (firstOptionIdx === -1) continue;
-      
+
       questionText = questionBlock.substring(0, firstOptionIdx).trim();
-      // Remove question number prefix (roman numerals, plain numbers)
       questionText = questionText.replace(/^(xvi{0,3}|xi{0,3}v?|i{1,3}v?|vi{0,3}|ix|x{1,2}i{0,3}v?|x{1,3}|[0-9]+)\s*[\.\)]\s*/i, '').trim();
-      // Clean up extra whitespace
       questionText = questionText.replace(/\n+/g, ' ').trim();
-      
+
       if (!questionText || questionText.length < 10) continue;
-      
+
       options = [];
       for (const m of optionMatches) {
         const label = m[1].toLowerCase();
@@ -424,34 +410,21 @@ function parseQuestions(text, subject = '') {
         if (text) options.push({ label, text });
       }
     }
-    
+
     if (options.length < 2) continue;
-    
-    // Figure out correct answer label(s) robustly using word boundaries so we don't
-    // accidentally match letters inside words. Support answers like: "a", "a,c", "A and C".
+
     const answerLower = answerLine.toLowerCase();
     let correctLabel = '';
-
-    // Prefer an explicit starting letter like "a.", "a)" at the beginning of the line
     const labelMatch = answerLower.match(/^\s*([a-e])[.)\s]/i);
     if (labelMatch) {
       correctLabel = labelMatch[1].toLowerCase();
     } else {
-      // Extract standalone letters (a-e) using word boundaries to avoid matching letters inside words
       const letterMatches = [...answerLower.matchAll(/\b([a-e])\b/gi)].map(m => m[1].toLowerCase());
-      // Filter letters that actually correspond to one of the option labels
       const optionLabels = options.map(o => o.label.toLowerCase());
       const filtered = letterMatches.filter(l => optionLabels.includes(l));
-      if (filtered.length === 1) {
+      if (filtered.length >= 1) {
         correctLabel = filtered[0];
-      } else if (filtered.length > 1) {
-        // Multi-answer detected; for now pick the first one as the primary correct
-        // and store the full set in the question object for potential future multi-select support
-        correctLabel = filtered[0];
-        // attach a multiCorrect array so UI improvements can use it later
-        // (we will add it to the question object below before pushing)
       } else {
-        // Try to match by option text snippet (fallback)
         for (const opt of options) {
           if (answerLower.includes(opt.text.substring(0, 20).toLowerCase())) {
             correctLabel = opt.label;
@@ -460,15 +433,14 @@ function parseQuestions(text, subject = '') {
         }
       }
     }
-    
+
     if (!correctLabel || !options.find(o => o.label === correctLabel)) continue;
-    
-    // If multiple letters were found earlier, record them on the question for accuracy
+
     const multiLetters = [...answerLine.toLowerCase().matchAll(/\b([a-e])\b/gi)].map(m => m[1].toLowerCase());
     const multiCorrect = multiLetters.filter(l => options.find(o => o.label === l));
-    
+
     const qObj = {
-      id: i + 1, // 1-based question number corresponding to the index in the question bank
+      id: i + 1,
       question: questionText,
       options: options,
       correct: correctLabel,
@@ -478,10 +450,92 @@ function parseQuestions(text, subject = '') {
     if (multiCorrect.length > 1) qObj.multiCorrect = multiCorrect;
     questions.push(qObj);
   }
-  
+
   return questions;
 }
 
+// ── Bold-Answer Format Parser (surgery, ortho, paeds, obs, medicine) ──
+function parseBoldAnswerFormat(text) {
+  const questions = [];
+  // Match numbered questions: "1. Question text\n   a. opt ...\n   **Answer: x**"
+  // Split by numbered question start
+  const qBlocks = text.split(/\n(?=\d+[\.\)]\s)/);
+
+  for (const block of qBlocks) {
+    const lines = block.split('\n').map(l => l.trim()).filter(l => l);
+    if (lines.length < 3) continue;
+
+    // Find answer line
+    const answerLineIdx = lines.findIndex(l => /^\*\*Answer:/i.test(l));
+    if (answerLineIdx === -1) continue;
+
+    const answerRaw = lines[answerLineIdx].replace(/\*\*/g, '').replace(/^Answer:\s*/i, '').trim();
+
+    // Question text: first line minus the number prefix
+    let questionText = lines[0].replace(/^\d+[\.\)]\s*/, '').trim();
+    // If question spans multiple lines before options, collect them
+    let optStart = -1;
+    for (let i = 1; i < answerLineIdx; i++) {
+      if (/^[a-dA-D][\.\)]\s/.test(lines[i])) { optStart = i; break; }
+    }
+    if (optStart === -1) continue;
+
+    // Collect continuation of question text (lines between line 0 and first option that are NOT options)
+    for (let i = 1; i < optStart; i++) {
+      if (!/^[a-dA-D][\.\)]\s/.test(lines[i]) && !/^\*\*/.test(lines[i])) {
+        questionText += ' ' + lines[i];
+      }
+    }
+    questionText = questionText.trim();
+    if (!questionText || questionText.length < 5) continue;
+
+    // Parse options: inline (space-separated) or one-per-line
+    const optionLines = lines.slice(optStart, answerLineIdx);
+
+    // Try inline: "a. opt1 b. opt2 c. opt3 d. opt4" all on one line
+    const fullOpts = optionLines.join(' ');
+    let options = [];
+    const inlineMatches = [...fullOpts.matchAll(/([a-dA-D])[\.\)]\s*(.+?)(?=\s[a-dA-D][\.\)]|$)/g)];
+    if (inlineMatches.length >= 2) {
+      options = inlineMatches.map(m => ({ label: m[1].toLowerCase(), text: m[2].trim() }));
+    } else {
+      // One per line
+      for (const line of optionLines) {
+        const m = line.match(/^([a-dA-D])[\.\)]\s*(.+)/);
+        if (m) options.push({ label: m[1].toLowerCase(), text: m[2].trim() });
+      }
+    }
+
+    if (options.length < 2) continue;
+
+    // Determine correct label from answer
+    const answerLower = answerRaw.toLowerCase();
+    let correctLabel = '';
+    const startMatch = answerLower.match(/^\s*([a-e])[\.\)\s]/i);
+    if (startMatch) {
+      correctLabel = startMatch[1].toLowerCase();
+    } else {
+      const letters = [...answerLower.matchAll(/\b([a-e])\b/gi)].map(m => m[1].toLowerCase());
+      const optLabels = options.map(o => o.label);
+      const found = letters.filter(l => optLabels.includes(l));
+      if (found.length) correctLabel = found[0];
+    }
+
+    if (!correctLabel || !options.find(o => o.label === correctLabel)) continue;
+
+    questions.push({
+      id: questions.length + 1,
+      question: questionText,
+      options,
+      correct: correctLabel,
+      explanation: `Answer: ${answerRaw}`,
+      isSpecialFormat: false
+    });
+  }
+
+  return questions;
+}
+  
 function parseQuadcrackFormat(text) {
   // Parse QUADCRACK format - extract MULTIPLE RESPONSE MCQ section with Options:
   const questions = [];
@@ -1019,6 +1073,11 @@ document.addEventListener('DOMContentLoaded', () => {
   loadQuestions('anatomy');
   setTimeout(() => loadQuestions('physiology'), 500);
   setTimeout(() => loadQuestions('biochemistry'), 1000);
+  setTimeout(() => loadQuestions('medicine'), 1500);
+  setTimeout(() => loadQuestions('surgery'), 2000);
+  setTimeout(() => loadQuestions('orthopaedics'), 2500);
+  setTimeout(() => loadQuestions('paediatrics'), 3000);
+  setTimeout(() => loadQuestions('obstetrics'), 3500);
 
   // ── Exit modal wiring ──
   const exitModal     = document.getElementById('exitModal');

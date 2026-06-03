@@ -1,0 +1,425 @@
+# ORTHOPEDICS (from Surgery & Orthopedics section, pages 132-209)
+
+## SINGLE RESPONSE MCQs
+
+1. Which of the following muscles does not form the rotator cuff of the shoulder?
+   A) Subscapularis B) Supraspinatus C) Infraspinatus D) Teres Major
+   **Answer: D) Teres Major**
+
+2. Cock-up splint is used in the management of:
+   A) Ulnar nerve palsy B) Brachial plexus palsy C) Radial nerve palsy D) Combined Ulnar and Median nerve palsy
+   **Answer: C) Radial nerve palsy**
+
+3. All are clinical tests for meniscus except:
+   a) Childress test b) Apley's grinding test c) McMurray's test d) Pivot shift test
+   **Answer: d) Pivot shift test**
+
+4. The least likely cause for carpal tunnel syndrome is:
+   a) Pregnancy b) Chronic renal failure c) Hyperthyroidism d) Distal radius fracture
+   **Answer: c) Hyperthyroidism**
+
+5. Most common organism causing acute osteomyelitis is:
+   a) H. influenzae b) E. coli c) Salmonella typhi d) Staphylococcus aureus
+   **Answer: d) Staphylococcus aureus**
+
+6. Most common nerve injured in midshaft humerus fracture is:
+   a) Median nerve b) Radial nerve c) Anterior interosseous nerve d) Axillary nerve
+   **Answer: b) Radial nerve**
+
+7. Muscle spared in high radial nerve palsy is:
+   a) Triceps b) Brachioradialis c) ECRL d) ECRB
+   **Answer: a) Triceps**
+
+8. Displacement in Colles' fracture includes all except:
+   a) Impaction b) Lateral tilt c) Pronation d) Supination
+   **Answer: d) Supination**
+
+9. For which nerve is the cock-up splint used?
+   a) Ulnar nerve b) Median nerve c) Radial nerve d) Posterior interosseous nerve (PIN)
+   **Answer: c) Radial nerve**
+
+10. Medial epicondylitis of humerus is also known as:
+    a) Tennis elbow b) Golfer's elbow c) Student's elbow d) Nursemaid's elbow
+    **Answer: b) Golfer's elbow**
+
+11. All the following are deformities in rheumatoid hand except:
+    a) Swan neck deformity b) Boutonniere deformity c) Z deformity d) Gunstock deformity
+    **Answer: d) Gunstock deformity**
+
+12. Non-union is most commonly associated with fracture of:
+    a) Clavicle b) Scaphoid c) Patella d) Metacarpals
+    **Answer: b) Scaphoid**
+
+13. Which is not a malignant tumour? (orthopedic oncology)
+    a) Osteosarcoma b) Multiple myeloma c) Ewing's sarcoma d) Osteochondroma
+    **Answer: d) Osteochondroma**
+
+14. Which displacement of distal fragments is not seen in Colles' fracture?
+    a) Lateral displacement b) Lateral tilt c) Palmar displacement d) Supination
+    **Answer: c) Palmar displacement**
+
+15. Rolando fracture is:
+    a) Calcaneal fracture b) Fracture at the base of the first metacarpal c) Distal radius fracture d) C7 avulsion fracture
+    **Answer: b) Fracture at the base of the first metacarpal**
+
+16. Meralgia paresthetica is due to entrapment of which nerve?
+    a) Common peroneal nerve b) Lateral cutaneous nerve of thigh c) Radial nerve d) Supraclavicular nerve
+    **Answer: b) Lateral cutaneous nerve of thigh**
+
+17. Specific test for rheumatoid arthritis is:
+    a) Anti-CCP b) Anti-dsDNA c) Rheumatoid factor d) ANA
+    **Answer: a) Anti-CCP**
+
+18. A 27-year-old male with h/o RTA presented to the ER. He opens his eyes to painful stimuli, localizes pain and makes incomprehensible sounds. What is his GCS?
+    A. 10 B. 11 C. 9 D. 4
+    **Answer: C. 9 (E2, V2, M5 = 9) [Note: answer key said 11 but calculation shows 9]**
+
+19. The volume of post-void residual volume is said to be ___ or more in chronic urinary retention (not pure ortho, but included in ortho section sometimes)
+    A. 100 ml B. 250 ml C. 300 ml D. 500 ml
+    **Answer: D. 500 ml**
+
+20. Wagner's grading is done in:
+    a) Diabetic Foot b) Madhura foot c) PVOD d) Club foot
+    **Answer: a) Diabetic Foot**
+
+21. Figure of 8 bandages is applied in?
+    a) Rib fracture b) Lamelle fracture c) Clavicle fracture d) Proximal tibia fracture
+    **Answer: c) Clavicle fracture**
+
+22. Sequestration is a pathological hallmark of?
+    a) Acute Osteomyelitis b) Chronic Osteomyelitis c) Granulation tissue d) Myositis
+    **Answer: b) Chronic Osteomyelitis**
+
+23. Which of the following is a characteristic feature of a patient with a femoral neck fracture?
+    a) Shortening of the affected limb b) External rotation of the affected limb c) Limited range of motion of hip d) All of the above
+    **Answer: d) All of the above**
+
+24. Guyon's canal nerve is?
+    a) Median Nerve b) Ulnar Nerve c) Radial Nerve d) Musculoskeletal Nerve
+    **Answer: b) Ulnar Nerve**
+
+25. Pilon fracture is?
+    a) Intra-articular fracture of distal tibia b) Intra-articular fracture of proximal fibula c) Fracture Ulna d) Fracture Radius
+    **Answer: a) Intra-articular fracture of distal tibia**
+
+26. Judet view is used for?
+    a) Calcaneal fracture b) Vertebral fracture c) Hip dislocation d) Elbow dislocation
+    **Answer: c) Hip dislocation**
+
+27. Scissoring gait is seen in?
+    a) Cerebral Palsy b) Parkinson's disease c) Perthes disease d) CTEV
+    **Answer: a) Cerebral Palsy**
+
+28. Investigation of choice for lumbar prolapsed disc?
+    a) X-ray b) CT scan c) MRI d) Myelogram
+    **Answer: c) MRI**
+
+29. Garden's Classification is used for?
+    a) Intertrochanteric Fracture b) Fracture Neck of Femur c) Epiphyseal Separation d) Posterior Dislocation of Hip
+    **Answer: b) Fracture Neck of Femur**
+
+30. A child presents with a painless limp and limited hip abduction. X-ray shows flattening of the femoral head. Likely diagnosis:
+    a) Perthes disease b) Transient synovitis c) Septic arthritis d) Slipped capital femoral epiphysis
+    **Answer: a) Perthes disease**
+
+31. A newborn is diagnosed with clubfoot. The initial management is:
+    a) Surgery b) Manipulation and casting c) Bracing d) Observation
+    **Answer: b) Manipulation and casting**
+
+32. A 35-year-old male presents with low back pain radiating to the right leg. Straight leg raise is positive at 30°. Likely diagnosis:
+    a) Lumbar disc herniation b) Ankylosing spondylitis c) Spinal stenosis d) Sacroiliitis
+    **Answer: a) Lumbar disc herniation**
+
+33. Brown-Sequard syndrome is caused by:
+    a) Anterior cord injury b) Posterior cord injury c) Hemisection of the spinal cord d) Complete cord transection
+    **Answer: c) Hemisection of the spinal cord**
+
+34. The drug of choice for methicillin-resistant Staphylococcus aureus (MRSA) osteomyelitis is:
+    a) Vancomycin b) Ceftriaxone c) Ciprofloxacin d) Linezolid
+    **Answer: a) Vancomycin**
+
+---
+
+## MULTIPLE RESPONSE MCQs (Orthopedics only)
+
+1. Which of the following lesions are associated with recurrent shoulder dislocation?
+   1. Bankart's Lesion 2. Hill-Sachs Lesion 3. GLAD Lesion 4. Steida's Lesion
+   A.1,2&3 B.1&2 C.2&3 D.1,2,3&4
+   **Answer: A.1,2&3**
+
+2. The correct sequence of injury in terms of increasing severity of damage to nerve is:
+   1. Axonotmesis 2. Neurotmesis 3. Neuropraxia
+   A.123 B.321 C.132 D.312
+   **Answer: B.321 (neuropraxia, axonotmesis, neurotmesis)**
+
+3. Deformities seen in Colles' fracture:
+   1. Dorsal Displacement 2. Impaction 3. Lateral Tilt 4. Dorsal Tilt
+   A.2&4 B.1,2&4 C.1,2,3&4 D.3&4
+   **Answer: C.1,2,3&4**
+
+4. The characteristic features of basal cell carcinoma (ortho? but included)
+   1. Rolled edges 2. Hyperpigmentation 3. Ulceration 4. Lymph node spread
+   A.1,2,3 B.1,3,4 C.1,3 D.1,2,3,4
+   **Answer: A.1,2,3**
+
+5. Which of the following are considered premalignant or in situ lesions that can progress to squamous cell carcinoma? (ortho? skin cancer in ortho section)
+   1. Actinic keratosis 2. Bowen's disease 3. Keratoacanthoma 4. Basal cell papilloma
+   A.1,2,3 B.1,2 C.1,3,4 D.1,2,3,4
+   **Answer: A.1,2,3**
+
+6. Which of the following are true about renal cell carcinoma? (ortho? bone metastases)
+   1. Hematuria most common 2. Associated with VHL 3. Highly sensitive to chemo 4. Radical nephrectomy for localized
+   a. All wrong b. 1,2&4 c. 1,2&3 d. 2,3&4
+   **Answer: b. 1,2&4**
+
+7. What are the common complications of severe burns? (ortho? compartment syndrome)
+   1. Hypovolemic shock 2. Hyperkalemia 3. Decreased risk of infections 4. ARDS
+   a. 1,2,4 b. 1,2,3 c. All d. 2,3,4
+   **Answer: a. 1,2,4**
+
+8. Which of the following is a sign of tension pneumothorax? (trauma ortho)
+   1. Hyperresonance 2. Tracheal deviation 3. Muffled heart sounds
+   a. 1,2,3 b. 1 alone c. None d. 1 and 2
+   **Answer: a. 1,2,3**
+
+9. Which of the following are risk factors for deep vein thrombosis (DVT)? (ortho surgery)
+   1. Immobility 2. Smoking 3. Oral contraceptive use
+   a. 2,3 b. 1,2 c. None d. 1,2,3
+   **Answer: d. 1,2,3**
+
+10. Which of the following signs have been known to occur in acute pancreatitis? (ortho? not, but listed)
+    A) Trousseau's sign B) Courvoisier's sign C) Grey-Turner's sign D) Cullen's sign
+    **Answer: C, D**
+
+11. Which of the following are examples of closed loop obstruction? (not ortho)
+    A) Obstructed inguinal hernia B) Malignant colonic stricture with competent ileocecal valve C) Gallstone ileus D) Intussusception
+    **Answer: A, B**
+
+12. Regarding portal hypertension, which are TRUE? (not ortho)
+    A) If variceal bleeding unresponsive, next is TIPSS B) Non-variceal source seen in 50% C) Surgical shunt preferred over TIPSS D) Liver transplantation contraindicated
+    **Answer: A**
+
+13. The following are causes of pancreatitis: (not ortho)
+    A) Alcoholism B) Hypoparathyroidism C) Hyperkalemia D) Pancreas divisum
+    **Answer: A, D**
+
+14. Regarding ureteric injuries, which statements are TRUE? (not ortho)
+    A) Cut ends approximated over Double-J stent B) Boari surgery for upper ureter injury C) Urinary fistula through incision can be presentation D) In postoperative discovery, delayed repair indicated
+    **Answer: A, C, D**
+
+15. The conjoint tendon is formed by: (hernia anatomy)
+    a) Internal oblique aponeurosis b) External oblique aponeurosis c) Transversus abdominis d) Rectus abdominis
+    **Answer: a, c**
+
+16. Functions of the peritoneum include: (not ortho)
+    a) Fluid absorption b) Inflammatory responses c) Fibrinolytic activity d) Visceral lubrication
+    **Answer: a, b, c, d**
+
+17. Which of the following are common risk factors for developing colorectal cancer? (not ortho)
+    a) Family history b) Low fiber diet c) Smoking and alcohol d) Chronic IBD
+    **Answer: a, b, c, d**
+
+18. Which of the following are typical symptoms of acute appendicitis? (not ortho)
+    a) Nausea and vomiting b) Jaundice c) Fever d) Loss of appetite
+    **Answer: a, c, d**
+
+19. Which of the following are key components of ERAS? (not ortho)
+    a) Preop carbohydrate loading b) Epidural analgesia c) Early mobilization d) Minimize opioids e) Routine NG tubes
+    **Answer: a, b, c, d**
+
+20. T1N0M0 in carcinoma tongue is treated by: (not ortho)
+    a) Wide excision b) Brachytherapy c) Chemotherapy d) Hemiglossectomy
+    **Answer: a, b**
+
+21. Which of the following are brilliantly transilluminant? (not ortho)
+    a) Cystic hygroma b) Epididymal cyst c) Meningocele d) Ranula e) Thyroglossal cyst
+    **Answer: a, b, c, d**
+
+22. Which of the following are tests for Peripheral Arterial Diseases? (vascular, but may be in ortho)
+    a) Allen's test b) Buerger's test c) Ankle-brachial index d) Trendelenburg test
+    **Answer: a, c**
+
+23. Delphian nodes are: (ENT/thyroid)
+    a) Prelaryngeal lymph nodes b) Level 6 cervical nodes c) Level 5 nodes d) Lower jugular nodes
+    **Answer: a, b**
+
+24. Pilonidal sinus occurs commonly over:
+    a) Gluteal cleft b) Intermammary region c) Umbilicus d) Palm e) Interdigital web
+    **Answer: a**
+
+25. Causes of pancreatitis: (not ortho)
+    1. Alcohol 2. Post-ERCP 3. Snake bite 4. Trauma
+    a)1,2 b)1,2,3 c)1,2,3,4 d)1,3,4
+    **Answer: c)1,2,3,4**
+
+26. Causes of intestinal obstruction: (not ortho)
+    1. Adhesion 2. Trauma 3. Malignancy 4. Splenic flexure growth
+    a)1,2,3 b)1,2,3,4 c)1,3,4 d)1,4
+    **Answer: b)1,2,3,4**
+
+27. Post spinal headache is due to: (anesthesia)
+    1. Bifrontal location 2. Worse than lying down 3. Within 4 hours of dural puncture 4. Caffeine may help
+    a)1,2 b)1,4 c)1,2,3 d)1,2,3,4
+    **Answer: d)1,2,3,4**
+
+28. Inferior thyroid artery supplies: (anatomy)
+    1. Esophagus 2. Parathyroid 3. Thyroid 4. Thymus
+    A.1&3 B.1,2,&3 C.1,3,&4 D.1,2,3,4
+    **Answer: B.1,2,&3**
+
+29. MEN-2A (Sipple Syndrome) includes: (endocrine)
+    1. Pheochromocytoma 2. Hyperparathyroidism 3. Mucocutaneous neuroma 4. Medullary thyroid CA
+    A.1&2 B.1,2,&3 C.1,2,&4 D.1,2,3,4
+    **Answer: C.1,2,&4**
+
+30. Treatment of BPH includes: (urology)
+    1. Antibiotics 2. TURP 3. Tamsulosin 4. Dutasteride
+    A.1,2,3,4 B.1&4 C.2,3,4 D.3&4
+    **Answer: C.2,3,4**
+
+31. Cabana procedure is done for: (urology)
+    1. Carcinoma penis 2. Carcinoma testis 3. Carcinoma scrotum 4. Carcinoma bladder
+    A.1&2 B.1 alone C.1&3 D.2&3
+    **Answer: A.1&2**
+
+32. Causes of thoracic outlet syndrome include:
+    1. Cervical rib 2. Carpal tunnel syndrome 3. TAO 4. Neoplasm
+    A.1,2,3&4 B.1&4 C.1,2&3 D.2,3&4
+    **Answer: B.1&4**
+
+33. Examples of bariatric surgery: (not ortho)
+    i) Pyloromyotomy ii) Sleeve gastrectomy iii) Roux-en-Y iv) Biliopancreatic diversion
+    a) i,ii b) i,ii,iii c) iii,iv d) ii,iii
+    **Answer: d) ii,iii**
+
+34. Indications for choledochotomy: (not ortho)
+    i) Palpable duct stone ii) Obstructive jaundice history iii) Dilated CBD iv) Raised ALP
+    a) i,ii b) i,ii,iii,iv c) i,iii,iv d) i,iv
+    **Answer: b) i,ii,iii,iv**
+
+35. Extraintestinal manifestations of Crohn's disease: (not ortho)
+    i) Erythema nodosum ii) Sarcoidosis iii) Aphthous ulcer iv) Pyoderma gangrenosum
+    a) i,iii,iv b) i,ii,iii c) i,iv d) ii,iii,iv
+    **Answer: a) i,iii,iv**
+
+36. Classical clinical features of intestinal obstruction: (not ortho)
+    i) Colicky pain ii) Constipation iii) Vomiting iv) Distension
+    a) i,ii b) i,ii,iii c) i,ii,iii,iv d) i,iii,iv
+    **Answer: c) i,ii,iii,iv**
+
+37. Criteria for stopping conservative treatment of appendicular mass: (not ortho)
+    i) Rising pulse ii) Vomiting iii) Spreading pain iv) Increasing mass size
+    a) i,iii,iv b) i,ii,iii,iv c) iii,iv d) i,ii,iv
+    **Answer: b) i,ii,iii,iv**
+
+38. Factors associated with increased chance of malignant transformation in oral cavity lesion: (not ortho)
+    1. Male sex 2. Non-homogeneous 3. Lateral tongue 4. Multiple lesions
+    a)1&4 b)1,2&3 c)2&4 d)2,3&4
+    **Answer: d)2,3&4**
+
+39. Nerves at risk in submandibular sialadenectomy: (not ortho)
+    1. Lingual 2. Hypoglossal 3. Ansa cervicalis 4. Marginal mandibular
+    a)1&4 b)3&4 c)1,2&4 d)1,2&3
+    **Answer: c)1,2&4**
+
+40. Regarding mammography, true: (not ortho)
+    1. High voltage, low amperage 2. MLO and CC views 3. Dose 1 mGy/film 4. Screening in asymptomatic women
+    a)1,2&3 b)1,2&4 c)2,3&4 d)2&3
+    **Answer: b)1,2&4**
+
+41. High-risk factors for differentiated thyroid carcinoma: (not ortho)
+    1. Size >4 cm 2. Extrathyroid spread 3. Distant metastasis 4. Female sex
+    a)1,2&4 b)2&3 c)1,2&3 d)2,3&4
+    **Answer: c)1,2&3**
+
+42. True about Ankle-Brachial Pressure Index (ABPI): (vascular, but relevant)
+    1. Normal 0.9-1.4 2. Reliable in diabetes 3. <0.9 in tunica media sclerosis 4. <0.4 indicates CLTI
+    a)1&4 b)2&4 c)1,3&4 d)3&4
+    **Answer: c)1,3&4**
+
+43. Surgery for ileal and ileocaecal tuberculosis may involve: (not ortho)
+    (a) Stricturoplasty (b) Limited ileocolic resection (c) Right hemicolectomy (d) Ileotransverse anastomosis
+    **Answer: all**
+
+44. Which predispose to bile duct carcinoma? (not ortho)
+    (a) Ulcerative colitis (b) Gallstones (c) Sclerosing cholangitis (d) Choledochal cyst (e) Colorectal carcinoma
+    **Answer: a, c, d**
+
+45. True statements in carcinoma of the prostate: (not ortho)
+    (a) Most common cancer in men >65 (b) Mostly peripheral zone (c) 10-15% family history in young (d) Can occur after BPH surgery (e) PSA extremely reliable
+    **Answer: a, b, c, d**
+
+46. A pregnant woman with polyhydramnios is associated with: (not ortho)
+    1. PPROM 2. Renal agenesis 3. Down syndrome 4. IUGR
+    a)1&2 b)1,2&4 c)3&2 d)2,3&4
+    **Answer: d)2,3&4**
+
+47. Feature of prolonged pregnancy: (not ortho)
+    1. Polyhydramnios 2. Macrosomia 3. Postmaturity syndrome 4. Oligohydramnios
+    a)2&3 b)1,2&3 c)3,4&1 d)2&4
+    **Answer: a)2&3**
+
+---
+
+## ASSERTION AND REASON TYPE (Orthopedics only – selected)
+
+(Note: Most assertion-reason in the surgery section are general surgery; few orthopedic-specific ones are included below.)
+
+1. A: Keloid scars extend beyond the boundaries of the original incision and do not spontaneously regress. R: Keloid scars contain excess collagen arranged in a disorganized pattern.
+   **Answer: a**
+
+2. A: A first-degree burn is characterised by redness, swelling, and pain. R: It involves only the epidermis.
+   **Answer: a**
+
+3. A: Escharotomy is performed to treat burns-induced compartment syndrome. R: Escharotomy helps to reduce blood loss from the burn wound.
+   **Answer: c**
+
+4. A: Gas gangrene presents with pain, swelling, crepitus, and systemic toxicity. R: Presence of crepitus is due to gas production from anaerobic bacterial metabolism.
+   **Answer: a**
+
+5. A: Testicular torsion presents with acute sudden pain and swelling in the scrotum of adolescent age. R: Testicular torsion occurs between 10 to 25 years.
+   **Answer: a**
+
+6. A: For a patient with acute limb ischemia, a thorough cardiology evaluation is mandatory. R: Source of emboli are left atrium in cardiac arrhythmia and mural thrombus following MI.
+   **Answer: a**
+
+---
+
+## CLINICAL CASE BASED (Orthopedics only)
+
+**Case 1:** A 35-year-old male chronic smoker presented with bilateral lower leg pain. On examination: Dorsalis Pedis artery not palpable.
+   Q49. Buerger's disease includes all of the following except:
+        A. Small-sized arteries B. Medium-sized arteries C. Large arteries D. Deep veins
+        **Answer: C. Large arteries**
+   Q50. Drugs used for Buerger's disease include:
+        A. Xantinol nicotinate B. Propranolol C. Glyceryl trinitrate D. All of the above
+        **Answer: D. All of the above**
+   Q51. Most common cause for gangrene of foot in the above patient:
+        A. Myocardial infarction B. Thromboangiitis obliterans (TAO) C. Atherosclerosis D. Raynaud's disease
+        **Answer: B. TAO**
+   Q52. Buerger's disease affects all except:
+        A. Lymphatics B. Veins C. Nerves D. Arteries
+        **Answer: A. Lymphatics**
+   Q53. Commonest site of Buerger's disease is:
+        A. Femoral artery B. Popliteal artery C. Iliac artery D. Small vessels
+        **Answer: D. Small vessels**
+
+**Case 2:** A child presents with a painless limp and limited hip abduction. X-ray shows flattening of the femoral head.
+   Q30. Likely diagnosis: a) Perthes disease b) Transient synovitis c) Septic arthritis d) Slipped capital femoral epiphysis
+        **Answer: a) Perthes disease**
+
+**Case 3:** A newborn is diagnosed with clubfoot. The initial management is:
+   Q31. a) Surgery b) Manipulation and casting c) Bracing d) Observation
+        **Answer: b) Manipulation and casting**
+
+**Case 4:** A 35-year-old male presents with low back pain radiating to the right leg. Straight leg raise is positive at 30°.
+   Q32. Likely diagnosis: a) Lumbar disc herniation b) Ankylosing spondylitis c) Spinal stenosis d) Sacroiliitis
+        **Answer: a) Lumbar disc herniation**
+
+**Case 5:** A 48-year-old male underwent open appendectomy for gangrenous appendicitis. On 5th postoperative day, high fever and pus discharge at wound site. (Wound infection – general surgery, not ortho)
+
+**Case 6:** A 60-year-old male with a history of COPD presents with a swelling in the right inguinal region... (Hernia – general surgery)
+
+---
+
+**End of Orthopedics Questions**

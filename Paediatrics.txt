@@ -1,0 +1,951 @@
+# PEDIATRICS
+
+## SINGLE RESPONSE MCQs (Pages 397-413)
+
+1. The most common cause of congenital hypothyroidism:
+   a. Iodine transport disorders b. TSH beta gene defects c. Thyroid dysgenesis d. Pendred syndrome
+   **Answer: c. Thyroid dysgenesis**
+
+2. A three year old child can do the following EXCEPT:
+   a. Rides a tricycle b. Builds a tower of 9 cubes c. Knows his age and gender d. Draws a triangle
+   **Answer: d. Draws a triangle**
+
+3. Drug of choice for severe case of Leptospirosis:
+   a. Doxycycline 200 mg once daily orally for 7 days b. Penicillin 6-8 million units/m2/day IV 6th hourly for 7 days c. Amoxicillin 15mg/kg/dose orally thrice daily for 5 days d. Ceftriaxone 100 mg/kg/day IV in 2 divided doses for 7 days
+   **Answer: b. Penicillin 6-8 million units/m2/day IV 6th hourly for 7 days**
+
+4. Most common adverse effect of inhaled corticosteroids:
+   a. Tachycardia b. Loss of smell c. Oropharyngeal candidiasis d. Bradycardia
+   **Answer: c. Oropharyngeal candidiasis**
+
+5. Which of the following is NOT a symptom of celiac disease?
+   a. Short stature b. Precocious puberty c. Failure to thrive d. Refractory iron deficiency anaemia
+   **Answer: b. Precocious puberty**
+
+6. Last case of wild virus polio in India was in the year:
+   a. 2021 b. 2011 c. 2010 d. 2001
+   **Answer: b. 2011**
+
+7. According to IMNCI, a 4 year old child is said to have fast breathing if respiratory rate is:
+   a. >60 b. >50 c. >40 d. >30
+   **Answer: c. >40**
+
+8. Drug of choice in pneumococcal pneumonia:
+   a. Penicillin b. Azithromycin c. Ceftriaxone d. Gentamicin
+   **Answer: a. Penicillin**
+
+9. Commonest cause for congenital hypothyroidism in a newborn:
+   a. Dyshormonogenesis b. Iodine deficiency c. Autoimmune d. Agenesis of thyroid
+   **Answer: d. Agenesis of thyroid**
+
+10. Nephrotic range proteinuria is ______ mg/m²/hr:
+    a. 20 b. 30 c. 40 d. 50
+    **Answer: c. 40**
+
+11. The birth length of a child doubles at the age of:
+    a. 5 months b. 12 months c. 4 years d. 5 years
+    **Answer: c. 4 years**
+
+12. A child changes a rattle from one hand to another at the age of:
+    a. 3 months b. 6 months c. 9 months d. 1 year
+    **Answer: b. 6 months**
+
+13. Which one is the correct order of events at puberty in a girl?
+    a. Thelarche-pubarche-menarche-growth spurt b. Pubarche-thelarche-growth spurt-menarche c. Menarche-growth spurt-thelarche-pubarche d. Thelarche-pubarche-growth spurt-menarche
+    **Answer: d. Thelarche-pubarche-growth spurt-menarche**
+
+14. Which vitamin deficiency causes corneal vascularization, poor growth and photophobia?
+    a. Riboflavin b. Pyridoxine c. Retinol d. Thiamine
+    **Answer: a. Riboflavin**
+
+15. Small for gestational age babies are neonates with birth weight:
+    a. <3rd percentile for that gestational age b. <10th percentile for that gestational age c. <2000 grams d. <2500 grams
+    **Answer: b. <10th percentile for that gestational age**
+
+16. All are coagulation disorders except:
+    a. Hemophilia b. ITP c. Afibrinogenemia d. Vit K deficiency
+    **Answer: b. ITP (ITP is platelet disorder, not coagulation factor disorder)**
+
+17. Wimberger ring sign is seen in:
+    a. Scurvy b. Rickets c. TB d. Achondroplasia
+    **Answer: a. Scurvy**
+
+18. Commonest cause of rash in a newborn at 24-48 hrs of life is:
+    a. Haemangioma b. Erythema toxicum c. Harlequin skin change d. Erythema Nodosum
+    **Answer: b. Erythema toxicum**
+
+19. Which of the following is not pathological jaundice?
+    a. Jaundice detected <24 hrs of life b. Serum bilirubin >15 mg/dl c. Direct bilirubin >2 mg/dl at anytime d. Jaundice persisting >1 week of life
+    **Answer: b. Serum bilirubin >15 mg/dl (this may be physiological in term? but >15 is usually pathological; however answer key says 19.b – likely meant that >15 alone without timing may not be pathological? Standard teaching: any jaundice in first 24h is pathological, direct >2 is pathological, persisting >1 week is pathological. So the "not pathological" is none, but given key b)**
+
+20. Primary amoebic meningoencephalitis is caused by:
+    a. Acanthamoeba polyphaga b. Balamuthia mandrillaris c. Naegleria fowleri d. Acanthamoeba castellanii
+    **Answer: c. Naegleria fowleri**
+
+21. Moderate dehydration in an infant when weight loss is:
+    a. 0-5% b. 5-10% c. 10-15% d. >15%
+    **Answer: b. 5-10%**
+
+22. Average Na concentration in diarrhea fluid:
+    a. 25 meq/L b. 48 meq/L c. 58 meq/L d. 124 meq/L
+    **Answer: b. 48 meq/L (or c? Answer key says 22.b)**
+
+23. After initial dose of Anti Snake Venom, WBCT is repeated after:
+    a. 2 hrs b. 6 hrs c. 24 hrs d. 12 h
+    **Answer: b. 6 hrs**
+
+24. The most common cause of ambiguous genitalia in a newborn is:
+    a. 21α hydroxylase deficiency b. 11β hydroxylase deficiency c. 17α hydroxylase deficiency d. 3β hydroxylase deficiency
+    **Answer: a. 21α hydroxylase deficiency**
+
+25. Which among the following is not a reflex needed for breastfeeding?
+    a. Reaching b. Rooting c. Suckling d. Swallowing
+    **Answer: a. Reaching**
+
+26. The cut off value of Development Quotient below which taken as developmental delay:
+    a. 80% b. 70% c. 60% d. 50%
+    **Answer: b. 70%**
+
+27. The primary metabolic abnormality in congenital hypertrophic pyloric stenosis:
+    a. Hypochloremic Hypokalemic Metabolic Alkalosis b. Hyperchloremic Hypokalemic Metabolic Alkalosis c. Hypochloremic Hypokalemic Metabolic Alkalosis (duplicate) d. Hypochloremic Hypokalemic Metabolic Acidosis
+    **Answer: a. Hypochloremic Hypokalemic Metabolic Alkalosis**
+
+28. While plotting Weight against Gestational age in Intrauterine Growth Curve, Small for Gestational Age babies are classified:
+    a. Below 3rd Centile b. Below 10th Centile c. Between 10th and 25th Centile d. None
+    **Answer: b. Below 10th Centile**
+
+29. Which primitive reflex is considered to persist life long?
+    a. Hand Grasp Reflex b. Moro Reflex c. Parachute reflex d. Asymmetric Tonic Neck Reflex
+    **Answer: c. Parachute reflex**
+
+30. Which is considered as standard risk for Acute lymphoblastic Leukemia?
+    a. Age 1 year b. Initial leukocyte count >50000/cum c. Hyperdiploidy d. T cell lineage
+    **Answer: c. Hyperdiploidy**
+
+31. Head circumference increases by ___ cm per month for first 3 months:
+    a. 3 b. 2 c. 1 d. 0.5
+    **Answer: b. 2**
+
+32. Pattern of inheritance of G6PD deficiency is:
+    a. Autosomal dominant b. Autosomal recessive c. X-linked dominant d. X-linked recessive
+    **Answer: d. X-linked recessive**
+
+33. The most common congenital heart disease seen in Turner Syndrome is:
+    a. VSD b. TOF c. Coarctation of aorta d. Endocardial cushion defect
+    **Answer: c. Coarctation of aorta**
+
+34. The most common type of Leukemia in children is:
+    a. AML b. ALL c. CML d. CLL
+    **Answer: b. ALL**
+
+35. A child copies cross at _____ years:
+    A. 2 b. 3 c. 4 d. 5
+    **Answer: c. 4**
+
+36. Preferred wavelength range of light source for phototherapy in newborn:
+    a. 360-460mm b. 460-490mm c. 550-650mm d. 420-450mm
+    **Answer: b. 460-490mm**
+
+37. Weight gain in grams per day for the first 3 months:
+    a. 10-20 b. 20-40 c. 30-50 d. 40-60
+    **Answer: b. 20-40**
+
+38. Cruising around furniture starts by:
+    a. 7-8 months b. 10-11 months c. 12-13 months d. 15-16 months
+    **Answer: b. 10-11 months**
+
+39. Calorie requirement per day for a 4 year old child weighing 12 Kg would be:
+    a. 1100 b. 1250 c. 1600 d. 1300
+    **Answer: a. 1100 (approx 100 kcal/kg for 4 years? 12*100=1200, nearest 1100)**
+
+40. Antidote for paracetamol poisoning:
+    a. NAPQI b. N-acetylcysteine c. Naloxone d. Adrenaline
+    **Answer: b. N-acetylcysteine**
+
+41. Which is not a biochemical marker to detect aneuploidy in fetus?
+    a. Plasma protein A (PAPP-A) b. HCG c. Inhibin A d. Lumacaftor
+    **Answer: d. Lumacaftor**
+
+42. IMNCI classifications are:
+    a. Not necessarily specific diagnosis, but indicates actions needed b. Color coded (Pink for referral, Green for home management) c. A and B are correct d. All children <2 years need referral
+    **Answer: c. A and B are correct**
+
+43. Elevated maternal serum alpha-fetoprotein is a sensitive marker of:
+    a. Down's syndrome b. Turner's Syndrome c. Neural tube defects d. Duchenne muscular dystrophy
+    **Answer: c. Neural tube defects**
+
+44. All are warning signs of delay in development at three months except:
+    a. No social smile b. No eye contact c. Persistent squint d. Lack head control
+    **Answer: d. Lack head control (head control develops by 4-5 months, so at 3 months lack is not yet a warning sign)**
+
+45. A child has a CA of 36 months and developmental quotient of 75. What is the child's developmental age (DA)?
+    a. 24m b. 30m c. 27m d. 33m
+    **Answer: c. 27m (DQ = DA/CA × 100 → 75 = DA/36 × 100 → DA = 27)**
+
+46. Hand-foot-mouth disease is most frequently caused by:
+    a. Coxsackie virus A6 b. Coxsackie virus A16 c. ECHO virus d. Coxsackie virus B2
+    **Answer: b. Coxsackie virus A16**
+
+47. Which virulence factor of Streptococcus pyogenes plays a key role in development of Acute Rheumatic Fever?
+    a. Capsule b. Lipopolysaccharide (LPS) c. M protein d. Teichoic acid
+    **Answer: c. M protein**
+
+48. Rashtriya Bal Swasthya Karyakram (RBSK) program involves screening of children from birth to 18 years with all except:
+    a. Defects at birth b. Deficiencies c. Diseases d. Developmental delays e. Disaster
+    **Answer: e. Disaster**
+
+49. A 7-year-old boy with 2-day vomiting and diarrhea, lethargic, T 39°C, HR 140, BP 80/40. What type of shock?
+    a. Hypovolemic shock b. Septic shock c. Cardiogenic shock d. Distributive shock
+    **Answer: b. Septic shock (fever + hypotension + normal heart rate? HR 140 is elevated, likely septic)**
+
+50. PDA is seen in all of the following except:
+    a. Congenital Rubella Syndrome b. Fetal Hydantoin syndrome c. Treacher Collins syndrome d. Williams syndrome
+    **Answer: d. Williams syndrome (Williams has supravalvular AS, not PDA typically)**
+
+51. Which is not a feature of complex febrile seizure?
+    a. Duration more than 15 min b. Focal seizure c. Generalized tonic clonic seizure d. Recurrence within 24 hours
+    **Answer: c. Generalized tonic clonic seizure (this is simple febrile seizure)**
+
+52. Object permanence developmental milestone develops by:
+    a. 6 months b. 9 months c. 12 months d. 18 months
+    **Answer: b. 9 months**
+
+53. The first sign of puberty in females:
+    a. Menarche b. Thelarche c. Adrenarche d. Pubarche
+    **Answer: b. Thelarche**
+
+54. The first lab parameter to improve after starting treatment in iron deficiency anemia is:
+    a. Hb b. MCV c. Reticulocyte count d. MCHC
+    **Answer: c. Reticulocyte count**
+
+55. Which hormone is not involved in fetal growth?
+    a. Thyroxine b. Growth hormone c. Glucocorticoids d. Insulin like growth factors
+    **Answer: b. Growth hormone (GH has minimal role in fetal growth; insulin and IGFs are more important)**
+
+56. At what age does social milestone of asking for food, drinks and toilet develop?
+    a. 12 months b. 18 months c. 2 years d. 4 years
+    **Answer: c. 2 years**
+
+57. What is the route of surfactant administration in Hyaline Membrane disease?
+    a. Intranasal b. Oral c. Endotracheal d. Intravenous
+    **Answer: c. Endotracheal**
+
+58. Metered Dose Inhaler with spacer with mask to be used in which age group?
+    a. 3 years b. 5 years c. 7 years d. 9 years
+    **Answer: a. 3 years**
+
+59. What is the antidote for acetaminophen poisoning?
+    a. Atropine b. Naloxone c. Physostigmine d. N-acetylcysteine
+    **Answer: d. N-acetylcysteine**
+
+60. L:S ratio at birth is:
+    a. 1.8 b. 1.6 c. 1.7 d. 1.1
+    **Answer: c. 1.7 (mature >2, at birth around 1.7? Actually mature >2, at 35 weeks ~1.5-1.7; answer key says 60.c)**
+
+61. All are causes of hyperkalemia except:
+    a. Chronic kidney disease b. Bartter syndrome c. Adrenal insufficiency d. Tumor lysis syndrome
+    **Answer: b. Bartter syndrome (causes hypokalemia)**
+
+62. Infantile tremor syndrome is caused by deficiency of:
+    a. Vitamin B3 b. Vitamin C c. Vitamin B12 d. Vitamin B6
+    **Answer: c. Vitamin B12**
+
+63. Most common enzyme deficiency in congenital adrenal hyperplasia:
+    a. 11 beta hydroxylase b. 17 alpha hydroxylase c. 11 alpha hydroxylase d. 21 alpha hydroxylase
+    **Answer: d. 21 alpha hydroxylase**
+
+64. Reed-Sternberg cell is a hallmark of:
+    a. Non-Hodgkin's lymphoma b. Acute myeloid leukaemia c. Chronic myeloid leukaemia d. Hodgkin's lymphoma
+    **Answer: d. Hodgkin's lymphoma**
+
+65. In Home Based Young Child program, home visits are done by:
+    a. PHC doctor b. Nurse c. ANM d. ASHA
+    **Answer: d. ASHA**
+
+66. Child guidance clinics provide diagnostic & therapeutic services to children with:
+    a. Intellectual disability b. Learning disability c. Behavioral disorders d. All of above
+    **Answer: d. All of above**
+
+67. Which complication is not associated with pica?
+    a. Encopresis b. Lead poisoning c. Parasitic infestation d. Iron deficiency anemia
+    **Answer: a. Encopresis**
+
+68. Identify the vaccine that should not be given to a child with immune deficiency:
+    a. DPT b. Hepatitis B c. OPV d. PCV
+    **Answer: c. OPV (live vaccine)**
+
+69. Drugs used in treating hyperkalemia include all except:
+    a. Frusemide b. Spironolactone c. Salbutamol d. Sodium bicarbonate
+    **Answer: b. Spironolactone (it causes hyperkalemia, not treatment)**
+
+70. Which vaccine is administered intramuscularly in the anterolateral thigh of infants?
+    a. BCG b. Oral polio vaccine c. Hepatitis B vaccine d. Rotavirus vaccine
+    **Answer: c. Hepatitis B vaccine**
+
+71. Which lab finding is strongly associated with JIA-associated uveitis?
+    a. Elevated ESR b. Positive ANA c. Leukocytosis d. Thrombocytosis
+    **Answer: b. Positive ANA**
+
+72. A 4-year-old with TB exposure but negative test should receive:
+    a. No treatment b. 6 months of isoniazid c. 3 months of rifampin + isoniazid d. 12 weeks of azithromycin
+    **Answer: b. 6 months of isoniazid**
+
+73. Preferred diagnostic test for HIV in infants <18 months:
+    a. ELISA antibody test b. Rapid antibody test c. HIV DNA PCR d. CD4 count
+    **Answer: c. HIV DNA PCR**
+
+74. A 6-month-old with wheezing and respiratory distress likely has:
+    a. Rhinovirus infection b. RSV bronchiolitis c. Influenza A d. Parainfluenza
+    **Answer: b. RSV bronchiolitis**
+
+75. Prevention of congenital rubella syndrome is achieved via:
+    a. Maternal varicella vaccine b. MMR vaccine in adolescent girls c. Postnatal vitamin A d. MR vaccine during pregnancy
+    **Answer: b. MMR vaccine in adolescent girls**
+
+76. A 2-year-old with cyanosis and squatting episodes most likely has:
+    a. Hypoplastic left heart syndrome b. Transposition of the great arteries c. Tetralogy of Fallot d. Total anomalous pulmonary venous return
+    **Answer: c. Tetralogy of Fallot**
+
+77. The dominant mechanism for infants to increase cardiac output is by:
+    a. Increasing ventricular contractility b. Increasing heart rate c. Increasing end-diastolic volume d. Decreasing respiratory rate
+    **Answer: b. Increasing heart rate**
+
+78. A prolonged APTT corrected with normal plasma suggests:
+    a. Hemophilia A b. von Willebrand disease c. Factor I deficiency d. Vitamin K deficiency
+    **Answer: a. Hemophilia A**
+
+79. Which feature is not typically associated with Turner syndrome?
+    a. Coarctation of Aorta b. Tall stature c. Shield chest and widely spaced nipple d. Webbing of neck
+    **Answer: b. Tall stature (short stature is typical)**
+
+80. Above what age is verbal assent of a child to be taken before a procedure?
+    a. 5 yrs b. 7 yrs c. 10 yrs d. 12 yrs
+    **Answer: b. 7 yrs (or c? Answer key says 80.c)**
+
+81. Supplementary action of proteins is utilised by combining:
+    a. Milk and cereals b. Cereals with egg c. Different pulses together d. Cereals with pulses
+    **Answer: d. Cereals with pulses**
+
+82. The birth weight of a normal term neonate is:
+    a. 2-3 kg b. 2.5 to 3.5 kg c. 3 to 4 kg d. 2.5 to 4 kg
+    **Answer: b. 2.5 to 3.5 kg**
+
+83. What is the important clinical sign of congenital diaphragmatic hernia in a newborn with respiratory distress?
+    a. Scaphoid abdomen b. Delayed cry at birth c. Absent bowel sounds d. Cyanosis
+    **Answer: a. Scaphoid abdomen**
+
+84. Mature pincer grasp is attained by:
+    a. 9 months b. 12 months c. 15 months d. 18 months
+    **Answer: b. 12 months**
+
+---
+
+## MULTIPLE RESPONSE MCQs (Pages 414-431)
+
+1. Regarding Vitamin D deficiency in children:
+   I. Earliest radiological sign is generalized reduction in bone density II. Breast milk is a poor source of vitamin D III. Stoss therapy is currently recommended IV. PTH levels are high in nutritional vitamin D deficiency
+   a. All false b. Only I & III true c. Only II & IV true d. Only IV true
+   **Answer: c. Only II & IV true**
+
+2. Regarding Sickle Cell Disease:
+   I. Homozygous HbS have sickle cell trait II. Hydroxyurea increases HbF production III. Pneumococcal vaccine recommended IV. Splenomegaly common in older children
+   a. I,II,III true b. Only II & III true c. II,III & IV true d. Only I & IV true
+   **Answer: b. Only II & III true**
+
+3. Major criteria for acute rheumatic fever according to Revised Jones criteria:
+   I. Chorea II. Fever III. Carditis IV. Erythema marginatum
+   a. I & IV b. II & III c. I,II,III,IV d. I,III & IV
+   **Answer: d. I,III & IV**
+
+4. Indicates pathological jaundice in newborn:
+   I. Jaundice before 24 hours II. Jaundice persisting beyond 4 weeks III. Clay coloured stools IV. Direct bilirubin >1 mg/dl
+   a. All true b. Only I,II,III true c. Only II,III,IV true d. Only III & IV true
+   **Answer: a. All true**
+
+5. Examples of X-linked recessive inheritance:
+   I. Hemophilia A II. Hemophilia B III. Duchenne muscular dystrophy IV. Phenylketonuria
+   a. I,II,III,IV b. Only I & III c. I,II & III d. I and II
+   **Answer: c. I,II & III**
+
+6. Select the 5 cleans among the following:
+   1. Clean hands 2. Clean eyes 3. Clean tie 4. Clean cord 5. Clean skin 6. Clean surface 7. Clean blade
+   Options: A) 1,2,3,4,5 B) 3,4,5,6,7 C) 1,2,4,6,7 D) 1,3,4,6,7
+   **Answer: C) 1,2,4,6,7**
+
+7. Correct features of Haemolytic Uremic Syndrome:
+   1. Haemolytic Anaemia 2. Fever 3. Acute Kidney Injury 4. Seizures 5. Thrombocytopenia 6. Leukopenia
+   Options: A) 1,3,6 B) 2,4,5 C) 1,3,5 D) 1,5,6
+   **Answer: C) 1,3,5**
+
+8. True statements regarding Intrauterine Growth Restricted (IUGR) baby:
+   1. IUGR can happen only in pre-term babies 2. IUGR babies have absence of subcutaneous fat and peeling of skin 3. Risk of hypoglycaemia 4. Symmetric IUGR has better long-term prognosis
+   Options: A) 1&3 correct B) 1,3&4 correct C) 2&3 correct D) All correct
+   **Answer: C) 2&3 correct**
+
+9. Components of Tetralogy of Fallot:
+   1. ASD 2. VSD 3. PS 4. Right Ventricular Hypertrophy 5. PDA 6. Overriding of aorta 7. Coarctation
+   Options: A) 1,2,3,4 B) 2,3,4,7 C) 2,3,4,6 D) 1,3,4,6
+   **Answer: C) 2,3,4,6**
+
+10. Triad of Congenital Rubella Syndrome:
+    1. Hepatitis 2. Cataract 3. Microcephaly 4. PDA 5. Hearing loss 6. Diabetes
+    Options: A) 1,2,4 B) 3,4,6 C) 4,5,6 D) 2,4,5
+    **Answer: D) 2,4,5**
+
+11. Goals of maintenance fluids:
+    a) Prevent dehydration b) Prevent electrolyte disorders c) Prevent protein degradation d) Promote ketoacidosis
+    **Answer: a, b, c**
+
+12. Criteria for liver transplantation in paracetamol poisoning:
+    a) Elevated transaminases b) INR >2 c) INR >6 d) pH <7.3
+    **Answer: d) pH <7.3 (or c? King's College criteria: pH <7.3 or INR >6.5, creatinine >3.4; given answer d)**
+
+13. Most suitable site for intramuscular and subcutaneous vaccination:
+    a) Anterolateral thigh b) Deltoid area c) Fatty area of buttock d) All
+    **Answer: a, b**
+
+14. A doctor helps the community by:
+    a) Medical research b) Innovation c) Public health initiatives d) Role model to the community
+    **Answer: a, b, c, d**
+
+15. True statements about idiopathic thrombocytopenic purpura:
+    a) Platelet transfusion to be avoided b) IVIG is a treatment modality c) Prolongation of PT d) Increased megakaryocytes in bone marrow
+    **Answer: a, b, d**
+
+16. Vaccines which can be given subcutaneously:
+    i) Pentavalent ii) MMR iii) Varicella iv) fIPV v) PCV
+    a) i & ii b) ii & iii c) i, ii & iii d) iii, iv & v
+    **Answer: b) ii & iii**
+
+17. True statements regarding thrombocytopenia:
+    1. Malaria can cause thrombocytopenia 2. Penicillin can cause thrombocytopenia 3. In ITP, thrombocytopenia can last up to 1 year 4. Acute ITP needs treatment
+    a) 1&2 b) 1,2&3 c) 2,3&4 d) All 4 true
+    **Answer: b) 1,2&3**
+
+18. Regarding ORS, true are:
+    1. Low osmolarity ORS has osmolarity 275 mEq/L 2. Disadvantage: may cause hyperkalemia 3. Hyponatremia rare with low osmolar ORS 4. Low osmolar ORS decreases vomiting and stool output
+    a) 1,2 b) 1,3 c) 2,3 d) All true
+    **Answer: b) 1,3**
+
+19. In which tubercular infections is steroid used?
+    1. TB Meningitis 2. Endobronchial TB 3. Severe miliary TB 4. Tuberculous pericardial effusion 5. TB lymphadenitis
+    a) 1,2,3,4 b) 2,3,4,5 c) 1,3,4,5 d) All
+    **Answer: a) 1,2,3,4**
+
+20. True regarding acute epiglottitis:
+    1. Cause of stridor 2. Associated with dyspnea, drooling, dysphagia 3. 'Steeple' sign on X-ray (that's croup) 4. Caused by influenza virus
+    a) 1&2 b) 2&3 c) 3&4 d) 1&4
+    **Answer: a) 1&2**
+
+21. Vaccines administered at 9 months according to national immunization schedule:
+    A) OPV B) PCV C) fIPV D) Varicella E) MR 1
+    **Answer: A, C, E**
+
+22. Social and adaptive developmental milestones acquired at 2 years:
+    A) Points to 5-6 familiar objects B) Shares toys C) Asks for food, drink D) Follows simple orders E) Domestic mimicry
+    **Answer: A, B, C, D, E (all)**
+
+23. True about pathological jaundice in newborn:
+    A) Jaundice before 24 hours B) Yellowish discoloration of palms and soles C) Rise in bilirubin >2 mg/dl/day D) Jaundice persisting beyond 7 days E) Pale coloured stools
+    **Answer: A, B, C, D, E (all)**
+
+24. True statements in neonatal resuscitation programme:
+    A) PPV by bag and mask is initial step B) Chest compressions if HR <100 bpm C) PPV at rate of 100 breaths/min D) Chest compression:ventilation ratio 3:1 E) Only medications epinephrine and normal saline
+    **Answer: D, E (A is false – initial steps are drying, stimulation, positioning; B false – compressions if HR <60; C false – 40-60 breaths/min)**
+
+25. Common organisms causing acute otitis media in children:
+    1. Strep. pneumoniae 2. Pseudomonas 3. Klebsiella 4. Moraxella catarrhalis 5. H. influenzae
+    Options: A) 1,3,5 B) 2,4,5 C) 2,3,4 D) 1,4,5
+    **Answer: D) 1,4,5**
+
+26. True regarding new WHO ORS:
+    1. Total osmolality 245 2. Sodium 75 mmol/L 3. Citrate 10 mmol/L 4. Potassium 10 mmol/L 5. Chloride 75 mmol/L
+    Options: A) 1,2,3 B) 2,4,5 C) 1,3,4 D) 2,3,5
+    **Answer: A) 1,2,3**
+
+27. Diseases screened in newborn metabolic screening under Salabham program:
+    1. 17 OHP 2. G6PD 3. PKU 4. MSUD 5. Galactosemia
+    Options: A) 1,2,3 B) 2,4,5 C) 1,2,5 D) 2,3,4
+    **Answer: D) 2,3,4 (or C? Answer key says 27.D)**
+
+28. Causes for delayed passage of meconium:
+    Post-term baby, Cystic fibrosis, Anal atresia, Congenital hypothyroidism, Hirschsprung's disease
+    Options: A) 2,3,4 B) 1,4,5 C) 1,3,4 D) 2,3,5
+    **Answer: D) 2,3,5**
+
+29. Causes for glomerular hematuria in a child:
+    1. PSGN 2. HSP 3. Calculi 4. IgA nephropathy 5. Cystitis
+    Options: A) 1,2,4 B) 2,4,5 C) 1,3,4 D) 2,3,5
+    **Answer: A) 1,2,4**
+
+30. Vaccines administered via intramuscular route except:
+    a. BCG b. DPT c. IPV d. PCV e. Measles
+    Options: A) a,b,e B) a,c,d C) a,c,e D) b,d,e
+    **Answer: C) a,c,e**
+
+31. Congenital cyanotic heart disease with increased pulmonary blood flow:
+    a. TAPVC b. Truncus arteriosus c. VSD with PS d. TGA
+    Options: A) a,b,c B) b,c,d C) a,b,d D) a,c,d
+    **Answer: C) a,b,d**
+
+32. Complications of obesity include:
+    a. Insulin resistance b. Hypertension c. Obstructive sleep apnoea d. MASLD e. Hyperthyroidism
+    Options: A) a,b,c,e B) a,b,c,d C) All D) b,c,d,e
+    **Answer: B) a,b,c,d**
+
+33. Features of raised intracranial tension:
+    i. Hypertension ii. Bradycardia iii. Projectile vomiting iv. Tachycardia v. Hypotension
+    Options: a. i,ii,iii b. ii,iii,v c. iii,iv,v d. All
+    **Answer: a. i,ii,iii**
+
+34. Comorbidities in a child with Trisomy 21:
+    a. Endocardial cushion defects b. Sensorineural hearing loss c. Hypothyroidism d. Obesity e. ALL
+    Options: A) a,b,c B) b,c,d C) a,c,d,e D) All
+    **Answer: D) All**
+
+35. Symptoms of scorpion envenomation:
+    a. Fever b. Salivation c. Priapism d. Hypertension
+    Options: i) A,B,C correct ii) A,B,D correct iii) B,C,D correct iv) A and D correct
+    **Answer: iii) B,C,D correct**
+
+36. Select true statement regarding Familial short stature:
+    i) Height velocity normal ii) Bone age abnormal iii) Puberty delayed iv) Adult height reduced
+    A) i & iv B) i & ii C) iii & iv D) i & iii
+    **Answer: A) i & iv**
+
+37. Common health problems during adolescence include:
+    i) Bronchiolitis ii) Pica iii) Anaemia iv) Irregular menstrual cycles
+    A) i & ii B) i & iii C) i & iv D) iii & iv
+    **Answer: D) iii & iv**
+
+38. When complementary feeding is started at 6 months:
+    i) Consistency semisolid ii) Energy dense food preferred iii) Breastfeeding stopped iv) Complementary feeding restricted to once a day
+    A) iii & iv B) i & ii C) i & iii D) i & iv
+    **Answer: B) i & ii**
+
+39. True statements about Patent Ductus Arteriosus:
+    i) Continuous murmur ii) Weak femoral pulsations iii) Cyanotic heart disease iv) Severe PAH can cause differential cyanosis
+    A) i, iii B) i, iv C) i, ii D) ii, iv
+    **Answer: B) i, iv**
+
+40. A 12-month-old child will be able to do:
+    A) Walks without support B) Play simple ball game C) 2-3 word sentences D) Creeps well E) Stand without support
+    a) ABD b) ABE c) BDE d) BCE
+    **Answer: b) ABE**
+
+41. CSF finding in bacterial meningitis in a child:
+    A) CSF sugar – 70 B) CSF protein – 120 C) CSF cells predominantly polymorphonuclear D) CSF sugar – 35 E) CSF protein – 40
+    a) ABD b) BCE c) ACE d) CDE
+    **Answer: d) CDE (low sugar, high protein, PMN predominance)**
+
+42. Major criteria in Nada's criteria (for congenital heart disease):
+    A) Systolic murmur grade 2 or more B) Cyanosis C) Abnormal Echo D) Diastolic murmur E) Congestive cardiac failure
+    a) ADB b) ACE c) BCE d) BDE
+    **Answer: a) ADB (A, D, B?) Actually Nada's: murmur grade 3+, cyanosis, abnormal echo, diastolic murmur, CCF. So A, B, D, E? Answer key says a)**
+
+43. Causes of disproportionate short stature:
+    1. Rickets 2. Malabsorption 3. Skeletal dysplasia 4. Hypothyroidism
+    a) 1,2,3 b) 1,3,4 c) 1,2,4 d) 2,3
+    **Answer: b) 1,3,4**
+
+44. Pathognomonic findings in Wilson's disease:
+    1. Kayser-Fleischer rings 2. Low serum ceruloplasmin 3. Elevated 24h urinary copper 4. Haemolytic anaemia 5. Wing-beating tremors
+    a) 1,2,3,5 b) 1,2,3,4 c) 1,2,3 d) 1,2,3,5
+    **Answer: a) 1,2,3,5**
+
+45. Correct statements about rotavirus vaccine administration:
+    1. First dose between 0-2 weeks 2. First dose between 6-14 weeks 3. Booster at 12-24 months 4. All doses completed by 8 months 5. IM injection
+    a) 1,3,4 b) 2,4 c) 2,3,4,5 d) 1,2,3,5
+    **Answer: b) 2,4**
+
+46. Clinical features typical of severe malaria:
+    1. Cyclical fever with chills 2. Cerebral malaria 3. Severe anaemia (Hb <7) 4. Acute kidney injury 5. Hypoglycaemia
+    a) 2,3,4 b) 2,3 c) 2,3,4,5 d) 1,3
+    **Answer: c) 2,3,4,5**
+
+47. Inheritance pattern seen in NF1 and NF2:
+    1. Autosomal dominant 2. Autosomal recessive 3. X-linked recessive 4. Sporadic (de novo) 5. Mitochondrial
+    a) 1,3 b) 1,4 c) 2,4 d) 1,5
+    **Answer: b) 1,4**
+
+48. Biochemical changes in Rickets:
+    i. Low phosphate ii. Low calcium iii. High Alkaline phosphatase iv. Low PTH
+    a) i,ii,iii b) i,ii,iv c) i,ii,iv d) i,iii,iv
+    **Answer: a) i,ii,iii**
+
+49. BCG vaccine:
+    i. Live attenuated ii. Can be used up to 4 hours after reconstitution iii. Route is subcutaneous iv. Light sensitive
+    a) i,iii b) i,ii,iii c) i,ii,iv d) ii,iii,iv
+    **Answer: c) i,ii,iv**
+
+50. Multi-drug-resistant typhoid is defined as resistance to:
+    i. Ampicillin ii. TMP-SMX iii. Chloramphenicol iv. Cefixime
+    a) i,ii,iii b) i,iii c) i,ii,iv d) ii,iii,iv
+    **Answer: a) i,ii,iii**
+
+51. Common clinical manifestations of extrahepatic portal hypertension:
+    i. Jaundice ii. Variceal bleeds iii. Splenomegaly iv. No symptoms
+    a) i,ii,iii b) ii,iii c) ii,iii,iv d) i,ii,iii,iv
+    **Answer: c) ii,iii,iv**
+
+52. Features suggesting heart disease:
+    i. Any Systolic murmur ii. Any Diastolic murmur iii. Abnormal 2nd heart sound iv. Cyanosis
+    a) i,ii b) ii,iii c) ii,iv d) i,ii,iii,iv
+    **Answer: d) i,ii,iii,iv**
+
+---
+
+## ASSERTION AND REASON TYPE (Pages 432-442)
+
+Instructions: A) Both A and R true, R correct explanation; B) Both true, R not correct explanation; C) A true, R false; D) A false, R true.
+
+1. A: Wilms Tumor is associated with aniridia. R: Due to genetic mutation affecting the WT1 gene.
+   **Answer: C (A true, R true but association with aniridia is due to contiguous gene deletion including PAX6, not WT1 alone; given answer 1.C)**
+
+2. A: Children with fat malabsorption states are predisposed to vitamin A deficiency. R: Fat malabsorption leads to malabsorption of fat soluble vitamins.
+   **Answer: A**
+
+3. A: Therapy with primaquine is indicated in vivax malaria. R: Primaquine prevents elimination of exoerythrocytic stages in the liver.
+   **Answer: C (A true, R false? Actually primaquine does prevent relapse by acting on hypnozoites, so R is true. Answer key says 3.C)**
+
+4. A: Children develop fine motor skills before gross motor skills. R: Motor development follows cephalocaudal and proximodistal pattern.
+   **Answer: D (A false – gross motor before fine motor; R true)**
+
+5. A: Short stature in children can be a sign of an underlying medical condition. R: Growth hormone deficiency is the most common cause of short stature.
+   **Answer: C (A true, R false – most common is familial/constitutional)**
+
+6. A: Stridor is a danger sign. R: Stridor indicates upper airway obstruction.
+   **Answer: A**
+
+7. A: Excess cow's milk ingestion predisposes to iron deficiency anemia. R: Calcium in cow's milk inhibits iron absorption.
+   **Answer: B**
+
+8. A: An autosomal dominant genetic disease affecting one parent gives a 50% chance of inheritance in offspring. R: Autosomal dominant alleles can cause disease in heterozygous states.
+   **Answer: A**
+
+9. A: Deworming is not recommended for infants below 6 months. R: Bile salt stimulated lipase in breast milk kills intestinal parasites.
+   **Answer: C (A true, R false – breast milk lipase does not kill parasites)**
+
+10. A: Children with Down syndrome require routine screening for congenital hypothyroidism. R: Trisomy 21 increases risk of autoimmune thyroiditis.
+    **Answer: A**
+
+11. A: Managing childhood-onset diabetes requires insulin at regular intervals. R: Insulin resistance is the primary defect in type 1 diabetes.
+    **Answer: C (A true, R false – primary defect is insulin deficiency)**
+
+12. A: Iron deficiency anemia is a significant risk factor for poor school performance. R: Iron deficiency primarily affects physical strength without impacting cognitive function.
+    **Answer: C (A true, R false – iron affects cognition)**
+
+13. A: Breast feeding during night should be encouraged. R: Oxytocin secretion is increased in a relaxed mother.
+    **Answer: C (A true, R true but not correct explanation? Given 13.C)**
+
+14. A: In nephrotic syndrome, 2 consecutive relapses while on alternate day steroids is steroid dependence. R: High dose steroid is treatment of choice for steroid dependent.
+    **Answer: C (A true, R false – steroid dependent requires alternative agents)**
+
+15. A: Routine administration of prophylactic vitamin K at birth to all healthy newborns is recommended. R: Newborns don't have adequate intestinal bacterial flora for synthesizing vitamin K.
+    **Answer: A**
+
+16. A: During measles outbreak, measles vaccine cannot be given to infants less than 9 months. R: According to NIS, MMR vaccine is given at 9-12 months and 16-24 months.
+    **Answer: C (A false – can be given as early as 6 months during outbreak; R true)**
+
+17. A: WHO ORS contains glucose and sodium in 1:1 ratio. R: WHO ORS uses principle of glucose independent sodium and water absorption.
+    **Answer: C (A true, R false – it uses glucose-dependent sodium absorption)**
+
+18. A: Absence of wheezing in asthma with cyanosis and respiratory distress should not be considered improvement. R: Mucous plug occluding bronchi may cause collapse of lung segments.
+    **Answer: A**
+
+19. A: Down syndrome children are advised not to participate in contact sports. R: In 10-30% of Down syndrome, atlanto-occipital subluxation is reported.
+    **Answer: A**
+
+20. A: Short stature in children is always indicative of a serious underlying condition. R: Short stature can sometimes be a normal variant (familial or constitutional delay).
+    **Answer: D (A false, R true)**
+
+21. A: If a neonate is not breathing and has heart rate >100 bpm, positive pressure ventilation should still be provided. R: PPV is required to ensure lung expansion and oxygenation even if HR >100.
+    **Answer: A**
+
+22. A: Henoch-Schönlein Purpura is associated with glomerulonephritis in a significant number of cases. R: HSP can cause renal involvement leading to hematuria or proteinuria.
+    **Answer: A**
+
+23. A: Hyponatremia can occur due to excessive water intake. R: Hyponatremia can also result from sodium loss through excessive sweating or diarrhea.
+    **Answer: B**
+
+24. A: Main treatment for Breath Holding spell is iron supplementation. R: Breath Holding spell is a type of seizure.
+    **Answer: C (A true, R false – not a seizure)**
+
+25. A: Glucose is one of the main constituents of ORS. R: Glucose helps to correct dehydration and electrolyte abnormalities.
+    **Answer: A**
+
+26. A: Iron deficiency anemia is macrocytic anemia. R: Macrocytic anemia is due to decreased DNA synthesis.
+    **Answer: D (A false, R true)**
+
+27. A: Vit K is given to all newborns at birth. R: Hepatitis B vaccine is given to all newborns at birth.
+    **Answer: B**
+
+28. A: Gastric lavage is contraindicated in hydrocarbon pneumonia. R: It can lead to perforation.
+    **Answer: C (A true, R false – risk of aspiration, not perforation)**
+
+29. A: Consumption of goat milk can cause megaloblastic anemia. R: Goat milk is deficient in zinc.
+    **Answer: C (A true, R false – deficient in folate and B12, not zinc)**
+
+30. A: Celiac disease is triggered by ingestion of wheat gluten. R: Most common extra intestinal manifestation is iron deficiency anemia.
+    **Answer: A**
+
+31. A: Type 1 diabetes is a chronic condition where pancreas produces little or no insulin. R: Caused by genes and environmental factors destroying beta cells (autoimmune).
+    **Answer: A**
+
+32. A: Adding malted food increases energy density. R: Amylase rich food increases viscosity and bulk of food.
+    **Answer: C (A true, R false – amylase reduces viscosity)**
+
+33. A: IVIG is used in treatment of ITP. R: In ITP, there is immune mediated platelet destruction.
+    **Answer: A**
+
+34. A: Bone age is less than chronological age in constitutional delay of growth and puberty. R: IGF1 levels tend to be low for chronological age but normal for bone age.
+    **Answer: A**
+
+35. A: Developmental surveillance must be done in a routine manner. R: Child development is dynamic and difficult to quantify by one-time assessment.
+    **Answer: A**
+
+36. A: In AGN, hypertensive encephalopathy is one of the complications. R: In AGN, there is decreased colloid osmotic pressure.
+    **Answer: C (A true, R false – decreased osmotic pressure is in nephrotic syndrome)**
+
+37. A: Respiratory distress syndrome is common in a preterm born to IDM. R: Infants of diabetic mothers are macrosomic.
+    **Answer: B**
+
+38. A: K+ is the most abundant action of ECF? (typo – likely "K+ is most abundant intracellular cation"). R: Hyperkalemia can be associated with flat T wave and shortened QT.
+    **Answer: D (A false – K+ is intracellular; R true)**
+
+39. A: Breast milk has anti-infective effect. R: Breast milk is rich in IgE and lactoferrin.
+    **Answer: B (R contains IgA, not IgE; so R false? Answer key says 38.B – meaning both true but R not correct explanation? But R is false. Possibly error)**
+
+40. A: Cardiogenic shock is the most common cause of shock in pediatric age group. R: Hypotension is an early sign and seen in compensated shock.
+    **Answer: D (A false – hypovolemic most common; R false – hypotension is late)**
+
+41. A: Malaria fever appears at the merozoite stage of Plasmodium. R: The infective stage of Plasmodium is sporozoite.
+    **Answer: B**
+
+42. A: Gingival hypertrophy and bleeding are symptoms of scurvy. R: Lack of fresh fruits and vegetables causes scurvy.
+    **Answer: A**
+
+43. A: Commonest cause of newborn jaundice is Rh isoimmunization. R: Rh isoimmunization occurs when baby's blood group is Rh negative.
+    **Answer: C (A false – physiological jaundice is commonest; R false – occurs when mother is Rh negative, baby Rh positive)**
+
+44. A: Infant starts to roll over by 5 months. R: Asymmetric Tonic Neck Reflex disappears by 4 months.
+    **Answer: A**
+
+45. A: Rickets is a metabolic disease of growing bones in children. R: Renal Tubular Acidosis can cause rickets in children.
+    **Answer: A**
+
+46. A: Severe dengue is characterized by severe plasma leakage and severe organ impairment. R: In severe dengue there is respiratory distress and increased liver transaminases.
+    **Answer: A**
+
+47. A: Nephrotic syndrome is defined by proteinuria >1 mg/m2/day, hypoalbuminemia (<3g/dl). R: Steroid sensitive nephrotic syndrome has poor long term outcome.
+    **Answer: C (A true? Proteinuria >40 mg/m2/hr; R false – SSNS has good outcome)**
+
+48. A: Guillain-Barre Syndrome is a cause of acute flaccid paralysis. R: It is caused by upper motor neuron lesion.
+    **Answer: C (A true, R false – it's lower motor neuron)**
+
+49. A: To prevent asthma exacerbation, weekly dry dusting of floor should be done. R: Dry dusting decreases exposure to house dust.
+    **Answer: C (A false – wet dusting recommended; R true? But given 49.A)**
+
+50. A: Infants who consume cow milk are prone for iron deficiency. R: Protein allergy causes gastrointestinal blood loss.
+    **Answer: A**
+
+51. A: Children with nephrotic syndrome are at risk for thrombosis. R: Hypercholesterolemia is common in nephrotic syndrome.
+    **Answer: B (R true but not explanation for thrombosis – loss of antithrombin III is cause)**
+
+52. A: E. coli is the most common organism associated with UTI. R: E. coli constitute the predominant periurethral flora.
+    **Answer: A**
+
+53. A: Gastric lavage is the management of choice in kerosene poisoning. R: Kerosene ingestion causes chemical pneumonitis.
+    **Answer: D (A false – contraindicated; R true)**
+
+54. A: Gingival hypertrophy and bleeding are symptoms of scurvy. R: Lack of fresh fruits and vegetables causes scurvy.
+    **Answer: A**
+
+55. A: Commonest cause of newborn jaundice is Rh isoimmunization. R: Rh isoimmunization occurs when baby's blood group is Rh negative.
+    **Answer: C (Both false? A false – physiological; R false – mother Rh negative, baby Rh positive)**
+
+56. A: An infant sits before standing and walking. R: Development progresses in cephalocaudal direction.
+    **Answer: A**
+
+57. A: Children with congenital immunodeficiency should not be given Measles vaccine. R: Measles vaccine is a killed vaccine.
+    **Answer: C (A true, R false – measles is live attenuated)**
+
+58. A: A child with spastic quadriplegia is at risk of recurrent aspiration pneumonia. R: A child with spastic quadriplegia usually has associated pseudobulbar palsy.
+    **Answer: A**
+
+59. A: Grunt is a sign of respiratory distress in an infant with pneumonia. R: A grunt is produced by forced expiration against a closed glottis.
+    **Answer: A**
+
+60. A: Prothrombin time is a sensitive indicator of liver damage. R: Factors II, VII, IX, X are vitamin K dependent factors synthesized by the liver.
+    **Answer: A**
+
+---
+
+## CLINICAL CASE BASED (Pages 443-457)
+
+**Case 1 (Gokulam - repeated from OBG, but also in Pediatrics? Page 443):** 28-year-old G2, 35 weeks, breech presentation. (Obstetric case – not pediatric)
+
+**Case 2 (Kollam):** A four year boy with 5 day high grade fever, bilateral non-purulent conjunctival congestion, erythematous rash over extremities, irritability, HR 140, BP 90/60, CRT<3, right cervical lymphadenopathy, congested oral mucosa.
+   a) Most probable diagnosis? **Kawasaki disease**
+   b) Two blood investigations? **CBC, ESR**
+   c) Serious complication? **Coronary artery aneurysm**
+   d) Evaluation to rule out complication? **Echocardiography**
+   e) Life saving drug? **IVIG**
+
+**Case 3 (SNIMS):** A 6 year old child coughing for 1 month, malnourished, contact with sputum positive TB case. Presumptive pediatric TB.
+   i) Presumptive Pediatric TB criteria? a) cough 1 week b) fever >2 weeks c) 5% weight loss in 6 months d) rhinitis >2 weeks
+   **Answer: b) fever >2 weeks**
+   ii) Microbiologically confirmed TB? a) IGRA b) CBNAAT c) Chest X-ray d) FISH
+   **Answer: b) CBNAAT**
+   iii) TB preventive therapy in <5 years? a) 3 months INH+Rifampin b) 6 months INH+Rifampin c) 3 months INH d) 3 months rifampicin
+   **Answer: a) 3 months INH+Rifampin**
+   iv) NTEP intensive phase for drug sensitive TB? a) 3HRE+4HRZE b) 2HRZE+4HRE c) 3HRZE+5HRE d) 2HRE+4HRZE
+   **Answer: b) 2HRZE+4HRE**
+   v) All presumed TB cases tested for resistance to which drug upfront? a) Isoniazid b) Rifampicin c) Ethambutol d) Pyrazinamide
+   **Answer: b) Rifampicin**
+
+**Case 4 (GMC Palakkad):** Term baby admitted to NICU with seizures on day 1, birth weight 1.9 kg.
+   i) Causes of seizure in this baby except? a) hypoglycemia b) hypercalcemia c) hypoxia d) cerebral malformations
+   **Answer: b) hypercalcemia**
+   ii) Preferred initial antiepileptic drug? a) Diazepam b) phenytoin c) Sodium valproate d) phenobarbitone
+   **Answer: d) phenobarbitone**
+   iii) Definition of LBW? a) <2kg b) <1.5kg c) <2.5kg d) <3kg
+   **Answer: c) <2.5kg**
+   iv) All can lead to LBW except? a) GDM b) PIH c) TORCH d) Twin pregnancy
+   **Answer: a) GDM (causes macrosomia)**
+   v) Scoring system for gestational age in newborn? a) Silverman Anderson b) LATCH c) Ballard's d) Downe's
+   **Answer: c) Ballard's**
+
+**Case 5 (DMWIMS):** Unimmunized 1 year old girl with fever 6 days, rash first appeared as macules behind ears progressed to whole body, fever increased when rash appeared, dry hacking cough, conjunctival congestion.
+   i) Most probable diagnosis? A) Kawasaki B) Measles C) Chicken pox D) Roseola infantum
+   **Answer: B) Measles**
+   ii) Pathognomonic oral lesion and site? A) Grey/white grains of sand-like lesions opposite lower second molar on buccal mucosa B) Opposite upper second molar C) Strawberry tongue D) Erythematous papules on soft palate
+   **Answer: B) Opposite upper second molar (Koplik spots)**
+   iii) Most common complication? A) Bronchiectasis B) Bronchopneumonia C) SSPE D) Meningitis
+   **Answer: B) Bronchopneumonia**
+   iv) Vitamin given to reduce morbidity and mortality? A) Vit K IM B) Vit A 2 lakh IU orally C) Vit A 1 lakh IU orally D) Vit D 400 IU
+   **Answer: C) Vit A 1 lakh IU orally (for 1 year old)**
+   v) Vaccine and schedule to prevent this disease? A) Varicella at 12 months B) PCV at 6,14 weeks & 9 months C) MR vaccine at 9 months and 16-24 months D) MR at 9 and 12 months
+   **Answer: C) MR vaccine at 9 months and 16-24 months**
+
+**Case 6 (SUT):** 9 month old baby with TOF presented with fast breathing, excessive crying and deepening cyanosis. Diagnosis?
+   a) Cardiac failure b) Pulmonary oedema c) Hypercyanotic spell d) Severe pneumonia
+   **Answer: c) Hypercyanotic spell**
+
+**Case 7 (SUT):** 12 year old girl with intense fear of gaining weight, current weight 25kg. Likely diagnosis?
+   a) Bulimia nervosa b) Anorexia nervosa c) Binge eating d) Pica
+   **Answer: b) Anorexia nervosa**
+
+**Case 8 (SUT):** 10 month old infant, consanguineous marriage, failure to gain weight, no fever. Pallor++, mild jaundice+, hepatosplenomegaly+, no lymphadenopathy. Diagnosis?
+   a) IMN b) Tuberculosis c) Thalassemia major d) Thalassemia trait
+   **Answer: c) Thalassemia major**
+
+**Case 9 (SUT):** Father of 3 year old Remya diagnosed with sputum+ve TB. Remya screened negative. Preventive treatment?
+   a) INH 3 months b) Rifampicin ×3 months c) INH+Rifampicin 3 months d) INH+Rifampicin 6 months
+   **Answer: c) INH+Rifampicin 3 months**
+
+**Case 10 (SUT):** 7 year old child with acute abdominal pain, occasional joint pains subsiding with NSAIDs, palpable purpura over buttocks. Most likely?
+   a) ITP b) HSP c) Kawasaki d) Drug induced rash
+   **Answer: b) HSP**
+
+**Case 11 (Jubilee):** Newborn at 39 weeks with respiratory distress, intubated, CXR shows bowel loops in thoracic cavity.
+   i) Diagnosis? a) TEF b) congenital pneumonia c) CDH d) RDS
+   **Answer: c) CDH (Congenital diaphragmatic hernia)**
+   ii) Most common location? a) left side b) right side c) central d) none
+   **Answer: a) left side**
+   iii) How diagnosed? a) Chest X-ray b) MRI c) USG d) None
+   **Answer: a) Chest X-ray**
+   iv) Bag and mask contraindicated? a) No b) Yes
+   **Answer: b) Yes**
+   v) Most common symptom? a) projectile vomiting b) respiratory distress c) nausea d) abdominal distension
+   **Answer: b) respiratory distress**
+
+**Case 12 (Amala):** 9 year old boy with sore throat 1 month back followed by fever and migratory polyarthritis, suggestive of rheumatic fever.
+   i) True regarding polyarthritis? a) Typically involves small joints b) Deforming c) Inverse relationship between severity of arthritis and carditis d) Occurs in 50% of patients
+   **Answer: c) Inverse relationship**
+   ii) Carditis associated with murmur and? a) Tachycardia b) Syncope c) Chest pain d) Tachypnoea
+   **Answer: a) Tachycardia**
+   iii) Carditis with cardiomegaly should receive? a) Steroid b) IVIG c) Steroid + Aspirin on tapering d) Only Penicillin
+   **Answer: c) Steroid + Aspirin on tapering**
+   iv) First line treatment for Sydenham chorea? a) Aspirin b) Prednisolone c) Penicillin d) Haloperidol
+   **Answer: d) Haloperidol**
+   v) Duration of penicillin prophylaxis in carditis with residual heart disease? a) 5 years or till 21 years b) 5 years or till 40 years c) 10 years or till 21 years d) 10 years or till 40 years
+   **Answer: d) 10 years or till 40 years whichever is longer**
+
+**Case 13 (Karuna):** 8-month-old female with poor weight gain, 3 episodes of LRTI in 3 months, pansystolic murmur at left lower sternal border with thrill.
+   i) Most likely cardiac diagnosis? a) ASD b) VSD c) PDA d) TAPVC
+   **Answer: b) VSD**
+   ii) Most common type based on location? a) Inlet b) Muscular c) Membranous d) Outlet
+   **Answer: c) Membranous**
+   iii) Is loud harsh holosystolic murmur with thrill suggestive of large lesion? a) Yes b) No
+   **Answer: b) No (small VSD have loud murmur)**
+   iv) Not a part of Nada's major criteria? a) Systolic murmur grade 3 b) Abnormal X-ray c) Cyanosis d) Diastolic murmur
+   **Answer: b) Abnormal X-ray**
+   v) Inherited syndromes associated with VSD except? a) Down b) Turner c) Holt-Oram d) CHARGE
+   **Answer: b) Turner (coarctation more common)**
+
+**Case 14 (Al Azhar):** 7 year old boy with headache, oliguria, cola-colored urine for 3 days, sore throat 1 week back, BP 140/100.
+   i) Most probable diagnosis? a) Nephrotic Syndrome b) MPGN c) PSGN d) IgA nephropathy
+   **Answer: c) PSGN**
+   ii) Usual complement level? a) C3 low, C4 low b) C3 normal, C4 low c) C3 normal, C4 normal d) C3 low, C4 normal
+   **Answer: d) C3 low, C4 normal**
+   iii) Indications for renal biopsy except? a) Acute renal failure b) Normal complement c) Persistence of hematuria >2 weeks d) Persistence of proteinuria >2 months
+   **Answer: b) Normal complement (actually normal complement is an indication for biopsy) – given answer iii.b**
+   iv) Treatment? a) Symptomatic b) Antibiotics c) Steroids d) IVIG
+   **Answer: a) Symptomatic**
+   v) Electron microscopy finding? a) No deposit b) Subepithelial humps c) Mesangial deposits d) Subendothelial humps
+   **Answer: b) Subepithelial humps**
+
+**Case 15 (GMC Kottayam):** 4-year-old with sudden high fever (39°C), productive cough, laboured breathing, CXR lobar consolidation.
+   i) Most likely bacterial pathogen? a) Mycoplasma b) Staph aureus c) Hib d) Strep pneumoniae
+   **Answer: d) Strep pneumoniae**
+   ii) Factor predisposing after viral URI? a) Poor hand hygiene b) Viral disruption of respiratory epithelium c) Tobacco smoke d) Vit D deficiency
+   **Answer: b) Viral disruption of respiratory epithelium**
+   iii) First-line antibiotic for uncomplicated bacterial pneumonia? a) Azithromycin b) Vancomycin c) Ceftriaxone d) Amoxicillin
+   **Answer: d) Amoxicillin**
+   iv) Symptom requiring immediate hospitalization? a) Fever >38°C b) Cough with wheezing c) Altered mental status or severe respiratory distress d) Mild abdominal pain
+   **Answer: c) Altered mental status or severe respiratory distress**
+   v) Key factor in preventing pneumonia? a) Exclusive breastfeeding 6 months b) Pneumococcal vaccine c) Avoid indoor air pollution d) All of the above
+   **Answer: d) All of the above**
+
+**Case 16 (TMC):** Baby born at 32 weeks, weight 1400 gm, developed fast breathing & chest indrawing 2 hours after birth.
+   i) Most probable cause? A) Congenital pneumonia B) RDS C) Meconium aspiration D) TTN
+   **Answer: B) RDS**
+   ii) Etiology? A) Mycoplasma B) Candida C) Surfactant deficiency D) Aspiration of feeds
+   **Answer: C) Surfactant deficiency**
+   iii) Risk can be prevented by treating mother with? A) Penicillin B) Cotrimoxazole C) IVIG D) Dexamethasone
+   **Answer: D) Dexamethasone**
+   iv) Treatment includes all except? A) CPAP B) IV fluids C) InSurE approach D) Tracheobronchial lavage
+   **Answer: D) Tracheobronchial lavage**
+   v) Gestational age & birth weight classification? A) Preterm, Very low birth weight B) Preterm, Low birth weight C) Preterm, Extremely low birth weight D) Term, Low birth weight
+   **Answer: A) Preterm, Very low birth weight (1400 gm is VLBW, 32 weeks preterm)**
+
+**Case 17 (Pushpagiri):** 3-year-old girl with rash and bruising over trunk and extremities, intermittent epistaxis, URI 2 weeks ago. Hb 12, WBC 8000, INR 1.0, platelets 8000.
+   i) Most appropriate initial treatment? A) Corticosteroids + IVIG B) Observation C) Platelet transfusion D) Splenectomy
+   **Answer: B) Observation (if no active bleeding; answer key says i.a – but ITP with platelet 8000 and bruising may need treatment; guidelines vary)**
+   ii) Least likely feature of acute ITP? A) Preceding viral infection B) Isolated thrombocytopenia C) Mucocutaneous bleeding D) Isolated splenomegaly E) Increased megakaryocytes in marrow
+   **Answer: D) Isolated splenomegaly**
+
+**Case 18 (Pushpagiri):** 2-year-old boy with generalized tonic-clonic seizure during febrile illness, no prior seizures or neurologic abnormalities.
+   i) Most likely diagnosis? A) Epilepsy B) Febrile seizure C) Meningitis D) Hypoglycemia
+   **Answer: B) Febrile seizure**
+   ii) Most appropriate next step? A) Lumbar puncture B) Long-term anticonvulsants C) EEG D) Reassure parents and supportive care
+   **Answer: D) Reassure parents and supportive care**
+   iii) Drug for intermittent prophylaxis? A) Phenytoin B) Phenobarbitone C) Valproic Acid D) Clobazam
+   **Answer: D) Clobazam (or diazepam; given answer iii.d)**
+
+**Case 19 (CMC):** 2 month old infant with cough and breathlessness, suck-rest-suck cycle, pansystolic murmur at lower left sternal border.
+   i) Most likely acyanotic heart disease? a) ASD b) VSD c) PDA d) Coarctation
+   **Answer: b) VSD**
+   ii) Nadas major criteria include? a) Systolic murmur grade 2 or more b) Clubbing c) Congestive heart failure d) Abnormal ECG
+   **Answer: c) Congestive heart failure (and cyanosis, diastolic murmur, etc.)**
+   iii) First line management in congestive cardiac failure? a) Digoxin b) Diuretics c) ACE inhibitors d) Vasodilators
+   **Answer: b) Diuretics**
+   iv) High volume collapsing pulse is a feature of? a) ASD b) VSD c) PDA d) TOF
+   **Answer: c) PDA**
+   v) In which condition is left atrium NOT enlarged? a) VSD b) Aorto-pulmonary window c) ASD d) PDA
+   **Answer: c) ASD (left atrium not enlarged in isolated ASD)**
+
+---
+
+**End of Pediatrics Questions**
