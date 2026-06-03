@@ -78,6 +78,11 @@ function refreshScrollReveal() {
 // ── View Manager ──
 let currentView = 'home';
 function showView(id) {
+  // If navigating AWAY from test view, save progress silently first
+  if (currentView === 'test' && id !== 'test') {
+    saveIncompleteTestSilent();
+  }
+
   const next = document.getElementById('view-' + id);
   const prev = document.querySelector('.view.active');
   if (prev && prev !== next) {
@@ -89,6 +94,10 @@ function showView(id) {
     next.classList.add('active');
   }
   currentView = id;
+
+  // Toggle body class so navbar hides during test
+  document.body.classList.toggle('in-test', id === 'test');
+
   window.scrollTo(0, 0);
   closeMobileMenu();
   if (id === 'subjects') renderSubjects();
