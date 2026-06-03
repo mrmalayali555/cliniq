@@ -2,18 +2,13 @@
 
 // ── Theme ──
 const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-let currentTheme = localStorage.getItem('cliniq-theme') || (prefersDark ? 'dark' : 'light');
+let currentTheme = localStorage.getItem('cliniq-theme') || 'light';
 document.documentElement.setAttribute('data-theme', currentTheme);
 
 function updateThemeUI() {
-  // SVG icons are toggled via CSS [data-theme] selectors — no JS icon swap needed
+  // SVG icons toggled via CSS [data-theme] selectors on both desktop + mobile toggles
   const meta = document.getElementById('themeColorMeta');
-  if (meta) meta.content = currentTheme === 'dark' ? '#080c10' : '#f4f7fb';
-  // Update mobile toggle label
-  const mobileLabel = document.getElementById('mobileThemeIcon');
-  if (mobileLabel) {
-    mobileLabel.textContent = currentTheme === 'dark' ? '☀️  Switch to Light' : '🌙  Switch to Dark';
-  }
+  if (meta) meta.content = currentTheme === 'dark' ? '#0d0d0d' : '#f9fee7';
 }
 
 function toggleTheme() {

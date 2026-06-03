@@ -292,7 +292,7 @@ body::after {
 }
 .nav-brand:hover { opacity: 0.85; }
 
-/* Logo wrapper — gives white logo a visible bg in light mode */
+/* Logo wrapper — red bg in light mode so logo is visible, transparent in dark mode */
 .nav-logo-img-wrap {
   width: 36px;
   height: 36px;
@@ -308,15 +308,28 @@ body::after {
 .nav-logo-img-wrap:hover {
   box-shadow: 0 0 16px var(--accent-glow);
 }
+/* Dark mode: no background, logo is white PNG on dark bg — naturally visible */
+[data-theme="dark"] .nav-logo-img-wrap {
+  background: transparent;
+  border: none;
+}
+/* Light mode: red background so the white logo is visible on cream bg */
 [data-theme="light"] .nav-logo-img-wrap {
-  background: var(--accent-strong);
+  background: var(--accent);
 }
 
 .nav-logo-img {
   width: 28px;
   height: 28px;
   object-fit: contain;
+}
+/* Light mode: invert not needed — red bg makes white logo pop */
+[data-theme="light"] .nav-logo-img {
   filter: brightness(0) invert(1);
+}
+/* Dark mode: white PNG on dark bg, no filter needed */
+[data-theme="dark"] .nav-logo-img {
+  filter: none;
 }
 
 .nav-logo-text {
@@ -415,6 +428,18 @@ body::after {
   border-radius: var(--radius);
   cursor: pointer;
   padding: 10px;
+}
+
+/* Mobile action group — theme toggle + hamburger always visible together */
+.nav-mobile-actions {
+  display: none;
+  align-items: center;
+  gap: 8px;
+}
+
+/* The theme toggle inside mobile actions */
+.theme-toggle-nav-mobile {
+  display: flex !important;
 }
 .hamburger span {
   display: block;
@@ -1689,6 +1714,7 @@ body.in-test .navbar { display: none !important; }
 @media (max-width: 768px) {
   .nav-links { display: none; }
   .hamburger { display: flex; }
+  .nav-mobile-actions { display: flex; }
 
   .hero-stats {
     flex-direction: column;
