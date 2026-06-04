@@ -655,9 +655,9 @@ function parseQuestions(text, subject = '') {
 // ── Bold-Answer Format Parser (surgery, ortho, paeds, obs, medicine) ──
 function parseBoldAnswerFormat(text) {
   const questions = [];
-  // Match numbered questions: "1. Question text\n   a. opt ...\n   **Answer: x**"
-  // Split by numbered question start
-  const qBlocks = text.split(/\n(?=\d+[\.\)]\s)/);
+  // Match numbered questions: "1. " or "1.1 " or "1.1. " format
+  // Split by numbered question start (handles plain "1. " AND chapter.sub "1.1 " formats)
+  const qBlocks = text.split(/\n(?=\d+(?:\.\d+)?[\.\)]\s)/);
 
   for (const block of qBlocks) {
     const lines = block.split('\n').map(l => l.trim()).filter(l => l);
@@ -669,8 +669,8 @@ function parseBoldAnswerFormat(text) {
 
     const answerRaw = lines[answerLineIdx].replace(/\*\*/g, '').replace(/^Answer:\s*/i, '').trim();
 
-    // Question text: first line minus the number prefix
-    let questionText = lines[0].replace(/^\d+[\.\)]\s*/, '').trim();
+    // Question text: first line minus the number prefix (handles "1. " and "1.1 " formats)
+    let questionText = lines[0].replace(/^\d+(?:\.\d+)?[\.\)]\s*/, '').trim();
     // If question spans multiple lines before options, collect them
     let optStart = -1;
     for (let i = 1; i < answerLineIdx; i++) {
@@ -695,12 +695,18 @@ function parseBoldAnswerFormat(text) {
     let options = [];
     const inlineMatches = [...fullOpts.matchAll(/([a-eA-E])[\.\)]\s*(.+?)(?=\s[a-eA-E][\.\)]|$)/g)];
     if (inlineMatches.length >= 2) {
-      options = inlineMatches.map(m => ({ label: m[1].toLowerCase(), text: m[2].trim() }));
+      options = inlineMatches.map(m => ({
+        label: m[1].toLowerCase(),
+        text: m[2].replace(/\s*\(p[\.\d,\s]+\)\s*$/, '').trim()
+      }));
     } else {
-      // One per line
+      // One per line — strip trailing page references like (p.5) or (p.7,8,25)
       for (const line of optionLines) {
         const m = line.match(/^([a-eA-E])[\.\)]\s*(.+)/);
-        if (m) options.push({ label: m[1].toLowerCase(), text: m[2].trim() });
+        if (m) {
+          const cleanText = m[2].replace(/\s*\(p[\.\d,\s]+\)\s*$/, '').trim();
+          options.push({ label: m[1].toLowerCase(), text: cleanText });
+        }
       }
     }
 
