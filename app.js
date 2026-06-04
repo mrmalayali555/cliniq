@@ -110,17 +110,17 @@ function scrollToFeatures() {
 const SUBJECTS = [
   // 1st Year
   { id:'anatomy',      name:'Anatomy',        year:'1st', icon:'AN', info:'8 Topics • 1200+ MCQs', available:true },
-  { id:'physiology',   name:'Physiology',     year:'1st', icon:'PH', info:'Topic-wise • 800+ MCQs', available:true },
-  { id:'biochemistry', name:'Biochemistry',   year:'1st', icon:'BC', info:'Topic-wise • 1000+ MCQs', available:true },
+  { id:'physiology',   name:'Physiology',     year:'1st', icon:'PH', info:'800+ MCQs',             available:true },
+  { id:'biochemistry', name:'Biochemistry',   year:'1st', icon:'BC', info:'1000+ MCQs',            available:true },
 
   // 2nd Year
-  { id:'pathology',    name:'Pathology',      year:'2nd', icon:'PA', info:'800+ MCQs',             available:true },
+  { id:'pathology',    name:'Pathology',      year:'2nd', icon:'PA', info:'Coming Soon',           available:false },
   { id:'microbiology', name:'Microbiology',   year:'2nd', icon:'MI', info:'Coming Soon',           available:false },
-  { id:'pharmacology', name:'Pharmacology',   year:'2nd', icon:'PR', info:'Coming Soon',           available:false },
+  { id:'pharmacology', name:'Pharmacology',   year:'2nd', icon:'PR', info:'1200+ MCQs',            available:true  },
 
   // 3rd Year
   { id:'psm',          name:'PSM',            year:'3rd', icon:'PS', info:'500+ MCQs',             available:true },
-  { id:'fmt',          name:'FMT',            year:'3rd', icon:'FM', info:'Chapter-wise • 400+ MCQs', available:true },
+  { id:'fmt',          name:'FMT',            year:'3rd', icon:'FM', info:'400+ MCQs',             available:true },
 
   // Final Year
   { id:'medicine',     name:'Medicine',       year:'final', icon:'MD', info:'400+ MCQs',           available:true },
@@ -202,16 +202,8 @@ function selectSubject(id) {
   if (id === 'anatomy') {
     renderTopics();
     showView('topics');
-  } else if (id === 'fmt') {
-    renderFmtTopics();
-    showView('topics');
-  } else if (id === 'physiology') {
-    renderPhysiologyTopics();
-    showView('topics');
-  } else if (id === 'biochemistry') {
-    renderBiochemistryTopics();
-    showView('topics');
   } else {
+    // All other subjects (including physiology, biochemistry, fmt) go straight to configure — mixed only
     showConfigure(id, null);
   }
 }
@@ -355,8 +347,7 @@ function showConfigure(subject, topic) {
 }
 
 function goBackFromConfig() {
-  const subjectsWithTopics = ['anatomy', 'fmt', 'physiology', 'biochemistry'];
-  if (subjectsWithTopics.includes(selectedSubject)) showView('topics');
+  if (selectedSubject === 'anatomy') showView('topics');
   else showView('subjects');
 }
 
@@ -408,6 +399,7 @@ const SUBJECT_FILES = {
   'biochemistry': ['Biochemistry-Question-bank.txt', 'biochemistry2.txt'],
   'psm':          'Community-Medicine-MCQ-Companion-Clean.txt',
   'fmt':          'fmt.txt',
+  'pharmacology': 'Pharmacology.txt',
   'medicine':     'general.txt',
   'obstetrics':   'Obstetrics.txt',
   'gynaecology':  'Obstetrics.txt',
@@ -1290,6 +1282,7 @@ document.addEventListener('DOMContentLoaded', () => {
   setTimeout(() => loadQuestions('paediatrics'), 3000);
   setTimeout(() => loadQuestions('obstetrics'), 3500);
   setTimeout(() => loadQuestions('fmt'), 4000);
+  setTimeout(() => loadQuestions('pharmacology'), 4500);
 
   // ── Exit modal wiring ──
   const exitModal     = document.getElementById('exitModal');
