@@ -1,0 +1,1114 @@
+# BIOCHEMISTRY QUESTION BANK (Topic-wise)
+
+## 1. Cell; Amino Acids, Proteins and Metabolism of Amino Acids (Starts at line 11)
+
+**Single response questions:**
+
+1. A child has brittle hair, growth delay, and elevated methionine and homocysteine levels in blood. What vitamin supplementation can improve the condition?
+   A. Niacin B. Vitamin B6 C. Biotin D. Riboflavin
+   **Answer: B**
+
+2. Which enzyme is an exopeptidase?
+   A. trypsin B. chymotrypsin C. pepsin D. carboxypeptidase
+   **Answer: D**
+
+3. In the body, glycine is used for the synthesis of all the following substances, except:
+   A. guanine B. glutamine C. glutathione D. creatine
+   **Answer: B**
+
+4. Ochronosis is seen in:
+   A. phenylketonuria B. alkaptonuria C. proline D. succinyl CoA
+   **Answer: B**
+
+5. In pheochromocytomas, there is excessive urinary excretion of:
+   A. vanillylmandelic acid B. polyamines C. hippuric acid D. 5-hydroxyindole acetic acid
+   **Answer: A**
+
+**Multiple response questions:**
+
+6. The following disorders are due to defects in tyrosine metabolism:
+   A. Phenylketonuria B. Alkaptonuria C. Tyrosinemia D. Maple Syrup Urine Disease
+   **Answer: B, C**
+
+7. The following amino acids are essential in humans:
+   A. Valine B. Arginine C. Leucine D. Serine
+   **Answer: A, B, C**
+
+8. Branched-chain amino acids include:
+   A. Leucine B. Valine C. Isoleucine D. Lysine
+   **Answer: A, B, C**
+
+9. Clinical features of Maple Syrup Urine Disease include:
+   A. Ketonuria B. Sweet-smelling urine C. Hypoglycemia D. Mental retardation
+   **Answer: A, B, D**
+
+10. Which of the following coenzymes are required for amino acid metabolism?
+    A. Pyridoxal phosphate (Vitamin B6) B. Biotin C. Tetrahydrofolate (THF) D. Thiamine pyrophosphate (TPP)
+    **Answer: A, B, C**
+
+**Case scenario:**
+
+11. A 3-month-old infant presents with irritability, hypopigmented skin, and developmental delay. Urine smells like "mouse" or musty. Likely diagnosis?
+    A. Tyrosinemia B. Alkaptonuria C. Phenylketonuria D. Homocystinuria
+    **Answer: C**
+
+12. A child presents with hepatomegaly, failure to thrive, and cabbage-like body odor. Urine succinylacetone is positive. Likely diagnosis?
+    A. Phenylketonuria B. Tyrosinemia type I C. MSUD D. Isovaleric acidemia
+    **Answer: B**
+
+13. A child has hypopigmented hair and recurrent infections. Tyrosinase activity is deficient. Likely diagnosis?
+    A. Oculocutaneous albinism B. Phenylketonuria C. Homocystinuria D. Alkaptonuria
+    **Answer: A**
+
+14. A 2-day-old newborn develops irritability, lethargy, and seizures. Urine has "maple syrup" odor. Which enzyme is most likely deficient?
+    A. Branched-chain α-keto acid dehydrogenase B. Phenylalanine hydroxylase C. Homogentisate oxidase D. Glutamate dehydrogenase
+    **Answer: A**
+
+15. A child has brittle hair, growth delay, and elevated methionine and homocysteine levels. What vitamin supplementation can improve the condition?
+    A. Niacin B. Vitamin B6 C. Biotin D. Riboflavin
+    **Answer: B**
+
+16. A patient with mental retardation has elevated levels of isovaleric acid and "sweaty feet" odor in urine. Likely enzyme defect?
+    A. Propionyl-CoA carboxylase B. Isovaleryl-CoA dehydrogenase C. Methylmalonyl-CoA mutase D. Cystathionine β-synthase
+    **Answer: B**
+
+17. A child is diagnosed with methylmalonic acidemia. Which vitamin deficiency could present with similar features?
+    A. Folic acid B. Vitamin B12 C. Vitamin B6 D. Vitamin A
+    **Answer: B**
+
+18. A patient develops metabolic acidosis with ketosis. Urine analysis reveals increased propionic acid. Which amino acids should be restricted?
+    A. Methionine, threonine, valine, isoleucine B. Phenylalanine, tyrosine C. Leucine, alanine, glutamate D. Lysine, tryptophan
+    **Answer: A**
+
+**Assertion and reasons:**
+
+19. A: All amino acids are optically active. R: Glycine has no chiral carbon.
+    **Answer: C**
+
+20. A: Collagen is a structural protein found in connective tissue. R: Collagen contains a high amount of hydroxylysine and hydroxyproline.
+    **Answer: A**
+
+21. A: Melanin is derived from tyrosine. R: Tyrosinase converts tyrosine to dopa and then to dopaquinone, a precursor of melanin.
+    **Answer: A**
+
+22. Hyperammonemia can cause cerebral edema. R: Ammonia is detoxified in brain by conversion to glutamine, which increases osmotic load.
+    **Answer: A**
+
+23. Homocystinuria patients have increased risk of thrombosis. R: Homocysteine interferes with collagen cross-linking in blood vessels.
+    **Answer: B**
+
+24. A: Serotonin is increased in carcinoid tumors. R: Carcinoid tumors of the intestine secrete excess tryptophan.
+    **Answer: C**
+
+25. A: Phenylalanine is both glucogenic and ketogenic. R: Its metabolism yields fumarate and acetoacetate.
+    **Answer: A**
+
+---
+
+## 2. Enzymology; Heme and Hemoglobin; Xenobiotics (Starts at line 112)
+
+**Single response questions:**
+
+1. Which of the following is not a characteristic feature of enzymes?
+   A. Almost all enzymes are proteins B. They are heat-labile C. They are water-insoluble D. They can be precipitated by protein precipitating reagents
+   **Answer: C**
+
+2. Porphyria cutanea tarda is due to deficiency of which enzyme involved in heme synthesis?
+   A. UPG-decarboxylase B. ALA-synthase C. PBG-deaminase D. PPG-oxidase
+   **Answer: A**
+
+3. Which of the following is mismatched metalloenzymes?
+   A. Hexokinase: Magnesium B. Catalase: Manganese C. Cytochrome oxidase: Copper D. Carbonic anhydrase: Zinc
+   **Answer: B**
+
+4. All are multienzyme complexes, except:
+   A. Fatty acid synthase B. Pyruvate dehydrogenase C. Alpha-ketoglutarate dehydrogenase D. Glycogen synthase
+   **Answer: D**
+
+5. Which factor causes a shift in the ODC (oxygen dissociation curve) to right?
+   A. Low 2,3-DPG B. Low pH C. Low pCO2 D. Low temperature
+   **Answer: B**
+
+6. __________ is the coenzyme for all the P450 enzymes.
+   A. NADH B. NADPH C. FAD D. FMN
+   **Answer: B**
+
+**Multiple response questions:**
+
+7. Allosteric enzymes show which of the following features?
+   A. Sigmoid kinetics B. Cooperativity C. Michaelis-Menten kinetics D. Regulation by effector molecules
+   **Answer: A, B, D**
+
+8. Which of the following are competitive enzyme inhibitors?
+   A. Sulfonamides B. Methotrexate C. Cyanide D. Statins
+   **Answer: A, B, D**
+
+9. Factors affecting enzyme activity include:
+   A. Temperature B. pH C. Substrate concentration D. Light
+   **Answer: A, B, C**
+
+10. Which of the following are normal types of human hemoglobins?
+    A. HbA B. HbA2 C. HbF D. HbS
+    **Answer: A, B, C**
+
+11. Which factors shift the oxygen dissociation curve to the right?
+    A. Increased 2,3-BPG B. Increased temperature C. Increased pH D. Increased CO2
+    **Answer: A, B, D**
+
+12. Which of the following are porphyrias?
+    A. Acute intermittent porphyria B. Porphyria cutanea tarda C. Maple syrup urine disease D. Hereditary coproporphyria
+    **Answer: A, B, D**
+
+13. A 4-year-old child from a low-income area has developmental delay, anemia, and basophilic stippling of RBCs. Blood lead levels are elevated. Which enzyme in heme biosynthesis is inhibited?
+    A. ALA synthase B. ALA dehydratase C. Ferrochelatase D. Both B and C
+    **Answer: D**
+
+14. A 2-year-old child of Mediterranean descent presents with severe anemia, hepatosplenomegaly, and bone deformities. Hemoglobin electrophoresis shows increased HbF. Most probable diagnosis?
+    A. Iron deficiency anemia B. Alpha thalassemia major C. Beta thalassemia major D. Sickle cell trait
+    **Answer: C**
+
+15. A chronic alcoholic presents with jaundice, hepatomegaly, and elevated liver enzymes. AST:210, ALT:120, ALP:160. Which enzyme ratio helps distinguish alcoholic hepatitis?
+    A. ALT/AST >2 B. AST/ALT >2 C. ALP/ALT >2 D. ALT/ALP >2
+    **Answer: B**
+
+16. A 56-year-old man presents with severe chest pain radiating to left arm. ECG shows ST elevation. Blood test: CK-MB elevated, LDH1 > LDH2, Troponin I positive. Most specific marker for recent MI?
+    A. AST B. LDH C. Troponin I D. CK-MB
+    **Answer: C**
+
+17. A patient presents with jaundice, fatigue, and dark urine. Labs: High total bilirubin, predominantly unconjugated, increased urobilinogen, no bilirubin in urine. Most likely cause?
+    A. Obstructive jaundice B. Hemolytic anemia C. Hepatocellular jaundice D. Crigler-Najjar syndrome
+    **Answer: B**
+
+18. A factory worker with long-term exposure to benzene develops bone marrow suppression and leukemia. Which enzyme system is primarily responsible for metabolic activation of such xenobiotics?
+    A. Alcohol dehydrogenase B. Glutathione-S-transferase C. Cytochrome P450 monooxygenase D. Catalase
+    **Answer: C**
+
+19. A 20-year-old man has mild jaundice, no hepatomegaly. Labs: Normal liver enzymes, elevated conjugated bilirubin, normal hemoglobin. Liver biopsy shows darkly pigmented liver. Most likely diagnosis?
+    A. Crigler-Najjar syndrome B. Gilbert syndrome C. Dubin-Johnson syndrome D. Rotor syndrome
+    **Answer: C**
+
+**Assertion and reasons:**
+
+20. A: Km of an enzyme is inversely proportional to its affinity for the substrate. R: A low Km indicates high substrate binding and a faster reaction.
+    **Answer: A**
+
+21. A: Isoenzymes have identical primary structure but different kinetics.
+    **Answer: C**
+
+22. A: Allosteric enzymes usually do not follow Michaelis-Menten kinetics. R: Allosteric enzymes display cooperative binding and sigmoidal kinetics.
+    **Answer: A**
+
+23. A: Hemoglobin is a tetramer with two alpha and two beta subunits. R: Each subunit can bind to one carbon dioxide molecule.
+    **Answer: B**
+
+24. A: Phase I reactions may increase toxicity of certain xenobiotics. R: Phase I reactions involve oxidation, reduction, or hydrolysis.
+    **Answer: A**
+
+25. A: All cytochrome P450 enzymes are located in mitochondria. R: Cytochrome P450 is a microsomal enzyme system.
+    **Answer: D**
+
+---
+
+## 3. Carbohydrate Chemistry & Metabolism, ETC, TCA Cycle, Blood Glucose Regulation, DM (Starts at line 203)
+
+**Single response questions:**
+
+1. In uncontrolled diabetes mellitus, the major cause of ketoacidosis is:
+   A. Increased insulin levels B. Enhanced lipolysis C. Increased β-oxidation of fatty acids D. Increased TCA cycle activity
+   **Answer: C**
+
+2. Which GLUT transporter allows bidirectional glucose transport in hepatocytes and pancreatic β-cells?
+   A. GLUT-1 B. GLUT-2 C. GLUT-3 D. GLUT-4
+   **Answer: B**
+
+3. Which pathway leads to microvascular complications in DM via advanced glycation end products (AGEs)?
+   A. Sorbitol pathway B. Hexosamine pathway C. Polyol pathway D. Non-enzymatic glycation of proteins
+   **Answer: D**
+
+4. Which lab test best reflects long-term glycemic control in DM?
+   A. Fasting blood glucose B. C-peptide C. Serum insulin D. HbA1c
+   **Answer: D**
+
+5. During prolonged fasting, the primary source of blood glucose is:
+   A. Dietary glucose B. Glycogenolysis C. Gluconeogenesis D. Ketone bodies
+   **Answer: C**
+
+6. Which TCA intermediate directly leads to gluconeogenesis via PEP formation?
+   A. Citrate B. α-Ketoglutarate C. Oxaloacetate D. Fumarate
+   **Answer: C**
+
+**Multiple response questions:**
+
+7. Which mechanisms contribute to insulin resistance in Type 2 DM?
+   A. Increased free fatty acids B. Inflammatory cytokines C. Insulin receptor mutations D. Increased GLUT-4 expression E. Obesity
+   Options: 1. ABCD 2. BDEA 3. ABCE 4. ADE
+   **Answer: 3. ABCE**
+
+8. Which are chronic complications of diabetes mellitus?
+   A. Retinopathy B. Neuropathy C. Nephropathy D. Hypercalcemia E. Atherosclerosis
+   Options: 1. ABC 2. ABCD 3. ABCE 4. ACDE
+   **Answer: 3. ABCE**
+
+9. Which enzymes are inhibited by insulin?
+   A. Hormone-sensitive lipase B. Pyruvate dehydrogenase C. Glycogen synthase D. Glucose-6-phosphatase E. PEPCK
+   Options: 1. ADE 2. ABC 3. CDE 4. ABDE
+   **Answer: 1. ADE**
+
+10. Which are proton-pumping complexes in ETC?
+    A. Complex I B. Complex II C. Complex III D. Complex IV E. ATP synthase
+    Options: 1. ACE 2. ACD 3. BCD 4. CDE
+    **Answer: 2. ACD**
+
+11. Which reactions in the TCA cycle release CO2?
+    A. Isocitrate → α-Ketoglutarate B. α-Ketoglutarate → Succinyl-CoA C. Succinyl-CoA → Succinate D. Malate → Oxaloacetate E. Citrate → Isocitrate
+    Options: 1. AB 2. CDE 3. BCD 4. AC
+    **Answer: 1. AB**
+
+12. Which are seen in classical galactosemia?
+    A. Galactose-1-phosphate uridyltransferase deficiency B. Vomiting and diarrhea in infants C. Hepatomegaly and cataract D. Autosomal dominant inheritance E. Galactosuria
+    Options: 1. ABC 2. ABCE 3. ABCD 4. ABE
+    **Answer: 2. ABCE**
+
+**Assertion and reasons:**
+
+13. A: Insulin promotes glycogen synthesis in the liver. R: Insulin activates glycogen synthase by dephosphorylation.
+    **Answer: A**
+
+14. A: In type I diabetes, there is hyperglycemia despite high insulin levels. R: Type I DM is characterized by destruction of pancreatic β-cells.
+    **Answer: D**
+
+15. A: ETC is located on the outer mitochondrial membrane. R: Cytochrome c and Coenzyme Q act as mobile electron carriers in the inner mitochondrial membrane.
+    **Answer: C**
+
+16. A: The TCA cycle is described as an amphibolic pathway. R: It functions in both catabolic and anabolic processes.
+    **Answer: A**
+
+17. A: Von Gierke's disease is classified as type III glycogen storage disease. R: Von Gierke's disease occurs due to deficiency of Glucose-6-phosphatase.
+    **Answer: D**
+
+18. A: In citric acid cycle, formation of citric acid is an irreversible step. R: It is mediated by the enzyme citrate synthase.
+    **Answer: B**
+
+**Case scenario (DKA):**
+
+19. Most likely diagnosis: A. Hypoglycemia B. Lactic acidosis C. Diabetic ketoacidosis (DKA) D. Renal tubular acidosis
+    **Answer: C**
+
+20. Best explanation for fruity odor of breath: A. Excess acetone production B. Increased glucose oxidation C. Elevated lactic acid D. Presence of ammonia
+    **Answer: A**
+
+21. Pathway primarily responsible for excess ketone bodies in DKA: A. Glycolysis B. Gluconeogenesis C. TCA cycle D. β-oxidation of fatty acids
+    **Answer: D**
+
+22. Why is TCA cycle unable to handle all acetyl-CoA in DKA? A. Lack of pyruvate B. Excess oxygen C. Decreased oxaloacetate D. Excess ATP inhibits the cycle
+    **Answer: C**
+
+23. Primary hormone imbalance causing this condition: A. Excess insulin B. Glucagon deficiency C. Insulin deficiency D. Cortisol deficiency
+    **Answer: C**
+
+24. Explanation for high anion gap metabolic acidosis: A. Increased chloride retention B. Loss of bicarbonate in urine C. Accumulation of ketone bodies D. Decreased lactic acid production
+    **Answer: C**
+
+25. Which enzyme is most active in this metabolic state? A. Pyruvate dehydrogenase B. HMG-CoA synthase C. Glucokinase D. Pyruvate kinase
+    **Answer: B**
+
+---
+
+## 4. Chemistry of Lipids, Metabolism of Fatty Acids, Cholesterol and Clinical Aspects (Starts at line 311)
+
+**Single response questions:**
+
+1. The end product of β-oxidation of palmitic acid is:
+   A. 7 Acetyl-CoA B. 8 Acetyl-CoA C. 16 Acetyl-CoA D. Acetoacetate
+   **Answer: B**
+
+2. Familial hypercholesterolemia is most commonly caused by mutations in:
+   A. Apo C-II B. LDL receptor C. HMG-CoA reductase D. LCAT
+   **Answer: B**
+
+3. Cholesterol is converted to bile acids in the liver by the enzyme:
+   A. Cholesterol desmolase B. HMG-CoA reductase C. 7-alpha hydroxylase D. Thiolase
+   **Answer: C**
+
+4. Which apolipoprotein activates LCAT?
+   A. ApoB-100 B. ApoC-II C. ApoA-I D. ApoE
+   **Answer: C**
+
+5. Which enzyme is present in both cholesterol and ketone body synthesis?
+   A. Thiolase B. Mevalonate kinase C. HMG-CoA synthase D. 7α-hydroxylase
+   **Answer: A**
+
+6. Lipoprotein lipase deficiency leads to:
+   A. Type I hyperlipoproteinemia B. Type IIa hypercholesterolemia C. Tangier disease D. Niemann-Pick disease
+   **Answer: A**
+
+7. Which statement about ketone bodies is FALSE?
+   A. They are synthesized in the liver B. They are utilized by brain during starvation C. Their overproduction leads to acidosis D. They are stored in adipose tissue for energy
+   **Answer: D**
+
+**Multiple response questions:**
+
+8. Inflammatory markers associated with cardiovascular diseases include:
+   a) CRP b) Interleukin-6 c) Troponin I d) TNF-α
+   Options: 1. ABC 2. BCD 3. ABD 4. ACD
+   **Answer: 3. ABD**
+
+9. Cardiac biomarkers used for diagnosis of MI include:
+   a) Troponin I and T b) CK-MB c) BNP d) Myoglobin
+   Options: 1. ABD 2. ABC 3. BCD 4. ACD
+   **Answer: 1. ABD**
+
+10. An obese person may have the following biochemical abnormalities:
+    a. Increased glucose tolerance b. Hypertriglyceridemia c. Chronic respiratory acidosis d. High plasma insulin levels
+    Options: 1. ABC 2. BCD 3. CDA 4. ABD
+    **Answer: 2. BCD**
+
+11. Conditions associated with secondary hyperlipidemia include:
+    a) Diabetes mellitus b) Hypothyroidism c) Nephrotic syndrome d) Addison's disease
+    Options: 1. ABC 2. BCD 3. ACD 4. ABD
+    **Answer: 1. ABC**
+
+12. Therapeutic approaches to hyperlipidemia include:
+    a) Statins b) Fibrates c) Niacin d) Bile acid sequestrants
+    Options: 1. ABC 2. BCD 3. ABCD 4. ACD
+    **Answer: 3. ABCD**
+
+13. Functions of lipids in the human body include:
+    a) Energy storage b) Insulation and protection c) Enzyme catalysis d) Cell membrane structure
+    Options: 1. ABC 2. ACD 3. BCD 4. ABD
+    **Answer: 4. ABD**
+
+**Assertion and reasons:**
+
+14. A: Low LDL-cholesterol levels are a major contributing factor for atherosclerosis. R: Oxidised LDL initiates fatty streaks, the starting point of atheroma formation.
+    **Answer: C**
+
+15. A: Bile is the only route of excretion of bilirubin, the end product of heme catabolism. R: A large fraction of bile salts is reabsorbed from ileum, reaches liver, and is re-excreted through bile.
+    **Answer: B**
+
+16. A: Net yield of ATP from one molecule of palmitic acid is 106 ATP. R: Two equivalents of ATP are lost during activation of the fatty acid, resulting in energy yield of 106 ATP from gross 108 ATP.
+    **Answer: A**
+
+17. A: Fatty acid synthase is a multi-enzyme complex. R: It is composed of 5 domains with 5 enzymes.
+    **Answer: C**
+
+18. A: Apo-B-100 is the only apoprotein present on HDL and it activates lipoprotein lipase. (Second statement separate: A: HMG-CoA reductase is the regulatory and rate-limiting enzyme of cholesterol synthesis.)
+    **Answer: D**
+
+19. A: Beta-oxidation of fatty acids occurs in the mitochondria. R: Carnitine shuttle is required for transport of fatty acids into mitochondria.
+    **Answer: A**
+
+**Case scenario:**
+
+20. Which enzyme is inhibited by statins to reduce cholesterol synthesis? A. HMG-CoA lyase B. Acetyl-CoA carboxylase C. HMG-CoA reductase D. Cholesterol esterase
+    **Answer: C**
+
+21. What is the rate-limiting step in cholesterol biosynthesis? A. Conversion of mevalonate to squalene B. Conversion of acetyl-CoA to HMG-CoA C. Conversion of HMG-CoA to mevalonate D. Esterification of cholesterol
+    **Answer: C**
+
+22. Which lipoprotein is responsible for reverse cholesterol transport? A. LDL B. HDL C. VLDL D. Chylomicrons
+    **Answer: B**
+
+23. Why is elevated LDL cholesterol considered harmful? A. Increases bile salt synthesis B. Increases fatty acid oxidation C. Contributes to atherothromatous plaque formation D. Increases HDL levels
+    **Answer: C**
+
+24. Fatty acid synthesis in the cytoplasm begins from which molecule? A. Acetoacetate B. Acetyl-CoA C. Glycerol D. Palmitate
+    **Answer: B**
+
+25. Which genetic disorder results from defective LDL receptors and leads to increased blood cholesterol levels? A. Gaucher disease B. Niemann-Pick disease C. Tay-Sachs disease D. Familial hypercholesterolemia
+    **Answer: D**
+
+---
+
+## 5. pH and Electrolyte Balance; Function Tests (Starts at line 419)
+
+**Single response questions:**
+
+1. Which buffer system is most important in maintaining blood pH?
+   A. Phosphate buffer B. Hemoglobin buffer C. Bicarbonate buffer D. Protein buffer
+   **Answer: C**
+
+2. Normal blood pH is maintained between:
+   A. 6.8-7.2 B. 7.35-7.45 C. 7.0-7.2 D. 7.45-7.55
+   **Answer: B**
+
+3. The primary extracellular cation is:
+   A. Potassium B. Magnesium C. Calcium D. Sodium
+   **Answer: D**
+
+4. Which test is used for assessing renal tubular function?
+   A. Urea clearance B. Creatinine clearance C. Concentration and dilution tests D. Serum urea
+   **Answer: C**
+
+5. Serum ALT is primarily elevated in:
+   A. Renal failure B. Hemolytic anemia C. Liver cell injury D. Myocardial infarction
+   **Answer: C**
+
+6. Which hormone increases renal reabsorption of sodium?
+   A. Insulin B. Aldosterone C. ADH D. Parathyroid hormone
+   **Answer: B**
+
+**Multiple response questions:**
+
+7. Buffer systems in the human body include:
+   A. Bicarbonate buffer B. Phosphate buffer C. Protein buffer D. Creatinine buffer
+   **Answer: A, B, C**
+
+8. Features of respiratory acidosis include:
+   A. Increased pCO2 B. Decreased blood pH C. Increased bicarbonate as compensation D. Decreased renal excretion of H+
+   **Answer: A, B, C**
+
+9. Serum electrolytes that affect acid-base balance:
+   A. Sodium B. Potassium C. Chloride D. Phosphate
+   **Answer: A, B, C, D**
+
+10. Functions of the kidney in maintaining pH include:
+    A. Reabsorption of bicarbonate B. Secretion of H+ ions C. Ammonia production D. Albumin filtration
+    **Answer: A, B, C**
+
+11. Tests for liver function include:
+    A. Serum bilirubin B. Serum ALT and AST C. Serum creatinine D. Prothrombin time
+    **Answer: A, B, D**
+
+12. Features of metabolic alkalosis:
+    A. High blood pH B. Elevated bicarbonate C. Decreased pCO2 (compensatory) D. High anion gap
+    **Answer: A, B, C**
+
+**Assertion and reasons:**
+
+13. A: Bicarbonate is a major buffer in plasma. R: Bicarbonate buffer works in the presence of carbonic anhydrase.
+    **Answer: A**
+
+14. A: In metabolic acidosis, there is a decrease in pH. R: This is due to accumulation of fixed acids or loss of bicarbonate.
+    **Answer: A**
+
+15. A: Hyperkalemia leads to acidosis. R: Potassium ions are exchanged with hydrogen ions across cell membranes.
+    **Answer: A**
+
+16. A: Albumin is a major urinary protein. R: Albumin is freely filtered by the glomerulus and reabsorbed in the PCT.
+    **Answer: D**
+
+17. A: ALT is more specific to liver damage than AST. R: ALT is predominantly found in hepatocytes.
+    **Answer: A**
+
+18. A: Respiratory alkalosis can occur at high altitude. R: Hyperventilation leads to excessive loss of CO2.
+    **Answer: A**
+
+**Case scenario:**
+
+19. A patient presents with confusion and rapid breathing. ABG: pH 7.28, low HCO3, normal pCO2. Diagnosis? A) Metabolic acidosis B) Metabolic alkalosis C) Respiratory acidosis D) Respiratory alkalosis
+    **Answer: A**
+
+20. An alcoholic presents with low serum sodium and potassium, with a low anion gap. Likely cause? A) Alcoholic ketoacidosis B) Hypoalbuminemia C) Hyperchloremic acidosis D) Lactic acidosis
+    **Answer: B**
+
+21. A child with vomiting for 3 days has high serum bicarbonate and pH. Diagnosis? A) Metabolic acidosis B) Metabolic alkalosis C) Respiratory acidosis D) Respiratory alkalosis
+    **Answer: B**
+
+22. A patient has jaundice with elevated ALT, AST, and direct bilirubin. Diagnosis? A) Hepatocellular jaundice B) Hemolytic anemia C) Cirrhosis D) Acute pancreatitis
+    **Answer: A**
+
+23. A patient with chronic kidney disease has elevated serum creatinine and decreased GFR. Diagnosis? A) Acute kidney injury B) Renal failure with reduced tubular function C) Nephrotic syndrome D) Renal tubular acidosis
+    **Answer: B**
+
+24. A case of COPD presents with low pH and high pCO2. Diagnosis? A) Respiratory acidosis B) Respiratory alkalosis C) Metabolic acidosis D) Metabolic alkalosis
+    **Answer: A**
+
+25. A patient has elevated serum alkaline phosphatase, normal bilirubin, and mild ALT rise. Diagnosis? A) Cholestasis B) Fatty liver disease C) Bone disease D) Acute hepatitis
+    **Answer: A**
+
+---
+
+## 6. Vitamins & Minerals (Starts at line 524)
+
+**Single response questions:**
+
+1. Which vitamin is required for carboxylation of clotting factors?
+   A) Vitamin A B) Vitamin B6 C) Vitamin K D) Vitamin C
+   **Answer: C**
+
+2. Deficiency of which vitamin causes megaloblastic anemia and neurological symptoms?
+   A) Vitamin B12 B) Vitamin B1 C) Folate D) Niacin
+   **Answer: A**
+
+3. Which vitamin is an essential cofactor for hydroxylation of proline and lysine in collagen synthesis?
+   A) Vitamin A B) Vitamin D C) Vitamin C D) Vitamin E
+   **Answer: C**
+
+4. Which vitamin acts as a coenzyme for transamination reactions?
+   A) Thiamine B) Pyridoxine C) Niacin D) Biotin
+   **Answer: B**
+
+5. Pellagra is caused by deficiency of:
+   A) Riboflavin B) Thiamine C) Pantothenic acid D) Niacin
+   **Answer: D**
+
+6. Which vitamin plays a major role in night vision?
+   A) Vitamin A B) Vitamin E C) Vitamin K D) Vitamin D
+   **Answer: A**
+
+7. Wernicke's encephalopathy is primarily due to deficiency of:
+   A) Niacin B) Thiamine C) Pyridoxine D) Riboflavin
+   **Answer: B**
+
+8. Which mineral is crucial for thyroid hormone synthesis?
+   a) Iodine b) Selenium c) Zinc d) Copper
+   **Answer: a**
+
+**Multiple response questions:**
+
+9. Which are water-soluble vitamins?
+   1. Vitamin B1 2. Vitamin B12 3. Vitamin C 4. Vitamin A
+   A) 1,2,3 B) 1,2,4 C) 2,3,4 D) 1,3,4
+   **Answer: A**
+
+10. Functions of Vitamin A:
+    1. Vision 2. Epithelial cell differentiation 3. Bone growth 4. Blood clotting
+    A) 2,3,4 B) 1,3,4 C) 1,2,3 D) 1,2,4
+    **Answer: C**
+
+11. Enzymes requiring Thiamine pyrophosphate (TPP) as coenzyme:
+    1. Pyruvate dehydrogenase 2. α-Ketoglutarate dehydrogenase 3. Transketolase 4. Lactate dehydrogenase
+    A) 1,2,4 B) 1,2,3 C) 2,3,4 D) 1,3,4
+    **Answer: B**
+
+12. Signs of Vitamin C deficiency:
+    1. Swollen gums 2. Poor wound healing 3. Megaloblastic anemia 4. Bleeding
+    A) 1,2,4 B) 1,2,3 C) 2,3,4 D) 1,3,4
+    **Answer: A**
+
+13. Antioxidant vitamins:
+    1. Vitamin A 2. Vitamin C 3. Vitamin E 4. Vitamin K
+    A) 2,3,4 B) 1,3,4 C) 2,3,4 D) 1,2,3
+    **Answer: D**
+
+14. Manifestations of Vitamin B6 deficiency:
+    1. Peripheral neuropathy 2. Convulsions 3. Sideroblastic anemia 4. Pellagra
+    A) 1,2,3 B) 1,2,4 C) 2,3,4 D) 1,3,4
+    **Answer: A**
+
+15. Seen in Vitamin B12 deficiency:
+    1. Methylmalonic aciduria 2. Megaloblastic anemia 3. Neuropathy 4. Cheilitis
+    A) 1,2,3 B) 2,3,4 C) 1,2,4 D) 1,3,4
+    **Answer: A**
+
+16. Minerals functioning as antioxidants:
+    a) Selenium b) Zinc c) Iron d) Copper
+    **Answer: a, b, d**
+
+**Assertion and reasons:**
+
+17. A: Biotin deficiency can result from excessive consumption of raw eggs. R: Avidin in raw egg whites binds biotin and prevents its absorption.
+    **Answer: A**
+
+18. A: Vitamin B12 deficiency leads to increased methylmalonic acid in urine. R: Methylmalonyl-CoA mutase requires biotin as a coenzyme.
+    **Answer: B**
+
+19. A: Vitamin C enhances iron absorption. R: Vitamin C acts by binding to iron transport proteins in the intestine.
+    **Answer: C**
+
+20. A: Folic acid is essential during pregnancy to prevent neural tube defects. R: Folic acid prevents maternal bone loss during pregnancy.
+    **Answer: C**
+
+21. A: Vitamin K deficiency can lead to bleeding disorders. R: Vitamin K activates clotting factors II, VII, IX, and X.
+    **Answer: A**
+
+22. A: Riboflavin deficiency causes megaloblastic anemia. R: Riboflavin is a precursor of FAD and FMN.
+    **Answer: D**
+
+23. A: Iron deficiency can lead to anemia. R: Iron is necessary for hemoglobin synthesis in red blood cells.
+    **Answer: A**
+
+24. A: Chromium is involved in glucose metabolism. R: Chromium activates the glycogen synthase enzyme directly.
+    **Answer: C**
+
+25. A: Iodine deficiency can cause goiter. R: Iodine is necessary for thyroid hormone synthesis.
+    **Answer: A**
+
+**Case scenario (Vitamin B12 deficiency):**
+
+26. Most likely vitamin deficiency: A) Vitamin C B) Vitamin B6 C) Vitamin B12 D) Folic acid
+    **Answer: C**
+
+27. Least likely related symptom: A) Glossitis B) Peripheral neuropathy C) Microcytic anemia D) Fatigue
+    **Answer: C**
+
+28. Vitamin involved is necessary for which reaction? A) Transamination B) Homocysteine to methionine conversion C) Collagen hydroxylation D) Heme synthesis
+    **Answer: B**
+
+29. Common cause in strict vegetarians: A) Lack of dairy B) Inadequate sunlight C) Absence of animal proteins D) Excess tea/coffee intake
+    **Answer: C**
+
+30. Test to confirm Vitamin B12 deficiency: A) Serum calcium B) Schilling test C) Serum ferritin D) Bleeding time
+    **Answer: C**
+
+---
+
+## 7. Free Radicals; Detoxification (Starts at line 662)
+
+**Assertion and reasons:**
+
+1. A: Superoxide dismutase (SOD) catalyzes the dismutation of superoxide radicals. R: SOD uses Cu/Zn or Mn at its active site.
+   **Answer: A**
+
+2. A: Glutathione peroxidase detoxifies H2O2 using GSH. R: Selenium is a cofactor for glutathione peroxidase.
+   **Answer: A**
+
+3. A: Hydroxyl radicals can cause DNA and lipid damage. R: They are generated by the Fenton reaction.
+   **Answer: A**
+
+4. A: Catalase converts H2O2 into water and oxygen. R: Catalase has high Km for H2O2, active only at low levels.
+   **Answer: C**
+
+5. A: Vitamin E is a chain-breaking antioxidant in membranes. R: It is regenerated by vitamin C.
+   **Answer: A**
+
+6. A: Cytochrome P-450 is for phase II detoxification. R: It catalyzes glucuronidation and sulfation.
+   **Answer: D**
+
+**Single response questions:**
+
+7. Which enzyme regenerates GSH? A) Glutathione reductase B) Peroxidase C) Catalase D) SOD
+   **Answer: A**
+
+8. Which is NOT a free radical? A) NO• B) •OH C) O3 D) O2•-
+   **Answer: C**
+
+9. The Fenton reaction requires: A) Cu2+ B) Fe2+ C) Zn2+ D) Mn2+
+   **Answer: B**
+
+10. Which antioxidant is lipid-soluble? A) Vitamin C B) Glutathione C) Vitamin E D) Uric acid
+    **Answer: C**
+
+11. Cytochrome P-450 is associated with: A) Acetylation B) Hydroxylation C) Oxidation D) Conjugation
+    **Answer: C**
+
+12. Where is catalase located? A) Mitochondria B) Cytosol C) Peroxisomes D) ER
+    **Answer: C**
+
+13. Phase II reactions include: A) Oxidation B) Reduction C) Hydrolysis D) Sulfation
+    **Answer: D**
+
+14. Which form of glutathione acts as an antioxidant? A) GSSG B) GSH C) GS-OH D) GS-Px
+    **Answer: B**
+
+**Multiple response questions:**
+
+15. Enzymatic antioxidants: A) Catalase B) Glutathione reductase C) SOD D) Glutathione peroxidase
+    **Answer: A, C, D**
+
+16. P-450 reaction products: A) R-OH B) R-COOH C) NADP D) H2O
+    **Answer: A, C, D**
+
+17. Sources of free radicals: A) ETC B) Xanthine oxidase C) Peroxisomal β-oxidation D) Lysosomal proteases
+    **Answer: A, B, C**
+
+18. GSH roles: A) Maintains protein SH B) Conjugation C) Cofactor for SOD D) Non-enzymatic antioxidant
+    **Answer: A, B, D**
+
+19. Metals in the Fenton reaction: A) Fe2+ B) Cu2+ C) Zn2+ D) Ca2+
+    **Answer: A, B**
+
+20. Phase II reactions: A) Glucuronidation B) Acetylation C) Hydroxylation D) Methylation
+    **Answer: A, B, D**
+
+**Case scenario (alcoholic liver injury):**
+
+21. How does alcohol increase free radicals? A) Inhibiting antioxidant enzymes B) Inducing cytochrome P450 enzymes, increasing ROS production C) Increasing mitochondrial ATP production D) Stabilizing cell membranes
+    **Answer: B**
+
+22. How does GSH depletion worsen liver damage? A) Increasing ATP production B) Enhancing antioxidant defenses C) Reducing detoxification of reactive metabolites D) Stabilizing mitochondrial membranes
+    **Answer: C**
+
+23. Which detoxification phase is affected? A) Phase I B) Phase II C) Phase III D) All of the above
+    **Answer: B**
+
+24. Suggest antioxidant therapy and its mechanism. A) N-Acetylcysteine (NAC), replenishing GSH levels B) Vitamin E, scavenges free radicals C) Vitamin C, stabilizing collagen D) Aspirin, inhibiting inflammation
+    **Answer: A**
+
+25. How can P-450 support worsen oxidative stress? A) Increasing antioxidant defenses B) Reducing ROS production C) Generating reactive metabolites and ROS during metabolism D) Stabilizing cell membranes
+    **Answer: C**
+
+---
+
+## 8. DNA, Molecular Diagnostics, Nano Medicine (Starts at line 742)
+
+**Case scenario (DNA replication):**
+
+1. DNA replication is described as: A) Conservative B) Dispersive C) Semi-conservative D) Random
+   **Answer: C**
+
+2. Which enzyme joins Okazaki fragments? A) DNA helicase B) DNA ligase C) DNA polymerase D) Primase
+   **Answer: B**
+
+3. DNA polymerase requires which primer to initiate replication? A) DNA primer B) RNA primer C) Protein primer D) Sugar primer
+   **Answer: B**
+
+4. DNA replication occurs during which cell cycle phase? A) G1 phase B) S phase C) G2 phase D) M phase
+   **Answer: B**
+
+5. Which enzyme unwinds the DNA helix during replication? A) DNA ligase B) DNA helicase C) RNA polymerase D) Protease
+   **Answer: B**
+
+**Single response questions:**
+
+6. Nano medicine is primarily applied in: A) Cosmetics B) Drug delivery C) Construction D) Agriculture
+   **Answer: B**
+
+7. Southern blot technique is used to identify: A) Specific sequences of DNA B) Specific sequences of RNA C) Specific sequences of Protein D) Specific RNA-Protein Interaction
+   **Answer: A**
+
+8. Which technique is based on amplification of DNA? A) ELISA B) PCR C) Western blot D) SDS-PAGE
+   **Answer: B**
+
+9. Nucleosome is: A) Synonym of nucleolus B) DNA-RNA complex present in nucleus C) mRNA attached to snRNA D) DNA wrapped around histones
+   **Answer: D**
+
+10. A nanoparticle is typically in which size range? A) 1-100 nm B) 1-10 μm C) 100-1000 nm D) 10-100 μm
+    **Answer: A**
+
+11. All the following are requisites for PCR, except: A) DNA primer B) Taq polymerase C) Restriction endonuclease D) Deoxynucleotide triphosphates
+    **Answer: C**
+
+12. All the following are nucleic acids, EXCEPT: A) Plasmids B) Prions C) Cosmids D) Virions
+    **Answer: B**
+
+13. All statements true about Watson-Crick model of DNA, except: A) Double-stranded helix B) DNA strands running in opposite directions C) Adenine bonds with thymine D) Guanine bonds with uracil
+    **Answer: D**
+
+14. All true about histones, except: A) They are basic proteins B) Nucleosomes contain histones and DNA C) Phosphorylation increases transcriptional activity D) Histone synthesis is coupled with DNA synthesis
+    **Answer: C**
+
+15. DNA structure is: A) Single-stranded B) Double-stranded C) Antiparallel D) Z-form in normal state
+    **Answer: B**
+
+**Multiple response questions:**
+
+16. Enzymes involved in DNA replication include: A) DNA helicase B) RNA polymerase C) DNA polymerase D) Ligase
+    **Answer: A, C, D**
+
+17. DNA structural features essential for stability include: A) Hydrogen bonding between complementary bases B) Phosphodiester bonds in backbone C) Parallel orientation of strands D) Hydrophobic interactions among bases
+    **Answer: A, B, D**
+
+18. Correct statements about plasmids:
+    1. They are circular single-stranded RNA 2. Replicate independent of bacterial DNA replication 3. Specialised regions of bacterial chromosomes 4. Confer antibiotic resistance to host bacteria
+    a) 1&2 b) 1,3&4 c) 2&4 d) 2,3&4
+    **Answer: c) 2&4**
+
+19. Which are purine bases in DNA? A) Adenine B) Thymine C) Guanine D) Cytosine
+    **Answer: A, C**
+
+20. Regarding gene therapy, choose correct statements:
+    1. Ex vivo – patients' cells with modified genes administered 2. In-situ – expression cassette introduced into blood/tissue 3. In vivo – vector administered to cells/tissues 4. Somatic gene therapy being tried
+    A) 1&2 B) 1,2&3 C) 1,3&4 D) All are correct
+    **Answer: D**
+
+**Assertion and reasons:**
+
+21. A: RFLP can be used to settle disputed parenthood. R: Both chromosomes of a pair show a similar restriction pattern.
+    **Answer: D**
+
+22. A: Uracil is absent in RNA. R: Uracil is recognised and removed by DNA repair mechanism.
+    **Answer: B**
+
+23. A: PCR requires high-temperature steps. R: High temperature denatures the DNA strands.
+    **Answer: A**
+
+24. A: Nanoparticles improve drug delivery. R: Nanoparticles can cross biological barriers easily.
+    **Answer: A**
+
+25. A: RNA primers are essential for initiating DNA synthesis in both prokaryotes and eukaryotes. R: DNA polymerase has 3'→5' polymerization activity.
+    **Answer: B**
+
+---
+
+## 9. Transcription, Translation & Metal Poisoning (Starts at line 838)
+
+**Single response questions:**
+
+1. Enzyme responsible for synthesizing mRNA in eukaryotic cells is:
+   a) RNA polymerase I b) RNA polymerase II c) RNA polymerase III d) DNA polymerase
+   **Answer: b**
+
+2. The start codon for translation is:
+   a) UAA b) AUG c) UGA d) UAG
+   **Answer: b**
+
+3. Which metal inhibits heme synthesis by blocking ALA dehydratase?
+   a) Mercury b) Arsenic c) Lead d) Copper
+   **Answer: c**
+
+4. The anticodon region is present on:
+   a) mRNA b) tRNA c) rRNA d) DNA
+   **Answer: b**
+
+5. Which best describes a codon?
+   a) Sequence on DNA that initiates replication b) Three-base sequence on mRNA that codes for an amino acid c) Enzyme that catalyzes RNA formation d) DNA-binding protein
+   **Answer: b**
+
+6. Which metal poisoning is associated with "Mee's lines" on nails?
+   a) Lead b) Arsenic c) Iron d) Zinc
+   **Answer: b**
+
+7. Termination of translation in prokaryotes requires:
+   a) DNA polymerase b) tRNA synthetase c) Release factors d) Helicase
+   **Answer: c**
+
+**Multiple response questions:**
+
+8. Which are involved in transcription?
+   1. RNA polymerase 2. Promoter sequences 3. Helicase 4. Ribosomes
+   **Answer: 1,2,3**
+
+9. True statements about genetic code:
+   1. It is universal 2. It is overlapping 3. It is degenerate 4. It has start and stop signals
+   **Answer: 1,3,4**
+
+10. Lead poisoning can result in:
+    1. Microcytic anemia 2. Abdominal pain 3. Basophilic stippling 4. Hyperpigmentation
+    **Answer: 1,2,3**
+
+11. mRNA processing steps in eukaryotes:
+    1. 5' capping 2. Splicing 3. 3' polyadenylation 4. Exon degradation
+    **Answer: 1,2,3**
+
+12. Features of arsenic poisoning:
+    1. Garlic breath 2. Hyperkeratosis 3. Peripheral neuropathy 4. Hemolysis
+    **Answer: 1,2,3,4**
+
+13. tRNA molecules are characterized by:
+    1. Cloverleaf structure 2. Presence of codon 3. Amino acid attachment site 4. Anticodon loop
+    **Answer: 1,3,4**
+
+14. Mercury poisoning can lead to:
+    1. Tremors 2. Gingivitis 3. Visual hallucinations 4. Weight gain
+    **Answer: 1,2,3**
+
+**Assertion and reasons:**
+
+15. A: Arsenic inhibits cellular respiration. R: It inhibits pyruvate dehydrogenase.
+    **Answer: A**
+
+16. A: Transcription in eukaryotes occurs in the cytoplasm. R: mRNA must exit the nucleus for translation.
+    **Answer: D**
+
+17. A: Lead toxicity causes anemia. R: Lead inhibits enzymes involved in heme synthesis.
+    **Answer: A**
+
+18. A: Translation starts at the stop codon. R: Stop codon binds to initiator tRNA.
+    **Answer: C**
+
+19. A: RNA polymerase II transcribes tRNA. R: tRNA molecules are involved in protein synthesis.
+    **Answer: C**
+
+20. A: Cadmium toxicity affects the kidneys. R: Cadmium accumulates in the renal cortex, causing proximal tubular damage.
+    **Answer: A**
+
+**Case scenario:**
+
+21. A 40-year-old factory worker develops anemia and abdominal colic. Lab shows basophilic stippling of RBCs. Most likely cause? a) Mercury b) Arsenic c) Lead d) Cadmium
+    **Answer: c**
+
+22. A child presents with vomiting, lethargy, and garlic breath after ingesting rat poison. Probable poisoning? a) Lead b) Arsenic c) Mercury d) Iron
+    **Answer: b**
+
+23. A patient presents with tremors, gingivitis, and emotional instability after prolonged exposure to thermometers. Likely metal? a) Lead b) Iron c) Mercury d) Copper
+    **Answer: c**
+
+24. A researcher extracts mRNA from a eukaryotic cell and attempts to translate it in vitro using prokaryotic ribosomes. Translation fails. Likely reason? a) Presence of introns b) Lack of 5' cap c) Absence of tRNA d) Missing Shine-Dalgarno sequence
+    **Answer: d**
+
+25. A patient with megaloblastic anemia has normal B12 levels but defective protein synthesis. Investigation shows mutations in ribosomal RNA genes. Which step impaired? a) Transcription b) mRNA transport c) Splicing d) Translation
+    **Answer: d**
+
+---
+
+## 10. Gene Expression, Hormones, Lab Techniques, and Quality Control (Starts at line 921)
+
+**Single response questions:**
+
+1. Which molecule binds to the operator region in the lac operon?
+   a) RNA polymerase b) Repressor protein c) Sigma factor d) cAMP
+   **Answer: b**
+
+2. The hormone that increases blood calcium levels is:
+   a) Calcitonin b) Insulin c) Parathyroid hormone d) Aldosterone
+   **Answer: c**
+
+3. In ELISA, the enzyme is linked to: a) Antigen b) Substrate c) Secondary antibody d) Chromogen
+   **Answer: c**
+
+4. In quality control, "accuracy" refers to: a) Closeness to true value b) Reproducibility of results c) Smallest detectable change d) Speed of analysis
+   **Answer: a**
+
+5. Which is a post-transcriptional modification in eukaryotes? a) Polyadenylation b) RNA polymerase activity c) DNA methylation d) tRNA charging
+   **Answer: a**
+
+6. In a lab, quality control is maintained by: a) Calibration of equipment b) Use of standards c) Repeating tests d) All of the above
+   **Answer: d? (Answer key says 6.C but incomplete)**
+
+**Multiple response questions:**
+
+7. Components of quality control: a) Calibration b) Control samples c) Proper documentation d) Discarding all outliers
+   **Answer: A,B,C**
+
+8. Second messengers in hormone action include: a) cAMP b) IP3 c) DAG d) DNA
+   **Answer: A,B,C**
+
+9. Lab techniques for protein analysis: a) SDS-PAGE b) Western blot c) ELISA d) PCR
+   **Answer: A,B,C**
+
+10. Hormones that act via G-protein coupled receptors: a) Epinephrine b) Glucagon c) TSH d) Thyroxine
+    **Answer: A,B,C**
+
+11. Quality control measures in clinical lab: a) Internal controls b) External quality assessment c) Equipment calibration d) Use of expired reagents
+    **Answer: A,B,C**
+
+12. Steps to ensure accurate lab results: a) Proper sample collection b) Use of control sera c) Repeating abnormal results d) Discarding all high values
+    **Answer: A,B,C**
+
+13. Hormones that act via intracellular receptors: a) Cortisol b) Thyroxine c) Insulin d) Estrogen
+    **Answer: A,B,D**
+
+14. Real-time PCR is useful for: a) Gene expression quantification b) DNA amplification c) Protein separation d) Mutation detection
+    **Answer: A,B,D**
+
+**Assertion and reasons:**
+
+15. (A): In prokaryotes, transcription and translation are coupled. (R): Prokaryotes lack a nuclear membrane.
+    **Answer: A**
+
+16. (A): ELISA is a qualitative test. (R): It detects specific antigens or antibodies using color change.
+    **Answer: B**
+
+17. (A): Insulin promotes glycogenesis. (R): It increases glucose transport into liver and muscle cells.
+    **Answer: A**
+
+18. (A): DNA fingerprinting uses PCR and gel electrophoresis. (R): PCR amplifies DNA sequences of interest.
+    **Answer: A**
+
+19. (A): Accuracy refers to reproducibility of results. (R): Precision reflects closeness to true value.
+    **Answer: D**
+
+20. (A): Western blot is used for detecting RNA. (R): RNA is separated by SDS-PAGE.
+    **Answer: D**
+
+**Case scenario:**
+
+21. A child is born with a mutation that leads to defective mRNA splicing. Which process is affected? a) Transcription b) Translation c) Post-transcriptional modification d) DNA replication
+    **Answer: c**
+
+22. A patient with Cushing's syndrome shows elevated cortisol. Which lab finding would be expected? a) Hypoglycemia b) Immunosuppression c) Hyponatremia d) Hyperpigmentation
+    **Answer: b**
+
+23. A sample gives inconsistent results on repeated glucose testing. Internal quality control flags show wide variation. Most likely problem? a) Low accuracy b) Low precision c) High specificity d) High sensitivity
+    **Answer: b**
+
+24. A researcher wants to quantify expression levels of a specific gene in cancer tissue. Which technique should they use? a) Western blot b) Real-time PCR c) Gel electrophoresis d) Immunohistochemistry
+    **Answer: b**
+
+25. A lab technician is running a Western blot and observes no bands in the positive control lane. Possible reason? a) Protein not transferred to membrane b) DNA degradation c) Enzyme-linked antibody missing d) Incorrect pH buffer
+    **Answer: a**
+
+---
+
+## 11. rDNA Technology, Gene Therapy; Immunochemistry (Starts at line 1012)
+
+**Single response questions:**
+
+1. Which enzyme is used to join DNA fragments in recombinant DNA technology?
+   a) DNA polymerase b) Restriction enzyme c) DNA ligase d) RNA polymerase
+   **Answer: c**
+
+2. Monoclonal antibodies are produced using:
+   a) Plasmids b) Hybridoma technology c) Cell culture d) SDS-PAGE
+   **Answer: b**
+
+3. A vector in rDNA technology is used to:
+   a) Synthesize protein b) Transfer DNA into host cells c) Cut DNA d) Repair mutations
+   **Answer: b**
+
+4. Which is an example of passive immunity?
+   a) Vaccination b) Maternal antibodies c) BCG d) Oral polio
+   **Answer: b**
+
+5. A patient with bacterial pneumonia is prescribed antibiotics. This is an example of:
+   a) Preventive therapy b) Palliative therapy c) Curative therapy d) Substitutive therapy
+   **Answer: c**
+
+6. Which immunoglobulin is produced first in primary immune response?
+   a) IgA b) IgG c) IgE d) IgM
+   **Answer: d**
+
+7. Southern blotting is used for detecting:
+   a) RNA b) DNA c) Proteins d) Antibodies
+   **Answer: b**
+
+**Multiple response questions:**
+
+8. Components of a plasmid vector include:
+   a. Origin of replication b. Antibiotic resistance gene c. Restriction sites d. Ribosomes
+   **Answer: a, b, c**
+
+9. Applications of monoclonal antibodies include:
+   a. Cancer therapy b. Diagnosis of diseases c. Immunosuppression d. Enzyme synthesis
+   **Answer: a, b, c**
+
+10. Commonly used restriction enzymes in rDNA include:
+    a. EcoRI b. HindIII c. Taq polymerase d. BamHI
+    **Answer: a, b, d**
+
+11. Types of immunoassays include:
+    a. ELISA b. RIA c. PCR d. Western blot
+    **Answer: a, b, d**
+
+12. Examples of preventive therapy:
+    a. Vaccination b. Chemoprophylaxis c. Use of antipyretics d. Lifestyle modification
+    **Answer: a, b, d**
+
+13. Properties of an ideal therapeutic drug:
+    a. High efficacy b. Low toxicity c. Long half-life d. Specificity to target
+    **Answer: a, b, d**
+
+14. Features of ELISA:
+    a. Enzyme-linked antibody b. Use of substrate-chromogen system c. High specificity d. Detection of DNA
+    **Answer: a, b, c**
+
+**Assertion and reasons:**
+
+15. (A): DNA ligase is essential in rDNA technology. (R): It joins two DNA fragments by forming phosphodiester bonds.
+    **Answer: A**
+
+16. (A): Passive immunity provides immediate protection. (R): It involves activation of host B cells.
+    **Answer: C**
+
+17. (A): ELISA is used to detect antigen-antibody reactions. (R): ELISA uses a radioactive label to quantify binding.
+    **Answer: C**
+
+18. (A): A good therapeutic agent should have minimal side effects. (R): This ensures patient compliance and treatment success.
+    **Answer: A**
+
+19. (A): Restriction enzymes cut DNA at random locations. (R): They recognize specific palindromic sequences.
+    **Answer: C**
+
+20. (A): IgG can cross the placenta. (R): It provides immunity to the fetus during intrauterine life.
+    **Answer: A**
+
+**Case scenario:**
+
+21. A 5-year-old child receives antiserum after a snakebite. This is an example of: a) Active immunity b) Passive immunity c) Natural immunity d) Autoimmunity
+    **Answer: b**
+
+22. A scientist wants to insert a gene into a bacterial plasmid. Which enzyme should be used to cut both the plasmid and the gene of interest? a) DNA ligase b) Restriction endonuclease c) Reverse transcriptase d) DNA polymerase
+    **Answer: b**
+
+23. A patient with rheumatoid arthritis is treated using monoclonal antibodies targeting TNF-alpha. Role of these antibodies? a) Enhance immunity b) Reduce inflammation c) Kill bacteria d) Stimulate T-cells
+    **Answer: b**
+
+24. A researcher is testing for Hepatitis B surface antigen in blood samples. Which technique is most appropriate? a) PCR b) ELISA c) Western blot d) Immunoelectrophoresis
+    **Answer: b**
+
+25. In a gene therapy trial, a patient is given a viral vector containing a functional gene to correct a genetic disorder. This is an example of: a) Recombinant protein therapy b) Gene editing c) Gene addition d) Immunotherapy
+    **Answer: c**
+
+---

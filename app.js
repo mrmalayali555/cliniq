@@ -110,22 +110,25 @@ function scrollToFeatures() {
 const SUBJECTS = [
   // 1st Year
   { id:'anatomy',      name:'Anatomy',        year:'1st', icon:'AN', info:'8 Topics • 1200+ MCQs', available:true },
-  { id:'physiology',   name:'Physiology',     year:'1st', icon:'PH', info:'300+ MCQs',            available:true },
-  { id:'biochemistry', name:'Biochemistry',   year:'1st', icon:'BC', info:'200+ MCQs',            available:true },
+  { id:'physiology',   name:'Physiology',     year:'1st', icon:'PH', info:'Topic-wise • 800+ MCQs', available:true },
+  { id:'biochemistry', name:'Biochemistry',   year:'1st', icon:'BC', info:'Topic-wise • 1000+ MCQs', available:true },
 
   // 2nd Year
-  { id:'pathology',    name:'Pathology',      year:'2nd', icon:'PA', info:'Coming Soon',          available:false },
-  { id:'microbiology', name:'Microbiology',   year:'2nd', icon:'MI', info:'Coming Soon',          available:false },
-  { id:'pharmacology', name:'Pharmacology',   year:'2nd', icon:'PR', info:'Coming Soon',          available:false },
+  { id:'pathology',    name:'Pathology',      year:'2nd', icon:'PA', info:'800+ MCQs',             available:true },
+  { id:'microbiology', name:'Microbiology',   year:'2nd', icon:'MI', info:'Coming Soon',           available:false },
+  { id:'pharmacology', name:'Pharmacology',   year:'2nd', icon:'PR', info:'Coming Soon',           available:false },
 
   // 3rd Year
-  { id:'psm',          name:'PSM',            year:'3rd', icon:'PS', info:'500+ MCQs',            available:true },
-  { id:'medicine',     name:'Medicine',       year:'final', icon:'MD', info:'400+ MCQs',          available:true },
-  { id:'obstetrics',   name:'Obstetrics',     year:'final', icon:'OB', info:'200+ MCQs',          available:true },
-  { id:'gynaecology',  name:'Gynaecology',    year:'final', icon:'GY', info:'200+ MCQs',          available:true },
-  { id:'surgery',      name:'Surgery',        year:'final', icon:'SU', info:'200+ MCQs',          available:true },
-  { id:'orthopaedics', name:'Orthopaedics',   year:'final', icon:'OR', info:'150+ MCQs',          available:true },
-  { id:'paediatrics',  name:'Paediatrics',    year:'final', icon:'PD', info:'150+ MCQs',          available:true },
+  { id:'psm',          name:'PSM',            year:'3rd', icon:'PS', info:'500+ MCQs',             available:true },
+  { id:'fmt',          name:'FMT',            year:'3rd', icon:'FM', info:'Chapter-wise • 400+ MCQs', available:true },
+
+  // Final Year
+  { id:'medicine',     name:'Medicine',       year:'final', icon:'MD', info:'400+ MCQs',           available:true },
+  { id:'obstetrics',   name:'Obstetrics',     year:'final', icon:'OB', info:'200+ MCQs',           available:true },
+  { id:'gynaecology',  name:'Gynaecology',    year:'final', icon:'GY', info:'200+ MCQs',           available:true },
+  { id:'surgery',      name:'Surgery',        year:'final', icon:'SU', info:'200+ MCQs',           available:true },
+  { id:'orthopaedics', name:'Orthopaedics',   year:'final', icon:'OR', info:'150+ MCQs',           available:true },
+  { id:'paediatrics',  name:'Paediatrics',    year:'final', icon:'PD', info:'150+ MCQs',           available:true },
   { id:'ent',          name:'ENT',            year:'final', icon:'EN', info:'Coming Soon',          available:false },
   { id:'ophthalmology',name:'Ophthalmology',  year:'final', icon:'OP', info:'Coming Soon',          available:false },
   { id:'dermatology',  name:'Dermatology',    year:'final', icon:'DE', info:'Coming Soon',          available:false },
@@ -189,14 +192,118 @@ function filterYear(btn, year) {
 // ── Subject Selection ──
 let selectedSubject = null;
 let selectedTopic = null;
+let selectedTopicMeta = null; // stores { file, startLine, endLine } for range loading
+
 function selectSubject(id) {
   selectedSubject = id;
+  selectedTopic = null;
+  selectedTopicMeta = null;
+
   if (id === 'anatomy') {
     renderTopics();
     showView('topics');
+  } else if (id === 'fmt') {
+    renderFmtTopics();
+    showView('topics');
+  } else if (id === 'physiology') {
+    renderPhysiologyTopics();
+    showView('topics');
+  } else if (id === 'biochemistry') {
+    renderBiochemistryTopics();
+    showView('topics');
   } else {
-    selectedTopic = null;
     showConfigure(id, null);
+  }
+}
+
+function renderFmtTopics() {
+  const pageTitle = document.querySelector('#view-topics .page-title');
+  if (pageTitle) pageTitle.textContent = 'FMT';
+  const grid = document.getElementById('topicsGrid');
+  // Mixed card first
+  const mixedHtml = `
+    <div class="topic-card all-topics" onclick="selectFmtChapter('mixed')">
+      <div class="topic-icon">MIX</div>
+      <div class="topic-name">Mixed (All Chapters)</div>
+    </div>`;
+  const chaptersHtml = FMT_CHAPTERS.map(ch => `
+    <div class="topic-card" onclick="selectFmtChapter('${ch.id}')">
+      <div class="topic-icon">${ch.icon}</div>
+      <div class="topic-name">${ch.name}</div>
+    </div>`).join('');
+  grid.innerHTML = mixedHtml + chaptersHtml;
+}
+
+function selectFmtChapter(chapterId) {
+  if (chapterId === 'mixed') {
+    selectedTopic = 'mixed';
+    selectedTopicMeta = null;
+    showConfigure('fmt', 'mixed');
+  } else {
+    const ch = FMT_CHAPTERS.find(c => c.id === chapterId);
+    selectedTopic = chapterId;
+    selectedTopicMeta = { file: 'fmt.txt', startLine: ch.startLine, endLine: ch.endLine };
+    showConfigure('fmt', chapterId);
+  }
+}
+
+function renderPhysiologyTopics() {
+  const pageTitle = document.querySelector('#view-topics .page-title');
+  if (pageTitle) pageTitle.textContent = 'Physiology';
+  const grid = document.getElementById('topicsGrid');
+  const mixedHtml = `
+    <div class="topic-card all-topics" onclick="selectPhysiologyTopic('mixed')">
+      <div class="topic-icon">MIX</div>
+      <div class="topic-name">Mixed (All Topics)</div>
+    </div>`;
+  const topicsHtml = PHYSIOLOGY_TOPICS.map(t => `
+    <div class="topic-card" onclick="selectPhysiologyTopic('${t.id}')">
+      <div class="topic-icon">${t.icon}</div>
+      <div class="topic-name">${t.name}</div>
+    </div>`).join('');
+  grid.innerHTML = mixedHtml + topicsHtml;
+}
+
+function selectPhysiologyTopic(topicId) {
+  if (topicId === 'mixed') {
+    selectedTopic = 'mixed';
+    selectedTopicMeta = null;
+    showConfigure('physiology', 'mixed');
+  } else {
+    const t = PHYSIOLOGY_TOPICS.find(x => x.id === topicId);
+    selectedTopic = topicId;
+    selectedTopicMeta = { file: 'physiology2.txt', startLine: t.startLine, endLine: t.endLine };
+    showConfigure('physiology', topicId);
+  }
+}
+
+function renderBiochemistryTopics() {
+  const pageTitle = document.querySelector('#view-topics .page-title');
+  if (pageTitle) pageTitle.textContent = 'Biochemistry';
+  const grid = document.getElementById('topicsGrid');
+  const mixedHtml = `
+    <div class="topic-card all-topics" onclick="selectBiochemistryTopic('mixed')">
+      <div class="topic-icon">MIX</div>
+      <div class="topic-name">Mixed (All Topics)</div>
+    </div>`;
+  const topicsHtml = BIOCHEMISTRY_TOPICS.map(t => `
+    <div class="topic-card" onclick="selectBiochemistryTopic('${t.id}')">
+      <div class="topic-icon">${t.icon}</div>
+      <div class="topic-name">${t.name}</div>
+    </div>`).join('');
+  grid.innerHTML = mixedHtml + topicsHtml;
+}
+
+function selectBiochemistryTopic(topicId) {
+  if (topicId === 'mixed') {
+    selectedTopic = 'mixed';
+    selectedTopicMeta = null;
+    showConfigure('biochemistry', 'mixed');
+  } else {
+    const t = BIOCHEMISTRY_TOPICS.find(x => x.id === topicId);
+    selectedTopic = topicId;
+    selectedTopicMeta = { file: 'biochemistry2.txt', startLine: t.startLine, endLine: t.endLine };
+    showConfigure('biochemistry', topicId);
   }
 }
 function renderTopics() {
@@ -215,7 +322,20 @@ function showConfigure(subject, topic) {
   selectedSubject = subject;
   selectedTopic = topic;
   const name = SUBJECTS.find(s => s.id === subject)?.name || subject;
-  const topicName = topic && topic !== 'all' ? ANATOMY_TOPICS.find(t => t.id === topic)?.name : null;
+
+  // Resolve topic display name across all topic arrays
+  let topicName = null;
+  if (topic && topic !== 'all' && topic !== 'mixed') {
+    topicName =
+      ANATOMY_TOPICS.find(t => t.id === topic)?.name ||
+      FMT_CHAPTERS.find(t => t.id === topic)?.name ||
+      PHYSIOLOGY_TOPICS.find(t => t.id === topic)?.name ||
+      BIOCHEMISTRY_TOPICS.find(t => t.id === topic)?.name ||
+      null;
+  } else if (topic === 'mixed') {
+    topicName = 'Mixed';
+  }
+
   document.getElementById('configTitle').textContent = 'Configure Your Session';
   document.getElementById('configSub').textContent = topicName ? `${name} → ${topicName}` : name;
   document.querySelectorAll('.count-btn').forEach(b => b.classList.remove('selected'));
@@ -223,14 +343,20 @@ function showConfigure(subject, topic) {
   document.getElementById('selectedCount').textContent = '–';
   document.getElementById('startTestBtn').disabled = true;
   selectedCount = 0;
-  
-  // Preload questions for this subject
-  loadQuestions(subject);
-  
+
+  // Preload questions
+  if (selectedTopicMeta) {
+    loadQuestionsFromRange(selectedTopicMeta.file, selectedTopicMeta.startLine, selectedTopicMeta.endLine);
+  } else {
+    loadQuestions(subject);
+  }
+
   showView('configure');
 }
+
 function goBackFromConfig() {
-  if (selectedSubject === 'anatomy') showView('topics');
+  const subjectsWithTopics = ['anatomy', 'fmt', 'physiology', 'biochemistry'];
+  if (subjectsWithTopics.includes(selectedSubject)) showView('topics');
   else showView('subjects');
 }
 
@@ -275,12 +401,13 @@ const ANATOMY_MAPPING = {
 };
 
 // ── Subject to File Mapping ──
+// Arrays = multiple files merged for mixed mode
 const SUBJECT_FILES = {
   'anatomy':      'Anatomy-Question-bank.txt',
-  'physiology':   'Physiology-Question-bank.txt',
-  'biochemistry': 'Biochemistry-Question-bank.txt',
+  'physiology':   ['Physiology-Question-bank.txt', 'physiology2.txt'],
+  'biochemistry': ['Biochemistry-Question-bank.txt', 'biochemistry2.txt'],
   'psm':          'Community-Medicine-MCQ-Companion-Clean.txt',
-  'fmt':          'Forensic-Medicine-MCQ-Companion-Clean.txt',
+  'fmt':          'fmt.txt',
   'medicine':     'general.txt',
   'obstetrics':   'Obstetrics.txt',
   'gynaecology':  'Obstetrics.txt',
@@ -289,27 +416,110 @@ const SUBJECT_FILES = {
   'paediatrics':  'Paediatrics.txt'
 };
 
+// ── FMT Chapter definitions (exact line numbers from grep) ──
+const FMT_CHAPTERS = [
+  { id:'ch1',  name:'Medical Etiquette & Law',           icon:'L1',  startLine:3,    endLine:482   },
+  { id:'ch2',  name:'Thanatology & Signs of Death',      icon:'L2',  startLine:483,  endLine:963   },
+  { id:'ch3',  name:'Medico-legal Autopsy',              icon:'L3',  startLine:964,  endLine:1112  },
+  { id:'ch4',  name:'Asphyxial Deaths',                  icon:'L4',  startLine:1113, endLine:1344  },
+  { id:'ch5',  name:'Identification',                    icon:'L5',  startLine:1345, endLine:1617  },
+  { id:'ch6',  name:'Injuries',                          icon:'L6',  startLine:1618, endLine:2627  },
+  { id:'ch7',  name:'Sexual Jurisprudence',              icon:'L7',  startLine:2628, endLine:3284  },
+  { id:'ch8',  name:'Forensic Psychiatry',               icon:'L8',  startLine:3285, endLine:3645  },
+  { id:'ch9',  name:'Stain Analysis',                    icon:'L9',  startLine:3646, endLine:3716  },
+  { id:'ch10', name:'DNA Fingerprinting & Newer Methods',icon:'L10', startLine:3717, endLine:3788  },
+  { id:'ch11', name:'Starvation Deaths',                 icon:'L11', startLine:3789, endLine:3820  },
+  { id:'ch12', name:'Torture & Custodial Deaths',        icon:'L12', startLine:3821, endLine:99999 },
+];
+
+// ── Physiology topic definitions (line numbers in physiology2.txt, 0-indexed) ──
+const PHYSIOLOGY_TOPICS = [
+  { id:'ph_t1',  name:'Hematology',                icon:'HEM', startLine:3,   endLine:98   },
+  { id:'ph_t2',  name:'Cardiovascular System',     icon:'CVS', startLine:99,  endLine:194  },
+  { id:'ph_t3',  name:'Respiratory Physiology',    icon:'RES', startLine:195, endLine:280  },
+  { id:'ph_t4',  name:'Renal, Skin & Temperature', icon:'REN', startLine:281, endLine:377  },
+  { id:'ph_t5',  name:'Gastrointestinal System',   icon:'GIT', startLine:378, endLine:439  },
+  { id:'ph_t6',  name:'General Physiology & Growth',icon:'GEN',startLine:440, endLine:497  },
+  { id:'ph_t7',  name:'Neurophysiology',            icon:'NEU', startLine:498, endLine:580  },
+  { id:'ph_t8',  name:'Special Senses',             icon:'SEN', startLine:581, endLine:647  },
+  { id:'ph_t9',  name:'Nerve Muscle & ANS',         icon:'NMA', startLine:648, endLine:704  },
+  { id:'ph_t10', name:'Endocrine Physiology',       icon:'END', startLine:705, endLine:780  },
+  { id:'ph_t11', name:'Reproductive System',        icon:'REP', startLine:781, endLine:99999},
+];
+
+// ── Biochemistry topic definitions (line numbers in biochemistry2.txt, 0-indexed) ──
+const BIOCHEMISTRY_TOPICS = [
+  { id:'bc_t1',  name:'Cell; Amino Acids & Proteins',      icon:'AMN', startLine:3,   endLine:107  },
+  { id:'bc_t2',  name:'Enzymology; Heme & Hemoglobin',     icon:'ENZ', startLine:108, endLine:211  },
+  { id:'bc_t3',  name:'Carbohydrate Metabolism & ETC',     icon:'CHO', startLine:212, endLine:316  },
+  { id:'bc_t4',  name:'Lipids & Cholesterol',              icon:'LIP', startLine:317, endLine:422  },
+  { id:'bc_t5',  name:'pH, Electrolytes & Function Tests', icon:'PH',  startLine:423, endLine:521  },
+  { id:'bc_t6',  name:'Vitamins & Minerals',               icon:'VIT', startLine:522, endLine:646  },
+  { id:'bc_t7',  name:'Free Radicals & Detoxification',    icon:'FRD', startLine:647, endLine:733  },
+  { id:'bc_t8',  name:'DNA & Molecular Diagnostics',       icon:'DNA', startLine:734, endLine:824  },
+  { id:'bc_t9',  name:'Transcription & Translation',       icon:'TRL', startLine:825, endLine:925  },
+  { id:'bc_t10', name:'Gene Expression & Hormones',        icon:'GEX', startLine:926, endLine:1014 },
+  { id:'bc_t11', name:'rDNA Technology & Immunochem',      icon:'RDN', startLine:1015,endLine:99999},
+];
+
 // ── Question Parser ──
 let allQuestions = [];
 let parsedQuestions = false;
 let questionsCache = {}; // Cache for different subjects
 
 async function loadQuestions(subject = 'anatomy') {
-  // Check if already loaded for this subject
+  // Use cache key as-is
   if (questionsCache[subject]) {
     allQuestions = questionsCache[subject];
     parsedQuestions = true;
     return;
   }
-  
+
   try {
-    const fileName = SUBJECT_FILES[subject] || SUBJECT_FILES['anatomy'];
-    const res = await fetch(fileName);
-    if (!res.ok) throw new Error(`Failed to fetch ${fileName}`);
-    const text = await res.text();
-    allQuestions = parseQuestions(text, subject);
+    const fileSpec = SUBJECT_FILES[subject] || SUBJECT_FILES['anatomy'];
+
+    // Array = merge multiple files (physiology, biochemistry mixed mode)
+    if (Array.isArray(fileSpec)) {
+      let merged = [];
+      for (const fileName of fileSpec) {
+        const res = await fetch(fileName);
+        if (!res.ok) continue;
+        const text = await res.text();
+        const qs = parseQuestions(text, subject);
+        merged = merged.concat(qs);
+      }
+      allQuestions = merged;
+    } else {
+      const res = await fetch(fileSpec);
+      if (!res.ok) throw new Error(`Failed to fetch ${fileSpec}`);
+      const text = await res.text();
+      allQuestions = parseQuestions(text, subject);
+    }
+
     questionsCache[subject] = allQuestions;
     parsedQuestions = true;
+  } catch(e) {
+    console.error('Failed to load questions:', e);
+    allQuestions = [];
+  }
+}
+
+// Load questions from a specific file restricted to a line range (for FMT chapters, physiology/biochem topics)
+async function loadQuestionsFromRange(fileName, startLine, endLine) {
+  const cacheKey = `${fileName}:${startLine}:${endLine}`;
+  if (questionsCache[cacheKey]) {
+    allQuestions = questionsCache[cacheKey];
+    return;
+  }
+  try {
+    const res = await fetch(fileName);
+    if (!res.ok) throw new Error(`Failed to fetch ${fileName}`);
+    const fullText = await res.text();
+    const lines = fullText.split('\n');
+    // startLine/endLine are 1-based from grep output
+    const sliced = lines.slice(startLine - 1, endLine).join('\n');
+    allQuestions = parseQuestions(sliced, '');
+    questionsCache[cacheKey] = allQuestions;
   } catch(e) {
     console.error('Failed to load questions:', e);
     allQuestions = [];
@@ -618,35 +828,40 @@ let wrongCount = 0;
 let activeIncompleteSessionId = null;
 
 async function startTest() {
-  await loadQuestions(selectedSubject);
-  
+  // If a specific range is selected (FMT chapter / physio topic / biochem topic), load from range
+  if (selectedTopicMeta) {
+    await loadQuestionsFromRange(selectedTopicMeta.file, selectedTopicMeta.startLine, selectedTopicMeta.endLine);
+  } else {
+    await loadQuestions(selectedSubject);
+  }
+
   if (allQuestions.length === 0) {
     alert('Could not load questions. Please check the question file.');
     return;
   }
-  
-  // Filter by subject and topic
+
+  // Filter anatomy by topic mapping (keeps existing anatomy topic logic)
   let filteredQuestions = [...allQuestions];
   if (selectedSubject === 'anatomy' && selectedTopic && selectedTopic !== 'all') {
     const allowedIds = ANATOMY_MAPPING[selectedTopic] || [];
     filteredQuestions = allQuestions.filter(q => allowedIds.includes(q.id));
   }
-  
+
   if (filteredQuestions.length === 0) {
     alert('No questions available for this selection. We will upload more soon!');
     return;
   }
-  
+
   // Shuffle and slice
   const shuffled = filteredQuestions.sort(() => Math.random() - 0.5);
   const count = Math.min(selectedCount, shuffled.length);
   testQuestions = shuffled.slice(0, count);
-  
+
   if (testQuestions.length === 0) {
     alert('No questions available for this selection.');
     return;
   }
-  
+
   currentQ = 0; score = 0; answered = 0; wrongCount = 0;
   activeIncompleteSessionId = null;
   document.getElementById('scoreTotal').textContent = '0';
@@ -949,6 +1164,7 @@ function resumeTest(testIndex) {
   
   selectedSubject = testState.subject;
   selectedTopic = testState.topic;
+  selectedTopicMeta = null; // not needed for resume — questions are saved in snapshot
   
   // Restore full question objects from the saved snapshot. If a question bank is
   // available locally (allQuestions), try to replace with the canonical object.
@@ -1073,6 +1289,7 @@ document.addEventListener('DOMContentLoaded', () => {
   setTimeout(() => loadQuestions('orthopaedics'), 2500);
   setTimeout(() => loadQuestions('paediatrics'), 3000);
   setTimeout(() => loadQuestions('obstetrics'), 3500);
+  setTimeout(() => loadQuestions('fmt'), 4000);
 
   // ── Exit modal wiring ──
   const exitModal     = document.getElementById('exitModal');

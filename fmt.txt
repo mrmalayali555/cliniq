@@ -1,0 +1,3857 @@
+# FORENSIC MEDICINE MCQ COMPANION
+
+## Chapter 1: Medical Etiquette & Law
+
+1. Medical etiquette is related to: (NEET 13)
+   A. Legal responsibilities of doctors B. Rules to be followed by doctors C. Courtesy observed between doctors D. Moral principles followed by doctors
+   **Answer: C**
+
+2. Schedule that recognizes medical qualifications awarded by institutions in India: (AIIMS 11)
+   A. Schedule I B. Schedule II C. Schedule III Part I D. Schedule III Part II
+   **Answer: A**
+
+3. Medical qualifications awarded by institutions outside India and recognized by MCI are registered in: (AI 06)
+   A. First schedule of Indian Medical Council Act 1956 B. Second schedule of Indian Medical Council Act 1956 C. Part I of third schedule D. Part II of third schedule
+   **Answer: B**
+
+4. Professional death sentence is given by: (NEET 14)
+   A. Central Health Ministry B. Medical Council of India C. Indian Medical Association D. State Medical Council
+   **Answer: D**
+
+5. Appeal against penal erasure can be done in: (WB 11)
+   A. State Medical Council B. Medical Council of India C. Central Health Ministry D. State Health Ministry
+   **Answer: C**
+
+6. Prohibition of participation in torture by a doctor comes under: (MP 10; NEET 15; COMEDK 15)
+   A. Declaration of Tokyo B. Declaration of Helsinki C. Declaration of Oslo D. Declaration of Geneva
+   **Answer: A**
+
+7. Declaration of Helsinki is about: (Odisha 11; NEET 14)
+   A. Organ transplantation B. Human experimentation C. Torture D. Physician's oath
+   **Answer: B**
+
+8. Declaration of Oslo is related to: (DNB 10)
+   A. Torture B. Capital punishment C. Medical termination of pregnancy D. Human experimentation
+   **Answer: C**
+
+9. As per MCI, minimum period for which a doctor should preserve his patient's record: (JIPMER 13)
+   A. 2 years B. 3 years C. 4 years D. 5 years
+   **Answer: B**
+
+10. The court of law, professional secrecy can be divulged under: (MAHE 11)
+    A. Doctrine of Common Knowledge B. Privileged communications C. Res ipsa loquitur D. Therapeutic privilege
+    **Answer: B**
+
+11. Privileged communication is between: (AI 09)
+    A. Doctor-patient B. Doctor-medical council C. Doctor-court D. Doctor-police
+    **Answer: C**
+
+12. Infamous conduct comprises of all, except: (Delhi 11)
+    A. Adultery B. Advertising C. Procuring criminal abortion D. Examining a patient without consent
+    **Answer: D**
+
+13. Professional death sentence is: (TN 07)
+    A. Imprisonment for life B. Rigorous imprisonment C. Erasing of name from the medical register D. Death by hanging
+    **Answer: C**
+
+14. False statement regarding Red Cross sign: (AI 10)
+    A. Can be used by Army medical services B. Punishable to use it without permission C. Used by members of Red Cross D. Can be used by doctors and ambulances
+    **Answer: D**
+
+15. Plaintiff is a person who: (NEET 13)
+    A. Files case in civil court B. Acts as defender C. Gives judgment D. Same as public prosecutor
+    **Answer: A**
+
+16. If death of a patient occurs during surgery due to the negligence of the surgeon, then he can be charged under: (COMEDK 07; DNB 09; NEET 14)
+    A. 299 IPC B. 300 IPC C. 304-A IPC D. 304-B IPC
+    **Answer: C**
+
+17. Punishment under 304-A IPC: (NEET 15) – (Now 106 BNS)
+    A. 1 year B. 2 years C. 3 years D. 4 years
+    **Answer: B (up to 5 years under BNS)**
+
+18. According to recent SC judgment, doctor can be charged for medical negligence under 304-A only if: (AIIMS 12)
+    A. He is from corporate hospital B. Negligence is from inadvertent error C. Simple negligence D. Gross negligence
+    **Answer: D**
+
+19. Liability for wrong limb amputation can be considered under: (BHU 12; NIMHANS 14)
+    A. Criminal negligence B. Civil negligence C. Both civil and criminal D. Contributory negligence
+    **Answer: C**
+
+20. In civil negligence cases against the doctor, the onus of the proof lies with: (AIIMS 11)
+    A. Doctor B. Patient C. First class judicial magistrate D. Police
+    **Answer: B**
+
+21. Doctrine of res ipsa loquitur means: (NEET 13,14)
+    A. Fact speaks for itself B. Medical malpractice C. Common knowledge doctrine D. Mandatory oral evidence
+    **Answer: A**
+
+22. Burden to prove defense lies with the doctor in case of: (UP 11)
+    A. Mens rea B. Res ipsa loquitur C. Res judicata D. Respondent superior
+    **Answer: B**
+
+23. During an operation, if a pair of scissors is left in abdomen, the doctrine applicable is: (JIPMER 10)
+    A. Res integra B. Res gestae C. Res ipsa loquitur D. Res judicata
+    **Answer: C**
+
+24. Doctrine of Common Knowledge is a variant of: (Odisha 11)
+    A. Medical malpractice B. Novus actus interveniens C. Res ipsa loquitur D. Calculated risk doctrine
+    **Answer: C**
+
+25. Contributory negligence is related with: (DNB 08)
+    A. Eggshell skull rule B. Master-servant rule C. Avoidable consequence rule D. Common knowledge rule
+    **Answer: C**
+
+26. Medical negligence in which the patient contributed to the injury complained of: (DNB 09)
+    A. Civil negligence B. Corporate negligence C. Contributory negligence D. Criminal negligence
+    **Answer: C**
+
+27. Contributory negligence is negligence due to: (NEET 13)
+    A. Doctor only B. Patient only C. Both doctor and patient D. Hospital administrator and doctor
+    **Answer: C**
+
+28. Contributory negligence is a defense in: (AP 08; Delhi 08; Odisha 11)
+    A. Civil negligence B. Criminal negligence C. Corporate negligence D. Composite negligence
+    **Answer: A**
+
+29. Vicarious responsibility pertains to: (Delhi 06; NIMHANS 14)
+    A. Patient's contribution towards negligence B. Hospital's contribution towards patient's damage C. Responsibility for actions of a colleague D. Responsibility of senior for actions of junior
+    **Answer: D**
+
+30. False about informed consent: (AIIMS 07; AFMC 12)
+    A. Alternate procedures/treatment to be concealed B. Form the patient C. Patient must be told about the risks D. Patient must be explained about the whole procedure
+    **Answer: A**
+
+31. A 13-year-old boy attends surgery without an adult accompanying him. Legally, a general practitioner must: (Kerala 07)
+    A. Examine and prescribe as appropriate B. Refuse to see him unless a responsible adult is present C. Write to the parent asking them to come to the surgery D. Examine but not prescribe
+    **Answer: A**
+
+32. Examining the patient without consent amounts to: (Delhi 11)
+    A. Assault B. Unethical act C. Indecent act D. Negligence
+    **Answer: A**
+
+33. Consent for examination in a psychiatric patient is given by: (COMEDK 13)
+    A. Patient B. Doctor C. Guardian D. Not required
+    **Answer: C**
+
+34. A doctor while examining the patient without consent in an emergency is protected under: (MAHE 06; Maharashtra 10)
+    A. Sec.87 IPC B. Sec.92 IPC C. Sec.90 IPC D. Sec.91 IPC
+    **Answer: B**
+
+35. A doctor has to do an urgent operation on an unconscious patient but there are no relatives to take consent. He goes ahead without obtaining consent; he is using the principle of: (CMC Vellore 09)
+    A. Therapeutic privilege B. Doctrine of implied consent C. Therapeutic waiver D. Doctrine of informed consent
+    **Answer: B**
+
+36. Under which section, police can ask the doctor to examine without the accused person's consent: (NEET 14)
+    A. Sec 54 CrPC B. Sec 53 CrPC C. Sec 52 CrPC D. Sec 92 IPC
+    **Answer: B**
+
+37. Consent is required for: (UP 11)
+    A. Mass immunization B. Medico-legal autopsy C. Pathological autopsy D. Treatment of unconscious patient
+    **Answer: C**
+
+38. Blanket consent is consent taken: (NEET 14)
+    A. When the patient comes to doctor for treatment B. Orally when given during any procedure C. Implied by gesture D. At the time of admission to any surgery
+    **Answer: D**
+
+39. A person voluntarily acting like having a disease is said to be: (Kerala 09; JIPMER 14)
+    A. Hypochondriac B. Masochist C. Gerontophile D. Malingerer
+    **Answer: D**
+
+40. 20-year-old female had abdominal pain previous week, USG and clinically normal. Again she presented with loss of vision; examination is normal. Diagnosis: (AIIMS 13)
+    A. Malingering B. Masochist C. Hypochondriac D. Anxiety disorder
+    **Answer: A**
+
+41. True about euthanasia are all, except: (PGI 14)
+    A. Passive euthanasia is legal in India B. Active euthanasia is allowed in the UK C. Physician assisted suicide is legal in some States of the US D. Active euthanasia is legal in Netherlands and Belgium
+    **Answer: B**
+
+42. In terminal illness, care to provide painless shortening of life is termed as: (AFMC 11)
+    A. Palliative care B. Passive euthanasia C. Physician-assisted suicide D. Active euthanasia
+    **Answer: A**
+
+43. Transplantation of Human Organs Act was passed in: (AI 06; NEET 14)
+    A. 1994 B. 1996 C. 2000 D. 2002
+    **Answer: A**
+
+44. Which of the following is outside the purview of Transplantation of Human Organs Act? (Odisha 11)
+    A. Eyes B. Eardrums C. Ear bones D. Bone marrow
+    **Answer: D**
+
+45. Minimum age to give consent for organ donation for therapeutic purposes: (DNB 09)
+    A. 12 years B. 18 years C. 21 years D. No such law
+    **Answer: B**
+
+46. All are involved in brainstem death certification under Transplantation of Human Organs Act, except: (MP 10)
+    A. The doctor in-charge of hospital B. A neurologist or neurosurgeon nominated by in-charge C. A doctor involved in the transplantation procedure D. The doctor treating the person
+    **Answer: C**
+
+47. According to Transplantation of Human Organs Act, 1994, punishment for doctor if found guilty: (AIIMS 11)
+    A. 2 years B. 5 years C. 7 years D. 2-5 years
+    **Answer: B**
+
+48. What is matched for organ transplantation? (Jharkhand 11)
+    A. mDNA B. HLA C. RNA D. Blood group
+    **Answer: B**
+
+49. Which organ obtained from cadaver is not used for transplant? (AI 11)
+    A. Blood vessels B. Lung C. Liver D. Urinary bladder
+    **Answer: D**
+
+50. Consider statements about Consumer Protection Act (CPA): (UPSC 09)
+    1. CPA applies to all goods, but not any services. 2. CPA provides four-tier consumer dispute redressal machinery.
+    A. 1 only B. 2 only C. Both 1 and 2 D. Neither 1 nor 2
+    **Answer: D**
+
+51. Apex body dealing with medical negligence cases: (Maharashtra 11)
+    A. MCI B. State Medical Council C. Supreme Court D. National Consumer Commission
+    **Answer: D**
+
+52. Maximum amount that can be received under the Consumer Protection Act: (MAHE 08)
+    A. 25 lakhs B. 50 lakhs C. 75 lakhs D. >100 lakhs
+    **Answer: D**
+
+53. Doctor liable to get sued permanently until limit from alleged negligence: (JIPMER 10; Maharashtra 09,11)
+    A. 1 year B. 2 years C. 3 years D. 4 years
+    **Answer: B**
+
+54. MTP Act was passed in the year: (MAHE 09)
+    A. 1971 B. 1991 C. 2001 D. 2002
+    **Answer: A**
+
+55. Indications of MTP are all, except: (UPSC 13; NEET 14)
+    A. Pregnancy due to rape B. Contraceptive failure C. Pregnancy endangering mother's life D. Maternal age >35 years
+    **Answer: D**
+
+56. MTP Act in India does not permit termination of pregnancy by one doctor after: (Delhi 06; AP 06; JIPMER 14)
+    A. 12 weeks B. 16 weeks C. 20 weeks D. 24 weeks
+    **Answer: C**
+
+57. As per MTP Act, abortion can be done by one doctor till: (MAHE 12)
+    A. 12 weeks B. 16 weeks C. 20 weeks D. 24 weeks
+    **Answer: C**
+
+58. According to MTP Act, 2 doctors' opinion in special cases is required when pregnancy is: (Maharashtra 09)
+    A. 6 weeks B. 10 weeks C. ≥20 weeks D. >24 weeks
+    **Answer: D**
+
+59. Under MTP Act, termination of pregnancy can be done by: (Rajasthan 08)
+    A. Any registered medical practitioner B. Any RMP with MD/MS in Obs & Gynae C. Any RMP with 6 months residency in Obs & Gynae D. Any RMP with 3 months residency
+    **Answer: C**
+
+60. First trimester abortion uses all, except: (TN 09)
+    A. Mifepristone B. Extra-amniotic ethacridine lactate C. Dilatation and evacuation D. Suction evacuation
+    **Answer: B**
+
+61. Abortion at 11 weeks of pregnancy can be done by: (AP 10; Jharkhand 11; JIPMER 15; COMEDK 14)
+    A. Suction evacuation B. Hypertensive saline C. Ethacridine lactate D. Oxytocin
+    **Answer: A**
+
+62. PNDT Act was introduced in the year: (Punjab 08)
+    A. 1990 B. 1994 C. 2000 D. 2002
+    **Answer: C**
+
+63. According to PCPNDT Act, punishment for doctor if found guilty for sex determination: (NEET 15)
+    A. 1 year B. 2 years C. 3 years D. 5 years
+    **Answer: C**
+
+64. Mental Health Act was passed in the year: (NEET 15)
+    A. 1948 B. 1967 C. 1987 D. 2007
+    **Answer: C**
+
+65. For diagnosis of insanity, maximum limit of observation: (NEET 14)
+    A. 5 days B. 10 days C. 30 days D. 50 days
+    **Answer: C**
+
+66. Acts passed under 1980s, except: (PGI 09)
+    A. Factories Act B. ESI Act C. Workmen's Compensation Act D. Mental Health Act
+    **Answer: A**
+
+67. Act passed after independence: (PGI 14)
+    A. Majority Act B. Child Marriage Restraint Act C. ESI Act D. MTP Act
+    **Answer: D**
+
+68. In India, law and punishment is in accordance to: (PGI 12)
+    A. IPC/BNS B. CrPC/BNSS C. IEA/BSA D. Coroner's Act
+    **Answer: A**
+
+69. Inquest now not present in India: (PGI 12)
+    A. Magistrate inquest B. Police inquest C. Coroner's inquest D. Procurator fiscal system
+    **Answer: C, D**
+
+70. Before conducting inquest, police should inform: (MAHE 10)
+    A. Director General Police B. Sessions Judge C. Executive Magistrate D. Senior police officer
+    **Answer: C**
+
+71. All are true of police inquest, except: (NEET 13)
+    A. Senior head constable can investigate B. Most common inquest C. Panchanama has to be signed by IO D. IO cannot summon
+    **Answer: D**
+
+72. Magistrate's inquest is conducted by: (MAHE 06)
+    A. District Magistrate B. Executive Magistrate C. Sub-Divisional Magistrate D. Any of the above
+    **Answer: D**
+
+73. A married woman died in unnatural conditions within 5 years of her marriage. Her parents complained of frequent demand of dowry. Her autopsy will be conducted under which section: (AI 10; Punjab 10)
+    **Answer: Sec. 174 CrPC / Magistrate inquest**
+
+74. Sec. 176 CrPC/194,196 BNSS is related to: (MAHE 12; NEET 15)
+    A. Coroner inquest B. Summons inquest C. Police inquest D. Magistrate inquest
+    **Answer: D**
+
+75. In case of death in prison, inquest is held by: (TN 08; Maharashtra 12; NEET 14)
+    A. Magistrate B. Panchayat officers C. Police superintendent D. District attorney
+    **Answer: A**
+
+76. A lady died due to unnatural death within 7 years of her marriage. The inquest in this case will be done by: (DNB 09; FMGE 09)
+    A. Forensic medicine expert B. Deputy superintendent of police C. Sub-divisional magistrate D. Coroner
+    **Answer: C**
+
+77. Police inquest is done in all, except: (NEET 13,14)
+    A. Suicidal death B. Homicidal death C. Dowry death D. Death by animals
+    **Answer: C**
+
+78. Magistrate inquest need not be in: (JIPMER 14)
+    A. Homicide B. Exhumation C. Police custody death D. Dowry death
+    **Answer: A**
+
+79. Consider statements about High Courts in India: (UPSC 09)
+    A. 1 only B. 2 only C. Both 1 and 2 D. Neither 1 nor 2
+    **Answer: D**
+
+80. Example of Court of Appeal: (MAHE 11)
+    A. Sessions court B. Magistrate's court C. Coroner's court D. High Court
+    **Answer: D**
+
+81. First class Judicial Magistrate appointment by: (MP 07)
+    A. Governor B. Chief Justice of High Court C. Chief Minister of State D. Chief Justice of Supreme Court
+    **Answer: B**
+
+82. Lowest court to give imprisonment up to 10 years: (JIPMER 12)
+    **Answer: Sessions Court**
+
+83. Chief Judicial Magistrate can sentence a guilty for imprisonment up to: (DNB 09)
+    A. 3 years B. 5 years C. 7 years D. Life imprisonment
+    **Answer: B**
+
+84. Powers of a First-Class Magistrate: (PGI 06; AI 10; Jharkhand 11; NEET 14)
+    A. Fine up to 10,000 and 3-years imprisonment B. Fine up to 10,000 and 5-years C. Fine up to 3,000 and 5-years D. Unlimited fine and 7 years
+    **Answer: A**
+
+85. Juvenile court is presided over by: (DNB 08)
+    A. I class woman Magistrate B. II class woman Magistrate C. II class male Magistrate D. None
+    **Answer: D**
+
+86. Juvenile court deals with cases of children up to the age of: (AIIMS 13; DNB 09; FMGE 10)
+    A. 15 years B. 16 years C. 18 years D. 21 years
+    **Answer: C**
+
+87. According to JJ Act 2000, juvenile is boy and girl respectively less than: (NEET 13)
+    A. 16 and 18 B. 18 and 21 C. 14 and 16 D. 18 and 18
+    **Answer: D**
+
+88. Warrant cases are punishable with imprisonment: (DNB 09)
+    A. More than 1 year B. More than 2 years C. Less than 1 year D. Less than 2 years
+    **Answer: B**
+
+89. Cognizable offence comes under which section of CrPC: (NEET 13)
+    A. 2(c) B. 2(b) C. 1(a) D. 1(d)
+    **Answer: A**
+
+90. A person breaks someone's mandible in alleged fight: (AIIMS 12)
+    A. Arrest with warrant B. Arrest without warrant C. Declare him hostile D. Put him in mental asylum
+    **Answer: B**
+
+91. Subpoena is also called: (MAHE 06)
+    A. Summons B. Panchanama C. Requisition D. Inquest papers
+    **Answer: A**
+
+92. Dues tecum is: (WB 08)
+    A. Summon B. Panchanama C. Conduct money D. Hostile witness
+    **Answer: A**
+
+93. Conduct money is given to a: (AP 07)
+    A. Witness in civil court B. Witness in criminal court C. Doctor for good behavior D. Witness for good conduct
+    **Answer: A**
+
+94. In civil cases, conduct money is decided by: (NEET 13)
+    A. Opposite party B. Judge C. Doctor D. Witness
+    **Answer: B**
+
+95. In criminal cases, conduct money is paid by: (NEET 13)
+    A. Court B. Opposite party C. Judge D. No conduct money is given
+    **Answer: D**
+
+96. When a doctor issues a false medical certificate, then he is liable under: (AIIMS 11; Bihar 11; NEET 15)
+    A. Sec.197 IPC B. Sec.197 CrPC C. Sec.340 IPC D. Sec.338 IPC
+    **Answer: B**
+
+97. IPC 197/ BNS 234 is related to: (NEET 14)
+    A. Causing disappearance of evidence B. Issuing false certificate by doctor C. Giving false evidence D. Examination of accused
+    **Answer: B**
+
+98. Giving false certificate comes under: (DNB 09; KCET 12)
+    A. Sec.30 CrPC B. Sec.32 IEA C. Sec.197 IPC D. Sec.32 CrPC
+    **Answer: C**
+
+99. If a patient survives after having given dying declaration, then it stands as: (UP 09)
+    A. No value B. Valid for 48 h C. Corroborative evidence D. None
+    **Answer: D**
+
+100. Dying declaration can be taken by: (PGI 12; NIMHANS 14)
+    A. Village headman B. Doctor C. Magistrate D. Any one
+    **Answer: D**
+
+101. Dying declaration is a: (MAHE 10)
+    A. Circumstantial evidence B. Oral evidence C. Documentary evidence D. Hearsay evidence
+    **Answer: C**
+
+102. Oral evidence is more important than written testimony as: (NEET 13)
+    A. Oral evidence cannot be cross-examined B. Oral evidence can be cross-examined C. Documentary evidence requires no proof D. None
+    **Answer: B**
+
+103. Documentary evidence along with oral evidence is required: (PGI 12)
+    A. Dying declaration B. Postmortem report C. DNA fingerprinting D. Chemical examination report
+    **Answer: B**
+
+104. Dying declaration can be done by: (Punjab 07)
+    A. Eyewitness B. Medical witness C. Hostile witness D. IO
+    **Answer: B**
+
+105. Hostile witness is one who: (Maharashtra 08)
+    A. Threatens the judge B. Threatens the prosecutor C. Refuses to answer D. Willfully gives false evidence
+    **Answer: D**
+
+106. A witness who after taking oath willfully makes a false statement is guilty under: (AIIMS 11; NEET 13,15)
+    A. 190 IPC B. 191 IPC C. 192 IPC D. 193 IPC
+    **Answer: D**
+
+107. Leading questions are NOT permitted in: (Delhi 08)
+    A. Cross-examination B. Examination-in-Chief C. Re-examination D. Both B & C
+    **Answer: B**
+
+108. Sec. 142 IEA (142 BNS) is related to: (BHU 08)
+    A. Cross-questioning B. When leading question can be asked C. When leading question cannot be asked D. Objective evidence
+    **Answer: C**
+
+109. Judge can ask questions: (Punjab 07)
+    A. During cross-examination B. Examination-in-Chief C. Any time during trial D. Re-examination
+    **Answer: C**
+
+110. First-hand knowledge rule is applicable to:
+    A. Common witness B. Handwriting expert C. Doctor D. Hostile witness
+    **Answer: A**
+
+111. Which Section of IPC/BNS deals with punishment of perjury?
+    A. 191/BNS 227 B. 192/BNS 228 C. 193/BNS 229 D. 197/BNS 234
+    **Answer: C**
+
+112. As per Medicare Service Persons Act, violence against a registered medical practitioner is considered as:
+    A. Non-cognizable and bailable B. Cognizable and non-bailable C. Non-cognizable and non-bailable D. Cognizable and bailable
+    **Answer: B**
+
+113. In civil negligence case against a doctor, onus of proof lies with:
+    A. Patient B. Police C. Magistrate D. Doctor
+    **Answer: A**
+
+114. In case of professional misconduct, patient's records on demand should be provided within:
+    A. 72 hours B. 42 hours C. 24 hours D. 7 days
+    **Answer: A**
+
+115. According to Bharatiya Sakshya Adhiniyam, section 39(1) gives information regarding:
+    A. Evidence B. Expert witness C. Hostile witness D. Dying declaration
+    **Answer: B**
+
+**Assertion & Reason**
+
+A1. Assertion: In civil medical negligence, burden of proof lies on patient. Reason: Civil negligence cases are decided on res ipsa loquitur. Options: A. Both true, R correct explanation B. Both true, R not correct C. A true, R false D. A false, R true
+    **Answer: B**
+
+A2. Assertion: Examining patient without consent amounts to assault. Reason: Consent not required in medical emergencies. Options: A. Both true, R correct B. Both true, R not correct C. A true, R false D. A false, R true
+    **Answer: B**
+
+A3. Assertion: Magistrate inquest mandatory in dowry death cases. Reason: All unnatural deaths are investigated by magistrate inquest. Options: A. Both true, R correct B. Both true, R not correct C. A true, R false D. A false, R true
+    **Answer: C**
+
+A4. Assertion: Dying declaration is documentary evidence. Reason: It is recorded in writing and becomes part of court records. Options: A. Both true, R correct B. Both true, R not correct C. A true, R false D. A false, R true
+    **Answer: A**
+
+A5. Assertion: Dying declaration acts as corroborative evidence if patient lives. Reason: Dying declaration is made under oath. Options: A. Both true, R correct B. Both true, R not correct C. A true, R false D. A false, R true
+    **Answer: C**
+
+---
+
+## Chapter 2: Thanatology & Signs of Death
+
+1. Study of death in all its aspects is known as: (AIIMS 08)
+   A. Eugenics B. Thanatology C. Dactylography D. Tricology
+   **Answer: B**
+
+2. Which is not a postmortem change: (NEET 15)
+   A. Algor mortis B. Rigor mortis C. Aria features D. Livor mortis
+   **Answer: C**
+
+3. All are features of somatic death, except: (NEET 14)
+   A. Cessation of respiration B. Cessation of heart C. Non-responding muscles D. No response to external stimuli
+   **Answer: C**
+
+4. Molecular death is: (PGI 10; Kerala 11)
+   A. Complete and irreversible cessation of brain, heart and lungs B. Death of individual tissues and cells after somatic death C. Total loss of EEG activity, but heart functioning D. Vitals at low pitch, cannot be detected clinically
+   **Answer: B**
+
+5. NOT important in brain death: (PGI 07)
+   A. EEG B. ECG C. Absence of brainstem reflex D. Body temperature
+   **Answer: B**
+
+6. Brainstem dead are all, except: (JIPMER 08)
+   A. Weaned off from ventilator B. Absent pupillary response C. Absent nystagmus D. Absent corneal reflex
+   **Answer: A**
+
+7. All found in brain dead patients, except: (AIIMS 07; Karnataka 11; AIIMS 14)
+   A. Decreased deep tendon reflexes B. Absent pupillary reflexes C. Complete apnea D. Heart unresponsive to atropine
+   **Answer: D**
+
+8. In brain death, which organ cannot be transplanted: (UPSC 14)
+   A. Brain B. Heart C. Liver D. Kidney
+   **Answer: A**
+
+9. Xenograft is transplantation of tissue: (FMO general)
+   A. From different species B. From same species C. From genetically identical twins D. From one part to another
+   **Answer: A**
+
+10. Traumatic event and information given to relatives: (FMO general)
+    A. Traumatic event and starting of operation B. Lethal trauma up to death C. Death and postmortem examination
+    **Answer: C**
+
+11. An old lady with mitral stenosis underwent hysterectomy and died of pulmonary edema. Order of cause of death in international certificate: (NIMS 11)
+    A. Mitral stenosis, pulmonary edema, hysterectomy B. Pulmonary edema, mitral stenosis, hysterectomy C. Pulmonary edema, hysterectomy, mitral stenosis D. Hysterectomy, pulmonary edema, mitral stenosis
+    **Answer: C**
+
+12. Gordon's classification of death signifies: (Official 11)
+    A. Mechanism of death B. Causes of death C. Modes of death D. Manner of death
+    **Answer: C**
+
+13. Cyanide poisoning causes: (AFMC 10)
+    A. Histotoxic anoxia B. Anoxic anoxia C. Anaemic anoxia D. Stagnant anoxia
+    **Answer: A**
+
+14. All statements regarding atherosclerosis are true, except: (AP 10; SGPGI 11)
+    A. Naked eye changes not visible for first 12 h B. Triphend arteriosclerosis can help in dating C. Most commonly involves left coronary artery D. Common site is anterior wall of right ventricle
+    **Answer: D**
+
+15. Immediate sign of death is: (DNB 10)
+    A. Fall in body temperature B. Dilatation of pupil C. Changes in skin D. Cessation of respiration and circulation
+    **Answer: D**
+
+16. Test of historical importance to detect respiration: (MAHE 09)
+    A. I-card test B. Winslow test C. Magnus test D. Diaphragm test
+    **Answer: B**
+
+17. True about suspended animation: (PGI 10)
+    A. Common phenomenon B. Can be voluntary C. Similar to molecular death D. Resembles brain death
+    **Answer: B**
+
+18. Suspended animation may be seen in: (BHU 11)
+    A. Electrocution B. Hanging C. Drowning D. Burn
+    **Answer: A**
+
+19. Algor mortis is: (Punjab 11; NEET 13)
+    A. Cadaveric spasm B. Rigor mortis C. Cooling of body D. Hypostasis
+    **Answer: C**
+
+20. Ideal place to record body temperature in dead body: (AIIMS 06; BHU 10; NEET 14)
+    A. Rectum B. Axilla C. Mouth D. Groin
+    **Answer: A**
+
+21. Rate of cooling of dead bodies in tropical climate: (Dublin 06; UP 07)
+    A. 0.2°C/h B. 0.5°C/h C. 1.5°C/h D. 2°C/h
+    **Answer: B**
+
+22. Postmortem caloricity may be seen in all except: (MP 07; NEET 13)
+    A. Septicemia B. Barbiturates poisoning C. Strychnine poisoning D. Tetanus
+    **Answer: B**
+
+23. Postmortem caloricity is seen in all except: (AP 06; BHU 12)
+    A. Burns B. Strangulation C. Tetanus D. Septicemia
+    **Answer: D**
+
+24. Synonyms for PM staining except: (PGI 13)
+    A. Cadaveric lividity B. Sugillation C. Livor mortis D. Algor mortis
+    **Answer: D**
+
+25. Color of postmortem staining: (NIMHANS 14)
+    A. Greenish yellow B. Blackish C. Reddish brown D. Bluish purple
+    **Answer: D**
+
+26. Postmortem staining gets fixed within: (BHU 10)
+    A. 1½ h after death B. 4-6 h C. 8-12 h D. 24 h
+    **Answer: C**
+
+27. True statement about hypostasis: (PGI 12)
+    A. Surface elevated B. Disappears with putrefaction C. Not seen in internal organs D. Occurs immediately after death
+    **Answer: B**
+
+28. Postmortem lividity useful to assess: (TN 06)
+    A. Time since death B. Weapon used C. Position of body after death D. All
+    **Answer: C**
+
+29. Difference between postmortem staining and contusion are all except: (PGI 10; NEET 14)
+    A. Bluish in color B. Disappear on pressure C. Margins regular D. Extravasation found
+    **Answer: D**
+
+30. Stiffening of body muscles after death due to ATP depletion: (COMEDK 13)
+    A. Cadaveric spasm B. Cadaveric rigidity C. Hypostasis D. Gas stiffening
+    **Answer: B**
+
+31. All true regarding muscular changes after death except: (NEET 14)
+    A. Rigor mortis occurs 1-2 h after death B. Cadaveric spasm involves involuntary muscles C. Rigor mortis involves voluntary muscles D. Rigor mortis remains irreversible
+    **Answer: B**
+
+32. In which rigor mortis appears first: (FMGE 08)
+    A. Seen immediately after death B. Lasts 12-36 h in summer C. Disappears in sequence it appears D. Lasts 24-48 h in winter
+    **Answer: A**
+
+33. Rigor mortis completely develops in: (Bihar 10)
+    A. 1-2 h B. 3-6 h C. 6-8 h D. 10-12 h
+    **Answer: D**
+
+34. Coldness starts in: (UP 08)
+    A. Eyelids B. Heart C. Voluntary muscles D. Limbs
+    **Answer: B**
+
+35. Rigor mortis occurs first in which voluntary muscle: (Delhi 06,07; COMEDK 08; SGPGI 11)
+    A. Muscles of eyelids B. Small muscles of hands C. Neck muscles D. Face muscles
+    **Answer: A**
+
+36. Elderly in temperate zone found dead, damaged heater. Rigor mortis will: (NEET 14)
+    A. Earlier than expected B. Later than expected C. Will not set in D. Will set as expected
+    **Answer: B**
+
+37. Rigor mortis comes early in all except: (PGI 14)
+    A. Cholera B. Heat stroke C. OP poisoning D. Pneumonia
+    **Answer: B**
+
+38. Rigor mortis not seen in: (AIIMS 13)
+    A. Fetus <7 months B. Full term fetus C. Elderly D. Anemic person
+    **Answer: A**
+
+39. Rigor mortis is simulated by all except: (PGI 06)
+    A. Cold stiffness B. Heat stiffness C. Tetanus D. Putrefaction
+    **Answer: C**
+
+40. Immediate reaction after death is: (AIIMS 09; Punjab 09)
+    A. Cadaveric spasm B. Pugilistic attitude C. Rigor mortis D. Algor mortis
+    **Answer: A**
+
+41. Instantaneous rigor is seen in: (NEET 13)
+    A. Cadaveric spasm B. Rigor mortis C. Cold stiffening D. Gas stiffening
+    **Answer: A**
+
+42. Statement NOT true about cadaveric spasm: (Maharashtra 08; Kerala 11; UP 12)
+    A. Indicates mode of death B. Appears instantaneously C. All muscles involved D. Great force required to overcome
+    **Answer: C**
+
+43. All about cadaveric spasm except: (PGI 12; NEET 14)
+    A. Particular group of muscles involved B. Disappears with rigor mortis C. Occurs 2-3 h after death D. Involves involuntary muscles
+    **Answer: D**
+
+44. Heat stiffening occurs when body exposed to: (AIIMS 12)
+    A. 30°C B. 40°C C. 50°C D. 60°C
+    **Answer: D**
+
+45. Major bacterial enzyme responsible for putrefaction: (NEET 14)
+    A. Hyaluronidase B. Lecithinase C. Metalloproteinase D. Collagenase
+    **Answer: B**
+
+46. First external sign of decomposition is: (NEET 13)
+    A. Decomposition of liver and intestine B. Greenish discoloration over right iliac fossa C. Greenish discoloration over dependent parts D. Bloodstained froth from mouth
+    **Answer: B**
+
+47. Marbling in summer occurs within: (WB 11)
+    A. 18h B. 36h C. 48h D. 72h
+    **Answer: C**
+
+48. Foamy or Honeycomb liver is seen in: (IN 08; UP 08; NIMS 11; NEET 13)
+    A. Arsenic poisoning B. Electrocution C. Hanging D. Putrefaction
+    **Answer: D**
+
+49. Which tissue putrefies late: (Gujarat 07; WB 09; Jharkhand 11; NEET 13; JIPMER 14)
+    A. Brain B. Muscle C. Liver D. Bone
+    **Answer: B**
+
+50. Last organ to putrefy in females is: (BHU 12)
+    A. Kidney B. Uterus C. Brain D. Spleen
+    **Answer: B**
+
+51. Sequence of putrefaction: (WB 07)
+    A. Heart-brain-uterus B. Spleen-brain-uterus C. Heart-spleen-brain-uterus D. Heart-brain-spleen-uterus
+    **Answer: B**
+
+52. Putrefaction is delayed in all except: (NEET 14)
+    A. Warm moist atmosphere B. Carbolic acid poisoning C. Anaemia D. Heavy metal poisoning
+    **Answer: A**
+
+53. Which poisoning retards putrefaction: (NEET 13)
+    A. Aluminium phosphide B. Lead C. Arsenic D. Copper
+    **Answer: C**
+
+54. Casper's dictum for rate of decomposition in air : water : buried bodies is: (TN 09)
+    A. 8:4:1 B. 4:2:1 C. 1:2:4 D. 1:2:8
+    **Answer: D**
+
+55. Casper's dictum is related to: (AI 09; MP 11)
+    A. Identification of dead body B. Calculation of time since death C. Calculation of dead body D. Rate of putrefaction
+    **Answer: D**
+
+56. Putrefaction of body in air compared to earth is: (AP 07)
+    A. Same B. Two times C. Four times D. Eight times
+    **Answer: D**
+
+57. Dead body floats in lake in summer in: (NEET 13)
+    A. 6h B. 12h C. 24h D. 48h
+    **Answer: B**
+
+58. Entomology of cadaver helps in finding: (TN 09)
+    A. Time since death B. Mode of death C. Manner of death D. Identify disease
+    **Answer: A**
+
+59. All are features of adipocere except: (MH 11; PGI 13)
+    A. Consists of fatty acids B. Takes place in dry sandy soil C. Takes about 3 weeks to form D. Bacterial enzymes necessary
+    **Answer: B**
+
+60. Environmental condition needed for adipocere formation: (AIIMS 11; MP 11)
+    A. Hot and dry B. Humid and cold C. Hot and humid D. Cold and dry
+    **Answer: C**
+
+61. From vitreous humor, estimation of time since death is done by: (NEET 13)
+    A. K+ level B. Na+ level C. Glucose level D. Urea level
+    **Answer: A**
+
+62. Best medium for estimating time since death: (Maharashtra)
+    A. Blood B. Vitreous humor C. CSF D. Pericardial fluid
+    **Answer: B**
+
+63. Not a constituent of embalming fluid: (AIIMS 08)
+    A. Formalin B. Methanol C. Ethanol D. Glycerin
+    **Answer: C**
+
+64. Fixation of hypostasis has occurred. Minimum time required? (C)
+    A. 2 hours B. 4 hours C. 6 hours D. 24 hours
+    **Answer: C**
+
+65. Sequential onset of rigor mortis described by: (B)
+    A. Puppe's rule B. Nysten's rule C. Casper's dictum D. Haber's rule
+    **Answer: B**
+
+66. Harvard criteria for brain death excludes: (B)
+    A. Unresponsiveness to pain B. Isoelectric ECG waves C. Loss of reflexes D. No spontaneous movements
+    **Answer: B**
+
+67. Postmortem caloricity not seen in: (B)
+    A. Cholera B. Cyanide poisoning C. Septicaemia D. Sun stroke
+    **Answer: B**
+
+68. Zasko's phenomenon related to: (A)
+    A. Muscular changes B. Decomposition C. Eye changes D. Skin changes
+    **Answer: A**
+
+69. Suspended animation can occur in all except: (D)
+    A. Drowning B. Electrocution C. After anaesthesia D. Throttling
+    **Answer: D**
+
+70. Tests for cessation of circulation except: (B)
+    A. Diaphanous test B. Winslow's test C. Magnus's test D. Icard's test
+    **Answer: B**
+
+71. True statement about pugilistic attitude: (D)
+    A. Only postmortem B. ATP depletion cause C. Generalized extension D. Coagulation of muscle protein
+    **Answer: D**
+
+72. Kevorkian sign indicates time since death: (B)
+    A. 5-6 hours B. <1 hour C. 3-4 hours D. 10-12 hours
+    **Answer: B**
+
+73. Casper's dictum related to: (C)
+    A. Identification B. Cause of death C. Estimation of time since death D. Weapon of injury
+    **Answer: C**
+
+74. Postmortem marbling most prominent after: (C)
+    A. 12-24 hours B. 24-36 hours C. 36-48 hours D. <12 hours
+    **Answer: C**
+
+75. Correct order for MCCD Form 4(a): (A, F, G correct)
+    Ia Drowning, Ib Post traumatic epilepsy, Ic Traumatic brain injury, Id Fall from ladder, II Alcoholism
+    **Answer: A, F, G**
+
+76. Graph interpretation (temperature vs time): (2,3,4 correct)
+    **Answer: 2,3,4**
+
+77. Greenish discoloration in right iliac fossa occurs around: (C)
+    A. 6 hrs B. 12 hrs C. 24 hrs D. 36 hrs E. 48 hrs
+    **Answer: C**
+
+78. Which is true about decomposition rate: (D)
+    A. Faster in water than air B. Slower in air than burial C. Same in all media D. Slower in burial than drowning and air
+    **Answer: D**
+
+79. Harvard criteria preconditions for brainstem death: (B, D)
+    A. Absent reflexes B. Comatose on ventilator C. Primary hyperthermia D. Irremediable structural brain damage E. Positive apnoea test F. Severe metabolic disturbances
+    **Answer: B, D**
+
+80. Enzymatic softening without bacterial action is called: (B)
+    A. Putrefaction B. Autolysis C. Adipocere D. Complete dissolution
+    **Answer: B**
+
+81. Condition where vital signs not detected but functions reduced to minimum: (B)
+    A. Livor mortis B. Suspended animation C. Adipocere D. Cadaveric spasm
+    **Answer: B**
+
+82. Early changes in eye after death: (B,C,E)
+    A. Pupillary constriction B. Loss of corneal reflex C. Tache noire D. Elevated IOP E. Kevorkian sign
+    **Answer: B,C,E**
+
+83. Casper's dictum: rate in air is __ times water and __ times burial: (C)
+    A. 4,8 B. 2,6 C. 2,8 D. 4,6
+    **Answer: C**
+
+84. First external sign of decomposition: (B)
+    A. Marbling B. Greenish discoloration right iliac fossa C. Reddish discoloration of aorta D. Skin peeling
+    **Answer: B**
+
+85. Muscles respond to electrical stimulus up to 6h and mechanical up to 2.5h. This is: (B)
+    A. Mosaic effect B. Zasko effect C. Bernard effect
+    **Answer: B**
+
+86. Rectum is ideal for core temperature except in: (C)
+    A. Hanging B. Drowning C. Sodomy D. Strangulation
+    **Answer: C**
+
+87. Glove and stock pattern of hypostasis seen in: (A)
+    A. Hanging B. Contusion C. Tight clothing D. Drowning
+    **Answer: A**
+
+88. Feeble movements when rigor sets in called: (C)
+    A. Nysten movement B. Paradoxical movements C. Sommers movement D. Pugilistic attitude
+    **Answer: C**
+
+89. Kevorkian sign seen in: (C)
+    A. Sclera B. Cornea C. Retinal vessels D. Optic nerve
+    **Answer: C**
+
+90. Postmortem delivery usually occurs within: (C)
+    A. 1-2 days B. 2-3 days C. Within 24 hrs D. Immediately after death
+    **Answer: C**
+
+91. First insect to invade a dead body: (D)
+    A. Beetle B. Ants C. Maggots D. Blow fly
+    **Answer: D**
+
+92. First organ to undergo decomposition: (A)
+    A. Brain B. Uterus C. Prostate D. Bones
+    **Answer: A**
+
+93. Estimate time since death: Autopsy 12 pm, rigor only in lower limbs, no greenish discoloration, last meal 9 am previous day, stomach empty. Death could be: (B,C,D)
+    A. 12 pm B. 1 pm C. 3 pm D. 5 pm E. 7 pm F. 9 pm
+    **Answer: B,C,D (between 1 pm and 6 pm previous day)**
+
+94. Estimate time since death: Autopsy 2 pm, rigor absent, greenish discoloration right iliac fossa, last seen alive 9 am previous day, stomach empty. Death could be: (B,C,D)
+    A. 8 am B. 10 am C. 12 pm D. 1 pm E. 3 pm F. 5 pm G. 7 pm
+    **Answer: B,C,D (between 9 am and 2 pm previous day)**
+
+95. Correct arrangement for MCCD: (D)
+    A. II-Dyslipidemia B. II-Diabetes Mellitus C. Ib-Pneumothorax D. Ib-Gunshot chest
+    **Answer: D**
+
+96. Bishop's tripod of life include all except: (4)
+    1. Respiration 2. Circulation 3. Brain function 4. Reflexes
+    **Answer: 4**
+
+97. Temperature for pugilistic attitude beyond: (2)
+    1. 60° 2. 65° 3. 70° 4. 75°
+    **Answer: 2**
+
+98. Chief bacterial agent producing lecithinase: (1)
+    1. Cl.perfringens 2. Cl.botulinum 3. Cl.tetani 4. C.difficile
+    **Answer: 1**
+
+99. Sturner's formula: Time since death = (3)
+    1. 3.14×K + (mEq/l) 2. 3.14×Na + 3. 7.14×K + 4. 7.14×Na +
+    **Answer: 3**
+
+100. Most accurate time since death: (C)
+    A. 11 am-5 pm yesterday B. 1 am-5 am today C. 4 pm-5 pm yesterday D. 4 am-5 am today
+    **Answer: C**
+
+101. Mode of death: (B)
+    A. Myocardial infarction B. Asphyxia C. Poisoning D. Hanging
+    **Answer: B**
+
+102. Curve depicting postmortem vibices: (B)
+    **Answer: B**
+
+103. Casper's dictum refers to: (C)
+    A. Rate of cooling B. Progression of rigor C. Decomposition in different media D. Sequence of hypostasis
+    **Answer: C**
+
+104. Manner of death determined primarily by: (C)
+    A. Autopsy findings B. Police inquest C. Scene investigation D. Toxicology reports
+    **Answer: C**
+
+105. Syncope is classified as a: (C)
+    A. Cause of death B. Manner of death C. Mode of death D. Medico-legal diagnosis
+    **Answer: C**
+
+106. Death due to acute arsenic poisoning is an example of: (C)
+    A. Natural death B. Accidental cause C. Cause of death D. Mode of death
+    **Answer: C**
+
+107. Earliest sign of death: (C)
+    A. Rigor mortis B. Postmortem hypostasis C. Primary flaccidity D. Cooling of body
+    **Answer: C**
+
+108. Most reliable sure sign of death: (D)
+    A. Absence of pulse B. Fixed pupils C. Rigor mortis D. Decomposition
+    **Answer: D**
+
+109. In electrocution, rigor mortis: (C)
+    A. Does not occur B. Slow to develop C. Appears early and disappears early D. Prolonged
+    **Answer: C**
+
+110. Color of PM staining in CO poisoning: (A)
+    A. Cherry red B. Brownish C. Greenish D. Bluish-purple
+    **Answer: A**
+
+111. Fixed postmortem staining indicates death occurred: (C)
+    A. <1 hour B. 1-2 hours C. 6-8 hours D. 18-24 hours
+    **Answer: C**
+
+112. Bruise differs from PM staining: (B)
+    A. Can be washed away B. Shows ecchymosis under intact skin C. Always red D. Occurs only after death
+    **Answer: B**
+
+113. According to Nysten's law, rigor mortis begins in: (C)
+    A. Trunk B. Lower limbs C. Jaw and eyelids D. Hands and feet
+    **Answer: C**
+
+114. In cyanide poisoning, PM staining color: (D)
+    A. Bluish-purple B. Chocolate brown C. Pink D. Bright red
+    **Answer: D**
+
+115. In antemortem bruise, histologically seen: (C)
+    A. Coagulated blood in vessels B. RBCs inside veins C. RBC extravasation and WBC infiltration D. No tissue reaction
+    **Answer: C**
+
+116. Henssge's nomogram most reliable parameter: (C)
+    A. Skin color B. Eye changes C. Core temperature D. Extent of putrefaction
+    **Answer: C**
+
+117. Best preserved organ during putrefaction: (B)
+    A. Liver B. Uterus C. Brain D. Lungs
+    **Answer: B**
+
+118. Which condition delays putrefaction most: (C)
+    A. Hanging B. Obesity C. Arsenic poisoning D. Sepsis before death
+    **Answer: C**
+
+119. Segmentation of retinal blood vessels called: (B)
+    A. Tache noire B. Kevorkian sign C. Winslow's test D. Icard's test
+    **Answer: B**
+
+120. Identify the graph (Marshal's sigmoid curve): (D)
+    **Answer: D**
+
+---
+
+## Chapter 3: Medico-legal Autopsy
+
+1. Body after postmortem is handed over to: (NIMHANS 14)
+   A. Police constable B. Relatives C. Preserved in mortuary D. Magistrate
+   **Answer: A**
+
+2. Last structure to be autopsied in asphyxial death: (AIIMS 07,08,12)
+   A. Head B. Thorax C. Abdomen D. Neck
+   **Answer: D**
+
+3. Method of autopsy in which organs are removed en masse: (NEET 14)
+   A. Rokitansky B. Virchow C. Ghon D. Letulle
+   **Answer: D**
+
+4. Virchow method of organ removal is: (NEET 14)
+   A. Organs removed en masse B. Organs removed one by one C. In situ dissection D. Organs removed en bloc
+   **Answer: B**
+
+5. True about subendocardial hemorrhages except: (AIIMS 10; UPSC 11)
+   A. May be seen after head injury B. Involves right ventricular wall C. Continuous pattern D. Flame shaped
+   **Answer: B**
+
+6. In autopsy, spinal cord is opened through which approach: (AIIMS 11)
+   A. Anterior B. Posterior C. Lateral D. Anterolateral
+   **Answer: B**
+
+7. Underwater autopsy of heart is done in cases of: (DNB 09)
+   A. Myocardial infarction B. Pulmonary embolism C. Air embolism D. Pneumothorax
+   **Answer: C**
+
+8. Best site for blood collection for toxicology sampling: (NEET 13)
+   A. Abdominal aorta B. Femoral vein C. Carotid artery D. Heart
+   **Answer: B**
+
+9. Brain is preserved in all except: (AIIMS 06)
+   A. OPC poisoning B. Alkaloid poisoning C. Heavy metal poisoning D. Volatile organic poisoning
+   **Answer: C**
+
+10. Confirmatory diagnosis of rabies on postmortem: (FMGE 09)
+    A. Negri bodies in saliva B. Negri bodies in corneal scrapings C. Anti-rabies antibodies in blood D. Negri bodies in brain
+    **Answer: D**
+
+11. Sample of spinal cord is preserved in suspected poisoning with: (JIPMER 10,11)
+    A. Oleander B. Alcohol C. Strychnine D. Arsenic
+    **Answer: C**
+
+12. CSF sample is preserved for which poisoning: (FMGE 10)
+    A. Heavy metal B. Alkyl C. Organophosphates D. Alcohol
+    **Answer: B**
+
+13. Vitreous humor is preserved in suspected poisoning with: (FMGE 08)
+    A. Carbon monoxide B. Anthrax C. Alcohol D. Morphine
+    **Answer: C**
+
+14. Blood is stored at what temperature: (FMGE 10)
+    A. 4°C B. -20°C C. -70°C D. Room temperature
+    **Answer: A**
+
+15. CSF is stored at: (Kerala 11)
+    A. 4°C B. -20°C C. Room temperature D. -70°C
+    **Answer: A**
+
+16. Specimens for toxicological studies are preserved in: (DNB 09; Maharashtra 11; AFMC 12)
+    A. 10% formaldehyde B. Alcohol C. Saturated solution of common salt D. Normal saline
+    **Answer: C**
+
+17. Rectified spirit is NOT used as preservative in case of: (WB 11; NEET 15)
+    A. Phenol B. Cyanide C. Insecticides D. Alphos (Aluminium phosphide)
+    **Answer: D**
+
+18. Preservative used for blood: (UP 10)
+    A. Sodium fluoride B. Thymol C. Potassium oxalate D. No preservative
+    **Answer: A**
+
+19. Vitreous humor is preserved in: (AIIMS 07)
+    A. HCl B. Fluoride C. Formalin D. Xylol
+    **Answer: C**
+
+20. Sodium fluoride is added to: (CMC Ludhiana 11)
+    A. Prevent glycolysis B. Prevent glycogenolysis C. Prevent coagulation D. Prevent growth of microorganisms
+    **Answer: A**
+
+21. Fluoride used in blood sample inhibits the enzyme: (WB 07; PGI 08; FMGE 10,11)
+    A. Glucokinase B. Hexokinase C. Enolase D. Glucose-6-phosphatase
+    **Answer: C**
+
+22. Tissue biopsy for histopathological examination should be sent in: (DNB 09)
+    A. Normal saline B. Formalin C. Rectified spirit D. Saturated saline
+    **Answer: B**
+
+23. During autopsy for virology study, which agent is used for storing tissue: (NEET 14)
+    A. Sodium chloride B. Alcohol C. Rectified spirit D. 50% glycerine
+    **Answer: D**
+
+24. With respect to dating of bone, a bone more than 100 years old contains: (Karnataka 11)
+    A. 7 amino acids B. 9 amino acids C. 6 amino acids D. 8 amino acids
+    **Answer: A**
+
+25. Exhumation is done in which age group: (FMGE 10)
+    A. 18 years B. 16 years C. 21 years D. All ages
+    **Answer: D**
+
+26. An order for exhumation can be given by: (Maharashtra 08)
+    A. District collector B. Additional district magistrate C. Sub-collector D. Any of the above
+    **Answer: D**
+
+27. Ideal time to start exhumation: (NEET 14)
+    A. Midnight B. Late evening C. Afternoon in proper light D. Early morning
+    **Answer: D**
+
+28. Time limit of exhumation in India is: (Maharashtra 09; AP 09; NEET 14)
+    A. 1 month B. 1 year C. Ten years D. No limit
+    **Answer: D**
+
+29. In hanging autopsy, preferred incision: (B)
+    A. I shaped B. Modified Y shaped C. Y shaped D. Inverted Y shaped
+    **Answer: B**
+
+30. Corpus delicti means: (B)
+    A. Medico-legal autopsy B. The body of offence C. Criminal negligence D. Exhumation
+    **Answer: B**
+
+31. Metal that can be detected even in conflagrated human remains: (C)
+    A. Lead B. Mercury C. Arsenic D. Cadmium
+    **Answer: C**
+
+32. Match the following: Negative autopsy, Obscure autopsy, Virtual autopsy, Academic autopsy. (A)
+    A. 1-iii,2-iv,3-ii,4-i B. 1-iv,2-iii,3-i,4-ii C. 1-ii,2-iii,3-i,4-ii D. 1-iv,2-i,3-iii,4-ii
+    **Answer: A**
+
+33. Second autopsy performed in which scenarios: (D)
+    1. Relatives not satisfied 2. Investigating authority demands 3. First autopsy done in absence of IO 4. First autopsy done in absence of relatives
+    A. 1 and 5 only B. 2,4,5 only C. 3 and 4 only D. 1,2,3
+    **Answer: D**
+
+34. En masse removal of organs is: (D)
+    A. Virchow B. Rokitansky C. Ghon D. Letulle
+    **Answer: D**
+
+35. False statement about medico-legal autopsy: (A)
+    A. Consent from relatives required B. Legal permission necessary C. Magistrate authorizing officer for exhumation D. In India, all RMPs can perform autopsy
+    **Answer: A**
+
+36. Breslau's second life test uses: (B)
+    A. Lungs B. Stomach C. Liver D. Heart
+    **Answer: B**
+
+---
+
+## Chapter 4: Asphyxial Deaths
+
+1. In typical hanging, knot is placed at: (FMGE 09)
+   A. Occiput B. Chin C. Left side of mandible D. Right side of mandible
+   **Answer: A**
+
+2. La facies sympathique is a condition seen in: (Maharashtra 10,11; Punjab 11; NEET 13; COMEDK 13)
+   A. Hanging B. Strangulation C. Throttling D. Railway accidents
+   **Answer: A**
+
+3. Most suggestive of antemortem hanging: (DNB 09)
+   A. Salivary dribbling B. Congestion of lungs C. Ligature marks D. Petechial hemorrhages
+   **Answer: A**
+
+4. Dribbling of saliva is feature of: (JIPMER 14)
+   A. Antemortem hanging B. Strangulation C. Postmortem hanging D. Drowning
+   **Answer: A**
+
+5. Hanging causes injury to: (JIPMER 14)
+   A. Carotid artery B. Esophagus C. Trachea D. Vertebral artery
+   **Answer: A**
+
+6. Lynching is a type of: (AFMC 11; FMGE 13)
+   A. Homicidal hanging B. Suicidal hanging C. Judicial hanging D. Accidental hanging
+   **Answer: A**
+
+7. The 'knot' in judicial hanging is placed at: (AIIMS 06)
+   A. Behind neck B. Side of neck C. Below the chin D. Choice of hangman
+   **Answer: C**
+
+8. Hangman's fracture is: (COMEDK 07; Bihar 10; Manipal 11)
+   A. Spondylolisthesis of C2 over C3 B. Fracture of odontoid process C. Fracture of transverse process D. Dislocation of C5
+   **Answer: A**
+
+9. Victim strangled with elbow around neck is called: (NEET 13)
+   A. Garroting B. Muggling C. Bansdola D. Burking
+   **Answer: B**
+
+10. Muggings is compression of neck by: (NEET 14)
+    A. Wooden sticks B. Rope C. Bend of elbow D. Hand
+    **Answer: C**
+
+11. Bansdola is a form of strangulation by: (NEET 14)
+    A. Ligature B. Hands C. Wooden sticks D. Bend of elbow
+    **Answer: C**
+
+12. Spanish windlass is practiced in which form of strangulation: (AIIMS 10)
+    A. Bansdola B. Garrotting C. Throttling D. Muggings
+    **Answer: B**
+
+13. Ligature mark is horizontal in: (NEET 14)
+    A. Hanging B. Strangulation C. Both D. None
+    **Answer: B**
+
+14. NOT a feature of ligature strangulation: (Kerala 08)
+    A. Horizontal ligature mark B. Incomplete ligature mark C. Marked congested face D. Subconjunctival hemorrhage
+    **Answer: C**
+
+15. On postmortem, contusion of neck muscles with fracture of hyoid bone. Most probable cause: (AI 08; AIIMS 08; NEET 15)
+    A. Smothering B. Muggings C. Burking D. Throttling
+    **Answer: D**
+
+16. Fracture of hyoid bone is indicative of: (FMGE 09,11; Maharashtra 09; AP 11; NEET 13)
+    A. Manual strangulation B. Ligature strangulation C. Bansdola D. Hanging
+    **Answer: A**
+
+17. Hyoid bone fracture does not occur in: (NEET 14)
+    A. Hanging B. Strangulation C. Throttling D. Choking
+    **Answer: D**
+
+18. Outward displacement of fractured hyoid bone is seen in: (UP 10)
+    A. Manual strangulation B. Ligature strangulation C. Hanging D. Bansdola
+    **Answer: C**
+
+19. Death due to suffocation are all except: (AI 08)
+    A. Smothering B. Choking C. Throttling D. Gagging
+    **Answer: C**
+
+20. A person with something stuck in throat during dinner progressed to death. Probable diagnosis: (AI 09)
+    A. Myocardial infarction B. Choking C. Pulmonary embolism D. Aortic dissection
+    **Answer: B**
+
+21. During autopsy, foreign body found in respiratory tract; manner of death is: (MP 07)
+    A. Homicide B. Suicide C. Accident D. Natural
+    **Answer: C**
+
+22. Accidental choking of respiratory passage by bolus of food: (NEET 14)
+    A. Gagging B. Overlying C. Cafe coronary D. Burking
+    **Answer: C**
+
+23. Cafe coronary commonly occurs when food is: (NEET 14)
+    A. Intoxicated B. Eating fatty food C. Eating meat D. Eating fish
+    **Answer: A**
+
+24. Term cafe coronary was coined by: (NEET 14)
+    A. Roger Haug B. Marie FX Bichat C. Alphonse Bertillon D. Joseph Bell
+    **Answer: A**
+
+25. A 5-year-old boy becomes apneic during dinner. Immediate management: (AIIMS 11)
+    A. Cricothyrotomy B. Emergency tracheostomy C. Heimlich maneuver
+    **Answer: C**
+
+26. Cause of death in cafe coronary: (AFMC 12; NEET 14)
+    A. Pulmonary edema B. Laryngeal edema C. Cardiac arrest D. Asphyxia
+    **Answer: D**
+
+27. Overlying is an example of: (UP 12)
+    A. Suffocation B. Strangulation C. Hanging D. Drowning
+    **Answer: A**
+
+28. All may cause traumatic asphyxia except: (AI 09)
+    A. Railway accident B. Road traffic accident C. Accidental strangulation D. Stampede
+    **Answer: C**
+
+29. Burking includes: (NEET 13)
+    A. Choking B. Ligature C. Overlying D. Traumatic asphyxia
+    **Answer: B**
+
+30. NOT true about fresh water drowning: (Kerala 09; KCET 13)
+    A. Hyperkalemia B. Hypovolemia C. Ventricular fibrillation D. Hemolysis
+    **Answer: A**
+
+31. In case of drowning in sea water: (TN 06)
+    A. Hemoglobin increases B. Hemoglobin decreases C. No change D. May occur
+    **Answer: B**
+
+32. NOT seen in salt water drowning: (Maharashtra 11)
+    A. Hyperkalemia B. Progressive hypovolemia C. Circulatory collapse D. Acute pulmonary edema
+    **Answer: A**
+
+33. In dry drowning: (FMGE 09; AP 11)
+    A. Death occurs few days after submersion B. Death due to sudden immersion in cold water C. Water does not enter lungs due to laryngeal spasm D. Seen in alcoholics in shallow pool
+    **Answer: C**
+
+34. Hydrocution is: (AIIMS 08; NEET 14,15)
+    A. Wet drowning B. Immersion syndrome C. Near drowning D. Dry drowning
+    **Answer: B**
+
+35. Cause of death for drowning in cold water: (NEET 13)
+    A. Vagal inhibition B. Asphyxia C. Loss of consciousness D. Ventricular fibrillation
+    **Answer: A**
+
+36. Death occurs faster in: (MP 08)
+    A. Fresh water drowning B. Salt water drowning C. Near drowning D. Warm water drowning
+    **Answer: A**
+
+37. Best indicator of antemortem drowning is: (Delhi 07; TN 11)
+    A. Froth in nostrils B. Cutis anserina C. Washerwoman's hand D. Water in stomach
+    **Answer: A**
+
+38. Diagnostic of antemortem drowning: (NEET 14)
+    A. Paltauf's hemorrhage B. Weeds in clenched hands C. Emphysema aquosum D. Water in esophagus
+    **Answer: B**
+
+39. Paltauf's hemorrhages are seen in: (AP 11; NEET 13)
+    A. Brain B. Lungs C. Heart D. Liver
+    **Answer: B**
+
+40. Incorrect about Paltauf's hemorrhage: (NEET 14)
+    A. Sign of drowning B. Subpleural hemorrhage C. Mostly seen in middle lobe D. All are true
+    **Answer: C**
+
+41. Emphysema aquosum is found in: (NEET 13)
+    A. Dry drowning B. Wet drowning C. Immersion syndrome D. Secondary drowning
+    **Answer: B**
+
+42. Gettler test detects: (NEET 14)
+    A. Diatoms in drowning B. Chloride content of blood in drowning C. Weight of lungs in drowning D. Magnesium content of blood
+    **Answer: B**
+
+43. Gettler's test is used to diagnose death due to: (Delhi 06; NEET 14)
+    A. Hanging B. Strangulation C. Burns D. Drowning
+    **Answer: D**
+
+44. Outer covering of diatom is made of: (NEET 14)
+    A. Magnesium B. Silica C. Hydrocarbons D. None
+    **Answer: B**
+
+45. Diatoms are seen in death due to: (Jharkhand 11)
+    A. Strangulation B. Drowning C. Electrocution D. Asphyxia
+    **Answer: B**
+
+46. Most common form of drowning in India: (NEET 14)
+    A. Suicidal B. Homicidal C. Accidental D. Infanticide
+    **Answer: C**
+
+47. Sexual asphyxia is: (Maharashtra 08; Gujarat 10)
+    A. Suicidal death B. Homicidal death C. Natural death D. Accidental death
+    **Answer: D**
+
+48. In strangulation autopsy, which method not followed: (D)
+    A. Remove brain before neck dissection B. Postmortem MRI of neck C. X-ray larynx before dissection D. Incising internal jugular vessels at last
+    **Answer: D**
+
+49. Most marked congestion and cyanosis seen in: (B)
+    A. Postural asphyxia B. Traumatic asphyxia C. Smothering D. Ligature strangulation
+    **Answer: B**
+
+50. Weight of head, arms and chest act as constricting force in: (B)
+    A. Complete hanging B. Partial hanging C. Typical hanging D. Atypical hanging
+    **Answer: B**
+
+51. Finding indicating ligature strangulation: (B)
+    A. Pale face with no petechiae B. Bleeding from nose and mouth C. Dribbling of saliva D. No fracture of thyroid cartilage
+    **Answer: B**
+
+52. In judicial hanging, knot placed: (D)
+    A. Between chin and ear B. Below chin C. Occiput D. Below ear
+    **Answer: D**
+
+53. True about Cafe Coronary Syndrome: (D)
+    A. Mostly thin built B. Food lodged in larynx only C. Death due respiratory arrest D. Death due to parasympathetic overactivity
+    **Answer: D**
+
+54. Smothering and traumatic asphyxia together describe: (A)
+    A. Burking B. Garroting C. Throttling D. Bansdola
+    **Answer: A**
+
+55. 15 kg tension in ligature occludes: (C)
+    A. Jugular vein B. Jugular + Carotid C. Jugular + Carotid + Trachea D. All including vertebral artery
+    **Answer: C**
+
+56. Hemorrhages in intervertebral disc of lumbar spine in hanging called: (B)
+    A. Victor's haemorrhage B. Simon's haemorrhage C. Robert's haemorrhage D. Carl's haemorrhage
+    **Answer: B**
+
+57. Not seen in suicidal hanging: (A)
+    A. Absence of dribbling of saliva B. Hypostasis involving hands and feet C. Tears of carotid artery D. Ligature mark above thyroid cartilage
+    **Answer: A**
+
+---
+
+## Chapter 5: Identification
+
+1. Corpus delicti means: (TN 07; AIIMS 08)
+   A. Proof of occurrence of crime B. Decomposed body C. Identification of dead person D. None
+   **Answer: A**
+
+2. Whole skull is used to calculate: (PGI 12)
+   A. Cephalic index B. Nasal index C. Crural index D. Brachial index
+   **Answer: A**
+
+3. Cephalic index is useful for determination of: (UP 08; DNB 10; NEET 13,14)
+   A. Age B. Sex C. Race D. Stature
+   **Answer: C**
+
+4. Cephalic index of 80-85 belongs to: (JIPMER 08)
+   A. Mongolians B. Indians C. Europeans D. Negroes
+   **Answer: A**
+
+5. Caucasian skull is: (BHU 10)
+   A. Elongated B. Square C. Narrow D. Round
+   **Answer: D**
+
+6. Crural index is: (NEET 13)
+   A. Length of tibia / femur ×100 B. Length of radius / humerus ×100 C. Length of fibula / tibia ×100 D. Length of radius / ulna ×100
+   **Answer: A**
+
+7. Barr body is NOT seen in: (PGI 07; WB 08)
+   A. Turner syndrome B. Klinefelter syndrome C. Down's syndrome D. Marfan's syndrome
+   **Answer: A**
+
+8. Barr body was first detected in: (DNB 08)
+   A. Buccal mucosa B. Brain C. Liver D. Skin
+   **Answer: B**
+
+9. Streak ovaries are seen in: (CMC Vellore 09)
+   A. Klinefelter syndrome B. Turner syndrome C. Down syndrome D. Kallmann syndrome
+   **Answer: B**
+
+10. Klinefelter syndrome is: (MP 07; Maharashtra 09; Gujarat 10; AIIMS 12; CMC Vellore 14)
+    A. 45XO B. 46XY C. 45XXY D. 47XXY
+    **Answer: D**
+
+11. Klinefelter syndrome associated with all except: (JIPMER 08; AIIMS 12; NIMHANS 14)
+    A. Delayed puberty B. Male phenotype C. Azoospermia D. Normal body habitus
+    **Answer: D**
+
+12. All seen in Klinefelter except: (WB 07)
+    A. Mental retardation B. Male phenotype C. Azoospermia D. Low FSH levels
+    **Answer: D**
+
+13. False about Klinefelter's: (AIIMS 12; JB 08; MAHE 12)
+    A. Most common sex chromosome syndrome B. Most common cause of hypogonadotropic hypogonadism C. Mental retardation may be seen D. Serum FSH consistently high
+    **Answer: B**
+
+14. Incidence of Turner syndrome: (MAHE 10)
+    A. 1:500 B. 1:1000 C. 1:2500 D. 1:5000
+    **Answer: C**
+
+15. 19-year-old with primary amenorrhea, short stature, webbed neck, wide nipples, weak lower pulses, streak ovaries, coarctation. Karyotype: (KCET 12; JIPMER 12; AIIMS 13; PGI 13)
+    A. 45XO B. 47XXY C. 46XY D. 46XX
+    **Answer: A**
+
+16. Webbed neck, short stature, increased carrying angle, low posterior hairline, primary amenorrhea, short 4th metacarpal: (AIIMS 09)
+    A. Klinefelter B. Turner C. Cri-du-chat D. Noonan
+    **Answer: B**
+
+17. All true about Turner except: (MAHE 09,11; AP 08; UPSC 09; Bihar 11; CMC Vellore 14)
+    A. Amenorrhea B. Mental retardation C. Short stature D. Coarctation of aorta
+    **Answer: B**
+
+18. XO genotype will have phenotype except: (PGI 09; WB 09; MAHE 12)
+    A. Tall stature B. Broad chest C. Webbed neck D. Lymphedema
+    **Answer: A**
+
+19. Not associated with malignancy: (JIPMER 13)
+    A. Down's syndrome B. Turner syndrome C. Noonan syndrome D. Klinefelter syndrome
+    **Answer: B**
+
+20. Most common cause of hypothalamic hypogonadotropic failure in men: (AIIMS 10)
+    A. Klinefelter B. Noonan C. Viral orchitis D. Kallmann syndrome
+    **Answer: D**
+
+21. Most common cardiac anomaly in Turner: (CMC Vellore 07; CMC Ludhiana 13; JIPMER 14)
+    A. Bifurcation of aorta B. Coarctation of aorta C. Aortic stenosis D. Bicuspid aortic valve
+    **Answer: B**
+
+22. Girl with sparse pubic and axillary hair. Likely: (FMGE 09; AIIMS 11,14)
+    A. Testicular feminization B. Mullerian agenesis C. Turner syndrome D. Gonadal dysgenesis
+    **Answer: A**
+
+23. True about androgen insensitivity except: (PGI 12,13; JIPMER 14)
+    A. Testes present B. Absent uterus C. 46XX D. Scanty pubic hair
+    **Answer: C**
+
+24. Most common effect of congenital adrenal hyperplasia: (Maharashtra 09)
+    A. Female pseudohermaphroditism B. Male pseudohermaphroditism C. True hermaphroditism D. Gonadal dysgenesis
+    **Answer: A**
+
+25. Most common cause of congenital adrenal hyperplasia: (Maharashtra 10)
+    A. 21-Hydroxylase deficiency B. 11-Hydroxylase deficiency C. 17α-Hydroxylase deficiency D. 3β-HSD deficiency
+    **Answer: A**
+
+26. Commonest cause of female pseudohermaphroditism: (WB 10)
+    A. Virilizing ovarian tumour B. Ovarian dysgenesis C. Exogenous androgen D. Congenital adrenal hyperplasia
+    **Answer: D**
+
+27. Krogman's formula is related to: (Odisha 11)
+    A. Race B. Age C. Sex D. Stature
+    **Answer: D**
+
+28. Most useful for sex determination is: (Kerala 08)
+    A. Skull B. Femur C. Pelvis D. Tibia
+    **Answer: C**
+
+29. Preauricular sulcus is useful for determination of: (NEET 14)
+    A. Race B. Sex C. Stature D. Age
+    **Answer: B**
+
+30. Chilotic line helps in determination of: (DNB 08)
+    A. Race B. Sex C. Age D. Stature
+    **Answer: B**
+
+31. Corono-basal index is used to determine: (AI 08)
+    A. Age B. Sex C. Race D. Stature
+    **Answer: A**
+
+32. Age estimation from teeth by all except: (NEET 14)
+    A. Gustafson's method B. Miles' method C. Boyd's method D. Frame's method
+    **Answer: D**
+
+33. Hardest calcified tooth is: (JIPMER 13)
+    A. Enamel B. Dentin C. Cementum D. Pulp
+    **Answer: A**
+
+34. Mineralization of teeth begins at: (COMEDK 07)
+    A. Crown to root B. Root to crown C. Simultaneously D. Center
+    **Answer: A**
+
+35. Number of milk teeth: (NEET 13)
+    A. 12 B. 16 C. 20 D. 24
+    **Answer: C**
+
+36. All true about permanent teeth except: (MP 11)
+    A. Ridge between neck and body B. Anterior teeth inclined forward C. Roots of molars larger D. Ivory white in color
+    **Answer: D**
+
+37. Primary dentition completed by: (UPSC 08)
+    A. 1.5 years B. 2.5 years C. 3.5 years D. 4.5 years
+    **Answer: B**
+
+38. First incisors to erupt: (UPSC 07)
+    A. Lower central B. Lower lateral C. Upper central D. Upper lateral
+    **Answer: A**
+
+39. In upper jaw, deciduous teeth erupt earlier than lower except: (Odisha 11)
+    A. Lateral incisors B. Central incisors C. Canines D. Second molars
+    **Answer: A**
+
+40. First permanent tooth to arise: (AP 10; UPSC 11; Delhi 11)
+    A. Incisor B. Canine C. Premolar D. Molar
+    **Answer: D**
+
+41. Age of appearance of permanent lateral incisor: (WB 10)
+    A. 5-6 years B. 6-7 years C. 8-9 years D. 9-10 years
+    **Answer: C**
+
+42. Most frequent tooth to be impacted: (UPSC 07)
+    A. Lower third molar B. Upper third molar C. Lower canine D. Upper premolar
+    **Answer: A**
+
+43. Period of mixed dentition: (UP 11)
+    A. 2-9 years B. 6-11 years C. 12-14 years D. 16 years
+    **Answer: B**
+
+44. Number of teeth at 7 years: (Gujarat 07)
+    A. 20 B. 24 C. 26 D. 28
+    **Answer: B**
+
+45. Number of permanent teeth at 8 years: (JIPMER 12)
+    A. 6 B. 8 C. 12 D. 16
+    **Answer: C**
+
+46. False about permanent teeth: (TN 08)
+    A. Molars erupt around 6 years B. Dentigerous cyst common C. 16 permanent teeth at 10 years D. 3rd molar eruption variable
+    **Answer: C**
+
+47. Age of child with 20 permanent teeth and 4 temporary teeth: (Kerala 08,09; Punjab 10; UP 09)
+    A. 9 years B. 10 years C. 11 years D. 14 years
+    **Answer: C**
+
+48. Stack method of dental age estimation used for: (AIIMS 11)
+    A. Infants B. Adults C. Elderly D. Adolescents
+    **Answer: D**
+
+49. Gustafson's method is useful for determination of: (Gujarat 10)
+    A. Age B. Stature C. Race D. Sex
+    **Answer: A**
+
+50. Gustafson's method most useful for: (AP 07)
+    A. 16 years B. 18 years C. 21 years D. >25 years
+    **Answer: D**
+
+51. Most accurate bone for sex determination from skeletal remains: (B)
+    A. Skull B. Pelvis C. Femur D. Clavicle
+    **Answer: B**
+
+52. Indices used to determine sex: (A)
+    1. Intermembral 2. Sternal 3. Corporobasal sacral 4. Ischiopubic 5. Cephalic
+    A. 2,3,4 B. 1,2,3,4 C. 3,4,5 D. 1,2,5
+    **Answer: A**
+
+53. Preauricular sulcus useful for: (C)
+    A. Skull fusion B. Race C. Sex determination D. Age
+    **Answer: C**
+
+54. Skull of Indian man is: (B)
+    A. Dolicocephalic B. Mesaticephalic C. Brachycephalic D. Platycephalic
+    **Answer: B**
+
+55. Indication of Caucasian skull: (B)
+    A. Taurodontism B. Carabelli cusps C. Shovel shaped incisors D. Lack of third upper molar
+    **Answer: B**
+
+56. Secondary ossification centres appearing before birth except: (C)
+    A. Distal femur B. Talus C. Distal tibia D. Calcaneus
+    **Answer: C**
+
+57. Gustafson's method does not assess: (A)
+    A. Tooth length B. Attrition C. Periodontosis D. Root transparency
+    **Answer: A**
+
+58. Most reliable criterion in Gustafson's method: (D)
+    A. Periodontitis B. Root resorption C. Secondary dentin D. Root transparency
+    **Answer: D**
+
+59. Method for dental numbering: (B)
+    A. Pearson B. Palmer's C. Gleser D. Trotter's
+    **Answer: B**
+
+60. Male pelvis characteristics: (C)
+    A. Triangular obturator foramen B. U-shaped pubic angle C. Large acetabulum D. Deep preauricular sulcus
+    **Answer: C**
+
+61. Minimum age for accurate sex determination from skeleton: (D)
+    A. 18-20 years B. 10-12 years C. 12-14 years D. 14-16 years
+    **Answer: D**
+
+62. False about photosuperimposition: (A)
+    A. May be performed on pelvis B. Mainly exclusive C. Requires antemortem picture D. 2D images may be used
+    **Answer: A**
+
+63. Pearson's formula estimates: (A)
+    A. Stature B. Age C. Sex D. Race
+    **Answer: A**
+
+64. Bertillon system used for: (A)
+    A. Criminal anthropometry B. Cause of death C. Manner of death D. Time since death
+    **Answer: A**
+
+65. Crown-rump length 21cm, lower limb 10cm, gestational age: (A)
+    A. 6 to 7 months B. 4 to 5 months C. 7 to 8 months D. Term
+    **Answer: A**
+
+66. First carpal bone to ossify: (B)
+    A. Lunate B. Capitate C. Hamate D. Scaphoid
+    **Answer: B**
+
+67. FDI notation 41 indicates: (D)
+    A. Upper left incisor B. Upper right incisor C. Lower left incisor D. Lower right incisor
+    **Answer: D**
+
+---
+
+## Chapter 6: Injuries
+
+1. Sec 44 IPC (Sec. 2 BNS) defines: (AIIMS 2012)
+   A. Injury B. Hurt C. Grievous hurt D. Assault
+   **Answer: A**
+
+2. Lathi can cause all except: (NEET 2013; PGI 2013)
+   A. Fissured fracture B. Abrasion collar C. Incised-looking lacerated wound D. Incised wound
+   **Answer: D**
+
+3. Graze is a form of: (Maharashtra 2008,2009; NEET 2014)
+   A. Contusion B. Abrasion C. Lacerated wound D. Incised wound
+   **Answer: B**
+
+4. Commonest abrasion in RTA: (Karnataka 2007)
+   A. Scratch B. Graze C. Contact D. Imprint
+   **Answer: B**
+
+5. Graze abrasions mimic: (AI 2009)
+   A. Eczema B. Pressure sore C. Burns D. Scalds
+   **Answer: C**
+
+6. Brush burn is: (AP 2009)
+   A. Graze abrasion B. Imprint abrasion C. Electric burn D. Arborescent burn
+   **Answer: A**
+
+7. In hanging, ligature mark is example of: (NEET 2013)
+   A. Contusion B. Pressure abrasion C. Laceration D. Burn
+   **Answer: B**
+
+8. Tyre track mark is example of: (AIIMS 2010)
+   A. Patterned bruise B. Patterned abrasion C. Pressure abrasion D. Graze abrasion
+   **Answer: B**
+
+9. Bite mark is example of: (FMGE 2011)
+   A. Pressure abrasion B. Graze abrasion C. Scratch abrasion D. Pattern abrasion
+   **Answer: D**
+
+10. Scab of abrasion appears brown in: (PGI 2011)
+    A. 12-24 hours B. 2-3 days C. 4-5 days D. 5-7 days
+    **Answer: B**
+
+11. Crescent-shaped abrasion seen with: (AFMC 2012)
+    A. Wood cane B. Nail scratch C. Bicycle chain D. Ligature
+    **Answer: B**
+
+12. Prominent bruise with minimum force seen in: (AIIMS 2009)
+    A. Scalp B. Soles C. Palm D. Face
+    **Answer: D**
+
+13. Ectopic bruise most commonly seen in: (NEET 2013)
+    A. Leg B. Eye C. Pinna D. Scalp
+    **Answer: B**
+
+14. Blackening of eye most commonly due to: (NEET 2013)
+    A. Friction abrasion B. Patterned abrasion C. Imprint abrasion D. Contusion
+    **Answer: D**
+
+15. Blue color of contusion is due to: (Gujarat 2007)
+    A. Bilirubin B. Hemosiderin C. Hematoidin D. Deoxyhemoglobin
+    **Answer: D**
+
+16. Color of hemosiderin is: (DNB 2009)
+    A. Brown B. Green C. Yellow D. Red
+    **Answer: A**
+
+17. Brown color of contusion due to: (NEET 2013)
+    A. Biliverdin B. Reduced hemoglobin C. Hemosiderin D. Bilirubin
+    **Answer: C**
+
+18. Green color of contusion due to: (TN 2008)
+    A. Bilirubin B. Hemosiderin C. Hematoidin D. Biliverdin
+    **Answer: D**
+
+19. No color change in subconjunctival hemorrhage due to: (WB 2009)
+    A. Continuous CO2 supply B. Little blood C. Continuous O2 supply D. Not visible
+    **Answer: C**
+
+20. Antemortem bruise differentiated from postmortem by: (AIIMS 2009)
+    A. Well-defined margin B. Capillary rupture with extravasation C. Yellow color D. Gaping
+    **Answer: B**
+
+21. All true about antemortem contusion except: (NEET 2014)
+    A. Sequential color change B. No inflammation C. Raised enzyme levels D. Blood cells in surrounding tissue
+    **Answer: B**
+
+22. Bone bruise best identified by: (COMEDK 2014)
+    A. X-ray B. CT C. MRI D. PET
+    **Answer: C**
+
+23. Split lacerations are due to: (DNB 2009)
+    A. Blunt object B. Sharp object C. Sharp heavy object D. Pointed object
+    **Answer: A**
+
+24. True about incised-looking wounds except: (PGI 2012)
+    A. Type of split laceration B. Avulsion laceration C. Produced by blunt object D. Commonly on scalp
+    **Answer: B**
+
+25. Split laceration resembles: (Jharkhand 2011)
+    A. Incised wound B. Abrasion C. Gunshot wound D. Contusion
+    **Answer: A**
+
+26. Incised-looking laceration seen in all except: (AFMC 2011; NEET 2013)
+    A. Iliac crest B. Zygomatic bone C. Shin D. Chest
+    **Answer: D**
+
+27. Playing is seen in which type of laceration: (AIIMS 2011)
+    A. Split B. Stretch C. Avulsion D. Cut
+    **Answer: C**
+
+28. Tissue bridges are seen in: (DNB 2010)
+    A. Abrasion B. Contusion C. Laceration D. Stab wound
+    **Answer: C**
+
+29. In incised wound, all true except: (COMEDK 2007; NEET 2014,2015)
+    A. Clean-cut margins B. Bleeding less than lacerations C. Tailing often present D. Length does not correspond with blade length
+    **Answer: B**
+
+30. Hesitation cuts seen in: (PGI 2009; Maharashtra 2009; Bihar 2010; MP 2011)
+    A. Homicide B. Suicide C. Accident D. Fall
+    **Answer: B**
+
+31. Incised wounds on genitalia are usually: (AIIMS 2009,2010)
+    A. Homicidal B. Suicidal
+    **Answer: A**
+
+32. True about stab wounds: (A)
+    A. Depth > breadth B. Breadth > depth C. Length > breadth D. Entry and exit wounds
+    **Answer: A**
+
+33. Shape of stab wound depends on: (NEET 2014)
+    A. Edge of weapon B. Shape of weapon C. Width D. All
+    **Answer: D**
+
+34. In stab wounds, Langer's lines determine: (NEET 2013)
+    A. Direction B. Gaping C. Shelving D. Healing
+    **Answer: B**
+
+35. Harakiri method involves stabbing into: (AIIMS 2014)
+    A. Chest B. Wrist C. Abdomen D. Neck
+    **Answer: C**
+
+36. Not a part of firearm: (NEET 2013)
+    A. Bolt B. Piston C. Extractor D. Muzzle
+    **Answer: B**
+
+37. Choking is seen in: (AIIMS 2012; COMEDK 2015)
+    A. Revolver B. Pistol C. Shotgun D. Rifle
+    **Answer: C**
+
+38. Caliber of rifled gun calculated by: (DNB 2009; TN 2011; AIIMS 2014)
+    A. Distance between land and groove B. Distance between two opposite lands C. Distance between two opposite grooves D. Number of lead balls from one pound
+    **Answer: B**
+
+39. Number of lead balls for 12-bore shotgun: (Manipal 2009)
+    A. 6 B. 8 C. 12 D. 24
+    **Answer: C**
+
+40. Shotgun does not use: (NEET 2013)
+    A. Barrel B. Choke bore C. Bullets D. Muzzle
+    **Answer: C**
+
+41. Number of bullets fired in tandem bullet: (AIIMS 2007)
+    A. 1 B. 2 C. 3 D. 4
+    **Answer: B**
+
+42. Bullet that fragments on impact: (Kerala 2006)
+    A. Duplex bullet B. Dum-dum bullet C. Frangible bullet D. Soft-point bullet
+    **Answer: C**
+
+43. Bullet that leaves visible mark in flight: (AI 2010)
+    A. Tandem bullet B. Tracer bullet C. Dum-dum bullet D. Incendiary bullet
+    **Answer: B**
+
+44. Associated with shotguns only: (AFMC 2012)
+    A. Gunpowder B. Primer C. Projectile D. Wads
+    **Answer: D**
+
+45. Black gunpowder contains all except: (PGI 2006; Punjab 2009)
+    A. Potassium nitrate B. Lead peroxide C. Charcoal D. Sulfur
+    **Answer: B**
+
+46. Smokeless gunpowder composed of: (Delhi 2005,2007)
+    A. KMnO4 B. HCN C. Nitrocellulose D. Sulfur
+    **Answer: C**
+
+47. Double-base smokeless gunpowder contains: (AIIMS 2012)
+    A. Nitrocellulose + nitroguanidine B. KNO3 + sulfur C. KNO3 + charcoal D. Nitrocellulose + nitroglycerin
+    **Answer: D**
+
+48. One gram smokeless gunpowder produces gas: (Karnataka 2011)
+    A. 3000-4000 cc B. 9000-10,000 cc C. 12,000-13,000 cc D. 15,000-16,000 cc
+    **Answer: C**
+
+49. FG, FFG, FFFG indicate: (PGI 2008,2011)
+    A. Cartridge B. Black powder size C. Base of gun D. Wadding
+    **Answer: B**
+
+50. Damage by bullet directly proportional to: (AIIMS 2009)
+    A. Size B. Shape C. Velocity D. Weight
+    **Answer: D**
+
+51. Maximum destructive capacity of bullet lies in: (AIIMS 2010)
+    A. Size B. Shape C. Weight D. Velocity
+    **Answer: D**
+
+52. Tattooing in entry wound due to: (NEET 2014)
+    A. Burns B. Smoke C. Gunpowder D. Wads
+    **Answer: C**
+
+53. Blackening around entry wound due to: (DNB 2009)
+    A. Flame B. Smoke C. Unburnt powder D. Hot gases
+    **Answer: B**
+
+54. Dirt collar (grease collar) seen in: (NEET 2013)
+    A. Punctured wound by sharp weapon B. Lacerated wound C. Firearm entry wound D. Stab wound
+    **Answer: C**
+
+55. Abrasion collar seen in: (PGI 2013)
+    A. Gunshot injury B. Entry wound C. Drowning D. Railway accident
+    **Answer: A & B**
+
+56. Suicidal gunshot on right temple with charring and cherry-red track inside indicates: (AIIMS 2012)
+    A. Contact shot B. Close shot at 1 foot C. Shot within 2 feet D. Shot within 3 feet
+    **Answer: A**
+
+57. Tattooing around entry wound seen in: (NEET 2014)
+    A. Contact shot B. Close shot C. Distant shot D. All
+    **Answer: B**
+
+58. 'Rat hole' appearance of entry wound seen in: (COMEDK 2015)
+    A. Close-range shotgun B. Near-range shotgun C. Close-range rifle D. Near-range rifle
+    **Answer: B**
+
+59. Stellate wound produced with firearm in: (AI 2009; NEET 2013)
+    A. Contact shot B. Close shot C. Range within 60 cm D. Distant shot
+    **Answer: A**
+
+60. Contact wound shows: (AP 2006)
+    A. Cruciate splitting B. Tattooing C. Singeing of hair D. Abrasion collar
+    **Answer: A**
+
+61. Arrangement from inside to outside in firearm entry wound: (NIMS 2011)
+    A. Dirt collar → abrasion collar → tattooing B. Abrasion collar → dirt collar → tattooing C. Tattooing → dirt collar → abrasion collar D. Dirt collar → tattooing → abrasion collar
+    **Answer: A**
+
+62. All features of gunshot wound except: (NIMHANS 2014; PGI 2014)
+    A. Entry wound bevelled in outer table B. Abrasion collar at entry C. Harrison-Gilroy test detects GSR D. Stellate in contact shot
+    **Answer: A**
+
+63. May be seen in exit wound: (DNB 2010; NEET 2014)
+    A. Dirt collar B. Abrasion collar C. Tattooing D. Inverted edges
+    **Answer: B**
+
+64. Kennedy phenomenon seen in: (NEET 2013)
+    A. RTA B. Gunshot injury C. Burns D. Contusion
+    **Answer: B**
+
+65. Difficulty distinguishing entry and exit due to suturing: (AIIMS 2013)
+    A. Formication phenomenon B. Gordon phenomenon C. Cookie-cutter phenomenon D. Kennedy phenomenon
+    **Answer: D**
+
+66. Primary and secondary markings on bullet used for: (AIIMS 2012)
+    A. Identification of weapon B. Range of firing C. Severity of tissue damage D. Time of crime
+    **Answer: A**
+
+67. Gunshot residue on hands detected by: (DNB 2010; NEET 2013)
+    A. Phenolphthalein test B. Dermal nitrate test C. Benzidine test D. H2 activation
+    **Answer: B**
+
+68. Gunpowder on clothing visualized by: (AI 2011)
+    A. Magnifying lens B. UV rays C. Infrared rays D. Energy dispersive X-ray
+    **Answer: D**
+
+69. NOT a type of skull fracture: (NIMHANS 08)
+    A. Linear B. Depressed C. Diffuse axonal D. Basal
+    **Answer: C**
+
+70. Fracture-a-la signature is: (AI 11; MAHE 12; AIIMS 13)
+    A. Gutter fracture B. Depressed fracture C. Ring fracture D. Sutural separation
+    **Answer: B**
+
+71. Pond's fractures common in: (AP 09)
+    A. Children B. Adolescent C. Adult D. Old age
+    **Answer: A**
+
+72. All true of pond's fracture except: (CMC Vellore 13)
+    A. No brain damage B. Seen in infants C. Depressed fracture of skull D. Shearing of dura not seen
+    **Answer: C**
+
+73. Orbital blow-out fracture involves: (AIIMS 09; FMGE 10; MP 10; JIPMER 11; Bihar 11; PGI 11)
+    A. Lateral wall and floor B. Medial wall and floor C. Lateral wall and roof D. Medial wall and roof
+    **Answer: B**
+
+74. Teardrop sign seen in: (Kerala 08; JIPMER 08; Maharashtra 09)
+    A. Fracture medial orbital wall B. Fracture lateral orbital wall C. Fracture floor of orbit D. Fracture roof
+    **Answer: C**
+
+75. Roof of orbit fractured due to: (AIIMS 09)
+    A. Blow on forehead B. Blow on lower jaw C. Fall on back D. Blow on parietal
+    **Answer: C**
+
+76. CSF rhinorrhea due to fracture of: (UP 08,09; DNB 10; Bihar 10; AIIMS 10; CMC Ludhiana 13)
+    A. Cribriform plate B. Sella turcica C. Petrous temporal D. Mastoid
+    **Answer: A**
+
+77. Characteristic of anterior cranial fossa fracture: (WB 07)
+    A. Black eye B. Pupillary dilatation C. CSF otorrhea D. Hemotympanum
+    **Answer: A**
+
+78. True about CSF rhinorrhea: (UP 09)
+    A. Common due to cribriform plate break B. Contains less protein C. Decreased glucose confirms D. Immediate surgery
+    **Answer: A**
+
+79. CSF otorrhea caused by: (Bihar 10; WB 11; CMC Vellore 13)
+    A. Fracture of cribriform plate B. Fracture of parietal bone C. Fracture of petrous temporal bone D. Fracture of tympanic membrane
+    **Answer: C**
+
+80. Battle sign indicates: (NIMHANS 13)
+    A. Basilar fracture B. Sural fracture C. Orbital fracture D. Depressed fracture
+    **Answer: A**
+
+81. Hinge fracture is: (JIPMER 14)
+    A. Depressed fracture B. Sural fracture C. Orbital fracture D. Basilar fracture
+    **Answer: D**
+
+82. CSF rhinorrhea diagnosed by: (MP 07)
+    A. Glucose estimation B. Halo sign C. Immunoelectrophoresis D. All
+    **Answer: D**
+
+83. Specific for CSF in rhinorrhea: (AI 10)
+    A. β-2 microglobulin B. Albumin C. Macroglobulin D. β-2 transferrin
+    **Answer: D**
+
+84. Battle's sign is: (TN 11)
+    A. Hemorrhage around eyes B. Mastoid ecchymosis C. Umbilical ecchymosis D. Vaginal ecchymosis
+    **Answer: B**
+
+85. Best prognostic indicator for head injured: (AIIMS 10)
+    A. GCS B. CT findings C. Age D. History
+    **Answer: A**
+
+86. Primary impact injury to brain: (DNB 10)
+    A. Concussion B. Cerebral edema C. Hypoxic injury D. Intracerebral hematoma
+    **Answer: A**
+
+87. Secondary brain injury is: (JIPMER 10)
+    A. Concussion B. Diffuse axonal injury C. Depressed skull fracture D. Intracerebral hematoma
+    **Answer: D**
+
+88. Concussion causes: (Karnataka 07)
+    A. Small hemorrhages and swelling B. Momentary interruption of brain function C. Tearing of brain structures D. Bruising of brain
+    **Answer: B**
+
+89. Antegrade amnesia seen in: (AIIMS 10)
+    A. Post-traumatic head injury B. Drug induced C. ECT D. Stroke
+    **Answer: A**
+
+90. Shearing damage seen in: (CMC Vellore 07)
+    A. Heart B. Liver C. Brain D. Spinal cord
+    **Answer: C**
+
+91. Diffuse axonal injury characterized by lesion at: (AI 08; FMGE 11)
+    A. Gray-white junction B. White matter C. Basal ganglia D. Corpus callosum
+    **Answer: A**
+
+92. CT: no midline shift, compressed basal cisterns, multiple small hemorrhages suggests: (AIIMS 06)
+    A. Cerebral contusion B. Cerebral laceration C. Multiple infarcts D. Diffuse axonal injuries
+    **Answer: D**
+
+93. 'Retraction balls' after trauma seen in: (PGI 08,11; UP 12)
+    A. Brain B. Spleen C. Liver D. Lung
+    **Answer: A**
+
+94. Apoplexy is: (DNB 08)
+    A. Learning disability B. Insanity leading to crime C. Sudden onset of bleeding in brain D. Traumatic brain injury
+    **Answer: C**
+
+95. Brain hemorrhage limited by sutures: (BHU 09; Punjab 12)
+    A. EDH B. SAH C. SDH D. ICH
+    **Answer: A**
+
+96. Commonest source of extradural hemorrhage: (UP 09)
+    A. Middle meningeal artery B. Basilar artery C. Charcot's artery D. Middle cerebral artery
+    **Answer: A**
+
+97. Middle meningeal artery is direct branch of: (AI 06; Odisha 09; Punjab 12)
+    A. External carotid B. Internal maxillary artery C. Superficial temporal D. Middle cerebral
+    **Answer: B**
+
+98. Artery usually torn in temporal bone fracture: (Odisha 11)
+    A. Middle meningeal B. Posterior auricular C. Transverse facial D. Deep temporal
+    **Answer: A**
+
+99. Most common manifestation of raised ICP in head injury: (UPSC 07)
+    A. Change in consciousness B. Ipsilateral pupillary dilatation C. Vomiting D. Bradycardia
+    **Answer: A**
+
+100. Lucid interval classically seen in: (COMEDK 07; PGI 07; Kerala 08; WB 09; FMGE 10; DNB 10; NEET 13,14)
+    A. Intracerebral hematoma B. Acute SDH C. Chronic SDH D. Extradural hematoma
+    **Answer: D**
+
+101. Subdural hemorrhage due to rupture of: (Bihar 11)
+    A. Middle meningeal artery B. Dural venous sinus C. Cortical bridging veins D. Intracranial aneurysm
+    **Answer: C**
+
+102. Most likely cause of death after head injury with palpable bone fragment: (Himachal 10)
+    A. SAH B. EDH C. SDH D. ICH
+    **Answer: C**
+
+103. CT appearance of subdural hematoma: (Odisha 09; NIMHANS 11; Bihar 12)
+    A. Biconvex hyperdense B. Biconcave hyperdense C. Concavo-convex D. Hyperdense diffuse
+    **Answer: C**
+
+104. Circle of Willis NOT formed by: (TN 11)
+    A. Anterior choroidal artery B. Anterior cerebral C. Posterior cerebral D. Anterior communicating
+    **Answer: A**
+
+105. Most common cause of spontaneous SAH: (AI 06; UP 10,12)
+    A. Hypertension B. Berry aneurysm rupture C. Basilar artery rupture D. Venous sinus rupture
+    **Answer: B**
+
+106. Most likely with thunderclap headache, neck rigidity, hypertension: (JIPMER 08; AIIMS 13)
+    A. SAH due to ruptured aneurysm B. Hypoglycemic coma C. Conversion reaction D. Addisonian crisis
+    **Answer: A**
+
+107. Investigation of choice in SAH: (NIMHANS 07; FMGE 11)
+    A. CT scan B. MRI C. X-ray skull D. Radionuclide scan
+    **Answer: A**
+
+108. Cause of Berry aneurysm: (AIIMS 11)
+    A. Degeneration of internal elastic lamina B. Degeneration of media C. Mucoid deposition in media D. Inflammation
+    **Answer: B**
+
+109. Commonest cause of thunderclap headache: (AIIMS 10; NIMHANS 14)
+    A. EDH B. Aneurysmal SAH C. SDH D. Basilar migraine
+    **Answer: B**
+
+110. Traumatic bleeding includes all except: (Kerala 09)
+    A. EDH B. SDH C. SAH D. ICH
+    **Answer: D**
+
+111. Commonest hemorrhage following head injury: (KCET 13)
+    A. EDH B. SDH C. ICH D. SAH
+    **Answer: B**
+
+112. Most common site of hypertensive ICH: (AI 06; NIMHANS 08; DNB 10; WB 11)
+    A. Subarachnoid space B. Basal ganglia C. Cerebellum D. Brainstem
+    **Answer: B**
+
+113. NOT true about Berry aneurysm: (AP 08)
+    A. Causes SAH on rupture B. Common in posterior circulation C. Developmental anomaly D. Common in anterior circulation
+    **Answer: B**
+
+114. Kernohan-Woltman notch seen in: (COMEDK 15)
+    A. Uncal herniation
+    **Answer: A**
+
+115. Duret hemorrhages found in: (PGI 08,10,11; Kerala 11)
+    A. Brain B. Heart C. Kidney D. Liver
+    **Answer: A**
+
+116. Investigation of choice in acute head injury: (AIIMS 14)
+    A. CECT head B. NCCT head C. MRI brain D. CT angiography
+    **Answer: B**
+
+117. Whiplash injury due to: (AIIMS 06; Karnataka 07; BHU 12; NEET 15)
+    A. Fall from height B. Acute hyperextension of spine C. Blow on top of head D. Acute hyperflexion
+    **Answer: B**
+
+118. Flail chest means fracture of: (PGI 12)
+    A. Two ribs same side B. Two ribs opposite C. Four ribs two sides D. Multiple ribs both sides
+    **Answer: C & D**
+
+119. Organ not showing contrecoup injury: (SGPGI 12)
+    A. Heart B. Brain C. Lung D. Pancreas
+    **Answer: D**
+
+120. All true about blunt abdominal trauma except: (PGI 14; JIPMER 14)
+    A. Solid organ injury commoner in children B. Liver injury more common than spleen C. Diaphragmatic injuries rare D. Free gas pathognomonic of bowel perforation
+    **Answer: B**
+
+121. Most common organ injured in penetrating abdominal injury: (AFMC 10)
+    A. Liver B. Spleen C. Stomach D. Small intestine
+    **Answer: A**
+
+122. Greenstick fracture is: (TN 06; UPSC 07; BHU 09; NIMHANS 10)
+    A. Seen in elderly B. Fatigue fracture C. Spiral fracture D. Part cortex intact, part crumpled
+    **Answer: D**
+
+123. Boxer's fracture: (MP 11)
+    A. Base of first metacarpal B. Neck of fifth metacarpal C. Neck of third metacarpal D. Neck of first metacarpal
+    **Answer: B**
+
+124. Most common site of mandibular fracture: (TN 11)
+    A. Condyle B. Angle C. Body D. Symphysis
+    **Answer: A**
+
+125. Le Fort fractures include all except: (Manipal 10; WB 09; TN 09; Bihar 10; NIMHANS 14)
+    A. Maxilla B. Mandible C. Zygoma D. Nasal bones
+    **Answer: B**
+
+126. Depression of consciousness in hypothermia starts when core temp below: (COMEDK 14)
+    A. 35°C B. 34°C C. 33°C D. 32°C
+    **Answer: D**
+
+127. In hypothermia, cause of death: (NEET 14)
+    A. Stroke B. Cardiac arrest C. Pulmonary embolism D. Asphyxia
+    **Answer: B**
+
+128. Color of PM lividity in hypothermic deaths: (NEET 13)
+    A. Purple B. Deep red C. Cherry red D. Bright pink
+    **Answer: D**
+
+129. Paradoxical undressing seen in: (MAHE 06,10; CMC Vellore 10)
+    A. Hyperthermia B. Hypothermia C. Transvestism D. Immersion syndrome
+    **Answer: B**
+
+130. True about frostbite except: (PGI 14)
+    A. Occurs due to extreme cold B. Ice crystals within tissues C. Rewarming not done D. Seen in fingers and toes
+    **Answer: C**
+
+131. Miner's cramps also called: (NEET 13)
+    A. Heat collapse B. Heat cramps C. Sunstroke D. Heat exhaustion
+    **Answer: B**
+
+132. Heatstroke defined as body temperature higher than: (AFMC 12)
+    A. 37°C B. 40°C C. 41°C D. 45°C
+    **Answer: C**
+
+133. Sweating absent in: (DNB 10)
+    A. Heat syncope B. Heat exhaustion C. Heat stroke D. Heat cramps
+    **Answer: C**
+
+134. NOT seen in heat stroke: (Kerala 06)
+    A. Hypovolemic shock B. Rhabdomyolysis C. Pancreatitis D. Cerebral edema
+    **Answer: A**
+
+135. Characteristic of superficial burns except: (TN 06; WB 09)
+    A. Damage no deeper than papillary dermis B. Blisters absent C. Loss of epidermis D. Pinprick not painful
+    **Answer: D**
+
+136. Blister formation in burn classified as: (DNB 09; Bihar 11)
+    A. First degree B. Second degree superficial C. Second degree deep D. Third degree
+    **Answer: B**
+
+137. Burns with waxy, dry skin and little pain indicate: (CMC Ludhiana 11)
+    A. First degree B. Second degree superficial C. Second degree deep D. Third degree
+    **Answer: D**
+
+138. Rule of 9 in burns used to denote: (NEET 14)
+    A. Depth of burns B. TBSA involved C. Severity D. Type
+    **Answer: B**
+
+139. According to rule of 9, perineum burns constitute: (FMGE 09)
+    A. 1% B. 9% C. 18% D. 27%
+    **Answer: A**
+
+140. Burns in children assessed by: (AIIMS 13)
+    A. Rule of nine B. Lund and Browder chart C. Palmer surface method D. Hasse's rule
+    **Answer: B**
+
+141. Head and neck burns in infant constitute: (Kerala 08)
+    A. 9% B. 18% C. 24% D. 36%
+    **Answer: C**
+
+142. A 2-year-old with burns on buttocks, both legs, face and neck – TBSA: (JIPMER 14)
+    A. 27% B. 37% C. 45% D. 55%
+    **Answer: D**
+
+143. In a 6-year-old with burns involving whole head and trunk, TBSA: (JIPMER 09)
+    A. 44% B. 48% C. 55% D. 58%
+    **Answer: C**
+
+144. Percentage of surface area of palm of a burn patient: (FMGE 10; AI 11)
+    A. 1% B. 9% C. 18% D. 27%
+    **Answer: A**
+
+145. Most important aspect of burn management in first 24h: (UPSC 07)
+    A. Fluid resuscitation B. Dressing C. Escharotomy D. Antibiotics
+    **Answer: A**
+
+146. In adults, circulatory collapse occurs after minimum burns of: (NIMHANS 08; TN 11)
+    A. 5% B. 10% C. 15% D. 20%
+    **Answer: D**
+
+147. Best fluid for resuscitation in burns: (FMGE 11; Punjab 12)
+    A. Dextran B. Ringer lactate C. Albumin D. Hartmann's solution
+    **Answer: B**
+
+148. Parkland formula for burns is for: (Maharashtra 09; UP 09; Bihar 12)
+    A. Ringer lactate B. Glucose saline C. Normal saline D. 25% dextrose
+    **Answer: A**
+
+149. 65-year-old 50kg with 80% burns – fluid infused in first 8h (Parkland): (UP 11)
+    A. 200 ml/h B. 500 ml/h C. 1000 ml/h D. 8000 ml/h
+    **Answer: C**
+
+150. Muirs and Barclay's formula is for: (AFMC 11)
+    A. Colloid resuscitation in burns B. Polytrauma fluid resuscitation C. Crystalloid in trauma D. Dextran in burns
+    **Answer: A**
+
+151. NOT an indication for admission in burns ward: (Bihar 10; Maharashtra 11)
+    A. Acid burns B. Inhalational injury C. 5% partial thickness in unmarried female D. 10% deep burns in male
+    **Answer: C**
+
+152. True of pugilistic attitude: (PGI 14)
+    A. Flexion at hip and knee B. Seen in extensive burns C. Seen in rigor mortis D. Seen in antemortem burns only
+    **Answer: A & B**
+
+153. Pugilistic attitude due to: (Delhi 07; FMGE 10)
+    A. Lipolysis B. Protein coagulation C. Carbohydrate coagulation D. Lipogenesis
+    **Answer: B**
+
+154. True about pugilistic attitude: (MP 09; PGI 10)
+    A. Indicates antemortem burns B. Indicates postmortem burns C. Cannot differentiate D. Indicates defense
+    **Answer: C**
+
+155. Feature favoring heat rupture over incised wound: (AI 09)
+    A. Well-defined margins B. Small and multiple wounds C. Nerves and vessels visible in floor D. Seen only over scalp
+    **Answer: C**
+
+156. Feature of ruptured skin caused by excessive heat: (AIIMS 10)
+    A. Irregular margin B. Clear regular margin C. Contused margin D. Abraded margin
+    **Answer: A**
+
+157. True about heat hematoma: (PGI 12)
+    A. Inside brain B. Between skull and dura C. Between skull and pericranium D. Between scalp and pericranium
+    **Answer: B**
+
+158. Appearance of burn hematoma: (DNB 09; Punjab 10)
+    A. Honeycomb-like B. Disc-shaped C. Stellate-shaped D. Smooth and rubbery
+    **Answer: A**
+
+159. Curling ulcer seen in: (UP 04; WB 10; FMGE 13)
+    A. Head injury B. Burn C. Corticosteroids D. TPN
+    **Answer: B**
+
+160. Curling's ulcer in burns seen in: (AIIMS 08)
+    A. Esophagus B. Stomach C. Colon D. Duodenum
+    **Answer: D**
+
+161. Curling's ulcer commonly involves which part of duodenum: (DNB 09; AIIMS 13)
+    A. 1st part B. 2nd part C. 3rd part D. Between 1st and 2nd
+    **Answer: A**
+
+162. Electrocution is rare below: (MP 09)
+    A. 100 V B. 150 V C. 200 V D. 240 V
+    **Answer: A**
+
+163. Most resistant organ to electric current: (UP 12)
+    A. Bone B. Skin C. Blood vessel D. Muscle
+    **Answer: A**
+
+164. High-voltage contact burn is: (UPSC 14)
+    A. Deep partial thickness B. Full thickness C. Superficial D. All
+    **Answer: B**
+
+165. Joule burn seen in: (Bihar 11)
+    A. Blast injuries B. Electrocution C. Firearm wounds D. Lightning
+    **Answer: B**
+
+166. Bone pearls / wax drippings pathognomonic of: (Odisha 11)
+    A. Burns B. Scalds C. Lightning D. Electrocution
+    **Answer: D**
+
+167. Tree-like branching marks on body indicate: (FMGE 10)
+    A. Firearm injury B. Lightning injury C. Bomb blast D. RTA
+    **Answer: B**
+
+168. Lichtenberg flowers seen in: (CMC Vellore 14)
+    A. Thermal burns B. Electrocution C. Vitriolage D. Lightning
+    **Answer: D**
+
+169. Filigree burns occur in: (FMGE 09; NJI 10; JIPMER 11)
+    A. Lightning B. Electrocution C. Vitriolage D. Infanticide
+    **Answer: A**
+
+170. Primary impact injury (1°) most commonly seen in: (AIIMS 07; AI 10)
+    A. Head B. Thorax C. Legs D. Abdomen
+    **Answer: C**
+
+171. Bumper fracture is: (Rohtak 06)
+    A. Primary impact injury B. Secondary impact injury C. Tertiary impact injury D. Secondary injury
+    **Answer: A**
+
+172. Extensive abrasions on pedestrian body cause: (AI 09)
+    A. Primary impact injury B. Secondary impact injury C. Secondary injury D. Tertiary injury
+    **Answer: B**
+
+173. Sparrow foot marks associated with: (Odisha 11; AI 11; NEET 14)
+    A. Motor cyclist's fracture B. Under-running C. Steering wheel impact D. Wind screen impact
+    **Answer: D**
+
+174. Seat belt in sudden deceleration can result in: (CMC Ludhiana 10,13; AIIMS 13; NEET 15)
+    A. Rupture of mesentery B. Liver injury C. Spleen injury D. Vertebral injury
+    **Answer: A**
+
+175. Arun hit by car, thrown, hit divider, fell, then run over. Head injury classified as: (JIPMER 14)
+    A. Primary B. Primary impact C. Secondary D. Secondary impact
+    **Answer: C**
+
+176. Motor cyclist's fracture is: (WB 09; AIIMS 10)
+    A. Ring fracture B. Comminuted vault fracture C. Skull base divided into two halves D. Gutter fracture
+    **Answer: C**
+
+177. Molotov cocktail is: (Kerala 06; MAHE 06; UP 07; Bihar 11)
+    A. Mixture bomb B. Simple petrol bomb thrown by hand C. Cocktail named after Molotov D. Tank type
+    **Answer: B**
+
+178. Primary injury is: (NEET 14)
+    A. Due to flying debris B. Due to blast wind C. Due to blast wave D. Due to complication
+    **Answer: C**
+
+179. Organs first injured in air blast: (NEET 13)
+    A. Ear, lung B. Kidney, spleen C. Pancreas, duodenum D. Liver, muscle
+    **Answer: A**
+
+180. In air blast, most common organ affected: (CMC Vellore 07; AI 09; AIIMS 10; NEET 14)
+    A. Eardrum B. Stomach C. Lungs D. Liver
+    **Answer: A**
+
+181. Most common site of injury in underwater blast: (NEET 15)
+    A. Tympanic membrane B. GIT C. Liver D. Lung
+    **Answer: B**
+
+182. Marshall's triad seen in: (NEET 13)
+    A. Explosive injury B. Gunshot injury C. Drowning D. Lightning
+    **Answer: A**
+
+183. Rahul had a fight and assaulted neighbor, no injury still can be booked under: (AIIMS 12)
+    **Answer: Assault (Sec. 351 IPC)**
+
+184. Acceptable or justifiable homicides all except: (NIMHANS 14)
+    A. Judicial execution B. Self-defense C. Preventing rape D. Taking revenge
+    **Answer: D**
+
+185. Punishment for culpable homicide not amounting to murder is under: (TN 11)
+    A. Sec.299 IPC B. Sec.300 IPC C. Sec.302 IPC D. Sec.304 IPC
+    **Answer: D**
+
+186. Section for attempt to murder with imprisonment for 10 years: (NEET 14)
+    A. Sec.301 IPC B. Sec.300 IPC C. Sec.302 IPC D. Sec.307 IPC
+    **Answer: D**
+
+187. IPC section dealing with dowry death (BNS 80): (Punjab 08; DNB 10; Odisha 11; NEET 14,15)
+    A. 307 IPC B. 304 IPC C. 304-A IPC D. 304-B IPC
+    **Answer: D**
+
+188. As per Dowry Prohibition Act 1961, penalty in case of death: (NEET 14)
+    A. <5 years B. Up to 7 years C. 7 years to life D. Up to 10 years
+    **Answer: C**
+
+189. If a woman is assaulted by her husband then charged under: (FMGE 11)
+    A. Sec.498-A IPC B. Sec.304-A IPC C. Sec.304-B IPC D. Sec.504 IPC
+    **Answer: A**
+
+190. Hurt defined under section: (NEET 14)
+    A. 319 IPC B. 320 IPC C. 321 IPC D. 323 IPC
+    **Answer: A**
+
+191. Sec.320 IPC is for: (NEET 14)
+    A. Defines hurt B. Defines grievous hurt C. Attempt to murder D. Defines murder
+    **Answer: B**
+
+192. IPC section for grievous injury: (Kerala 06,08; Punjab 09; NEET 13)
+    A. Sec.420 B. Sec.320 C. Sec.299 D. Sec.351
+    **Answer: B**
+
+193. True about reactionary hemorrhage following surgery: (UP 10; MP 10; Odisha 11)
+    A. Within 48 h B. Within 36 h C. Within 24 h D. During surgery
+    **Answer: C**
+
+194. Secondary hemorrhage seen: (AP 06; FMGE 10; Bihar 10; Jharkhand 11; AI 11)
+    A. During anesthesia B. 6 h after surgery C. 24 h after surgery D. 7-14 days after surgery
+    **Answer: D**
+
+195. Neurogenic shock characterized by: (BHU 11; AIIMS 13)
+    A. Cool moist skin B. Increased CO C. Decreased PVR D. Bradycardia and hypotension
+    **Answer: C**
+
+196. Feature of neurogenic shock: (AIIMS 14)
+    A. Tachycardia + hypotension B. Tachycardia + hypertension C. Bradycardia + hypertension D. Bradycardia + hypotension
+    **Answer: D**
+
+197. Not a manifestation of anaphylactic shock: (CMC Ludhiana 11)
+    A. Hypotension B. Vasoconstriction C. Bronchospasm D. Laryngeal edema
+    **Answer: B**
+
+198. All true of septic shock except: (MP 11; Bihar 12; KCET 13)
+    A. Tachycardia B. Warm skin C. Decreased CO D. Caused by gram-positive bacteria
+    **Answer: D**
+
+199. Crepitus over skin of swollen limb suggests: (KCET 13)
+    A. Air embolism B. Gas gangrene C. Fat embolism D. DIC
+    **Answer: B**
+
+200. Venous thrombi embolize most commonly to: (AP 09)
+    A. Heart B. Lung C. Brain D. Kidneys
+    **Answer: B**
+
+201. Risk of thromboembolism highest with: (DNB 08)
+    A. Deep femoral vein thrombus B. Anterior tibial vein C. Posterior tibial vein D. Popliteal vein
+    **Answer: A**
+
+202. Commonest cause of pulmonary embolism: (CMC Vellore 09)
+    A. Fat B. Amniotic fluid C. Thrombus D. Air
+    **Answer: C**
+
+203. Grievous injury includes all except: (PGI 10; MAHE 06; CMC Vellore 10; Bihar 12)
+    A. Emasculation B. Loss of 15 days work C. Permanent disfigurement D. Fracture of bones
+    **Answer: B**
+
+204. False about grievous hurt: (AIIMS 07)
+    A. Loss of one kidney B. Loss of hearing in one ear C. Loss of vision of one eye D. Abrasion on face
+    **Answer: D**
+
+205. Corneal opacity followed by corneoplasty with restored vision is: (TN 06; NEET 14)
+    A. Grievous B. Simple C. Dangerous D. Serious
+    **Answer: A**
+
+206. Teacher slaps student resulting in permanent deafness; injury is: (AIIMS 09)
+    A. Simple B. Grievous C. Dangerous D. Not illegal
+    **Answer: B**
+
+207. Injury under Sec.320 IPC: (Bihar 10)
+    A. Abrasion over face B. Nasal bone fracture C. Epistaxis D. Lacerated wound over scalp
+    **Answer: B**
+
+208. Fracture of teeth with bruises around mouth is: (AIIMS 12)
+    A. Simple injury B. Grievous injury C. Dangerous D. Assault
+    **Answer: B**
+
+209. Wrong match: (AIIMS 11)
+    A. Sec.300 IPC - Murder B. Sec.304 IPC - Culpable homicide not amounting to murder C. Sec.306 IPC - Attempt to commit suicide D. Sec.307 IPC - Attempt to murder
+    **Answer: C**
+
+210. All sections related to grievous hurt except: (NEET 14)
+    A. Sec.320 B. Sec.331 C. Sec.326 D. Sec.319
+    **Answer: D**
+
+211. Minimum acute blood loss to cause shock: (CMC Ludhiana 13)
+    A. 10-12% B. 15-20% C. 24-25% D. 25-30%
+    **Answer: D**
+
+212. Blood loss when clot is fist-sized: (Rohtak 06; UP 10)
+    A. 100-200 ml B. 250-300 ml C. 300-400 ml D. 400-500 ml
+    **Answer: D**
+
+213. Fat embolism commonly occurs in: (UP 04)
+    A. Scurvy B. Fracture of long bones C. Paget's disease D. Psoriasis
+    **Answer: B**
+
+214. Post-operative femur fracture with dyspnea, chest pain, hemoptysis on day 4 cause: (UPSC 11; KCET 12)
+    **Answer: Fat embolism**
+
+215. Fats are stained by: (CMC Vellore 14)
+    A. H&E B. Oil Red O C. PAS D. GMS silver
+    **Answer: B**
+
+216. Sudden death after maxillary sinus irrigation due to: (DNB 10)
+    A. Fat embolism B. Pulmonary embolism C. Air embolism D. Maxillary artery thrombosis
+    **Answer: C**
+
+217. Long-bone fracture with breathlessness and petechial rash – diagnosis: (AIIMS 08)
+    **Answer: Fat embolism**
+
+218. Age of bruise based on color (image): 7-12 days old (C)
+    **Answer: C**
+
+219. Diffuse axonal injury – finding: Retraction bulbs at 12 hours (D)
+    **Answer: D**
+
+220. Railway suicide skull finding: Mosaic fracture (B)
+    **Answer: B**
+
+221. Skull with multiple gunshots – sequence: 1→2→3 (Puppe's rule) (D)
+    **Answer: D**
+
+222. Pincer contusions seen in: (D)
+    A. Skin B. Brain C. Liver D. Lungs
+    **Answer: D**
+
+223. Sparrow footmarks on face likely due to: (A)
+    A. Shattered windshield glass B. Shotgun C. Vitriolage D. Fall from ladder
+    **Answer: A**
+
+224. Pedestrian hit, hurled on windshield, then head strikes road – head injury: (C)
+    A. Primary impact B. Secondary impact C. Tertiary impact D. Quaternary impact
+    **Answer: C**
+
+225. True statement about car safety: (A)
+    A. Rear seats more dangerous than front B. Airbags not associated with injuries C. Thoracic injuries more common in front passenger than driver D. Tail-gating refers to head-on collision
+    **Answer: A**
+
+226. Punchdrunk syndrome autopsy finding: (D)
+    A. Cervical spine injury B. SAH C. Concussion D. Subdural hemorrhage
+    **Answer: D**
+
+227. False about contrecoup injuries: (B)
+    A. Skull fracture may not occur B. Fall on frontal region produces occipital contrecoup C. Fall on temporal produces contrecoup in ipsilateral lobe D. Most common site frontal and temporal lobes
+    **Answer: B**
+
+228. Diffuse axonal injury – most reliable indicator: (B)
+    A. Retraction globes B. Amyloid precursor protein C. Neurofibrillary tangles D. No reliable indicator
+    **Answer: B**
+
+229. Fatal ring fracture after feet landing: (A)
+    A. Ring fracture B. Hinge fracture C. Spider web fracture D. Pond fracture
+    **Answer: A**
+
+230. Lucid interval then unconscious after fall: (C)
+    A. SDH B. Cerebral contusion C. Extradural hemorrhage D. SAH
+    **Answer: C**
+
+231. Heat hematoma: carboxyhemoglobin same as peripheral blood (C)
+    **Answer: C**
+
+232. Paradoxical undressing in hypothermia: mechanism peripheral vasodilation (D)
+    **Answer: D**
+
+233. Hypothermia defined as temperature below: (D)
+    A. 30°C B. 32°C C. 34°C D. 35°C
+    **Answer: D**
+
+234. Burns mortality risk scoring: (C)
+    A. Grant score B. Flint score C. Baux score D. Rockall score
+    **Answer: C**
+
+235. Minimum temperature for burn: (C)
+    A. 42°C for 5-6h B. 40°C for 3h C. 44°C for 5-6h D. 44°C for 3h
+    **Answer: C**
+
+236. Three-stage classification of burns by: (B)
+    A. Dupuytren B. Wilson C. Heister D. Rockall
+    **Answer: B**
+
+237. Reliable indicator that victim alive during fire: (C)
+    A. Vital reaction B. Redness of skin C. Elevated carboxyhemoglobin D. Blistering
+    **Answer: C**
+
+238. False about electrical injury: (D)
+    A. Most common death VF B. Most dangerous path right hand to opposite feet C. Crocodile burns feature of high voltage D. Direct current more damaging than AC
+    **Answer: D**
+
+239. Study of processes in firearm: (B)
+    A. Forensic ballistics B. Internal ballistics C. External ballistics D. Terminal ballistics
+    **Answer: B**
+
+240. Not found in shotgun ammunition: (B)
+    A. Wads B. Metal cylinder C. Percussion detonator D. Primer
+    **Answer: B**
+
+241. Constituents of smokeless gunpowder: (D)
+    1. Nitrocellulose 2. Potassium nitrate 3. Nitroglycerine 4. Nitroguanidine 5. Sulphur
+    A. 1,2,5 B. 2,4,5 C. 2,3,4 D. 1,3,4
+    **Answer: D**
+
+242. Not an injury due to cold: (3)
+    1. Hypothermia 2. Frost bite 3. Scalds 4. Trench foot
+    **Answer: 3**
+
+243. Correct pair (age of abrasion: finding): (3)
+    1. <24 hr: Dark brown scab 2. 2-3 days: Dark brown scab 3. 4-5 days: Dark brown scab 4. 6-7 days: Reddish brown scab
+    **Answer: 3**
+
+244. Wrong pair: (3)
+    1. Six penny bruises: sexual assault 2. Battle's sign: middle cranial fossa fracture 3. Cullen's sign: anterior tibial fracture bleeding 4. Grey-Turner's sign: retroperitoneal bleed
+    **Answer: 3**
+
+245. Single edged knife cannot give: (2)
+    1. Tear drop shaped 2. Spindle shaped 3. Wedge shaped 4. Fish tailing
+    **Answer: 2**
+
+246. Type of stab wound (image): (3) Fish tailing
+    **Answer: 3**
+
+247. Identify (image): (3) Hesitation cuts
+    **Answer: 3**
+
+248. Identify sign (image): (1) Grey-Turner's
+    **Answer: 1**
+
+249. Type of abrasion (image): (1) Graze abrasion
+    **Answer: 1**
+
+250. Picture described by all except: (4) Overkill
+    **Answer: 4**
+
+251. Boat shaped stab wound produced by: (2)
+    1. Screwdriver 2. Rubber tapper's knife 3. Double edged knife 4. Sickle
+    **Answer: 2**
+
+252. Not a feature of antemortem contusion: (3)
+    1. Swelling 2. Vital reaction 3. Demarcated margins 4. Coagulation of blood
+    **Answer: 3**
+
+253. Object producing wound (irregular, tiny side cuts, serrated edges): (2) Glass
+    **Answer: 2**
+
+254. Defence wounds present when person: (4)
+    1. Unconscious 2. Sleeping 3. Attacked from back 4. Sexually assaulted
+    **Answer: 4**
+
+255. Cleavage lines also called: (1)
+    1. Langer's lines 2. Cullen's lines 3. Turner's lines 4. Grey's lines
+    **Answer: 1**
+
+---
+
+## Chapter 7: Sexual Jurisprudence
+
+1. Conceptus 2 cm, 10 g – probable age: (AIIMS 12)
+   A. 2 weeks B. 4 weeks C. 5 weeks D. 6 weeks
+   **Answer: D**
+
+2. In 3-month fetus, characteristic feature: (NEET 13)
+   A. Nails visible B. Limbs well formed C. Anus dark spot D. Meconium in duodenum
+   **Answer: A**
+
+3. Lanugo hair first appears at: (UP 07)
+   A. 2nd month B. 3rd month C. 4th month D. 5th month
+   **Answer: C**
+
+4. Order of fetal development events: (UPSC 08; COMEDK 15)
+   A. 1,3,2,4 B. 1,3,4,2 C. 3,1,4,2 D. 3,1,2,4
+   **Answer: D**
+
+5. Center of ossification for fetal viability: (COMEDK 07; Punjab 08)
+   A. Head of femur B. Distal end of femur C. Talus D. Calcaneum
+   **Answer: C**
+
+6. Testes completely descend in scrotum by: (DNB 09)
+   A. End of 7th month B. End of 8th month C. End of 9th month D. After birth
+   **Answer: C**
+
+7. Center of ossification of femur appears at: (PGI 07)
+   A. 36 weeks B. 38 weeks C. 40 weeks D. 28 weeks
+   **Answer: A**
+
+8. Rule of Hasse used to determine: (DNB 09; Punjab 10; NEET 13)
+   A. Age of fetus B. Height of adult C. Race D. Identification
+   **Answer: A**
+
+9. Birth length doubles at: (UPSC 07; FMGE 10,11)
+   A. 1 year B. 2 years C. 3 years D. 4 years
+   **Answer: D**
+
+10. Birth weight triples at: (Odisha 11)
+    A. 9 months B. 1 year C. 2 years D. 2.5 years
+    **Answer: B**
+
+11. Not true about cephalhematoma: (AP 08; Kerala 08)
+    A. Not limited by sutures B. Develops 12-24h after birth C. Subsides 2-3 months D. Caused by periosteal injury
+    **Answer: A**
+
+12. True about cephalhematoma: (UPSC 08,14)
+    A. 1 and 4 B. 1 and 2 only C. 1,2 and 3 D. 2,3 and 4
+    **Answer: D**
+
+13. Caput succedaneum is: (Karnataka 07)
+    A. Blood under pericranium B. Sero-sanguineous fluid in scalp C. Edema due to forceps grip D. Varicose veins
+    **Answer: B**
+
+14. Characteristics of caput except: (AFMC 12)
+    A. Present at birth B. Does not cause jaundice C. Limited to individual bone D. Disappears within hours
+    **Answer: C**
+
+15. Test based on lung weight for live birth: (KCET 12)
+    A. Hydrostatic test B. Static test C. Wredin's test D. Breslau's second life test
+    **Answer: B**
+
+16. All used to detect live birth except: (NEET 14)
+    A. Ploucquet's test B. Fodere's test C. Gettler's test D. Raygat's test
+    **Answer: C**
+
+17. Test comparing lung weight to body weight: (PGI 08,09)
+    A. Fodere's test B. Cavett test C. Ploucquet's test D. Precipitin test
+    **Answer: C**
+
+18. Raygat's test based on: (NEET 14)
+    A. Weight of lung B. Specific gravity of lung C. Consistency of lung D. Volume of lungs
+    **Answer: B**
+
+19. False negative hydrostatic test in live born: (AI 08)
+    A. Atelectasis B. Meconium aspiration C. Emphysema D. Congenital heart disease
+    **Answer: A**
+
+20. Wreden's test to demonstrate: (MP 09; NEET 15)
+    A. Live birth B. Insanity C. Putrefaction D. Assault
+    **Answer: A**
+
+21. Breslau's second life test uses: (MAHE 09; AIIMS 12)
+    A. Liver B. Stomach C. Ear D. Lungs
+    **Answer: B**
+
+22. Aseptic autolysis seen in: (AP 08)
+    A. Adipocere B. Maceration C. Putrefaction D. Mummification
+    **Answer: B**
+
+23. Dead-born fetus does not show: (Kerala 11)
+    A. Rigor mortis at birth B. Adipocere C. Maceration D. Mummification
+    **Answer: B**
+
+24. Spalding sign seen in: (AI 07; BHU 09; AFMC 11; CMC Vellore 14)
+    A. Maceration B. Mummification C. Putrefaction D. Saponification
+    **Answer: A**
+
+25. Spalding sign seen in: (AI 06; CMC Ludhiana 10)
+    A. Abortion B. Stillbirth C. Intrauterine death D. Infanticide
+    **Answer: C**
+
+26. Gas shadow in heart and great vessels in intrauterine death called: (KCET 12)
+    A. Chadwick's sign B. Osiander's sign C. Robert's sign D. Spalding sign
+    **Answer: C**
+
+27. All true about stillbirth except: (Maharashtra 08,09,11)
+    A. Fetus alive in utero B. Birth weight <1000 g C. Diaphragm at 4-5th rib level D. Hydrostatic test negative
+    **Answer: B**
+
+28. Concealment of birth punishable under: (NEET 13)
+    A. Sec.320 IPC B. Sec.312 IPC C. Sec.317 IPC D. Sec.318 IPC
+    **Answer: D**
+
+29. Not a sign of accidental injury in a child: (CMC Vellore 10)
+    A. Subdural hematoma B. Abrasion on knees C. Swelling in occiput D. Bleeding from nose
+    **Answer: A**
+
+30. Most characteristic injury in violent shaking: (AI 11)
+    A. Long bone fracture B. Ruptured spleen C. Subdural hematoma D. Skull fracture
+    **Answer: C**
+
+31. Munchausen syndrome by proxy is: (NIMHANS 10)
+    A. Factitious disorder B. Malingering C. Hysteria D. Conversion disorder
+    **Answer: A**
+
+32. Munchausen by proxy includes all except: (Maharashtra 11)
+    A. Admission of abuse by parents B. Illness does not suggest particular disease C. Child becomes ill in presence of caregiver D. Lab and X-ray negative
+    **Answer: A**
+
+33. Abortion defined as expulsion of fetus: (TN 06)
+    A. Before viability B. Before 28 weeks C. Before full-term D. None
+    **Answer: C**
+
+34. Most common cause of first trimester abortion: (UP 09; JIPMER 10; Kerala 11; AFMC 12; CMC Vellore 14; COMEDK 15)
+    A. Chromosomal defect B. Endocrine disturbances C. Uterine anomaly D. Infections
+    **Answer: A**
+
+35. Most common cause of second trimester abortion: (CMC Vellore 14)
+    A. Chromosomal defect B. Cervical incompetence C. Uterine anomaly D. Infections
+    **Answer: B**
+
+36. Mechanism of criminal abortion: (AIIMS 06)
+    A. Infection and inflammation of endometrium B. Uterine contraction C. Placental separation D. Stimulation of nerve
+    **Answer: A**
+
+37. Sections 312 to 316 deal with: (NEET 14)
+    A. Kidnapping B. Abetment to suicide C. Grievous hurt D. Causing miscarriage
+    **Answer: D**
+
+38. Miscarriage punishable under: (AIIMS 13; NEET 14)
+    A. Sec.320 IPC B. Sec.311 IPC C. Sec.312 IPC D. Sec.314 IPC
+    **Answer: C**
+
+39. Borax is: (NEET 13)
+    A. GI irritant B. Genitourinary irritant C. Ecobilic D. Emmenagogue
+    **Answer: D**
+
+40. Mechanism of abortion stick: (AIIMS 06; AI 08)
+    A. Necrosis of endometrium B. Uterine contraction C. Stimulation of uterine nerves D. Uterine relaxation
+    **Answer: B**
+
+41. Lendrum's stain done for: (NEET 13)
+    A. Air embolism B. Fat embolism C. Amniotic fluid embolism D. Pulmonary embolism
+    **Answer: C**
+
+42. Quod hanc means: (NEET 14)
+    A. Medically impotent B. Legally impotent C. Impotent towards all women D. Impotent towards a particular woman
+    **Answer: D**
+
+43. Frigidity is: (NEET 13)
+    A. Inability to initiate sexual arousal in female B. Inability in male C. Premature ejaculation D. Inability to conceive with particular male
+    **Answer: A**
+
+44. Infertility defined as: (UP 11; KCET 13)
+    A. Not conceiving after 3 years of marriage B. After 2 years of unprotected intercourse C. After 1 year of unprotected intercourse D. After 1 year of marriage
+    **Answer: C**
+
+45. Most common cause of erectile dysfunction: (FMGE 10)
+    A. Psychological B. Drug induced C. Alcohol D. Diabetes
+    **Answer: A**
+
+46. Impotent female is having: (NEET 14)
+    A. Gonadal dysgenesis B. Hermaphrodite C. Vaginitis D. Absence of ovary
+    **Answer: C**
+
+47. Test to differentiate psychological vs organic ED: (NEET 13)
+    A. Pharmacologically induced erection B. Nocturnal penile tumescence C. Sildenafil induced D. Squeeze technique
+    **Answer: B**
+
+48. Barrier method is: (JIPMER 13)
+    A. OCP B. IUD C. Spermicidal D. Tubectomy
+    **Answer: C**
+
+49. Homologous sperm in IVF: (AFMC 12)
+    A. Donor and wife B. Husband and wife C. Husband and surrogate D. Donor and surrogate
+    **Answer: B**
+
+50. All steps of GIFT except: (NIMHANS 11)
+    A. Ovulation stimulation B. Oocyte retrieval C. Fertilization in lab D. Transfer of unfertilized egg into fallopian tube
+    **Answer: C**
+
+51. Definitive finding in deflorate woman: (Maharashtra 10)
+    A. Pigmented labia minora B. Roomy vagina C. Large clitoris D. Torn hymen
+    **Answer: D**
+
+52. First symptom of pregnancy is: (Kerala 07)
+    A. Tingling breasts B. Amenorrhea C. Morning sickness D. Quickening
+    **Answer: B**
+
+53. Quickening appears at about: (PGI 09)
+    A. 6 weeks B. 8-10 weeks C. 16-20 weeks D. 20-24 weeks
+    **Answer: C**
+
+54. Bluish discolouration of vagina in pregnancy: (KCET 12)
+    A. Chadwick's sign B. Goodell's sign C. Hegar's sign D. Palmer's sign
+    **Answer: A**
+
+55. Wrong statement about pregnancy: (UP 08)
+    A. Amenorrhea earliest symptom B. Fetal heart sounds 18-20 weeks C. Fetal parts palpable at 20 weeks D. At 40 weeks fundus at xiphisternum
+    **Answer: D**
+
+56. Softening of uterine isthmus in early pregnancy: (UP 07; MAHE 11)
+    A. Hegar's sign B. Braxton Hicks sign C. Goodell's sign D. Osiander's sign
+    **Answer: A**
+
+57. Goodell's sign means: (JIPMER 07)
+    A. Pulsation in lateral fornix B. Bluish color change C. Softening of cervix from below upward D. Fingers approximated
+    **Answer: C**
+
+58. True about Braxton-Hicks contractions except: (Maharashtra 09)
+    A. Felt at 4th month B. Painful C. Lasts 1 minute D. Present even when fetus dead
+    **Answer: B**
+
+59. External ballottement possible after: (Manipal 10)
+    A. 6 weeks B. 16 weeks C. 20 weeks D. 24 weeks
+    **Answer: C**
+
+60. Maternal hCG maximum at: (UPSC 07,14)
+    A. 8-10 weeks B. 12-14 weeks C. 16-18 weeks D. After 20 weeks
+    **Answer: A**
+
+61. Gravindex test can detect pregnancy in: (MAHE 12)
+    A. 2 weeks B. 4 weeks C. 8 weeks D. 12 weeks
+    **Answer: A**
+
+62. Definite diagnosis of pregnancy include all except: (Kerala 09,11)
+    A. Fetal heart sound B. Palpation of fetal parts C. Fetal skeleton on X-ray D. hCG in blood
+    **Answer: D**
+
+63. Fetal parts palpable earliest by: (Maharashtra 08)
+    A. 16 weeks B. 18 weeks C. 20 weeks D. 28 weeks
+    **Answer: C**
+
+64. Gestational sac seen on USG earliest by: (Gujarat 07)
+    A. 3rd week B. 4th week C. 5th week D. 8th week
+    **Answer: C**
+
+65. Transvaginal USG detects fetal cardiac activity at: (DNB 10; MAHE 12)
+    A. 5 weeks B. 6 weeks C. 7 weeks D. 8 weeks
+    **Answer: A**
+
+66. Most accurate diagnosis of pregnancy at 6 weeks: (AIIMS 13; JIPMER 14)
+    A. Hegar's sign B. X-ray C. Palpation of fetal parts D. Fetal heart by USG
+    **Answer: D**
+
+67. Fetomaternal transfusion detected by: (UPSC 08; TN 08; AIIMS 10)
+    A. Direct Coomb's test B. Betke-Kleihauer test C. Electrophoresis D. Indirect Coomb's test
+    **Answer: B**
+
+68. NOT a sign of early pregnancy: (UPSC 07)
+    A. Goodell's sign B. Hegar's sign C. Cullen's sign D. Palmer's sign
+    **Answer: C**
+
+69. Twin pregnancy due to two different men: (NEET 14)
+    A. Superfetation B. Superfecundation C. Both D. Not realistic
+    **Answer: B**
+
+70. True about fraternal twins: (UP 11)
+    A. Dizygotic B. Single egg C. Fertilized at different times D. Unrelated
+    **Answer: A**
+
+71. True about suppositious child: (PGI 07,08; MAHE 11)
+    A. Born after father dies B. Artificial insemination C. Woman falsely claims child as her own D. Born out of wedlock
+    **Answer: C**
+
+72. Posthumous child is one who: (KCET 12)
+    A. Does not belong to claiming woman B. Abandoned C. Born after death of father D. Illegitimate
+    **Answer: C**
+
+73. Atavism is inheritance of features of: (Kerala 11)
+    A. Father B. Mother C. Grandfather D. Uncle
+    **Answer: C**
+
+74. Immediately after delivery, uterus at level of: (MP 07; UPSC 14)
+    A. Midway between umbilicus and symphysis B. At umbilicus C. Midway xiphisternum-umbilicus D. In true pelvis
+    **Answer: A**
+
+75. Rate of involution of uterus: (FMGE 09,11)
+    A. 1 cm/day B. 1.25 cm/day C. 2.25 cm/day D. 2.5 cm/day
+    **Answer: A**
+
+76. Uterus becomes pelvic organ after: (UPSC 07; MAHE 11)
+    A. 2 weeks B. 4 weeks C. 6 weeks D. 8 weeks
+    **Answer: A**
+
+77. Order of lochia: (AIIMS 13)
+    A. Serosa→Rubra→Alba B. Rubra→Serosa→Alba C. Alba→Rubra→Serosa D. Rubra→Alba→Serosa
+    **Answer: B**
+
+78. Shape of nulliparous cervix: (AI 07)
+    A. Conical B. Circular C. Longitudinal D. Cylindrical
+    **Answer: A**
+
+79. Divorce can be given if there is: (PGI 14)
+    A. Impotence B. Sterility C. Pre-existing mental illness D. Premature ejaculation
+    **Answer: A & C**
+
+80. Fecundation ab extra means: (KCET 13)
+    A. Child resembling grandparents B. Birth after father's death C. Insemination without vaginal penetration D. Incest
+    **Answer: C**
+
+81. Rape defined under: (TN 09; FMGE 10; NEET 14) – BNS Sec.63
+    A. Sec.320 IPC B. Sec.375 IPC C. Sec.376 IPC D. Sec.351 IPC
+    **Answer: B**
+
+82. Consent considered rape if age < : (PGI 10)
+    A. 16 years B. 18 years C. 21 years D. 25 years
+    **Answer: B**
+
+83. A 24-year-old man marries 14-year-old girl. Sex is rape because: (JIPMER 08)
+    A. No consent from wife B. Wife age <18 years C. Wife age <15 years D. Wife age <17 years
+    **Answer: C**
+
+84. All true about gang rape except: (Bihar 11)
+    A. By one person B. By two persons C. By three persons D. By many persons
+    **Answer: A**
+
+85. Statutory rape is: (TN 10)
+    A. Rape of insane woman B. Rape of another's wife C. Rape in police custody D. Rape of girl <18 years
+    **Answer: D**
+
+86. Punishment for rape under which section: (TN 09; FMGE 10; AI 10; Kerala 11)
+    A. Sec.320 B. Sec.375 C. Sec.376 D. Sec.351
+    **Answer: C**
+
+87. Punishment for rape under Sec.376(1) IPC: (Maharashtra 09)
+    A. 3 years + fine B. 5 years + fine C. 7 years + fine D. Death + fine
+    **Answer: C**
+
+88. Husband with wife during separation without consent – section: (NEET 13; PGI 14)
+    A. Sec.376-A IPC B. Sec.376-B IPC C. Sec.376-C IPC D. Sec.376-D IPC
+    **Answer: B**
+
+89. Punishment for sexual intercourse not amounting to rape by hospital attendant: (Punjab 10)
+    A. Sec.376-A B. Sec.376-B C. Sec.376-C D. Sec.376-D
+    **Answer: C**
+
+90. Disclosure of name of rape victim punishable under: (AI 12; AIIMS 13)
+    A. Sec.304-A B. Sec.354 C. Sec.376 D. Sec.228-A
+    **Answer: D**
+
+91. 12-year-old with sexual abuse, genital bleeding, pelvic fracture – correct sequence: (AIIMS 14)
+    A. Internal iliac ligation → BT → inform police → MLR B. BT → internal iliac ligation → inform police → MLR C. BT → MLR → internal iliac ligation → inform police D. Inform police → MLR → BT → internal iliac ligation
+    **Answer: C**
+
+92. Instrument to document tear of hymen in rape victim: (AI 12; NEET 15)
+    A. Vaginal speculum B. Glaister-Keen rod C. Cylinder rod D. Hegar's rod
+    **Answer: B**
+
+93. Position of rupture of hymen in virgin after rape: (PGI 09; AP 09)
+    A. 3 o'clock B. 5 o'clock C. 11 o'clock D. 7 o'clock
+    **Answer: D**
+
+94. Most common position of hymenal rupture in virgin: (NEET 13,14)
+    A. Anterior B. Anterolateral C. Posterolateral D. Posterior
+    **Answer: C**
+
+95. Exchange of trace material on contact: (PGI 08)
+    A. Galton exchange B. Locard exchange principle C. Bertillon system D. Hasse rule
+    **Answer: B**
+
+96. Motile spermatozoa in wet mount indicate intercourse within: (Karnataka 09; UP 09; MAHE 11)
+    A. 6 hours B. 12 hours C. 24 hours D. 48 hours
+    **Answer: B**
+
+97. In sexual assault of child, hymen usually not ruptured because: (NEET 13)
+    A. Deep seated B. Underdeveloped C. Too tough D. Distensible
+    **Answer: D**
+
+98. NOT a feature of PTSD: (AI 08; JIPMER 13; NIMHANS 14)
+    A. Hyperarousal B. Emotional numbing C. Flashbacks D. Hallucinations
+    **Answer: D**
+
+99. Test for vaginal cells in rape investigation: (AI 08)
+    A. Lugol's iodine test B. Acro-reaction test C. Precipitin test D. Barberio's test
+    **Answer: A**
+
+100. Incest is: (UP 09; NEET 14)
+    A. Intercourse with blood relation B. Intercourse with children C. Intercourse with friends D. Intercourse with married woman
+    **Answer: A**
+
+101. Intercourse with close blood relative called: (NEET 14)
+    A. Adultery B. Incest C. Bestiality D. Tribadism
+    **Answer: B**
+
+102. True about incest: (Karnataka 11)
+    A. Punishable under Sec.294 IPC B. Punishable under Sec.377 IPC C. Punishable under Sec.304-A D. Not punishable in India
+    **Answer: D**
+
+103. Not punishable under Indian law: (TN 10)
+    A. Incest B. Adultery C. Rape D. Indecent assault
+    **Answer: A**
+
+104. Sec.377 IPC dealt with: (AIIMS 09)
+    A. Rape B. Adultery C. Sadism D. Sodomy
+    **Answer: D**
+
+105. Sodomy was punishable under: (NEET 14)
+    A. Sec.354 IPC B. Sec.375 IPC C. Sec.377 IPC D. Sec.378 IPC
+    **Answer: C**
+
+106. Buggery is: (Maharashtra 10)
+    A. Anal intercourse man-woman B. Anal intercourse man-animal C. Sex between two women D. Passive victim of anal intercourse
+    **Answer: A**
+
+107. Catamite is: (AP 08)
+    A. Any passive victim of sodomy B. Young passive victim of sodomy C. Elderly passive victim D. Female passive victim
+    **Answer: B**
+
+108. Passive partner in young boy and man relationship: (NEET 15)
+    A. Catamite B. Dyke C. Pederast D. Sodomast
+    **Answer: A**
+
+109. Tyre sign seen in: (COMEDK 14)
+    A. Bite mark B. Anal abuse C. Buccal coitus D. Vulvovaginal abuse
+    **Answer: B**
+
+110. Lateral traction test used for: (AIIMS 13)
+    A. Habitual passive agent of sodomy B. Active agent C. Non-habitual passive D. Rape accused
+    **Answer: A**
+
+111. Tribadism is: (AP 06)
+    A. Man-man anal sex B. Woman-woman sex C. Man-woman anal sex D. Woman-animal sex
+    **Answer: B**
+
+112. In tribadism, active partner known as: (AIIMS 12; COMEDK 14)
+    A. Bugger B. Butch C. Catamite D. Femme
+    **Answer: B**
+
+113. Lesbianism also called: (TN 06)
+    A. Tribadism B. Eonism C. Sodomy D. Onanism
+    **Answer: A**
+
+114. Irresistible sexual desire in male: (TN 06)
+    A. Nymphomania B. Fetishism C. Satyriasis D. Sadism
+    **Answer: C**
+
+115. Penile buccal coitus is: (AIIMS 08; NEET 14,15)
+    A. Sadism B. Tribadism C. Fellatio D. Cunnilingus
+    **Answer: C**
+
+116. Not a paraphilia: (DNB 10)
+    A. Lesbianism B. Fetishism C. Frotteurism D. Voyeurism
+    **Answer: A**
+
+117. Lust murder is extreme form of: (MP 09)
+    A. Troilism B. Algolagnia C. Masochism D. Frotteurism
+    **Answer: B**
+
+118. Masochism means: (TN 09)
+    A. Sex with dead body B. Sex with articles of opposite sex C. Sexual pleasure by suffering pain D. Self-stimulation
+    **Answer: C**
+
+119. Perversion with pain to self: (TN 09; Maharashtra 11)
+    A. Transvestism B. Fetishism C. Sadism D. Masochism
+    **Answer: D**
+
+120. Sexual asphyxia seen in: (AIIMS 06; NEET 13,15)
+    A. Masochism B. Voyeurism C. Sadism D. Fetishism
+    **Answer: A**
+
+121. Liking to wear clothes of opposite sex: (NEET 13)
+    A. Fetishism B. Masochism C. Transvestism D. Sadism
+    **Answer: C**
+
+122. Voyeurism also known as: (NEET 13)
+    A. Scoptophilia B. Eonism C. Frotteurism D. Onanism
+    **Answer: A**
+
+123. Not true about voyeurism: (C)
+    A. Sec.354-C IPC defines punishment B. Cognizable offence C. Non-bailable offence D. 1-3 years punishment
+    **Answer: C**
+
+124. First offence of stalking: (PGI 14; NEET 15)
+    A. Cognizable and bailable B. Non-cognizable and bailable C. Cognizable and non-bailable D. Non-cognizable and non-bailable
+    **Answer: A**
+
+125. Fetishism is: (COMEDK 08; PGI 12)
+    A. Sexual focus on children B. Sexual focus on genital rubbing C. Pain for pleasure D. Pleasure from inanimate objects
+    **Answer: D**
+
+126. Frotteurism is: (NEET 13)
+    A. Pleasure by witnessing urination B. Gratification by rubbing private parts C. Three people involved D. Watching females undress
+    **Answer: B**
+
+127. Onanism is: (TN 07)
+    A. Natural sexual offence B. Unnatural sexual offence C. Perversion D. Indecent assault
+    **Answer: C**
+
+128. Twins with one not belonging to father – best described as: (B)
+    A. Superfetation B. Superfecundation C. Suppositiious child D. Atavism
+    **Answer: B**
+
+129. Not a risk factor for SIDS: (B)
+    A. Sharing bed B. Sleeping on hard surfaces C. Prone or side sleeping D. Overheating
+    **Answer: B**
+
+130. Under MTP Act 2021, termination for mentally ill or rape victim allowed until: (C)
+    A. 20 weeks B. 22 weeks C. 24 weeks D. 28 weeks
+    **Answer: C**
+
+131. Consent for abortion in autistic woman: (A)
+    A. The woman only B. Her husband only C. Woman & husband D. Woman & family
+    **Answer: A**
+
+132. Nobbing fracture suggests: (A)
+    A. Battered baby syndrome B. Munchausen syndrome C. SIDS D. Hyperabduction injury
+    **Answer: A**
+
+133. Unmarried woman unplanned pregnancy – MTP permissible up to: (D)
+    A. 12 weeks B. 22 weeks C. 24 weeks D. 20 weeks
+    **Answer: D**
+
+134. Steps for 17-year-old refusing examination after sexual assault: (A)
+    1. Start STD/pregnancy treatment 2. Inform police 3. Record refusal 4. Take vaginal samples 5. Start medical examination
+    A.1,2,3 B.2,3,5 C.1,2,5 D.2,3
+    **Answer: A**
+
+135. Aggravated sexual assault under POCSO includes: (A)
+    A. Sexual assault by police officer B. Threatening C. Gang penetrative assault D. All
+    **Answer: A**
+
+136. Least likely seen in battered child: (C)
+    A. Subdural hematoma B. Periosteal shearing C. Multiple injuries at same stage of healing D. Soft tissue swelling
+    **Answer: C**
+
+137. False positive hydrostatic test in fetus: (A)
+    A. Putrefied fetus B. Congenital syphilis C. Atelectasis D. Pneumonia
+    **Answer: A**
+
+138. Section for rape punishment under BNS: (B)
+    A. Section 63 B. Section 64 C. Section 72 D. Section 75
+    **Answer: B**
+
+139. False about separated husband raping wife: (C)
+    A. Minimum punishment 2 years B. Section 67 BNS (376B IPC) C. Non-bailable offence D. Cognizable on complaint of victim
+    **Answer: C**
+
+140. Police constable inducing inmate to consensual sex liable under: (C)
+    A. Section 66 BNS (376A) B. Section 67 BNS (376B) C. Section 68 BNS (376C) D. Section 70(2) BNS (376DA)
+    **Answer: C**
+
+141. Boy dressed as woman for pleasure, no sex change – perversion: (B)
+    A. Transsexualism B. Fetishistic transvestism C. Frotteurism D. Gender dysphoria
+    **Answer: B**
+
+142. Test to identify semen: (C)
+    A. Teichmann test B. Takayama test C. Acid phosphatase test D. Kastle-Meyer test
+    **Answer: C**
+
+143. Minimum age for boy to be charged with rape in India: (D)
+    A. 12 years B. 14 years C. 18 years D. No age limit
+    **Answer: D**
+
+144. Vaginal swab for spermatozoa must be taken within: (A)
+    A. 72 hours B. 36 hours C. 5 days D. 48 hours
+    **Answer: A**
+
+145. Yellow rhombic crystals of spermine picrate – test: (A)
+    A. Barberio test B. Florence test C. Takayama test D. Teichmann test
+    **Answer: A**
+
+146. Funnel-shaped anus indicates: (B)
+    A. Active agent of sodomy B. Habitual passive agent of sodomy C. Non-habitual passive agent D. Person who performs anilingus
+    **Answer: B**
+
+147. Characteristic of live birth not seen in stillbirth: (C)
+    A. Maceration B. Lungs firm non-crepitant C. Air in middle ear D. Negative hydrostatic test
+    **Answer: C**
+
+148. Spalding sign in newborn indicates: (B)
+    A. Live birth B. Intrauterine death C. Birth asphyxia D. Stillbirth due to trauma
+    **Answer: B**
+
+149. Most reliable sign to distinguish live-born from stillborn: (C)
+    A. Meconium-stained skin B. Umbilical cord length C. Air in lungs D. Postmortem lividity
+    **Answer: C**
+
+150. Maceration occurs after intrauterine death within: (C)
+    A. 3-4 hours B. 6-12 hours C. 12-24 hours D. 48-72 hours
+    **Answer: C**
+
+151. Finding suggesting death during delivery: (B)
+    A. Well-developed lungs with crepitations B. Meconium in trachea and bronchi C. Fresh injuries over face D. Air in stomach
+    **Answer: B**
+
+152. Caput succedaneum in dead neonate indicates: (B)
+    A. Intrauterine death B. Death during labor C. Infanticide D. Premature birth
+    **Answer: B**
+
+153. Hasse's rule applied to estimate: (C)
+    A. Time since death B. Stature from bones C. Age of fetus from length D. Gestational age from weight
+    **Answer: C**
+
+154. According to Hasse's rule, age in months after 5 months: (D)
+    A. Crown-rump length ×2 B. Crown-heel length ÷2 C. √(CHL) ×5 D. Crown-heel length ÷5
+    **Answer: D**
+
+155. Fetus with crown-heel length 35 cm – estimated age: (C)
+    A. 5 months B. 6 months C. 7 months D. 8 months
+    **Answer: C**
+
+156. Crown-rump length 25 cm – likely age: (D)
+    A. 4 months B. 5 months C. 6 months D. 8 months
+    **Answer: D**
+
+157. Under BNS Sec.63, rape includes all except: (C)
+    A. Penetration of penis into vagina B. Penetration of any object without consent C. Touching breasts with intent to outrage modesty D. Oral sex without consent
+    **Answer: C**
+
+158. Not considered rape if wife aged 19 years: (A)
+    A. Husband has sex without her consent B. Husband forces anal sex C. Husband forces sex while intoxicated D. None
+    **Answer: A**
+
+159. Two-finger test in rape examination: (C)
+    A. Reliable method B. Recommended by WHO C. Degrading and not permitted D. Used to assess hymen tear
+    **Answer: C**
+
+160. True about adultery under BNS: (C)
+    A. Still criminal offence B. Punishable by imprisonment C. Decriminalized by Supreme Court D. Punishable only if woman complains
+    **Answer: C**
+
+161. False about incest: (A)
+    A. Universally criminalized B. May be consensual C. No separate law in India D. Child incest punishable under POCSO
+    **Answer: A**
+
+162. Most appropriate sample for detecting recent sexual activity: (B, D)
+    A. Blood B. Vaginal swab in females C. Fingernail scrapings D. Semen for DNA in males
+    **Answer: B, D**
+
+163. True about medical examination of accused in rape: (C)
+    A. Requires magistrate's permission B. Consent mandatory C. Can be done by force if necessary D. Only police can examine
+    **Answer: C**
+
+---
+
+## Chapter 8: Forensic Psychiatry
+
+1. False but firm belief about something not a fact: (WB 10; MP 11)
+   A. Illusion B. Delusion C. Hallucination D. Obsession
+   **Answer: B**
+
+2. Delusion is a disorder of: (AI 07; Gujarat 07; MP 11; Bihar 12)
+   A. Thought B. Perception C. Insight D. Cognition
+   **Answer: A**
+
+3. Not a perceptual disorder: (NEET 13)
+   A. Hallucinations B. Illusion C. Delusion D. Delirium
+   **Answer: C**
+
+4. Delusion of grandiosity commonly seen in: (PGI 11)
+   A. Schizophrenia B. Depression C. Mania D. Dementia
+   **Answer: C**
+
+5. Depressive delusion that world ceases to exist: (COMEDK 07; NIMHANS 11)
+   A. Persecutory B. Infidelity C. Nihilistic D. Reference
+   **Answer: C**
+
+6. Syndrome of delusion that patient is loved by another: (COMEDK 15)
+   A. Ekbom's syndrome B. De Clerambault's syndrome C. Querulous paranoia D. Othello syndrome
+   **Answer: B**
+
+7. Erotomania seen in: (NEET 13)
+   A. Bipolar mania B. Unipolar mania C. Neurosis D. OCD
+   **Answer: A**
+
+8. Friend replaced by exact double: (COMEDK 14)
+   A. Cotard syndrome B. Fregoli syndrome C. Capgras syndrome D. Delusional perception
+   **Answer: C**
+
+9. False perception without external stimulus: (AIIMS 06; Kerala 08,09; COMEDK 13)
+   A. Illusion B. Hallucination C. Delirium D. Delusion
+   **Answer: B**
+
+10. Hallucination is disorder of: (Maharashtra 09; BHU 12; NEET 13)
+    A. Perception B. Thought C. Memory D. Intelligence
+    **Answer: A**
+
+11. Smelling unpleasant odor when none present is: (COMEDK 07; KCET 13)
+    A. Illusion B. Delusion C. Obsession D. Hallucination
+    **Answer: D**
+
+12. Olfactory hallucinations seen in: (PGI 11; NIMHANS 14)
+    A. Temporal lobe epilepsy B. Schizophrenia C. Mania D. OCD
+    **Answer: A & B**
+
+13. All true about hallucinations except: (AIIMS 09)
+    A. Represents inner mind's spatial orientation B. Independent of observer C. Under voluntary control D. Perception without stimulus
+    **Answer: C**
+
+14. Illusion is: (AIIMS 07)
+    A. Misinterpretation of real objects B. False firm belief C. Absence of sensory stimulus D. Hearing voices
+    **Answer: A**
+
+15. True about kleptomania: (JIPMER 13)
+    A. Irresistible desire B. Common in females C. Steal costly objects D. Fear before stealing
+    **Answer: A**
+
+16. Kleptomania means: (UP 08; NEET 13)
+    A. Irresistible desire to steal B. Irresistible desire to drink C. Dress like opposite sex D. Set fire
+    **Answer: A**
+
+17. Kleptomania/pyromania is: (PGI 07,11; AP 09)
+    A. Conduct disorder B. Impulse disorder C. Personality disorder D. Conversion disorder
+    **Answer: B**
+
+18. Excessive buying termed: (DNB 08)
+    A. Kleptomania B. Oniomania C. Trichotillomania D. Pyromania
+    **Answer: B**
+
+19. Compulsive hair pulling: (Orissa 11)
+    A. Trichotillomania B. Kleptomania C. Pyromania D. Dipsomania
+    **Answer: A**
+
+20. Recurrent intrusive thoughts, irrational, wants to stop: (MAHA 12)
+    A. Compulsion B. Obsession C. Delusion D. Hallucination
+    **Answer: B**
+
+21. Obsession is disorder of: (MP 09)
+    A. Perception B. Thinking C. Memory D. Judgment
+    **Answer: B**
+
+22. Psychosis NOT associated with: (DNB 08; TN 08)
+    A. Delusion B. Depression C. Phobia D. Mania
+    **Answer: C**
+
+23. Anxiety is: (NEET 13)
+    A. Neurosis B. Psychosis C. Personality disorder D. Phobic disorder
+    **Answer: A**
+
+24. Delirium is disorder of: (UP 08)
+    A. Thought B. Perception C. Insight D. Cognition
+    **Answer: D**
+
+25. Visual hallucinations most commonly seen in: (PGI 09; FMGE 11)
+    A. Delusional syndrome B. Delirium C. Mania D. OCD
+    **Answer: B**
+
+26. True about delirium except: (NEET 13)
+    A. Preserved attention B. Disturbed sleep C. Disorientation D. Hallucination
+    **Answer: A**
+
+27. 20-year-old with fever, hearing voices, aggression, muttering 2 days: (AIIMS 10; KCET 13; COMEDK 13)
+    A. Acute schizophrenia B. Acute psychosis C. Delirium D. Delusional disorder
+    **Answer: C**
+
+28. NOT a feature of dementia: (WB 09)
+    A. Loss of sensorium B. Wearing dirty clothes C. Forgetfulness D. Loss of neurons
+    **Answer: A**
+
+29. True about dementia: (Karnataka 07)
+    A. Alzheimer's due to multiple strokes B. Loss of distant memory C. Atherosclerotic dementia does not progress like Alzheimer's D. Alzheimer's has increased ACh
+    **Answer: B**
+
+30. Characteristic of dementia: (UPSC 07)
+    i. Impaired judgment ii. Impaired memory iii. Alteration of mood iv. Clouding of consciousness
+    A. i,ii B. i,ii,iii C. iii,iv D. i,ii,iii,iv
+    **Answer: B**
+
+31. Schizophrenia characterized by all except: (Punjab 09)
+    A. Elation B. Auditory hallucination C. Thought broadcasting D. Withdrawal
+    **Answer: A**
+
+32. NOT included in schizophrenia: (AIIMS 07)
+    A. Formal thought disorder B. Third person hallucination C. Mood swings D. Persistent depressive disorder
+    **Answer: D**
+
+33. Student with suspiciousness, muttering, decreased socialization, violent outbursts, thought broadcast – likely: (AIIMS 06; MP 09)
+    A. Delusional disorder B. Depression C. Schizophrenia D. Anxiety
+    **Answer: C**
+
+34. Writing books with incomprehensible content, non-dictionary words – likely: (AP 11)
+    A. Mania B. Schizophrenia C. Genius D. Delusional disorder
+    **Answer: B**
+
+35. Not diagnostic of schizophrenia: (WB 10)
+    A. Disorganized behavior B. Suicidal attempt C. Delusions D. Catatonia
+    **Answer: B**
+
+36. Schizophrenia is disorder of: (TN 06; Delhi 06; DNB 09; JIPMER 10)
+    A. Thought B. Mood C. Perception D. Cognition
+    **Answer: A**
+
+37. Neologism characteristically seen in: (Gujarat 07)
+    A. Depression B. Mania C. Schizophrenia D. Delirium
+    **Answer: C**
+
+38. Schizophrenia characterized by: (Kerala 06)
+    A. Delusion and hallucination B. Tremor and delusion C. Obsession and delusion D. Autonomic disturbance
+    **Answer: A**
+
+39. Positive symptoms of schizophrenia except: (Kerala 09)
+    A. Hallucinations B. Delusions C. Conceptual disorganization D. Anhedonia
+    **Answer: D**
+
+40. Perseveration is: (Maharashtra 08)
+    A. Persistent repetition of same thoughts B. Characteristic of depression C. Characteristic of schizophrenia D. Characteristic of OCD
+    **Answer: A & C**
+
+41. Anhedonia is: (MP 08)
+    A. Abnormal lack of activity B. Two opposing impulses C. Disturbance in language D. Inability to experience pleasure
+    **Answer: D**
+
+42. Negative symptoms of schizophrenia except: (NIMHANS 08; UPSC 11; COMEDK 14)
+    A. Anhedonia B. Hallucination C. Alogia D. Affective flattening
+    **Answer: B**
+
+43. Not a feature of catatonic schizophrenia: (UPSC 07; AP 10; MAHE 12)
+    A. Negativism B. Automatic obedience C. Catalepsy D. Catalepsy (duplicate)
+    **Answer: D**
+
+44. Delusion of grandeur, persecution, reference seen in: (PGI 09; UP 11)
+    A. Catatonic schizophrenia B. Paranoid schizophrenia C. Simple schizophrenia D. Disorganized
+    **Answer: B**
+
+45. Prognosis of schizophrenia best if: (Kerala 09,11; NEET 13)
+    A. Acute onset B. Insidious onset C. Family history positive D. Negative symptoms
+    **Answer: A**
+
+46. Type of schizophrenia with mental retardation: (NEET 13)
+    A. Von-Gogh syndrome B. Paranoid C. Catatonic D. Prof (Pprof schizophrenia)
+    **Answer: D**
+
+47. Term 'schizophrenia' coined by: (TN 06; Ranchi 10; NEET 13)
+    A. Eugene Bleuler B. Kraepelin C. Freud D. Schneider
+    **Answer: A**
+
+48. Four A's of schizophrenia described by: (MP 09)
+    A. Kurt Schneider B. Eugene Bleuler C. Karl Jaspers D. Emil Kraepelin
+    **Answer: B**
+
+49. All are first rank symptoms of schizophrenia except: (TN 06; UPSC 08; Karnataka 11; NIMHANS 11; NEET 13; PGI 14)
+    A. Audible thoughts B. Thought broadcasting C. Voice arguing D. Perplexity
+    **Answer: D**
+
+50. All true of Type II schizophrenia except: (AIIMS 08; Bihar 11)
+    A. Negative symptoms more B. Disorganization C. Abnormal CT D. Poor prognosis
+    **Answer: C**
+
+51. Mood disorder is: (MP 07)
+    A. Psychosis B. Disturbance in affect C. Anxiety D. Neurosis
+    **Answer: B**
+
+52. Minimum time for diagnosis of manic illness: (DNB 10; AIIMS 14)
+    A. 1 week B. 1 month C. 1 year D. 2 years
+    **Answer: A**
+
+53. All features of mania except: (MP 07; Maharashtra 11; PGI 14)
+    A. Flight of ideas B. Psychomotor agitation C. Low self-esteem D. Pressure to talk
+    **Answer: C**
+
+54. During manic episode, patient typically exhibits: (FMGE 10)
+    A. Delusion of persecution B. Low self-esteem C. Crying spells D. Grandiosity
+    **Answer: D**
+
+55. Major depression diagnosed after minimum of: (Maharashtra 09)
+    A. 1 week B. 2 weeks C. 3 weeks D. 4 weeks
+    **Answer: B**
+
+56. Nihilistic ideas seen in: (PGI 08)
+    A. Depression B. Schizophrenia C. OCD D. Anxiety disorders
+    **Answer: A**
+
+57. Bipolar disorder is: (TN 11)
+    A. Mood disorder B. Neurotic disorder C. Behavior disorder D. Personality disorder
+    **Answer: A**
+
+58. 30-year-old with sudden tachycardia and impending doom: (AIIMS 10)
+    A. Conversion reaction B. Anxiety disorder C. Acute psychosis D. Panic attack
+    **Answer: D**
+
+59. True of panic disorder: (COMEDK 13)
+    A. Recurrent unpredictable panic attacks B. Always in specific situations C. Autonomic symptoms rare D. Evolves very slowly
+    **Answer: A**
+
+60. True about phobia except: (NIMHANS 08; NEET 13)
+    A. Generalized anxiety B. Avoiding particular situation C. Fear of specific thing D. Insight present
+    **Answer: A**
+
+61. Agoraphobia associated with: (NIMHANS 14)
+    A. Social phobia B. OCD C. Panic disorder D. Anxiety disorder
+    **Answer: C**
+
+62. Fear of open spaces: (NIMHANS 07; Kerala 11)
+    A. Agoraphobia B. Acrophobia C. Claustrophobia D. Algophobia
+    **Answer: A**
+
+63. Agoraphobia is: (Kerala 08; UP 09)
+    A. Fear of closed spaces B. Fear to be in public C. Fear of spiders D. Fear of open spaces
+    **Answer: D**
+
+64. Middle-aged person with fear of leaving home, travelling alone, crowds, palpitations – diagnosis: (AIIMS 06; NIMHANS 11)
+    A. GAD B. Schizophrenia C. Personality disorder D. Agoraphobia
+    **Answer: D**
+
+65. Fear of high places: (Orissa 11)
+    A. Abreaction B. Acrophobia C. Agoraphobia D. Acting out
+    **Answer: B**
+
+66. All true about obsession except: (PGI 10,14)
+    A. Recurrent foolish thoughts B. Associated with dim light C. Attempts to resist D. Associated depression
+    **Answer: B**
+
+67. 15-year-old feels dirt hung onto him despite knowing irrational – diagnosis: (Gujarat 07)
+    A. OCD B. Conduct disorder C. Agoraphobia D. Adjustment disorder
+    **Answer: A**
+
+68. Fear of contamination, counting, checking behaviors characteristic of: (UPSC 09)
+    A. Panic attacks B. Agoraphobia C. OCD D. GAD
+    **Answer: C**
+
+69. Repetitive hand washing is symptom of: (NIMHANS 07; AFMC 11)
+    A. PTSD B. Depression C. Anorexia nervosa D. OCD
+    **Answer: D**
+
+70. Dissociative fugue is: (Maharashtra 08)
+    A. Sudden onset paralysis B. Fear of specific object C. Multiple identities D. Fleeing from life situation
+    **Answer: D**
+
+71. Patient preoccupied with feeling of illness – diagnosis: (Kerala 06; NIMHANS 08; UP 08; Punjab 11)
+    A. Hypochondriasis B. Somatization C. Conversion D. Obsession
+    **Answer: A**
+
+72. Continuous headache 8 years, no lesion, convinced of brain tumor: (NIMHANS 08)
+    A. Hypochondriasis B. Somatization C. Somatotroph pain disorder D. OCD
+    **Answer: A**
+
+73. Classic tetrad of narcolepsy includes all except: (CMC Vellore 07; NIMHANS 08; Kerala 11; NEET 13; PGI 14)
+    A. Hypnagogic hallucination B. Sleep attacks C. Sleep paralysis D. Catalepsy
+    **Answer: D**
+
+74. A person laughs and suddenly loses muscle tone – diagnosis: (DNB 09; JIPMER 13)
+    A. Catalepsy B. Cataplexy C. Narcolepsy D. Hypersomnia
+    **Answer: B**
+
+75. Kleine-Levin syndrome associated with: (NEET 13)
+    A. Insomnia B. Anxiety C. Depression D. Hypersomnia
+    **Answer: D**
+
+76. Bruxism is: (NEET 13)
+    A. Walking during sleep B. Nocturnal enuresis C. Grinding teeth during sleep D. Sleep apnea
+    **Answer: C**
+
+77. IQ 40 level of mental retardation: (NEET 13)
+    A. Mild B. Moderate C. Severe D. Profound
+    **Answer: B**
+
+78. Severe mental retardation IQ: (NEET 13)
+    A. 50-70 B. 35-50 C. 20-35 D. <20
+    **Answer: C**
+
+79. Testamentary capacity refers to: (AP 10; NEET 15)
+    A. Ability to make a valid will B. Criminal liability C. Right to vote D. Ability to give evidence
+    **Answer: A**
+
+80. To plead insanity in court, IPC section: (AP 06; UP 09; Rajasthan 11)
+    A. Section 84 B. Section 85 C. Section 88 D. Section 90
+    **Answer: A**
+
+81. McNaughten rule concerned with: (PGI 06; NIMS 11)
+    A. Civil responsibility in drunken person B. Criminal responsibility in insane person C. Professional misconduct D. Capacity to make will
+    **Answer: B**
+
+82. Rules for criminal responsibility of insane except: (MP 08; Kerala 08,09; PGI 09; NEET 15)
+    A. Hasse's rule B. McNaughten's rule C. Durham's rule D. Curren's rule
+    **Answer: A**
+
+83. A person suffering from which condition is criminally responsible: (A)
+    A. Kleptomania B. Somnambulism C. Oneroid state D. Delirium tremens
+    **Answer: A**
+
+84. Under Mental Health Care Act 2017, repeat assessment within how many hours for supported admission: (C)
+    A. 48 hours B. 72 hours C. 24 hours D. 36 hours
+    **Answer: C**
+
+85. Which is false: (C)
+    A. Somatic delusion person has testamentary capacity B. Mentally ill can give evidence during lucid interval C. Mentally ill not criminally responsible during lucid interval D. Delusion of grandiosity cannot make will
+    **Answer: C**
+
+86. Right to choose caretaker and future treatment under Mental Health Care Act 2017: (D)
+    A. Treatment directive B. Mental will C. Future directive D. Advance directive
+    **Answer: D**
+
+87. Conditions under Rights of Persons With Disabilities Act 2016: (D)
+    A. Specific learning disability B. Mental illness C. Parkinson's disease D. All
+    **Answer: D**
+
+88. Exempted from all charges under IPC Sec 84 (BNS Sec.22): (C)
+    Cases 3,4,5
+    **Answer: C**
+
+89. Marriage null and void if: (C)
+    A. Mental illness developed 6 months after marriage B. Present only before marriage C. Present at time of marriage D. All
+    **Answer: C**
+
+---
+
+## Chapter 9: Stain Analysis
+
+1. All tests on blood except: (TN 11)
+   A. Acid phosphatase test B. Benzidine test C. Hemochromogen test D. Teichmann's test
+   **Answer: A**
+
+2. Hydrogen peroxide used in all except: (NEET 13)
+   A. Benzidine test B. Kastle-Meyer test C. Ortho-toluidine test D. Teichmann test
+   **Answer: D**
+
+3. Positive benzidine test seen in: (PGI 12)
+   A. Hemoglobin B. Myoglobin C. Porphobilinogen D. Bilirubin
+   **Answer: A & B**
+
+4. Benzidine test done to detect: (PGI 07)
+   A. Semen B. Blood C. Bile D. Saliva
+   **Answer: B**
+
+5. Confirmatory test for blood stain: (PGI 13)
+   A. Benzidine test B. Spectroscopic study C. Ortho-toluidine test D. Teichmann test
+   **Answer: D**
+
+6. Species identification done by: (COMEDK 08; Punjab 11; NEET 13)
+   A. Takayama test B. Precipitin test C. Benzidine test D. Spectroscopy
+   **Answer: B**
+
+7. Antibodies found in type O individual: (PGI 13)
+   A. Anti-A B. Anti-B C. Anti-AB D. Neither
+   **Answer: A & B**
+
+8. Latte's crust of blood stain used to detect: (NEET 14)
+   A. Nature of stain B. Species C. Blood group D. Secretor status
+   **Answer: C**
+
+9. ABO antigens NOT found in: (AIIMS 09; NEET 14)
+   A. CSF B. Semen C. Sweat D. Saliva
+   **Answer: A**
+
+10. Rh-negative woman married to heterozygous Rh-positive man – possible blood groups of children:
+    **Answer: Rh-positive and Rh-negative**
+
+11. Baby's blood group O Rh-negative – parents will NOT have: (WB 07)
+    A. A positive B. B positive C. AB negative D. A negative
+    **Answer: C**
+
+12. HLA typing useful in: (PGI 06)
+    A. Disputed paternity B. Thanatology C. Organ transplant D. Dactylography
+    **Answer: A & C**
+
+13. Blue-white color in UV rays seen in: (A)
+    A. Semen B. Blood C. Pus D. Sweat
+    **Answer: A**
+
+14. Florence test detects: (AIIMS 12; JIPMER 13; Delhi 06)
+    A. Inositol B. Choline C. Spermine D. Citric acid
+    **Answer: B**
+
+15. Test used to detect semen: (AI 06; Gujarat 10; MAHE 11)
+    A. Phenolphthalein test B. Reine's test C. Barberio's test D. Acid phosphatase test
+    **Answer: C**
+
+16. Spermine detected by: (TN 08)
+    A. Takayama test B. Barberio's test C. Florence test D. Acid phosphatase test
+    **Answer: B**
+
+17. Conclusive test for semen: (Jharkhand 11)
+    A. Acid phosphatase test B. Barberio test C. Florence test D. Phenolphthalein test
+    **Answer: A**
+
+---
+
+## Chapter 10: DNA Fingerprinting & Newer Methods
+
+1. DNA fingerprinting discovered by: (PGI 06)
+   A. Southern B. Galton C. Crick D. Jeffreys
+   **Answer: D**
+
+2. What is matched in DNA fingerprinting: (PGI 08; WB 11)
+   A. Introns B. Exons C. Constant number of tandem repeats D. Minisatellites
+   **Answer: A & D**
+
+3. Restriction endonuclease: (Maharashtra 08)
+   A. Break single stranded DNA B. Break double stranded DNA C. Break peptide chain D. Break RNA
+   **Answer: B**
+
+4. RFLP uses technique of: (UP 10; NIMHANS 11)
+   A. Southern blotting B. Northern blotting C. Western blotting D. Eastern blotting
+   **Answer: A**
+
+5. Northern blotting is for: (JIPMER 11,13,14)
+   A. RNA B. DNA C. Proteins D. Maternal DNA
+   **Answer: A**
+
+6. Western blot used for: (WB 07; FMGE 09; AIIMS 09)
+   A. RNA B. DNA C. Proteins D. Maternal DNA
+   **Answer: C**
+
+7. PCR is done for: (UP 11; UPSC 13; AIIMS 13)
+   A. Cloning DNA in cells B. Replication of DNA in vitro C. Sequencing of DNA D. Both A and B
+   **Answer: B**
+
+8. DNA amplification done by all except: (PGI 06)
+   A. PCR B. NASBA C. LCR D. DNA sequencing
+   **Answer: D**
+
+9. PCR does not require: (AIIMS 07)
+   A. Primer B. DNA fragments C. DNA polymerase D. Radio-labeled DNA probe
+   **Answer: D**
+
+10. For DNA test, liquid blood preserved in: (Karnataka 07; DNB 09; UP 10; NEET 13,14)
+    A. Sodium citrate B. Potassium oxalate C. EDTA D. Sodium fluoride
+    **Answer: C**
+
+11. Best forensic sample for DNA analysis: (TN 09)
+    A. Blood in EDTA B. Hair C. Vitreous humor D. Femur bone
+    **Answer: A**
+
+12. DNA fingerprinting can be done with all except: (UP 07; Delhi 08; NEET 13)
+    A. RBC B. WBC C. Saliva D. Spermatozoon
+    **Answer: A**
+
+13. DNA fingerprinting first used by Jeffreys in criminal case for: (MAHE 11)
+    A. Murder B. Rape C. Disputed paternity D. Immigration
+    **Answer: B**
+
+14. Mitochondrial DNA inheritance transmitted from: (UP 10)
+    A. Mother B. Father C. Grandfather D. Grandmother
+    **Answer: A**
+
+15. In polygraph test 'GSR' stands for: (B)
+    A. Guilt Score Reaction B. Galvanic Skin Reaction C. Galvanic Sensor Reaction D. Guilt Sensitivity Reaction
+    **Answer: B**
+
+16. Brain fingerprinting: (Karnataka 11; PGI 06)
+    A. Used as lie detector B. Uses EEG on lead C. Quantitative measurement of sulci and gyri D. Uses DNA
+    **Answer: B**
+
+17. Commonly used in narco-analysis: (AI 10; JIPMER 13)
+    A. Atropine sulfate B. Scopolamine hydrobromide C. Opium compounds D. Phenobarbital
+    **Answer: B**
+
+---
+
+## Chapter 11: Starvation Deaths
+
+1. A person on fasting for 7 days, source of energy: (NIMS 11)
+   A. Acetone B. Acetoacetate C. Glucose D. Alanine
+   **Answer: A**
+
+2. Brain in starvation uses: (TN 11; UP 12)
+   A. Amino acids B. Cellulose C. Ketone bodies D. Glycerol
+   **Answer: C**
+
+3. In starvation, last to disappear: (JIPMER 10)
+   A. Buccal fat B. Fat around abdomen C. Fat around eyes D. Fat in mesentery
+   **Answer: A**
+
+4. If food and water withheld, person will die after: (WB 11)
+   A. 1-2 days B. 2-5 days C. 7-10 days D. 15-20 days
+   **Answer: D**
+
+5. In starvation death, atrophy seen in all except: (Maharashtra 08)
+   A. Heart B. Kidney C. Liver D. Brain
+   **Answer: D**
+
+6. Gallbladder in starvation death is: (TN 08; NEET 14)
+   A. Contracted B. Distended C. Mummified D. Not affected
+   **Answer: B**
+
+7. In starvation, all true except: (FMGE 09)
+   A. Shrunken gallbladder B. Translucent intestine C. Lack of fat in mesentery D. Prominent rib cage
+   **Answer: A**
+
+---
+
+## Chapter 12: Torture & Custodial Deaths
+
+1. 'Falanga' or Bastinado is: (AIIMS 08; TN 09; DNB 10; NEET 13)
+   A. Sitting in abnormal position B. Hitting the feet with stick C. Electric current D. Pulling hair
+   **Answer: B**
+
+2. 'Telefono' is: (AIIMS 07; DNB 10; NEET 14)
+   A. Beating on soles B. Bilateral beating on ears C. Pulling of ears D. Hitting with telephone
+   **Answer: B**
+
+3. Chepuwa is: (NEET 15)
+   A. Beating soles B. Compressing thigh between two rods C. Force-feeding D. Submerging head under water
+   **Answer: B**
+
+4. Declaration associated with torture and custodial deaths: (B)
+   A. Declaration of Oslo B. Declaration of Tokyo C. Declaration of Sydney D. Declaration of Geneva
+   **Answer: B**
+
+5. "Dry submarine" method of torture produces death primarily due to: (C)
+   A. Blunt trauma B. Poisoning C. Asphyxia D. Shock
+   **Answer: C**
+
+6. "Palestinian hanging" characterized by: (C)
+   A. Hanging by neck B. Suspension by feet C. Suspension by wrists tied behind back D. Suspension by neck and legs
+   **Answer: C**
+
+7. According to forensic principles, custodial death cases should be investigated by: (C)
+   A. Local police station B. Treating doctor C. Judicial Magistrate inquiry D. Hospital administration
+   **Answer: C**
+
+8. In custodial deaths, most common immediate mechanism leading to death: (B)
+   A. Asphyxia B. Neurogenic shock / circulatory collapse C. Septicemia D. Embolism
+   **Answer: B**
+
+---
+
+**End of Forensic Medicine MCQ Companion**

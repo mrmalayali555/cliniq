@@ -1,0 +1,860 @@
+# PHYSIOLOGY QUESTION BANK (Topic-wise)
+
+## 1. Hematology (Starts at line 11)
+
+1. A: Erythropoietin (EPO) secretion increases in response to hypoxia.
+   R: EPO is produced primarily by the kidneys in peritubular interstitial cells.
+   **Answer: A**
+
+2. A: Platelets release ADP and thromboxane A2 to enhance aggregation.
+   R: Thromboxane A2 is synthesized via the cyclo-oxygenase (COX) pathway in platelets.
+   **Answer: A**
+
+3. A: A decreased hematocrit indicates anemia.
+   R: Hematocrit represents the proportion of plasma volume in the blood.
+   **Answer: D**
+
+4. A: Vitamin K is essential for synthesis of clotting factors II, VII, IX, and X.
+   R: Vitamin K serves as a cofactor for gamma-carboxylation of glutamic acid residues in these factors.
+   **Answer: A**
+
+5. A: The intrinsic pathway of coagulation is activated by contact with subendothelial collagen.
+   R: Factor XII (Hageman factor) is activated upon exposure to negatively charged surfaces.
+   **Answer: A**
+
+6. A: Fibrinolysis involves conversion of plasminogen to plasmin.
+   R: Tissue plasminogen activator (tPA) is released from endothelial cells to initiate plasminogen activation.
+   **Answer: A**
+
+7. Which component accounts for the greatest volume of whole blood?
+   A) Leukocytes B) Plasma C) Red blood cells D) Platelets
+   **Answer: B**
+
+8. Normal platelet count ranges between:
+   A) 20,000-50,000/mm3 B) 150,000-450,000/mm3 C) 500,000-1,000,000/mm3 D) 1,000,000-2,000,000/mm3
+   **Answer: B**
+
+9. Which of the following is NOT produced in red bone marrow?
+   A) Erythrocytes B) Platelets C) T-lymphocytes D) Granulocytes
+   **Answer: C**
+
+10. Hemoglobin molecule consists of how many heme groups?
+    A) 1 B) 2 C) 3 D) 4
+    **Answer: D**
+
+11. Which test measures the intrinsic coagulation pathway?
+    A) Prothrombin time (PT) B) Bleeding time (BT) C) Activated partial thromboplastin time (aPTT) D) Platelet aggregation test
+    **Answer: C**
+
+12. Which erythrocyte indices represent cell size?
+    A) MCH B) MCHC C) MCV D) RDW
+    **Answer: C**
+
+13. Which cell releases histamine during allergic responses?
+    A) Basophil B) Neutrophil C) Eosinophil D) Monocyte
+    **Answer: A**
+
+14. Ferritin functions primarily as a:
+    A) Transport protein for iron B) Storage form of iron C) Enzyme in heme synthesis D) Antioxidant in RBCs
+    **Answer: B**
+
+15. Components of blood plasma include:
+    A) Albumin B) Fibrinogen C) Hemoglobin D) Immunoglobulins
+    **Answer: A, B, D**
+
+16. Functions of platelets include:
+    A) Vasoconstriction B) Clot retraction C) Phagocytosis of bacteria D) Release of growth factors for healing
+    **Answer: A, B, D**
+
+17. Which are functions of hemoglobin?
+    A) Oxygen transport B) CO2 transport C) Catalysis of fibrin formation D) Buffering of blood pH
+    **Answer: A, B, D**
+
+18. Anticoagulant proteins include:
+    A) Antithrombin III B) Protein C C) Plasmin D) Factor VIII
+    **Answer: A, B**
+
+19. Findings typical in iron-deficiency anemia:
+    A) Low MCV B) Low ferritin C) Elevated TIBC D) High hematocrit
+    **Answer: A, B, C**
+
+20. Granulocytes include:
+    A) Neutrophils B) Basophils C) Monocytes D) Eosinophils
+    **Answer: A, B, D**
+
+**Case scenario:**
+21. What type of anemia is most likely? A) Iron deficiency anemia B) Vitamin B12 deficiency anemia
+    **Answer: A**
+22. What is the primary reason for low MCV in IDA? A) Increased RBC destruction B) Reduced RBC synthesis in smaller RBC C) Increased Hb production D) Bone marrow failure
+    **Answer: B**
+23. Why is serum ferritin low and TIBC elevated in IDA? A) Increased iron storage B) Ferritin low due to depleted iron stores; TIBC elevated as liver increases transferrin production
+    **Answer: B**
+24. What additional tests could confirm the diagnosis? A) Peripheral smear, serum iron, transferrin saturation B) Vitamin B12 and folate levels C) Liver function tests D) Thyroid function tests
+    **Answer: A**
+25. Suggest an initial management plan for this patient. A) Start vitamin B12 supplements B) Oral elemental iron, dietary counselling, investigate for blood loss C) Refer for blood transfusion D) Bone marrow biopsy
+    **Answer: B**
+
+---
+
+## 2. Cardiovascular System (Starts at line 103)
+
+1. The ability of cardiac muscle cells to generate their own electrical impulses is called:
+   a) Excitability b) Contractility c) Automaticity d) Conductivity
+   **Answer: c**
+
+2. QRS complex is due to:
+   a) Ventricular repolarization b) Atrial depolarization c) Conduction through AV node d) Ventricular depolarization
+   **Answer: d**
+
+3. Stroke volume is increased by?
+   a) Increased end-diastolic and end-systolic volumes b) Decreased end-diastolic and end-systolic volumes c) Increased end-diastolic volume and decreased end-systolic volume d) Decreased end-diastolic volume and increased end-systolic volume
+   **Answer: c**
+
+4. During intense exercise, cardiac output can increase by:
+   a) 2-3 times b) 4-5 times c) 6-7 times d) 8-10 times
+   **Answer: d**
+
+5. Bainbridge reflex causes?
+   a) Bradycardia b) Increased cardiac output c) Decreased venous return d) Increased heart rate
+   **Answer: d**
+
+6. The sequence of events in the cardiac conduction system is:
+   a) SA node → AV node → Bundle of His → Purkinje fibers b) AV node → SA node → Bundle of His → Purkinje fibers c) Purkinje fibers → Bundle of His → AV node → SA node d) Bundle of His → Purkinje fibers → SA node → AV node
+   **Answer: a**
+
+7. What is pulse pressure?
+   A. Difference between systolic and diastolic BP B. Average pressure over cardiac cycle C. Pressure exerted by blood against arterial walls D. Force that drives blood flow
+   **Answer: A**
+
+8. What is the relationship between cardiac output and blood pressure?
+   A. CO directly proportional to BP B. CO inversely proportional to BP C. Changes in CO can influence BP, and vice versa D. BP solely determined by CO
+   **Answer: C**
+
+9. The dicrotic notch observed in the aortic pressure waveform represents:
+   1. Closure of aortic valve 2. Brief backflow into left ventricle 3. Opening of mitral valve 4. Sudden increase in aortic pressure
+   A) 1,2 B) 2,3 C) 1,4 D) 3,4
+   **Answer: A**
+
+10. Which factors can influence cardiac output?
+    1. Heart rate 2. Stroke volume 3. Blood pressure 4. Peripheral resistance
+    A) 1,2 B) 2,3 C) 1,2,4 D) All of the above
+    **Answer: D**
+
+11. Which factors directly influence stroke volume?
+    1. Preload 2. Afterload 3. Contractility 4. Heart rate
+    A) 1,2,3 B) 2,3,4 C) 1,3,4 D) All of the above
+    **Answer: A**
+
+12. Characteristic features of first-degree AV block on ECG:
+    1. Prolonged PR interval 2. All atrial impulses conducted 3. Dropped QRS complexes 4. Irregular ventricular rhythm
+    A) 1,2 B) 2,3 C) 1,3 D) 2,4
+    **Answer: A**
+
+13. Accurate statements regarding fetal circulation:
+    1. Umbilical vein carries oxygenated blood from placenta to fetus 2. Foramen ovale allows blood to bypass fetal lungs 3. Ductus arteriosus shunts blood from pulmonary artery to aorta 4. Fetal hemoglobin has lower affinity for oxygen than adult hemoglobin
+    A) 1,2,3 B) 2,3,4 C) 1,3,4 D) 1,2,4
+    **Answer: A**
+
+14. How does RAAS contribute to blood pressure regulation?
+    1. Increases sodium and water retention 2. Constricts blood vessels 3. Increases urine output 4. Decreases heart rate
+    A) 1,2 B) 2,3 C) 1,4 D) 3,4
+    **Answer: A**
+
+15. Assertion: Hypovolemia can decrease cardiac output. Reason: Hypovolemia reduces preload, leading to decreased stroke volume and cardiac output.
+    **Answer: A**
+
+16. Assertion: Pulmonary circulation facilitates exchange of O2 and CO2 between lungs and blood. Reason: Pulmonary circulation has high resistance and pressure, allowing efficient gas exchange.
+    **Answer: C**
+
+17. Assertion: Afterload is resistance that heart must overcome to eject blood. Reason: Increased afterload leads to decreased stroke volume by increasing workload.
+    **Answer: A**
+
+18. Assertion: Mean arterial pressure (MAP) is calculated as diastolic pressure plus two-thirds of pulse pressure. Reason: MAP provides estimate of average pressure during one cardiac cycle.
+    **Answer: B**
+
+19. Assertion: P wave on ECG represents atrial depolarization. Reason: Atrial contraction occurs immediately after the P wave.
+    **Answer: A**
+
+20. Assertion: Cardiac output is volume of blood ejected by heart per minute. Reason: Cardiac output is calculated by multiplying stroke volume by heart rate.
+    **Answer: A**
+
+**Case scenario:**
+21. What is the primary determinant of cardiac output? A) Heart rate B) Blood pressure C) Stroke volume D) Total peripheral resistance
+    **Answer: A**
+22. Which parameters are most likely increased in this patient? A) Stroke volume B) Total peripheral resistance C) Heart rate D) Venous return
+    **Answer: C**
+23. What effect would increased sympathetic activity have on cardiac output? A) Increase B) Decrease C) No effect D) Variable
+    **Answer: A**
+24. Which factors directly affect stroke volume? A) Contractility B) Heart rate C) Preload D) Afterload
+    **Answer: A, C, D**
+25. Decreased blood pressure is primarily attributed to: A) Decreased cardiac output B) Increased venous return C) Decreased heart rate D) Increased afterload
+    **Answer: A**
+
+---
+
+## 3. Respiratory Physiology (Starts at line 197)
+
+1. Which lung volume represents the maximum amount of air that can be exhaled forcefully after a maximal inspiration?
+   a) Tidal volume b) Residual volume c) Vital capacity d) Inspiratory reserve volume
+   **Answer: c**
+
+2. Which structure prevents food from entering the larynx during swallowing?
+   a) Epiglottis b) Uvula c) Vocal cords d) Trachea
+   **Answer: a**
+
+3. In the oxyhemoglobin dissociation curve, a rightward shift indicates:
+   a) Increased affinity of hemoglobin for O2 b) Decreased affinity of hemoglobin for O2 c) No change in affinity d) Impaired oxygen diffusion
+   **Answer: b**
+
+4. Which respiratory center in the brainstem primarily drives inspiration?
+   a) Apneustic center b) Pneumotaxic center c) Dorsal respiratory group d) Ventral respiratory group
+   **Answer: c**
+
+5. The main muscle responsible for quiet breathing is the:
+   a) External intercostals b) Diaphragm c) Sternocleidomastoid d) Internal intercostals
+   **Answer: b**
+
+6. The Haldane effect refers to:
+   a) CO2 binding enhancing O2 unloading b) O2 binding enhancing CO2 unloading c) Increased CO2 content with increased O2 levels d) Reduced affinity of hemoglobin for CO2
+   **Answer: b**
+
+7. Which increase the rate of gas diffusion across alveolar membranes?
+   a) Increased surface area b) Thicker alveolar membrane c) High partial pressure gradient d) Pulmonary edema e) High solubility of gas
+   **Answer: a, c, e**
+
+8. Which factors shift the oxyhemoglobin curve to the right?
+   a) Elevated temperature b) Decreased CO2 c) Increased 2,3-BPG d) Alkalosis e) Acidosis
+   **Answer: a, c, e**
+
+9. Peripheral chemoreceptors respond to which?
+   A) Decreased PaO2 B) Increased PaCO2 C) Decreased arterial pH D) All of the above
+   **Answer: D**
+
+10. Which statements about the ventilation-perfusion (V/Q) ratio are true?
+    a) Ideal V/Q is 1 b) V/Q mismatch causes hypoxemia c) Shunt = high V/Q d) Dead space = high V/Q e) Zone 3 of lung = low V/Q
+    **Answer: a, b, d, e**
+
+11. What are physiological adaptations to high altitude?
+    a) Increased RBC production b) Decreased PaO2 c) Increased 2,3-BPG d) Hypoventilation e) Respiratory alkalosis
+    **Answer: a, c, e**
+
+12. Which neural inputs directly stimulate inspiration?
+    a) Peripheral chemoreceptors b) Pulmonary stretch receptors c) Higher brain centers d) Irritant receptors e) Apneustic center
+    **Answer: All of the above? (options not fully given, but answer likely includes a,b,c,d,e)**
+
+13. A: Increased H+ concentration shifts oxyhemoglobin curve right. R: H+ binds to hemoglobin decreasing its O2 affinity.
+    **Answer: A**
+
+14. A: Pneumotaxic center limits inspiratory duration. R: It sends inhibitory signals to apneustic center.
+    **Answer: A**
+
+15. A: Hypoventilation causes respiratory acidosis. R: Reduced alveolar ventilation increases arterial PCO2.
+    **Answer: A**
+
+16. A: Pulmonary surfactant increases surface tension in alveoli. R: It reduces alveolar surface tension to prevent collapse.
+    **Answer: D**
+
+17. A: Bohr effect describes CO2's influence on O2 binding. R: CO2 indirectly reduces hemoglobin's O2 affinity.
+    **Answer: B**
+
+18. A: Carotid bodies are more sensitive to hypoxia than aortic bodies. R: Carotid bodies have higher blood flow and receptor density.
+    **Answer: A**
+
+**Case scenario:**
+19. What primary respiratory disturbance does the climber have? a) Respiratory acidosis b) Respiratory alkalosis c) Metabolic acidosis d) Metabolic alkalosis
+    **Answer: b**
+20. What caused the change in PaCO2? a) Hypoventilation b) Hyperventilation c) Increased CO2 production d) Impaired gas exchange
+    **Answer: b**
+21. Which compensatory mechanism is most likely active? a) Renal retention of bicarbonate b) Renal excretion of bicarbonate c) Increased 2,3-BPG d) Decreased hemoglobin affinity for CO2
+    **Answer: a**
+22. Which physiological response is also expected? a) Decreased erythropoietin b) Increased sympathetic tone c) Decreased ventilation rate d) Hypoglycemia
+    **Answer: b**
+23. What effect does increased 2,3-BPG have? a) Shifts oxy-Hb curve left b) Decreases O2 unloading c) Facilitates O2 delivery to tissues d) Raises hemoglobin affinity for O2
+    **Answer: c**
+24. The climber's arterial pH is 7.51. What is the HCO3 likely to be if renal compensation were complete? a) 18 mEq/L b) 22 mEq/L c) 30 mEq/L d) 35 mEq/L
+    **Answer: b**
+25. Which long-term adaptation will help him acclimatize? a) Increased tidal volume only b) Polycythemia c) Decreased capillary density d) Decreased hemoglobin production
+    **Answer: b**
+
+---
+
+## 4. Renal System, Skin and Temperature Regulation (Starts at line 276)
+
+1. The primary site of sodium reabsorption in the nephron is:
+   A) Proximal convoluted tubule B) Loop of Henle C) Distal convoluted tubule D) Collecting duct
+   **Answer: A**
+
+2. The hormone responsible for increasing water permeability in the collecting ducts is:
+   A) Aldosterone B) Angiotensin II C) Vasopressin (ADH) D) ANP
+   **Answer: C**
+
+3. Which of the following structures is impermeable to water in the presence of ADH?
+   A) Proximal tubule B) Thick ascending limb of Henle C) Cortical collecting duct D) Medullary collecting duct
+   **Answer: B**
+
+4. Juxtaglomerular cells secrete renin in response to:
+   A) Increased sodium in distal tubule B) Decreased renal perfusion pressure C) Hyperkalemia D) Elevated GFR
+   **Answer: B**
+
+5. Which substance is used to estimate renal plasma flow?
+   A) Inulin B) Creatinine C) PAH (para-aminohippuric acid) D) Urea
+   **Answer: C**
+
+6. Which is not part of the skin's barrier function?
+   A) Langerhans cells B) Stratum corneum C) Sebaceous gland secretions D) Hair follicles
+   **Answer: D**
+
+7. Which mechanism contributes most to heat loss in a resting individual at room temperature?
+   A) Conduction B) Convection C) Radiation D) Evaporation
+   **Answer: C**
+
+8. Features of the countercurrent multiplier system:
+   1. Active transport of Na+ in thick ascending limb 2. Impermeability of thick ascending limb to water 3. Passive water reabsorption in descending limb 4. High urea permeability in proximal tubule
+   A) 1,2,3 B) 1,3,4 C) 2,3,4 D) 1,2,4
+   **Answer: A**
+
+9. Which factors increase GFR?
+   1. Afferent arteriole dilation 2. Efferent arteriole constriction 3. Increased plasma oncotic pressure 4. Decreased Bowman's capsule pressure
+   A) 1,2,4 B) 2,3,4 C) 1,3,4 D) 1,2,3
+   **Answer: A**
+
+10. Functions of the skin include:
+    1. Thermoregulation 2. Vitamin D synthesis 3. Immunologic defense 4. Regulation of plasma sodium
+    A) 1,2,3 B) 2,3,4 C) 1,3,4 D) 1,2,4
+    **Answer: A**
+
+11. Hormones influencing renal handling of sodium:
+    1. Aldosterone 2. ADH 3. ANP 4. Angiotensin II
+    A) 1,2,3 B) 1,3,4 C) 2,3,4 D) 1,2,4
+    **Answer: B**
+
+12. Stimuli for thirst:
+    1. Hypovolemia 2. Increased plasma osmolality 3. Decreased blood pressure 4. Hyperkalemia
+    A) 1,2,3 B) 1,3,4 C) 2,3,4 D) 1,2,4
+    **Answer: A**
+
+13. Mechanisms involved in heat loss during fever defervescence:
+    1. Sweating 2. Peripheral vasodilation 3. Piloerection 4. Shivering
+    A) 1,2,3 B) 1,2,4 C) 2,3,4 D) 1,2,4
+    **Answer: A**
+
+14. Structures part of the juxtaglomerular apparatus:
+    1. Macula densa 2. Juxtaglomerular cells 3. Podocytes 4. Lacis cells
+    A) 1,2,4 B) 2,3,4 C) 1,3,4 D) 1,2,3
+    **Answer: A**
+
+15. A: Thick ascending limb of Henle is known as diluting segment. R: It actively reabsorbs sodium but is impermeable to water.
+    **Answer: A**
+
+16. A: In diabetes insipidus, urine osmolality is low. R: ADH secretion is increased in diabetes insipidus.
+    **Answer: C**
+
+17. A: Sweating leads to loss of both water and electrolytes. R: Sweat is a hypertonic fluid.
+    **Answer: C**
+
+18. A: Aldosterone increases sodium reabsorption in distal nephron. R: It increases activity of Na+/K+ ATPase on apical membrane.
+    **Answer: C**
+
+19. A: Skin blood flow increases in hot environments. R: Vasoconstriction of cutaneous vessels helps lose heat.
+    **Answer: D**
+
+20. A: Angiotensin II stimulates aldosterone secretion. R: Angiotensin II acts directly on adrenal cortex zona glomerulosa.
+    **Answer: A**
+
+**Case scenario:**
+21. Primary stimulus for ADH release: A) Hypokalemia B) Hyperosmolarity C) Low blood glucose D) High plasma calcium
+    **Answer: B**
+22. ADH acts on which part of the nephron? A) Proximal tubule B) Loop of Henle C) Distal convoluted tubule D) Collecting duct
+    **Answer: D**
+23. Which aquaporin is inserted by ADH? A) Aquaporin-1 B) Aquaporin-2 C) Aquaporin-3 D) Aquaporin-4
+    **Answer: B**
+24. In this case, urine is: A) Dilute and hypoosmolar B) Dilute and hyperosmolar C) Concentrated and hyperosmolar D) Concentrated and hypoosmolar
+    **Answer: C**
+25. The absence of ADH action would lead to: A) Oliguria B) Polyuria C) Hyperkalemia D) Hypocalcemia
+    **Answer: B**
+
+---
+
+## 5. Gastrointestinal System (Starts at line 383)
+
+**Case scenario:**
+1. Probable cause of acid peptic disease: a) Stress induced excess acid production b) Stress induced excess intrinsic factor c) Increased lipase secretion d) Increased somatostatin secretion
+   **Answer: a**
+2. Gastric mucosal cell that secretes HCl: a) Gastric cells b) Peptic cells c) Chief cells d) Parietal cells
+   **Answer: d**
+3. Proton pump that plays major role in acid secretion: a) Na+K+ATPase b) H+K+ATPase c) Na+H+ATPase d) H+Ca+ATPase
+   **Answer: b**
+4. Peptic ulcer disease strongly associated with: a) Helicobacter pylori b) H. baculiformis c) H. suis d) H. equorum
+   **Answer: a**
+5. Factor that inhibits HCl secretion: a) Vagal stimulation b) Somatostatin c) Gastrin d) Histamine
+   **Answer: b**
+
+6. (A): Achalasia cardia is a lower esophageal sphincter disorder with dysphagia. (R): Cause is excess secretion of VIP and nitric oxide.
+   **Answer: C**
+7. (A): Pattern of motor activity during fed state is called migratory motor complex. (R): Motilin is mainly responsible for MMC.
+   **Answer: D**
+8. A: Secretin inhibits gastric acid secretion. R: Secretin stimulates bicarbonate-rich pancreatic juice.
+   **Answer: B**
+9. A: Gastrin increases motility of stomach. R: Gastrin activates enterogastric reflex.
+   **Answer: C**
+10. A: Fat in duodenum delays gastric emptying. R: Cholecystokinin (CCK) inhibits gastric motility.
+    **Answer: A**
+11. (A): Gastric acid secretion is stimulated during cephalic phase. (R): Sight, smell, or thought of food activates vagal stimulation.
+    **Answer: A**
+
+12. Protein splitting enzymes of pancreas are: 1) Carboxypeptidase 2) Elastase 3) Cholesterol esterase 4) Trypsin
+    a) 1,2,4 b) 2,3,4 c) 1,3,4 d) 1,2,3
+    **Answer: a**
+13. Pancreatic enzymes that are secreted in inactive form? (question missing but answer likely a)
+14. Surgical removal of 90% of small intestine may cause decrease in: 1) Bone mineralization 2) Fat content of stools 3) Blood hemoglobin 4) Body weight
+    a) 1,2,3 b) 2,3,4 c) 1,3,4 d) 1,2,4
+    **Answer: c**
+15. Actions of Cholecystokinin (CCK): a) Stimulates gallbladder contraction b) Inhibits gastric emptying c) Stimulates pancreatic enzyme secretion d) Increases gastric acid secretion
+    **Answer: a, b, c**
+16. Factors influencing gastric emptying: a) Osmolarity of chyme b) Volume of gastric contents c) Type of nutrients in chyme d) Secretion of intrinsic factor
+    **Answer: a, b, c**
+17. Functions of large intestine: 1) Absorption of water 2) Absorption of short-chain fatty acids 3) Secretion of digestive enzymes 4) Formation of feces
+    a) 1,2,4 b) 1,3,4 c) 2,3,4 d) 1,2,3
+    **Answer: a**
+18. Functions of liver: 1) Bile production 2) Detoxification of drugs 3) Storage of vitamins and glycogen 4) Secretion of intrinsic factor
+    a) 1,2,3 b) 1,2,4 c) 2,3,4 d) 1,3,4
+    **Answer: a**
+
+19. Pernicious anemia is caused due to deficiency of: a) Vitamin B6 b) Vitamin B12 c) Vitamin B2 d) Vitamin B1
+    **Answer: b**
+20. Cholagogues are substances that cause: a) Contraction of gallbladder b) Increase bile secretion c) Concentrate bile d) Acidify bile
+    **Answer: a**
+21. Which cells secrete intrinsic factor? a) Chief cells b) Parietal cells c) G-cells d) D-cells
+    **Answer: b**
+22. Migrating motor complex (MMC) occurs: a) During fed state b) After vomiting c) During fasting state d) During defecation
+    **Answer: c**
+23. Hormone primarily responsible for stimulating acid secretion in stomach: a) Secretin b) Somatostatin c) Gastrin d) Motilin
+    **Answer: c**
+24. Segmentation movements in small intestine are primarily responsible for: a) Propulsion of food b) Digestion of proteins c) Mixing of chyme with digestive juices d) Absorption of vitamins
+    **Answer: c**
+25. Primary site for iron absorption in GIT: a) Stomach b) Duodenum c) Ileum d) Colon
+    **Answer: b**
+
+---
+
+## 6. General Physiology; Growth and Development (Starts at line 460)
+
+**Case scenario:**
+1. Which hormone is most likely elevated? A) Prolactin B) Somatotropin C) Cortisol D) TSH
+   **Answer: B**
+2. Term for excessive growth before epiphyseal closure: A) Acromegaly B) Gigantism C) Marfan Syndrome D) Cushing Syndrome
+   **Answer: B**
+3. Which organ is primarily affected? A) Thyroid B) Adrenal C) Pituitary D) Pancreas
+   **Answer: C**
+4. What type of feedback normally regulates this hormone's secretion? A) Positive B) Negative C) Feedforward D) No feedback
+   **Answer: B**
+5. Which hypothalamic hormone stimulates release of the elevated hormone? A) TRH B) CRH C) GnRH D) GHRH
+   **Answer: D**
+
+6. Which is a direct effect of growth hormone? A. Decreased protein synthesis B. Increased glucose uptake C. Increased lipolysis in adipose tissue D. Closure of epiphyseal plates
+   **Answer: C**
+7. Example of negative feedback mechanism: A. Blood clotting B. Oxytocin during childbirth C. Regulation of blood glucose by insulin D. Nerve impulse generation
+   **Answer: C**
+8. Percentage of total body weight made up by intracellular fluid (ICF)? A. 10% B. 20% C. 40% D. 60%
+   **Answer: C**
+9. Which transport mechanism requires ATP? A. Facilitated diffusion B. Simple diffusion C. Active transport D. Osmosis
+   **Answer: C**
+10. Hormone primarily responsible for postnatal growth spurt during adolescence: A. Cortisol B. Growth hormone C. Thyroxine D. Insulin
+    **Answer: B**
+11. Component of cell membrane primarily responsible for selective permeability: A. Cholesterol B. Phospholipids C. Carbohydrates D. Ribosomes
+    **Answer: B**
+12. Which occurs by facilitated diffusion? A. Sodium-potassium pump B. Water movement C. Glucose entry via GLUT transporters D. Calcium release from SR
+    **Answer: C**
+13. Hormone primarily stimulating longitudinal bone growth: A) Thyroxine B) Somatotropin C) Cortisol D) Insulin
+    **Answer: B**
+14. Predominant intracellular cation: A) Sodium B) Potassium C) Calcium D) Magnesium
+    **Answer: B**
+15. Term describing maintenance of stable internal environment: A) Homeostasis B) Equilibrium C) Feedback loop D) Regulation
+    **Answer: A**
+16. Main site of regulation for water balance: A) Kidneys B) Hypothalamus C) Pituitary D) Adrenals
+    **Answer: A**
+17. Hormone responsible for stimulating IGF-1 production in liver: A) Insulin B) Growth hormone C) Cortisol D) Thyroid hormone
+    **Answer: B**
+18. Which organ controls circadian rhythm influencing GH secretion? A) Pineal gland B) Hypothalamus C) Pituitary D) Adrenal
+    **Answer: B**
+19. Fluid between cells in tissues called: A) Plasma B) Lymph C) Interstitial fluid D) Intracellular fluid
+    **Answer: C**
+20. Which feedback mechanism involved in parturition? A) Negative B) Positive C) Neutral D) Inhibitor
+    **Answer: B**
+
+21. A: Growth hormone increases blood glucose levels. R: GH promotes glucose uptake by muscle and adipose tissue.
+    **Answer: C**
+22. A: Osmosis is movement of water across semipermeable membrane. R: Osmosis occurs due to concentration gradient of solute.
+    **Answer: A**
+23. A: Negative feedback helps maintain physiological parameters within normal range. R: It amplifies the initial stimulus to restore homeostasis.
+    **Answer: C**
+24. Gigantism occurs due to excess GH before epiphyseal closure. R: After epiphyseal closure, excess GH causes dwarfism.
+    **Answer: C**
+25. A: Sodium-potassium pump maintains resting membrane potential. R: It transports 3 Na+ out and 2 K+ into cell using ATP.
+    **Answer: A**
+
+---
+
+## 7. Neurophysiology (Starts at line 549)
+
+1. Primary ion responsible for resting membrane potential of neurons:
+   A) Sodium (Na+) B) Potassium (K+) C) Calcium (Ca²+) D) Chloride (Cl-)
+   **Answer: B**
+
+2. Absolute refractory period occurs because:
+   A) All potassium channels closed B) Sodium inactivation gates still closed C) Calcium channels open D) Membrane hyperpolarized
+   **Answer: B**
+
+3. Saltatory conduction occurs in:
+   A) Unmyelinated fibers B) Dendrites only C) Myelinated axons D) Synaptic clefts
+   **Answer: C**
+
+4. Which neurotransmitter is primarily excitatory in CNS?
+   A) GABA B) Glycine C) Acetylcholine D) Glutamate
+   **Answer: D**
+
+5. In a typical motor neuron, action potential usually originates at:
+   A) Axon terminal B) Dendrite C) Soma D) Axon hillock
+   **Answer: D**
+
+6. Limbic system is mainly involved in:
+   A. Vision B. Memory and emotions C. Auditory processing D. Motor control
+   **Answer: B**
+
+7. Feature of lower motor neuron lesion:
+   A. Spasticity B. Clonus C. Flaccid paralysis D. Positive Babinski sign
+   **Answer: C**
+
+8. Role of Renshaw cell in spinal cord:
+   A) Facilitates motor neuron excitation B) Inhibits gamma motor neurons C) Provides recurrent inhibition to alpha motor neurons D) Enhances sensory input
+   **Answer: C**
+
+9. Renshaw cell inhibition is an example of:
+   A. Negative feedback inhibition B. Positive feedback inhibition C. Postsynaptic inhibition D. Feedforward inhibition
+   **Answer: A**
+
+10. Dorsal root sensory and ventral root motor is called:
+    A. Weber-Fechner law B. Muller's doctrine of nerve energy C. Bell-Magendie law D. Rexed laminar principle
+    **Answer: C**
+
+11. Functions of basal ganglia include:
+    A. Righting reflex B. Skilled movements C. Memory D. Maintenance of equilibrium
+    **Answer: B**
+
+12. Angular rotation of head is detected by:
+    A. Utricle B. Saccule C. Cochlea D. Semicircular canals
+    **Answer: D**
+
+13. Sleep spindles and K-complexes are seen in:
+    A. REM sleep B. Stage II NREM sleep C. Stage IV NREM sleep D. Stage I NREM sleep
+    **Answer: B**
+
+**Case scenarios:**
+14. Most likely site of lesion: A) Right cerebral cortex B) Left cerebral cortex C) Right spinal cord D) Left cerebellum
+    **Answer: B**
+15. Likely diagnosis: A) Brown-Sequard syndrome B) Central cord syndrome C) Anterior cord syndrome D) Posterior cord syndrome
+    **Answer: A**
+16. Which neurotransmitter receptor affected? A) GABA receptor B) NMDA receptor C) Nicotinic acetylcholine receptor D) Muscarinic acetylcholine receptor
+    **Answer: C**
+17. Part of brain primarily affected in Parkinson's? A) Cerebellum B) Hippocampus C) Basal ganglia D) Thalamus
+    **Answer: C**
+18. Diagnosis: A) Tonic-clonic seizure B) Myoclonic seizure C) Absence seizure D) Temporal lobe epilepsy
+    **Answer: C**
+19. Rapid hand withdrawal from hot object mediated by: A) Corticospinal tract B) Spinothalamic tract C) Reflex arc D) Reticulospinal tract
+    **Answer: C**
+20. Which part of cerebellum likely involved in dysdiadochokinesia? A) Flocculonodular lobe B) Vermis C) Dentate nucleus D) Lateral cerebellar hemisphere
+    **Answer: D**
+
+21. A: Resting membrane potential maintained primarily by Na+/K+ pump. R: Pump transports 3 Na+ out and 2 K+ in, contributing to negative charge inside.
+    **Answer: A**
+22. A: Saltatory conduction is faster than continuous conduction. R: Myelin sheaths increase membrane permeability to ions.
+    **Answer: A**
+23. A: EPSPs can summate to initiate action potential. R: EPSPs increase membrane permeability to potassium ions.
+    **Answer: A**
+24. A: Inhibitory neurotransmitters cause hyperpolarization. R: They open Cl- or K+ channels.
+    **Answer: A**
+25. A: Absolute refractory period prevents second action potential immediately. R: During this period, most voltage-gated Na+ channels are inactivated.
+    **Answer: A**
+
+---
+
+## 8. Special Senses (Starts at line 634)
+
+1. Light-sensitive part of retina: A. Optic disc B. Fovea centralis C. Macula lutea D. Photoreceptor layer
+   **Answer: D**
+
+2. Responsible for night vision: A. Rods B. Cones C. Ganglion cells D. Bipolar cells
+   **Answer: A**
+
+3. Visual acuity highest at: A. Optic disc B. Peripheral retina C. Fovea centralis D. Blind spot
+   **Answer: C**
+
+4. Receptor for hearing located in: A. Utricle B. Saccule C. Organ of Corti D. Semicircular canals
+   **Answer: C**
+
+5. Basilar membrane vibration most affected by: A. Sound frequency B. Sound amplitude C. Middle ear pressure D. Endolymph flow
+   **Answer: A**
+
+6. Part of inner ear detecting angular acceleration: A. Utricle B. Saccule C. Semicircular canals D. Cochlea
+   **Answer: C**
+
+7. Olfactory receptors located on: A. Nasal septum B. Maxillary sinus C. Superior nasal concha D. Inferior nasal concha
+   **Answer: C**
+
+8. Neurotransmitter involved in olfactory transmission mainly: A. Dopamine B. Acetylcholine C. Glutamate D. Serotonin
+   **Answer: C**
+
+9. Which taste is mediated by GPCRs? A. Sour B. Salty C. Bitter D. Acid
+   **Answer: C**
+
+10. Cranial nerves carrying taste sensation include all except: A. Facial nerve B. Glossopharyngeal nerve C. Hypoglossal nerve D. Vagus nerve
+    **Answer: C**
+
+**Case scenario:**
+11. Most likely location of lesion for visual field defect: A. Left optic tract B. Optic chiasma C. Right lateral geniculate body D. Visual cortex
+    **Answer: B**
+12. Pupillary light reflex intact because: A. Reflex mediated through lateral geniculate body B. Macula spared C. Reflex uses uncrossed temporal fibers D. Reflex arc bypasses visual cortex and uses pretectal nucleus
+    **Answer: D**
+13. Rinne and Weber tests suggest: A. Bilateral sensorineural hearing loss B. Bilateral conductive loss C. Unilateral sensorineural loss D. Normal hearing
+    **Answer: A**
+14. Imbalance and positive Romberg due to: A. Cerebellar lesion B. Semicircular canal defect C. Vestibular pathway involvement D. Posterior column lesion
+    **Answer: C**
+15. Structure common to visual, auditory, and vestibular pathways: A. Superior colliculus B. Inferior colliculus C. Thalamus D. Medial longitudinal fasciculus (MLF)
+    **Answer: C**
+16. Most likely site of lesion (loss of right half of visual field of both eyes): A. Right optic nerve B. Optic chiasma C. Left optic tract D. Right visual cortex
+    **Answer: C**
+17. Most likely damaged structure (loss of direct light reflex in right eye but consensual present): A. Right optic nerve B. Right oculomotor nerve C. Left optic nerve D. Left oculomotor nerve
+    **Answer: A**
+18. Which nerve likely involved (loss of taste on anterior two-thirds of tongue after middle ear infection)? A. Glossopharyngeal nerve B. Chorda tympani C. Lingual nerve D. Facial nerve proper
+    **Answer: B**
+19. Most likely affected structure (difficulty localizing sound source after stroke, audiometry normal): A. Cochlear nucleus B. Medial geniculate body C. Superior olivary complex D. Inferior colliculus
+    **Answer: C**
+20. Most likely involved structure (vertigo, unsteady gait, absent caloric response on left): A. Left cochlear nerve B. Right vestibular nucleus C. Left semicircular canals D. Left inferior colliculus
+    **Answer: C**
+
+21. A: Utricle and saccule detect static equilibrium. R: They contain maculae sensitive to linear acceleration and head position.
+    **Answer: A**
+22. A: 11-cis-retinaldehyde combines with opsin to make rhodopsin. R: 11-cis-retinol is converted to 11-cis-retinal which combines with scotopsin to form rhodopsin.
+    **Answer: A**
+23. (A): Auditory information relayed through lateral geniculate body. (R): LGN is located in thalamus.
+    **Answer: D**
+24. (A): Amplitude of basilar membrane vibration increases, sound perceived as loud. (R): Increased amplitude stimulates more hair cells on fringes.
+    **Answer: A**
+25. (A): Umami taste triggered by sodium chloride. (R): Salt and sour mediated through epithelial sodium channels.
+    **Answer: D**
+
+---
+
+## 9. Nerve Muscle Physiology & Autonomic Nervous System (Starts at line 724)
+
+1. Ion primarily responsible for depolarization phase of action potential in nerve fiber: a) Calcium b) Sodium c) Potassium d) Chloride
+   **Answer: b**
+
+2. Role of Na+/K+ ATPase pump in resting membrane potential: a) Generates action potential b) Maintains intracellular calcium c) Restores ionic gradient after action potential d) Maintains RMP by pumping 3 Na+ out and 2 K+ in
+   **Answer: d**
+
+3. Neurotransmitter released by all preganglionic neurons in autonomic nervous system: a) Dopamine b) Norepinephrine c) Acetylcholine d) GABA
+   **Answer: c**
+
+4. End-plate potential at neuromuscular junction mainly caused by: a) Potassium influx b) Chloride influx c) Calcium efflux d) Sodium influx
+   **Answer: d**
+
+5. Which muscle shows spontaneous rhythmic contractions? a) Skeletal b) Cardiac c) Smooth d) Both b and c
+   **Answer: d**
+
+6. Receptor mediating parasympathetic effects on heart: a) Alpha-1 adrenergic b) Beta-1 adrenergic c) Muscarinic (M2) d) Nicotinic
+   **Answer: c**
+
+7. Which nerve fiber has fastest conduction velocity? a) C fibers b) B fibers c) A-alpha fibers d) A-delta fibers
+   **Answer: c**
+
+8. Structure storing calcium in skeletal muscle: a) Sarcolemma b) Sarcoplasmic reticulum c) T-tubule d) Actin filament
+   **Answer: b**
+
+9. Part of ANS responsible for "fight or flight": a) Parasympathetic b) Enteric c) Sympathetic d) Somatic
+   **Answer: c**
+
+10. In smooth muscle contraction, calcium binds to which protein? a) Troponin b) Tropomyosin c) Calmodulin d) Actin
+    **Answer: c**
+
+**Case scenarios:**
+11. Type of receptor blockade likely responsible for dry mouth, blurred vision, tachycardia after toxic plant: a) Nicotinic b) Beta-adrenergic c) Muscarinic d) Alpha-adrenergic
+    **Answer: c**
+12. Physiological factor most likely contributing to muscle fatigue after repeated contractions: a) Decreased ACh at NMJ b) Accumulation of sodium ions c) Depletion of ATP or accumulation of lactic acid d) Excessive calcium influx into SR
+    **Answer: c**
+13. Which neurotransmitter's release inhibited by botulinum toxin? a) Dopamine b) Norepinephrine c) Acetylcholine d) GABA
+    **Answer: c**
+14. Which receptor targeted to block neuromuscular transmission during surgery? a) Muscarinic b) Adrenergic c) Nicotinic at NMJ d) GABA
+    **Answer: c**
+15. Hypertensive patient treated with beta-blocker – which function most directly affected? a) Increased peripheral resistance b) Decreased heart rate and contractility c) Bronchodilation d) Increased renin secretion
+    **Answer: b**
+
+16. A: Sympathetic stimulation causes bronchodilation. R: Beta-2 adrenergic receptors on bronchial smooth muscle.
+    **Answer: A**
+17. A: Skeletal muscle can contract in absence of extracellular calcium. R: Skeletal muscle relies on intracellular calcium release from SR.
+    **Answer: A**
+18. A: Nerve action potentials conducted unidirectionally. R: Absolute refractory period prevents retrograde conduction.
+    **Answer: A**
+19. A: Smooth muscle contraction slower than skeletal. R: Smooth muscle lacks troponin and uses different calcium-calmodulin pathway.
+    **Answer: A**
+20. A: Parasympathetic stimulation increases heart rate. R: It activates muscarinic M2 receptors in SA node.
+    **Answer: D**
+
+---
+
+## 10. Endocrine Physiology (Starts at line 799)
+
+1. Which hormone is derived from cholesterol?
+   A. Insulin B. Thyroxine C. Cortisol D. Glucagon
+   **Answer: C**
+
+2. Which second messenger is involved in action of ADH on renal tubules?
+   A. IP3 B. cAMP C. DAG D. cGMP
+   **Answer: B**
+
+3. Which hormone increases blood calcium by stimulating bone resorption?
+   A. Calcitonin B. Parathyroid hormone C. Insulin D. Vitamin D
+   **Answer: B**
+
+4. Which part of pituitary gland secretes ACTH?
+   A. Posterior pituitary B. Anterior pituitary C. Intermediate lobe D. Hypothalamus
+   **Answer: B**
+
+5. Hormone primarily responsible for basal metabolic rate:
+   A. Cortisol B. Growth hormone C. Thyroxine D. Insulin
+   **Answer: C**
+
+6. Which is NOT an effect of growth hormone?
+   A. Lipolysis B. Increased protein synthesis C. Decreased blood glucose D. Stimulates bone growth
+   **Answer: C**
+
+7. Which hormone uses tyrosine kinase as its mechanism of action?
+   A. Cortisol B. Insulin C. Glucagon D. Epinephrine
+   **Answer: B**
+
+8. Which hormone is stored in secretory granules before release?
+   A. Cortisol B. T3 C. Insulin D. Aldosterone
+   **Answer: C**
+
+9. Hormone primarily regulated by negative feedback via blood osmolality:
+   A. ACTH B. TSH C. ADH D. PTH
+   **Answer: C**
+
+10. Which increases TSH secretion?
+    A. Elevated T3 levels B. Stress C. TRH from hypothalamus D. High body temperature
+    **Answer: C**
+
+11. A: Insulin promotes glucose uptake in skeletal muscles. R: Insulin increases GLUT-4 transporter translocation.
+    **Answer: A**
+12. A: Aldosterone increases sodium reabsorption in kidneys. R: Aldosterone acts on proximal convoluted tubule.
+    **Answer: C**
+13. A: Parathyroid hormone increases calcium absorption from intestines. R: PTH directly acts on intestinal mucosa.
+    **Answer: C**
+14. A: Growth hormone causes increased plasma glucose levels. R: GH inhibits hepatic gluconeogenesis.
+    **Answer: C**
+15. A: ADH increases water reabsorption in kidneys. R: ADH activates aquaporin-2 channels in DCT.
+    **Answer: B**
+
+16. Likely diagnosis (low BP, high renin, low aldosterone): A. Conn's syndrome B. Addison's disease C. Cushing's syndrome D. Hypopituitarism
+    **Answer: B**
+17. Most likely deficient hormone (short stature, normal intelligence, low GH): A. Thyroxine B. Cortisol C. Growth hormone D. Insulin
+    **Answer: C**
+18. Most likely condition (exophthalmos, weight loss, heat intolerance, low TSH, high T3/T4): A. Hashimoto's B. Graves' disease C. Subacute thyroiditis D. Pituitary adenoma
+    **Answer: B**
+19. Most likely deficient hormone (head injury, polyuria, dilute urine): A. Aldosterone B. Cortisol C. ADH D. Thyroxine
+    **Answer: C**
+20. Likely cause (diabetic given insulin becomes unconscious): A. DKA B. Hypoglycemia C. Hyperosmolar coma D. Insulin resistance
+    **Answer: B**
+21. Most likely cause (postmenopausal, high calcium, low PTH): A. Vitamin D deficiency B. Primary hyperparathyroidism C. Malignancy-associated hypercalcemia D. CKD
+    **Answer: C**
+22. Increased secretion of which hormone in gigantism? A. Insulin B. Growth hormone C. Cortisol D. TSH
+    **Answer: B**
+23. What syndrome does high ACTH and high cortisol represent? A. Addison's disease B. Conn's syndrome C. Cushing's disease D. Cushing's syndrome due to adrenal tumor
+    **Answer: C**
+24. Physiological basis for increased TSH in cold exposure: A. TRH stimulation from hypothalamus B. ACTH release C. Suppression of PTH D. Insulin inhibition
+    **Answer: A**
+25. Which hormone likely deficient after thyroid surgery causing recurrent tetany? A. Thyroxine B. Aldosterone C. Parathyroid hormone D. Calcitonin
+    **Answer: C**
+
+---
+
+## 11. Reproductive System (Starts at line 872)
+
+1. Which hormone triggers ovulation?
+   A. FSH B. LH C. Estrogen D. Progesterone
+   **Answer: B**
+
+2. Site of fertilization in female reproductive tract:
+   A. Uterus B. Vagina C. Isthmus of fallopian tube D. Ampulla of fallopian tube
+   **Answer: D**
+
+3. Main hormone responsible for maintenance of pregnancy:
+   A. Estrogen B. LH C. Progesterone D. FSH
+   **Answer: C**
+
+4. Spermatogenesis is primarily regulated by:
+   A. FSH B. LH C. Testosterone D. Inhibin
+   **Answer: A**
+
+5. Acrosome of sperm is derived from:
+   A. Mitochondria B. Golgi apparatus C. Nucleus D. Centriole
+   **Answer: B**
+
+6. Menstrual bleeding occurs due to:
+   A. LH surge B. Estrogen drop C. Progesterone withdrawal D. Ovulation
+   **Answer: C**
+
+7. Functions of testosterone include:
+   A. Spermatogenesis B. Male secondary sexual characters C. Regulation of menstrual cycle D. Increased muscle mass
+   **Answer: A, B, D**
+
+8. Features of estrogen:
+   A. Promotes endometrial proliferation B. Stimulates LH surge C. Inhibits milk production D. Increases cervical mucus fluidity
+   **Answer: A, B, D**
+
+9. Hormones secreted by placenta:
+   A. hCG B. hPL C. Estrogen D. FSH
+   **Answer: A, B, C**
+
+10. Sertoli cells perform which functions?
+    A. Support spermatogenesis B. Form blood-testis barrier C. Secrete inhibin D. Produce testosterone
+    **Answer: A, B, C**
+
+11. Effects of progesterone:
+    A. Thickening of cervical mucus B. Inhibition of uterine contractions C. Promotes follicular maturation D. Supports implantation
+    **Answer: A, B, D**
+
+12. Functions of oxytocin include:
+    A. Milk ejection B. Milk production C. Uterine contractions during labor D. Spermatogenesis
+    **Answer: A, C**
+
+13. A: LH surge causes ovulation. R: LH increases follicular growth.
+    **Answer: C**
+14. A: FSH stimulates Sertoli cells. R: Sertoli cells support spermatogenesis.
+    **Answer: A**
+15. A: Progesterone is high during follicular phase. R: Progesterone is secreted by corpus luteum.
+    **Answer: D**
+16. A: hCG maintains corpus luteum during early pregnancy. R: hCG is secreted by syncytiotrophoblast.
+    **Answer: A**
+17. A: Oxytocin causes uterine relaxation. R: It acts via G-protein coupled receptors.
+    **Answer: D**
+18. A: Estrogen levels are low during ovulation. R: Estrogen causes LH surge.
+    **Answer: D**
+
+**Case scenarios:**
+19. Most likely cause of amenorrhea and galactorrhea with high prolactin: A. PCOS B. Hyperprolactinemia due to pituitary adenoma C. Hypothyroidism D. Ovarian cyst
+    **Answer: B**
+20. Most likely endocrine condition (hirsutism, irregular periods, obesity): A. PCOS B. Cushing's syndrome C. Congenital adrenal hyperplasia
+    **Answer: A**
+21. Hormone primarily responsible for increased uterine contractions in third trimester: A. Oxytocin B. Progesterone C. Estrogen D. hCG
+    **Answer: A**
+22. Most probable diagnosis (low sperm count, decreased libido, high FSH/LH): A. Hyperthyroidism B. Pituitary adenoma C. Primary hypogonadism D. Secondary hypogonadism
+    **Answer: C**
+23. Which hormone likely deficient (normal ovulation but implantation fails)? A. Estrogen B. Progesterone C. Oxytocin D. Prostaglandin
+    **Answer: B**
+24. Probable diagnosis (newborn with ambiguous genitalia and salt-wasting): A. Androgen insensitivity syndrome B. Turner syndrome C. Congenital adrenal hyperplasia D. Klinefelter syndrome
+    **Answer: C**
+25. Why sperm count drops after exogenous testosterone? A. Direct toxic effect B. Increased estrogen C. Testicular atrophy D. Negative feedback suppression of FSH and LH
+    **Answer: D**
+
+---
