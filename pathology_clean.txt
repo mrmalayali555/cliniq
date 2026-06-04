@@ -1,0 +1,5031 @@
+# PATHOLOGY MCQs
+
+1. An example of a tissue or organ composed of Permenant Parenchymal cells is:
+   a) Liver
+   b) Bone Marrow
+   c) Small Intestinal Mucosa
+   d) Heart
+   e) Renal Tubules
+   **Answer: D**
+
+2. The type of necrosis that occurs in Peripancreatic tissue in Acute Pancreatitis is:
+   a) Liquefaction
+   b) Fat
+   c) Coagulation
+   d) Gummatous
+   e) Fibrinoid
+   **Answer: B**
+
+3. Change of Columnar Epithelium of the Bronchi into Mature Squamous Epithelium is called:
+   a) Metaplasia
+   b) Dysplasia
+   c) Hyperplasia
+   d) Neoplasia
+   e) Hypertrophy
+   **Answer: A**
+
+4. Metastatic Calcification:
+   a) Is due to hypercalcemia
+   b) Is due to hypocalcemia
+   c) Occurs in Necrotic Tissue
+   d) Occurs at sites of Chronic Inflammation
+   e) Is due to malignancy
+   **Answer: A**
+
+5. Which of the following is a feature of Irreversible Cell Injury:
+   a) Glycogen stores are depleted
+   b) Cytoplasmic sodium increases
+   c) Nuclei undergo karyorrhexis
+   d) Intracellular pH diminishes
+   e) Blebs form on cell membranes
+   **Answer: C**
+
+6. Which of the following processes that occur in the breast allows a mother to feed the infant:
+   a) Stromal hypertrophy
+   b) Epithelial dysplasia
+   c) Steatocyte atrophy
+   d) Ductul epithelial metaplasia
+   e) Lobular hyperplasia
+   **Answer: E**
+
+7. An Amputated lower limb from a diabetic patient showing black discoloration of the skin and soft tissues with areas of yellowish exudates is characterized as:
+   a) Neoplasia
+   b) Gangrenous Necrosis
+   c) Coagulopathy
+   d) Hemosiderosis
+   e) Gas gangrene
+   **Answer: B**
+
+8. Focal fat necrosis, with flecks of chalky tan-white material seen in the omentum is most often associated with the following:
+   a) Gangrenous appendicitis
+   b) Chronic salpingitis
+   c) Acute pancreatitis
+   d) Hepatitis
+   e) Acute gastritis
+   **Answer: C**
+
+9. In a 60 year old male, Gangrene of toes is most likely associated with:
+   a) Diabetes Mellitus
+   b) Heart Failure
+   c) Blunt force trauma
+   d) AIDS
+   e) Type III hypersensitivity reaction
+   **Answer: A**
+
+10. The presence of Columnar Epithelium with Goblet cells in the Lower Oesophagus is most consistent with:
+   a) Dysplasia
+   b) Hyperplasia
+   c) Carcinoma
+   d) Ischaemia
+   e) Metaplasia
+   **Answer: E**
+
+11. Which of the following processes explain the appearance of Calcium deposition in Tuberculous Lymph Nodes:
+   a) Dystrophic calcification
+   b) Apoptosis
+   c) Hypercalcaemia
+   d) Metastatic calcification
+   e) Neoplastic change
+   **Answer: A**
+
+12. Lipofuscin deposition is most likely to result from:
+   a) Nuclear pyknosis
+   b) Myocardial fiber hypertrophy
+   c) Coagulative necrosis
+   d) Autophagocytosis
+   e) Anaerobic glycolysis
+   **Answer: D**
+
+13. Which of the following cellular changes is most likely to present irreversible cellular injury:
+   a) Epithelial dysplasia
+   b) Cytoplasmic fatty metamorphosis
+   c) Nuclear pyknosis
+   d) Atrophy
+   e) Anaerobic Glycolysis
+   **Answer: C**
+
+14. Which of the following is an Anti-Oxidant:
+   a) Glutathione Peroxidase
+   b) Catalase
+   c) Hydrogen peroxide
+   d) NADPH oxidase
+   e) Myeloperoxidase
+   **Answer: E**
+
+15. Which of the following is the most likely pathologic alteration following occlusion of the left middle cerebral artery by a sterile thrombus:
+   a) Cerebral softening from liquefactive necrosis
+   b) Pale infarction with coagulative necrosis
+   c) Predominantly the loss of glial cells
+   d) Recovery of damaged neurons if the vascular supply is re-established
+   e) Wet gangrene with secondary bacterial infection
+   **Answer: A**
+
+16. The action of putrefactive bacteria on necrotic tissue results in:
+   a) Coagulation
+   b) Infarction
+   c) Gangrene
+   d) Embolism
+   e) Caseation
+   **Answer: C**
+
+17. Which of the following type of necrosis is most commonly associated with ischaemic injury:
+   a) Coagulation Necrosis
+   b) Liquefaction Necrosis
+   c) Caseous Necrosis
+   d) Fat Necrosis
+   e) Gangrenous Necrosis
+   **Answer: E**
+
+18. Hepatocytes are an example of:
+   a) Permenant cells
+   b) Stable cells
+   c) Labile cells
+   d) Metaplasia
+   e) Mesenchymal cells
+   **Answer: B**
+
+19. Calcium may play a role in cell injury by:
+   a) Causing ATP depletion
+   b) Activating phospholipases
+   c) Inducing autophagocytosis
+   d) Regulating pyknosis
+   e) Reducing intracellular pH
+   **Answer: B**
+
+20. A common manifestation of sublethal cell injury (reversible injury) in organs such as the heart and liver is:
+   a) Glycogen accumulation
+   b) Fatty change
+   c) Calcium deposition
+   d) Apoptosis
+   e) Deposition of melanin
+   **Answer: C**
+
+21. An area of keratinizing squamous epithelium lining a major bronchus is an example of:
+   a) Heterotopia
+   b) Metaplasia
+   c) Dysplasia
+   d) Atrophy
+   e) Neoplasia
+   **Answer: B**
+
+22. The enzymes responsible for liquefaction in an abscess are derived mainly from:
+   a) Tissue
+   b) Serum
+   c) Lymph
+   d) Neutrophils
+   e) Lymphocytes
+   **Answer: D**
+
+23. Each of the following is an example of hyperplasia except: hormones
+   a) Enlargement of one kidney after surgical removal of the other kidney
+   b) Changes in the thyroid gland in response to increased demand for thyroid
+   c) Changes in breast tissue during pregnancy
+   d) Enlargement of lymph nodes during a viral infection
+   e) Enlargement of skeletal muscles after weight training
+   **Answer: E**
+
+24. Select the wrong statement. Apoptosis:
+   a) Occurs in singles cells or in small cluster of cells
+   b) Is programmed cell death
+   c) Is seen in toxic or viral hepatitis
+   d) Appears cheesy in appearance
+   e) Does not elicit an inflammatory reaction
+   **Answer: D**
+
+25. Intracellular system(s) sensitive to cell injury is/are:
+   a) Aerobic respiration
+   b) Maintenance of the integrity of cell membrane
+   c) Synthesis of protein
+   d) Integrity of genetic apparatus
+   e) All of the above
+   **Answer: E**
+
+26. Which of the following can undergo apoptosis:
+   a) Cells infected with virus
+   b) Cells with DNA damage
+   c) Increased oxidant within the cell
+   d) None of the above
+   e) All of the above
+   **Answer: E**
+
+27. Apoptosis:
+   a) Massive necrosis
+   b) Foreign body phagocytosis
+   c) Lipoprotein synthesis
+   d) Programmed cell death
+   e) Wet gangrene
+   **Answer: D**
+
+28. Enzymes involved in the inactivation of free radicals include:
+   a) Superoxide dismutase
+   b) Vitamin E
+   c) Both A an B
+   d) Neither A nor B
+   e) -antitrypsin
+   **Answer: A**
+
+29. The following is true about hyperplasia except:
+   a) Can be physiological
+   b) Is a precancerous condition
+   c) Is reversible
+   d) Is due to excess hormone stimulation
+   e) Can be associated with hypertrophy
+   **Answer: B**
+
+30. Early clumping of nuclear chromatin is most closely associated with:
+   a) Reduced intracellular pH
+   b) Increased intracellular pH
+   c) Denatured proteins and RNA loss
+   d) Decreased DNA synthesis
+   e) Release of lysosomal enzymes
+   **Answer: A**
+
+31. Digestion of tissue with soap formation and calcification is characteristic of:
+   a) Coagulation Necrosis
+   b) Caseous Necrosis
+   c) Fibrinoid Necrosis
+   d) Liquefaction Necrosis
+   e) Enzymatic Fat Necrosis
+   **Answer: E**
+
+32. All of the following findings represent changes seen within cells that represent reversible cellular injury, except:
+   a) Fatty change in hepatocytes
+   b) Neuronal cell swelling
+   c) Skeletal muscle fiber anaerobic glycolysis
+   d) Renal tubular cell nuclear pyknosis
+   e) Kupffer cell iron deposition
+   **Answer: D**
+
+33. Which is most likely to happen following a stroke with loss of blood supply to a lobe of the brain:
+   a) Cerebral softening from liquefactive necrosis
+   b) Pale infarction with coagulative necrosis
+   c) Predominantly the loss of glial cells
+   d) Recover of damaged neurons if the vascular supply is restablished
+   e) Wet gangrene with secondary bacterial infection
+   **Answer: A**
+
+34. The best example of Dystrophic Calcification is seen in a: hypercalcemia Gonnorrheae Infection
+   a) 55 year old woman with metastases from breast carcinoma &
+   b) Healing granuloma in a 41 year old man with pulmonary tuberculosis
+   c) Gangrenous lower extremity in a 50 year old woman with diabetes mellitus
+   d) 62 year old woman with a recent cerebral infarction
+   e) Abscess of the left fallopian tube in a 19 year old woman with Neisseria
+   **Answer: B**
+
+35. Which of the following cellular changes represents the best evidence for irreversible cellular injury:
+   a) Epithelial dysplasia
+   b) Cytoplasmic fatty metamorphosis
+   c) Nuclear pyknosis
+   d) Atrophy
+   e) Anaerobic glycolysis
+   **Answer: C**
+
+36. The presence of differentiated columnar epithelium with goblet cells in lower esophagus is consistent with:
+   a) Dysplasia
+   b) Hyperplasia
+   c) Carcinoma
+   d) Ischemia
+   e) Metaplasia
+   **Answer: E**
+
+37. Which of the following will show hypertrophy:
+   a) The uterine myometrium in pregnancy
+   b) The female breast at puberty
+   c) The liver following partial resection
+   d) The ovary following menopause
+   e) The cervix with chronic inflammation
+   **Answer: A**
+
+38. Which of the following is most likely to give rise to Metaplasia:
+   a) Tanning of the skin following sunlight exposure
+   b) Lactation following pregnancy
+   c) Vitamin A deficiency
+   d) Acute Myocardial Infarction
+   e) Acute Tubular Necrosis
+   **Answer: C**
+
+39. Which of the following is deposited in myocardium in advanced age:
+   a) Hemosidrin
+   b) Lipochrome
+   c) Glycogen
+   d) Cholesterol
+   e) Calcium Salts
+   **Answer: D**
+
+40. Which of the following tissues is most likely to be least affected by Ischemia:
+   a) Skeletal muscle
+   b) Small intestinal epithelium
+   c) Retina
+   d) Myocardium
+   e) Hippocampus
+   **Answer: B**
+
+41. An amputated foot of a diabetic will most likely show:
+   a) Neoplasia
+   b) Gangrenous Necrosis
+   c) Coagulopathy
+   d) Hemosiderosis
+   e) Caseation
+   **Answer: B**
+
+42. Which of the following processes explains the appearance of calcium deposition in a tuberculous lymph node:
+   a) Dystrophic calcification
+   b) Apoptosis
+   c) Hypercalcemia
+   d) Metastatic calcification
+   e) Neoplastic change
+   **Answer: A**
+
+43. Which of the following types of necrosis is grossly opaque & "chalk" white:
+   a) Coagulation necrosis
+   b) Liquefaction
+   c) Caseous necrosis
+   d) Fat necrosis
+   e) Gangrenous necrosis
+   **Answer: D**
+
+44. Dystrophic Calcification is most closely associated with:
+   a) Hypercalcemia
+   b) Necrosis
+   c) Chronic irritation
+   d) Diminished blood supply
+   e) Increased workload
+   **Answer: B**
+
+45. Deposition of Calcium in dead or dying tissue is:
+   a) Dystrophic calcification
+   b) Metastatic calcification
+   c) Both A and B
+   d) Neither A nor B
+   **Answer: A**
+
+46. Which of the following types of necrosis is characterized by amorphous granular debris:
+   a) Coagulation Necrosis
+   b) Liquifaction Necrosis
+   c) Caseous Necrosis
+   d) Fat Necrosis
+   e) Gangrenous Necrosis
+   **Answer: C**
+
+47. Hypertrophy is most closely associated with:
+   a) Hypercalcemia
+   b) Necrosis
+   c) Chronic Irritation
+   d) Diminished Blood Supply
+   e) Increased Work Load
+   **Answer: E**
+
+48. Which of the following is most susceptible to liquefaction necrosis following ischemic injury:
+   a) Pancreas
+   b) Liver
+   c) Spleen
+   d) Brain
+   e) Intestine
+   **Answer: D**
+
+49. Hypoplasia is due to:
+   a) Cell Loss
+   b) Atrophy
+   c) Inadequate development
+   d) Disuse
+   e) Ischemia
+   **Answer: C**
+
+50. The loss of individual cell through fragmentation of individual cell nucleus is best described as:
+   a) Coagulative Necrosis
+   b) Mitochondrial Poisoning
+   c) Phagocytosis
+   d) Apoptosis
+   e) Liquefaction
+   **Answer: D**
+
+51. The light brown perinucleur pigment seen in an old man muscle fiber is:
+   a) Hemosidrin
+   b) Lipofuscin
+   c) Glycogen
+   d) Melanin
+   e) Calcium
+   **Answer: B**
+
+52. Hypertensive Enlargement of the heart is a form of:
+   a) Fatty infiltration
+   b) Hypoplasia
+   c) Glycogen storage
+   d) Hypertrophy
+   e) Hyperplasia
+   **Answer: D**
+
+53. Gangrene of the big toe in a 60 year old female is most likely associated with:
+   a) Diabetes Mellitus
+   b) Temporal Arteritis
+   c) AIDS
+   d) Type III Hypersensitivity
+   e) Carcinoma of the Bronchus
+   **Answer: A**
+
+54. Focal Fat Necrosis is associated with:
+   a) Fibrinous Pericarditis
+   b) Chronic Appendicitis
+   c) Acute Pancreatitis
+   d) Periportal Fibrosis
+   e) Gas Gangrene
+   **Answer: C**
+
+55. Which of the following is responsible for gangrene of lower extremeties:
+   a) Obesity
+   b) Hyperlipidemia
+   c) Cigarette Smoking
+   d) Diabetes Mellitus
+   e) Hypercalcemia
+   **Answer: D**
+
+56. Which of the following is not a feature of reversible cell injury:
+   a) Swollen cell
+   b) Swollen mitochondria
+   c) Pyknotic Nucleus
+   d) Dilated Endoplasmic
+   e) Cell surface blebs
+   **Answer: C**
+
+57. Changes of color in Gangrene is due to:
+   a) Deposition of amyloid
+   b) Breakdown of hemoglobin
+   c) Deposition of melanin
+   d) Deposition of lipofusin
+   e) Deposition of calcium salts
+   **Answer: B**
+
+58. Which of the following is not a feature of reversible cell injury:
+   a) Increased DNA synthesis
+   b) Reduction of ATP
+   c) Failure of Sodium Pump
+   d) Influx of Calcium
+   e) Accumulation of Metabolites
+   **Answer: A**
+
+59. Which of the following is a feature of Colliquative Necrosis:
+   a) Complete loss of architecture
+   b) Cyst formation
+   c) Occurs in tissues with high water content
+   d) A and C
+   e) All of the above
+   **Answer: E**
+
+60. Which of the following is (are) true about apoptosis:
+   a) It is programmed cell death
+   b) It requires cell energy
+   c) Induces a severe inflammatory reaction
+   d) Both A and B
+   e) Both B and C
+   **Answer: D**
+
+61. Calcium may play a role in cell injury by:
+   a) Causing ATP depletion
+   b) Activating Phospholipases
+   c) Inducing Autophagocytosis
+   d) Regulating Pyknosis
+   **Answer: B**
+
+62. Irreversible cellular changes include all of the following except:
+   a) Hydropic Change
+   b) Pyknosis
+   c) Karyorrhexis
+   d) Karyolysis
+   **Answer: A**
+
+63. Abnormal pigmentation is seen in the following except:
+   a) 's Syndrome
+   b) Pernicious Anemia
+   c) Tattooing
+   d) Addison's Disease
+   e) Pregnancy
+   **Answer: B**
+
+64. The following are true about Apoptosis except:
+   a) It is programmed cell death
+   b) Affects a group of cells
+   c) Is energy dependent
+   d) There is chromatin condensation
+   e) Does not elicit an inflammatory reaction
+   **Answer: D**
+
+65. Which of the following is not a feature of Necrosis:
+   a) Karyolysis
+   b) Karyorrhecsis
+   c) Cytoplasmic Basophilia
+   d) Pyknosis
+   e) Loss of RNA
+   **Answer: C**
+
+66. Which of the following is not a feature of Coagulative Necrosis:
+   a) Deposition of Fibrinolysis
+   b) Tissues are firm and swollen
+   c) Ghost outline of cell are seen
+   d) Architecture is maintained
+   e) The tissue is deeply eosinophilic
+   **Answer: C**
+
+67. Which of the following is most likely associated with Caseation Necrosis:
+   a) Diabetic Gangrene
+   b) Gas Gangrene
+   c) Myocardial Infarction
+   d) Inpissated Pus
+   e) Splenic Infarction
+   **Answer: D**
+
+68. The following are known causes of Atrophy except:
+   a) Aging
+   b) Starvation
+   c) Increased trophic hormone secretion
+   d) Immobilization
+   e) Denervation
+   **Answer: C**
+
+69. Dystrophic Calcification is:
+   a) Reversible
+   b) Due to reduction of pH in tissues
+   c) Causes renal failure
+   d) Associated with primary hyperparathyroidism
+   e) Occurs in dead parasites in the body
+   **Answer: B**
+
+70. Which of the following pathologic changes would be considered irreversible?
+   a) Fatty change in liver cells
+   b) Hydrophic vacuolization or renal tubular epithelial cells
+   c) Karyoloysis in myocardial cells
+   d) Glycogen deposition in hepatocyte nuclei
+   e) Hyperplasia of the breast during pregnancy
+   **Answer: C**
+
+71. Colliquative Necrosis occurs in:
+   a) Spleen
+   b) Liver
+   c) Heart
+   d) Brain
+   e) Kidneys
+   **Answer: D**
+
+72. The following are features of Colliquative Necrosis:
+   a) Complete loss of architecture
+   b) Cyst formation
+   c) Occurs in tissues with high water content
+   d) A & C
+   e) All of the above
+   **Answer: E**
+
+73. Reperfusion Injury is due to:
+   a) Generation of Oxygen Free Radicals
+   b) Additional recruitment of polymorphs by cytokines from hepatic cells
+   c) Both A & B
+   d) None of the above
+   **Answer: C**
+
+74. Which of the following is a feature of irreversible cell injury:
+   a) Swelling of Endoplasmic Reticulum
+   b) Formation of Blebs
+   c) Karyolysis of Nuclei
+   d) Fatty Change
+   e) Mitochondrial Swelling
+   **Answer: C**
+
+75. A common manifestation of sublethal cell injury seen in organs such as the heart and liver is:
+   a) Glycogen accumulation
+   b) Fatty change
+   c) Calcium deposition
+   d) Apoptosis
+   e) Deposition of Amyloid
+   **Answer: C**
+
+76. In the process of necrosis, a reduction in the size of the nucleus and a condensation of nuclear material is known as:
+   a) Karyolysis
+   b) Pyknophrasia
+   c) Karyorrhexis
+   d) Pyknosis
+   e) Metachromasia
+   **Answer: D**
+
+77. A cardinal sign of Inflammation is:
+   a) Vasoconstriction
+   b) Redness
+   c) Leukocyte Margiation
+   d) Vasodilation
+   e) Slowing of the Circulation
+   **Answer: B**
+
+78. After initiating an acute inflammatory event, the third in a sequence of changes in vascular flow is:
+   a) Vasoconstriction
+   b) Redness
+   c) Leukocyte Margiation
+   d) Vasodilation
+   e) Slowing of the Circulation
+   **Answer: E**
+
+79. Leukocytes capable of significant Phagocytosis include:
+   a) Lymphocyte
+   b) Plasma Cell
+   c) Both A and B
+   d) Neither A nor B
+   **Answer: A**
+
+80. Which of the following is most associated with Acute Inflammation:
+   a) Neutrophils
+   b) Connective Tissue
+   c) Macrophages
+   d) Granulation Tissue
+   e) Granuloma
+   **Answer: A**
+
+81. Inflammatory conditions which have a large number of eosinophils in the exudates include:
+   a) Asthma
+   b) Parasitic disease
+   c) Both A and B
+   d) Neither A nor B
+   **Answer: C**
+
+82. By definition, which cells are involved in organization:
+   a) Kidney tubular and Liver Parenchymal cells
+   b) Macrophages and Endothelial Cells
+   c) Endothelial Cells and Fibroblasts
+   d) Fibroblasts and Fat Cells
+   **Answer: C**
+
+83. Phagocytosis is enhanced by:
+   a) C5a
+   b) Bradykinin
+   c) Lysozyme
+   d) C3b
+   e) Serotonin
+   **Answer: D**
+
+84. The tumor of inflammation is due primarily to:
+   a) Arteriolar Dilation
+   b) Venous Dilation
+   c) Capillary Dilation
+   d) Increased Intracellular Fluid
+   e) Increased Extracellular Fluid
+   **Answer: E**
+
+85. A mediator of acute inflammation that causes increased vascular permeability and pain is:
+   a) Endotoxin
+   b) Complement
+   c) Histamine
+   d) Bradykinin
+   e) Endogenous Pyrogen
+   **Answer: D**
+
+86. Multinucleated Giant Cells of the foreign body type origin from:
+   a) Nuclear Division of Granulocytes
+   b) Atypical Regeneration of Epithelium
+   c) Megakaryocytes
+   d) Fusion of Macrophages
+   e) Multiplication of Nuclei Surrounding Fibrocytes
+   **Answer: D**
+
+87. Histamine is thought to be the direct cause of:
+   a) Leukocytosis
+   b) Emigration
+   c) Phagocytosis
+   d) Increased Vascular Permeability
+   e) All of the Above
+   **Answer: D**
+
+88. An Abscess is best defined as:
+   a) A local defect in the surface of a tissue
+   b) An abnormal accumulation between two surfaces                                                       c) Any area of tissue necrosis
+   d) A localized collection of pus
+   e) An epithelium-lined sac filled with viscous fluid
+   **Answer: D**
+
+89. Mediators of fever in inflammation include:
+   a) Macrophage product similar to interleukin I
+   b) Prostaglandins
+   c) Both A and B
+   d) Neither A nor B
+   **Answer: C**
+
+90. Phagocytes from an individual deficient in myeloperoxiase (MPO) will most likely be less effective in:
+   a) Killing Bacteria
+   b) Recognizing Bacteria
+   c) Marginating in vessels
+   d) Undergoing Chemotaxis
+   e) Engulfing Bacteria
+   **Answer: A**
+
+91. A purulent exudates is generally characterized by the presence of:
+   a) Mucous
+   b) Macrophages and connective tissue
+   c) Neutrophils and necrotic debris
+   d) Serous Fluid
+   e) Precipitated Protein
+   **Answer: C**
+
+92. Granuloma formation is most frequently associated with:
+   a) Acute inflammation
+   b) The Healing Process
+   c) Wound Contraction
+   d) Fibroblasts and Neovasularization
+   e) A persistent irritant
+   **Answer: D**
+
+93. Which of the following best describes a granuloma:
+   a) A small nodule of granulation tissue
+   b) A tumor composed of granulocytes
+   c) A small hard mass of fibroblasts and collagen
+   d) Inflammation primarily composed of lymphocytes
+   e) An aggregate of activated macrophages
+   **Answer: E**
+
+94. The most characteristic feature of granulation tissue is the:
+   a) Resemblance to a Granuloma
+   b) Growth of Fibroblasts and New Capillaries
+   c) Character of the Exudate
+   d) A form of Gangrenous Necrosis
+   e) Presence of Monocytes and Fibroblasts
+   **Answer: B**
+
+95. Which of the following is the most efficient killer of bacteria in neutrophils:
+   a) Spontaneous dismutation of O2 to H2O
+   b) Conversion of H2O2 to HOCl by Myeloperoxiase
+   c) Oxidative metabolism giving rise to OH and O2
+   d) Hyrolyzing Bacterial Coated with Lysozyme
+   e) Action of Hydrolytic Enzymes
+   **Answer: B**
+
+96. The emigration and accumulation of neutrophils in the acute inflammation reaction is primarily the result of:
+   a) Active hyperemia
+   b) Hydrostatic Pressure
+   c) Increased Microvascular Permeability
+   d) Chemotaxis
+   e) None of the above
+   **Answer: C**
+
+97. Which of the following is expressed on endothelial cells in acute inflammation for leukocyte adhesion:
+   a) Interferon Gamma
+   b) Hageman Factor
+   c) Lysozyme
+   d) E-selectin
+   e) Prostacyclin
+   **Answer: D**
+
+98. Fever and Leukocytes in which most leukocytes are neutrophils typical of:
+   a) Acute Bacterial Infection
+   b) Acute Viral Infection
+   c) Chronic Viral Infection
+   d) Parasitemia
+   e) Foreign Body Giant Cell Reaction
+   **Answer: A**
+
+99. Epitheloid Cells and Langerhans Giant Cells in granulomas are derived from:
+   a) Neutrophils
+   b) Eosinophils
+   c) Mast Cells
+   d) Macrophage
+   e) Lymphocytes
+   **Answer: D**
+
+100. Prostaglandins are formed from Arachidonic Acid through the action of which enzyme pathway?
+   a) Cyclooxygenase
+   b) Lipoxygenase
+   c) Myeloperoxidase
+   d) Phospholipase A
+   e) Glutathione Reductase
+   **Answer: D**
+
+101. The cavity of an Abscess contains:
+   a) Caseous Necrosis
+   b) Hyalin
+   c) Giant Cells
+   d) Pus
+   e) Granulation Tissue
+   **Answer: D**
+
+102. The diagnostic feature of granuloma is the presence of:
+   a) Giant cells
+   b) Epitheloid cells
+   c) Lymphocytes
+   d) Fibrosis
+   e) Caeseation
+   **Answer: B**
+
+103. The following have a granuloma except:
+   a) T.B
+   b) Syphilis
+   c) Leprosy
+   d) Schistosomiasis
+   e) Staphylococcal Infection
+   **Answer: E**
+
+104. Formation of the epitheloid cells is mediated by:
+   a) IL-1
+   b) IL-2
+   c) Histamine
+   d) Gamma Interferon
+   e) Serotonin
+   **Answer: D**
+
+105. The first inflammatory cell to show at the site of acute inflammation is the:
+   a) Monocyte
+   b) B-lymphocyte
+   c) T-lymphocyte
+   d) Neutrophils
+   e) Mast cell
+   **Answer: D**
+
+106. The following are true about an exudate except:
+   a) It can be present as edema
+   b) It has a high protein content
+   c) It has a specific gravity  1.020
+   d) It may contain inflammatory cells
+   e) It can be due to congestive heart failure
+   **Answer: C**
+
+107. Which of the following is the most powerful chemotactic agent:
+   a) Histamine
+   b) Prostaglandin
+   c) Hageman Factor
+   d) Bradykinin
+   e) Complement C5a
+   **Answer: E**
+
+108. A biopsy of a region of acute inflammation would most likely reveal all of the following except:
+   a) Fibrinous exudate
+   b) Neutrophils
+   c) Edema
+   d) Necrosis
+   e) Fibrous connective tissue
+   **Answer: E**
+
+109. Which of the following chemical mediators is most important in the development of Granulomatous Inflammation:
+   a) Interferon gamma
+   b) Bradykinin
+   c) Complement C5a
+   d) Histamine
+   e) Prostaglandin E2
+   **Answer: A**
+
+110. Following an attack of chest infection for three days, a patient becomes very ill and his chest x-rays shows a 3cm rounded density. He is most likely having:
+   a) Hypertrophic scar
+   b) Abscess formation
+   c) Regeneration
+   d) Bronchogenic carcinoma
+   e) Progression to chronic inflammation
+   **Answer: B**
+
+111. Which of the following cells is the most important in the development of tuberculous granuloma:
+   a) Macrophages
+   b) Fibroblast
+   c) Neutrophil
+   d) Mast Cell
+   e) Platelet
+   **Answer: A**
+
+112. Which of the following inflammatory processes would cause interstitial fibrosis and nodules in the lungs of a person who inhaled silica dust:
+   a) Neutrophilic infiltration with release of leukotrienes
+   b) Foreign body giant cell formation
+   c) Plasma cell production of immunoglobin
+   d) Histamine release by mast cells
+   e) Release of growth factors by macrophages
+   **Answer: B**
+
+113. Which of the following mediators are predominantly responsible for pain in acute inflammation:
+   a) Complement C3b and IgG
+   b) Interleukin-1 and tumour necrosis factor
+   c) Histamine and Serotonin
+   d) Prostaglandin and Bradykinin
+   e) Leukotriene and E-selectin
+   **Answer: D**
+
+114. Which of the following cell types is most likely to be most characteristic of a foreign body reaction:
+   a) Mast cell
+   b) Eosinophil
+   c) Giant cell
+   d) Neutrophils
+   e) Plasma cell
+   **Answer: C**
+
+115. Which of the following is needed for anti-microbial killing during Phagocytosis:
+   a) Glutathione peroxidase
+   b) C3b
+   c) Interleukin 1
+   d) NADPH oxidase
+   e) Myeloperoxidase
+   **Answer: E**
+
+116. Deficiency of which of the following will reduce phagocytosis by neutrophils:
+   a) C3a
+   b) Leukotriene A4
+   c) C3b
+   d) Leukotriene B4
+   e) C5a
+   **Answer: C**
+
+117. All of the following are true of granulation tissue except:
+   a) Contains epitheloid cells
+   b) Contains myofibroblast
+   c) Contains proliferating capillaries
+   d) Important in wound contraction
+   e) Contains fibronectin
+   **Answer: B**
+
+118. Matrix components in early granulation tissue include:
+   a) Fibronectin
+   b) Type III collagen
+   c) Both A and B
+   d) Neither A nor B
+   e) Granuloma
+   **Answer: C**
+
+119. Apoptosis does not induce inflammation because:
+   a) The injury is too mild to induce inflammation
+   b) Phagocytic cells secrete cytokines that inhibit inflammation
+   c) The process occurs only in avascular tissues
+   d) Apoptosis occurs only in immune deficient tissues
+   e) The patient is using antibiotics
+   **Answer: B**
+
+120. Osponization is the:
+   a) Formation of free radicals
+   b) Degradation of bacteria by lysozymes
+   c) Engulfment of antigen by leukocytes
+   d) Coating of antigen by antibodies
+   e) Processing of antigens by antigen presenting cells
+   **Answer: D**
+
+121. Which of the following is not a characteristic of a Granuloma:
+   a) Macrophages
+   b) Giant Cells
+   c) Polymorphonuclear Leukocytes
+   d) Lymphocytes
+   e) Epitheloid Cells
+   **Answer: C**
+
+122. Which of the following has a large number of eosinophils in exudates:
+   a) Sarcoidosis
+   b) Bronchiectasis
+   c) Syphilis
+   d) Bronchial Asthma
+   e) Chronic Bronchitis
+   **Answer: D**
+
+123. Which of the following are involved in organization:
+   a) Endothelial cells and osteocytes
+   b) Endothelial cells and chondroblasts
+   c) Endothelial cells and fibroblasts
+   d) Fibroblasts and fat cells
+   e) Fibroblasts and plasma cells
+   **Answer: C**
+
+124. The tumour of inflammation is due primarily to:
+   a) Arteriolar dilation
+   b) Venous dilation
+   c) Capillary dilation
+   d) Increased intracellular fluid
+   e) Increased extracellular fluid
+   **Answer: E**
+
+125. One of the following is a Chemotactic Factor:
+   a) Histamine
+   b) Bradykinin
+   c) Interleukin 1
+   d) Leukotriene B4
+   e) Serotonin
+   **Answer: D**
+
+126. Phagocytosis is enhanced by:
+   a) C1
+   b) Bradykinin
+   c) Lysozyme
+   d) Osponin
+   e) Serotonin
+   **Answer: D**
+
+127. Which one of the following is a harmful effect of acute inflammation:
+   a) Dilution of toxins
+   b) Phagocytosis
+   c) Formation of fibrin
+   d) Swelling of tissue
+   e) Stimulation of immune response
+   **Answer: D**
+
+128. The high protein content of the inflammatory exudates is mainly due to:
+   a) Protein released from dead tissue
+   b) Production of protein by inflammatory cells
+   c) Increased capillary permeability
+   d) Increased capillary hydrostatic pressure
+   e) Increased blood flow in the site of inflammation
+   **Answer: C**
+
+129. Which of the following is expected to be found in sputum of an asthmatic child:
+   a) IgE antibodies
+   b) Activate macrophages
+   c) Eosinophils
+   d) Foreign body giant cell
+   e) Asbestos bodies
+   **Answer: C**
+
+130. Phagocytosis is enhanced by:
+   a) Prostaglandin E2
+   b) Bradykinin
+   c) Lysozymes
+   d) Osponin
+   e) Serotonin
+   **Answer: D**
+
+131. Which of the following are involved in organization:
+   a) Liver parenchymal cells
+   b) Macrophages and endothelial cells
+   c) Endothelial cells and fibroblasts
+   d) Fibroblasts and fat cells
+   e) Neurons and glial cells
+   **Answer: C**
+
+132. Which part of the microcirculation is most consistently involved in the permeability changes and exudation of acute inflammation:
+   a) Small arteries
+   b) Arterioles
+   c) Capillaries
+   d) Venules
+   e) Veins
+   **Answer: D**
+
+133. Chronic Inflammation is characterized by the presence of:
+   a) Polymorphs, monocytes and exudate
+   b) Plasma cells, lymphocytes, fibroblasts and monocytes
+   c) Plasma cells, polymorphs, lymphocytes and monocytes
+   d) Plasma cells, basophils, eosinophils, fibroblasts and monocytes
+   **Answer: B**
+
+134. The following are true of macrophages except:
+   a) They are phagocytic cells
+   b) They produce interleukins
+   c) Are antigen-presenting cells
+   d) They are derived from blood monocytes
+   e) They are the main cells in chronic inflammation
+   **Answer: C**
+
+135. Which of the following is true about an Exudate:
+   a) Occurs in heart failure
+   b) Is due to low plasma oncotic pressure
+   c) Has a low specific gravity
+   d) Has a high protein content
+   e) Is due to lymphatic obstruction
+   **Answer: D**
+
+136. The most important factor in the formation of acute inflammatory exudates is:
+   a) Increased Hydrostatic Pressure
+   b) Increased Blood Flow
+   c) Chemotaxis
+   d) Increased Vascular Permeability
+   e) Lymphatic Obstruction
+   **Answer: D**
+
+137. Increased Vascular Permeability is due to:
+   a) Damage to endothelial cells
+   b) Widening of gaps between endothelial cells
+   c) Slowing of blood flow
+   d) Both A & B
+   e) Both A & C
+   **Answer: D**
+
+138. Infertility and short stature in a woman with a 45x karyotype are typical of:
+   a) Rlinefelter Syndrome
+   b) Turner Syndrome
+   c) Down Syndrome
+   d) Achondroplasia Dwarfism
+   e) Cystic Fibrosis
+   **Answer: B**
+
+139. Down Syndrome is:
+   a) Trisomy 21
+   b) Trisomy 18
+   c) Trisomy 13
+   d) Autosomal Dominant
+   e) Mothers are less than 30 years old
+   **Answer: A**
+
+140. Mutations in mitochondrial genes are:
+   a) Inherited from the father
+   b) Common cause of disease
+   c) Inherited from the mother
+   d) Autosomal Recessive
+   e) Affects only males
+   **Answer: C**
+
+141. There are no Y-linked disorders because:
+   a) There are no mutations occurring in the Y chromosome
+   b) The affected males die before adulthood
+   c) Affected males are infertile
+   d) Defects in the Y chromosome are autosomal dominant
+   e) None of the above
+   **Answer: C**
+
+142. X-linked disorders:
+   a) Males are always carriers
+   b) Females are always diseased
+   c) Are inherited from the father
+   d) Are inherited from the mother
+   e) Sickle cell anemia is an example
+   **Answer: D**
+
+143. Autosomal recessive disorders:
+   a) Are inherited from the father only
+   b) Are inherited from the mother only
+   c) Are inherited commonly due to new mutations
+   d) Are usually more severe than autosomal dominant disorders
+   e) None of the above
+   **Answer: D**
+
+144. All of the following are autosomal recessive except:
+   a) Cystic Fibrosis
+   b) Sickle Cell Anemia
+   c) Thalassemia
+   d) Hemochormatosis
+   e) Diabetes Mellitus
+   **Answer: E**
+
+145. Mendelian disorders are due to:
+   a) Chromosomal abnormalities
+   b) Single gene defect
+   c) Environmental Factors
+   d) Mitochondrial gene mutations
+   e) X-linked mutations
+   **Answer: B**
+
+146. Which of the following is inherited as autosomal recessive disorders:
+   a) Familial polyposis coli
+   b) Hemopilia A
+   c) Cystic Fibrosis
+   d) Neurofibromatosis
+   e) Rheumatic Heart Disease
+   **Answer: C**
+
+147. Which of the following is inherited as autosomal dominant disorders:
+   a) Familial polyposis coli
+   b) Hemopilia A
+   c) Cystic Fibrosis
+   d) Diabetes
+   e) Rheumatic Heart Disease
+   **Answer: A**
+
+148. Which of the following is inherited as an X-linked recessive trait:
+   a) Familial polyposis coli
+   b) Hemopilia A
+   c) Cystic Fibrosis
+   d) Neurofibromatosis
+   e) Rheumatic Heart Disease
+   **Answer: B**
+
+149. The primary role of which of the following in the closure of wounds healing by second intention:
+   a) Neutrophils
+   b) Connective Tissue
+   c) Macrophages
+   d) Granulation Tissue
+   e) Granuloma
+   **Answer: A**
+
+150. The process of regeneration:
+   a) Does not restore prior function
+   b) Invariability leads to scar formation
+   c) Refers to healing by proliferation of stromal elements
+   d) Occurs in tissues composed of labile and stable cells
+   e) Is synonymous with repair
+   **Answer: C**
+
+151. The following factors delay healing of damaged tissue:
+   a) Scurvy
+   b) Ionizing Radiation
+   c) Immobilization
+   d) Infections
+   e) Glucocorticoids
+   **Answer: D**
+
+152. Repair of which of the following involves regeneration and connective tissue repair:
+   a) Bone fracture
+   b) Renal tubular necrosis
+   c) Both A and B
+   d) Neither A nor B
+   **Answer: A**
+
+153. Which of the following does not promote fracture healing:
+   a) Steroid therapy
+   b) Adequate blood supply
+   c) Immobilization
+   d) Adequate Vitamin C supply
+   **Answer: A**
+
+154. Neurogenic, Septic and Cardiogenic shock are all characterized by:
+   a) Equal prognosis if untreated
+   b) Need for blood transfusion
+   c) Peripheral vasodilation at onset
+   d) Normal blood volume at early stage
+   e) Progression to irreversible shock
+   **Answer: A**
+
+155. The causes of Hypovolemic shock do not include:
+   a) Severe vomiting
+   b) Severe diarrhea
+   c) Extensive burning
+   d) Myocardial Infarction
+   e) Severe Trauma
+   **Answer: D**
+
+156. Following a hypotensive shock which lasted for hours, which of the following tissues is most likely to withstand the ischemia:
+   a) Skeletal muscle
+   b) Small Intestinal Epithelium
+   c) Retina
+   d) Myocardium
+   e) Hippocampus
+   **Answer: B**
+
+157. What type of shock is most associated with severe burns:
+   a) Cardiogenic shock
+   b) Hypovolemic shock
+   c) Septic shock
+   d) Neurogenic shock
+   **Answer: B**
+
+158. The causes of Hypovolemic shock do not include:
+   a) Severe vomiting
+   b) Severe diarrhea
+   c) Blood Loss
+   d) Acute hemorrhagic pancreatitis
+   e) Extensive Burning
+   **Answer: D**
+
+159. The following are true about arterial thrombi except:
+   a) Are usually due to endothelial injury
+   b) Can be precipitated by atherosclerosis
+   c) Grow in the direction of blood flow
+   d) Lead to ischemia and infarction
+   e) Commonly cause systemic emboli
+   **Answer: C**
+
+160. The following are true regarding venous thrombi except:
+   a) Commonly are due to stasis
+   b) Always cause infarction
+   c) Grow in the direction of blood flow
+   d) Can cause pulmonary emboli
+   e) Commonly occur in the deep leg veins
+   **Answer: B**
+
+161. Thrombosis can be caused by all of the following except:
+   a) Endothelial injury
+   b) Turbulent blood flow
+   c) mutation
+   d) Factor VIII deficiency
+   e) Atrial Fibrillation
+   **Answer: E**
+
+162. Which of the following are sequelae to thrombosis:
+   a) Embolization
+   b) Organization and Recanalization
+   c) Propagation
+   d) Both A and B
+   e) All of the above
+   **Answer: E**
+
+163. Which one of the following does not predispose to thrombosis:
+   a) Endothelial damage
+   b) Vascular Stasis
+   c) Thrombocytopenia
+   d) Formation of aggregates
+   e) Activation of the coagulation mechanism
+   **Answer: C**
+
+164. Which one of the following is not a cause of thrombosis:
+   a) Damage of endothelial lining
+   b) Aneurysms
+   c) Polycythenia
+   d) Dissiminated Carcinomatosis
+   e) High level of antithrombin III
+   **Answer: E**
+
+165. The following are associated with DIC except:
+   a) Widespread deposition of fibrin with microcirculation
+   b) Consumption of coagulation factors
+   c) Haemorrhagic diathesis (Bleeding Tendency)
+   d) Thrombocytosis (Increased Platelet Count)
+   e) Activation of Plasminogen
+   **Answer: C**
+
+166. The following predispose to deep vein thrombosis except:
+   a) Malnutrition
+   b) Cancer
+   c) Factor VIII deficiency
+   d) Abdominal Surgery
+   e) Immobilization
+   **Answer: A**
+
+167. The following are true of Thrombi except:
+   a) Are formed from blood consitituents
+   b) Always cause complete vascular occlusion and infarction
+   c) Are complicated by embolization
+   d) May undergo dystrophic calcification
+   **Answer: D**
+
+168. Which of the following is not associated with Thrombosis:
+   a) Cancer
+   b) Prolonged bed rest
+   c) Sickle cell anemia
+   d) Hemophilia
+   e) Tissue damage
+   **Answer: D**
+
+169. Fat emboli can be precipitated by:
+   a) Excessive fats intake
+   b) Rupture of an atheromatous plaque
+   c) Rupture of the uterus
+   d) Fracture of the femur
+   e) Changes in atmospheric pressure
+   **Answer: D**
+
+170. Paradoxial emboli are:
+   a) Commonly pulmonary emboli
+   b) Are caused by myocardial infarction
+   c) Due to the presence of an interventricular on inter atrial defect
+   d) Due to sudden changes in the atmospheric pressure
+   e) Caused by trauma
+   **Answer: C**
+
+171. Pulmonary emboli have each of the following characteristics except:
+   a) Commonly arise in leg veins
+   b) Pass through the right heart before reaching the lung
+   c) Consistently cause infarction in the lung
+   d) Are usually thrombotic emboli
+   **Answer: C**
+
+172. A detached intravascular solid, liquid or gas carried to a site distant from its point of origin is most associated with:
+   a) Ascites
+   b) Petechiae
+   c) Infarction
+   d) Emboli
+   e) Hematoma
+   **Answer: D**
+
+173. Infarction of the spleen is usually due to:
+   a) Hypersplenism
+   b) Congestion
+   c) Arterial Embolism
+   d) Deposition of connective tissue and pigment
+   e) Venous Thrombosis
+   **Answer: B**
+
+174. Red Infarcts develop in:
+   a) Spleen
+   b) Liver
+   c) Kidney
+   d) Adrenal Glands
+   e) Intestine
+   **Answer: E**
+
+175. Which of the following is most significant in the diagnosis of early acute myocardial infarction:
+   a) ESR
+   b) ASO titre
+   c) Troponin
+   d) LDH
+   e) Total CK
+   **Answer: D**
+
+176. Which of the following is not a major risk factor for atherosclerosis:
+   a) Family history
+   b) Hyperlipidemia
+   c) Physical inactivity
+   d) Diabetes
+   e) Hypertension
+   **Answer: D**
+
+177. Organs which are less susceptible than others to infarction because of a dual blood supply include:
+   a) Liver and Lungs
+   b) Liver and Kidney
+   c) Lung and Spleen
+   d) Spleen and Kidney
+   e) Pancreas and Lung
+   **Answer: A**
+
+178. Which cells are targeted by HIV:
+   a) CD4 + cells
+   b) Plasma cells
+   c) Macrophages
+   d) Both A & B
+   e) Both A & C
+   **Answer: E**
+
+179. Asthma is an example of:
+   a) Type I hypersensitivity reaction
+   b) Type II hypersensitivity reaction
+   c) Type III hypersensitivity reaction
+   d) Type IV hypersensitivity reaction
+   e) Type V hypersensitivity reaction
+   **Answer: A**
+
+180. IgE plays a major role in:
+   a) Type I hypersensitivity reaction
+   b) Type II hypersensitivity reaction
+   c) Type III hypersensitivity reaction
+   d) Type IV hypersensitivity reaction
+   e) Type V hypersensitivity reaction
+   **Answer: A**
+
+181. Acute graft rejection is caused by:
+   a) Type I hypersensitivity reaction
+   b) Type II hypersensitivity reaction
+   c) Type III hypersensitivity reaction
+   d) Type IV hypersensitivity reaction
+   e) Type V hypersensitivity reaction
+   **Answer: D**
+
+182. The following are true about SLE except:
+   a) It is commoner in females
+   b) Anti nuclear antibodies are diagnostic
+   c) It can affect the joints
+   d) It is associated with a butterfly rash
+   e) It can cause anemia
+   **Answer: B**
+
+183. HIV primarily affects:
+   a) CD8 lymphocytes
+   b) Cells expressing CD4 molecules
+   c) Neutrophils
+   d) Basophils
+   e) Eosinophils
+   **Answer: B**
+
+184. The following are true about Type I hypersensitivity except:
+   a) It can be localized or systemic
+   b) Extrinsic asthma is an example
+   c) The predominant antibody involved is IgG
+   d) Degranulation of mast cells is the pathogenesis pathway
+   e) Can be diagnosed by skin test
+   **Answer: C**
+
+185. Of the following histopathologic finding, the one best indicates that a neoplasm is malignant is:
+   a) Pleomorphism
+   b) Atypia
+   c) Invasion
+   d) Increased Nuclear/Cytoplasmic Ratio
+   e) Necrosis
+   **Answer: A**
+
+186. Which of the following infectious agents is associated with transformation of tissue macrophages to epitheloid cells:
+   a) Mycobacterium leprae
+   b) Pseudomonas aeruginosa
+   c) Cytomegalovirus
+   d) Giardia Lamblia
+   e) Staphylococcus aureus
+   **Answer: A**
+
+187. Which of the following complications is most likely to occur in a 76 year old woman who has a swollen leg followed by fracture of femoral trochanter and who has been immobilized:
+   a) Gangrenous Necrosis of the Foot
+   b) Haematoma of the Thigh
+   c) Disseminated Intravascular Coagulation (DIV)
+   d) Pulmonary Thromboembolism
+   e) Soft Tissue Sarcoma
+   **Answer: D**
+
+188. Generation of which of the following substances by the major inflammatory cell type would be responsible for clearing microorganism in an inflammatory focus:
+   a) Platelet Activated Factor
+   b) Prostaglandins
+   c) Kallikrein
+   d) Leukotriene
+   e) Hydrogen Peroxide
+   **Answer: E**
+
+189. Which of the following cell types releases chemical mediators responsible for allergic rhinitis:
+   a) Neutrophils
+   b) Mast Cells
+   c) CD4+ Cells
+   d) NK Cells
+   e) Macrophages
+   **Answer: B**
+
+190. Which of the following chemical mediators is most likely to be involved in anaphylaxis following intravenous penicillin treatment:
+   a) Interleukin I
+   b) Bradykinin
+   c) Complement C5a
+   d) Histamine
+   e) Thromboxane
+   **Answer: D**
+
+191. Which of the following will predict a better prognosis for breast cancer:
+   a) The tumor is small in size
+   b) No metastasis are found in sampled lymph node
+   c) Numerous mitosis are seen
+   d) Tumor shows mild hyperchromatism
+   e) Tumor cells show marked pleomorphism
+   **Answer: B**
+
+192. Which of the following is characteristic of neoplasm:
+   a) Recurrence following excision
+   b) Rapid increase in size
+   c) Sensitivity to radiation therapy
+   d) Uncontrolled (autonomous growth)
+   e) Necrosis
+   **Answer: D**
+
+193. Widespread Oedema is likely in:
+   a) Lymphatic Obstruction
+   b) Capillary Damage
+   c) Inflammations
+   d) Hypoalbuminemia
+   e) Cancer of the Stomach
+   **Answer: D**
+
+194. Acute Pulmonary Oedema of the heart failure results from:
+   a) Increased Plasma Colloid Osmotic Pressure
+   b) Decreased Plasma Colloid Osmotic Pressure
+   c) Increased Vascular Permeability
+   d) Increased Vascular Hydrostatic Pressure
+   e) Increased Blood Viscosity
+   **Answer: B**
+
+195. DIC following extensive surgery is due to:
+   a) Entrance of tissue thromboplastin into circulation
+   b) Hypoxia, acidosis and shock coexisting with extensive surgery
+   c) Protein C Deficiency
+   d) Both A and B
+   e) Both B and C
+   **Answer: D**
+
+196. Which of the following is not a feature of stem cells:
+   a) Capable of self renewal
+   b) Capable of linkage generation
+   c) They are the predominant population in a tissue
+   d) They belong to the terminal differentiation compartment
+   e) Both A and B
+   **Answer: C**
+
+197. Which of the following is not a feature of benign tumors:
+   a) Grow Slowly
+   b) Well Demonstrated
+   c) Infiltrate Adjacent Cells
+   d) Can Secrete Hormones
+   e) Named by adding suffix 'oma' to type of cell
+   **Answer: C**
+
+198. Which of the following malignant tumors has the best prognosis:
+   a) Hepatocellular Carcinoma
+   b) Renal Cell Carcinoma
+   c) Basal Cell Carcinoma
+   d) Squamous Cell Carcinoma of Cervix
+   e) Squamous Cell Carcinoma of Skin
+   **Answer: C**
+
+199. The contents of a blister is an example of which type of exudate:
+   a) Serous
+   b) Fibrinous
+   c) Purulent
+   d) Cellular
+   e) Haemaorrhagic
+   **Answer: A**
+
+200. Reduced Plasma Oncotic Pressure is the most important cause of generalized edema in:
+   a) Congestive Heart Failure
+   b) Lung Cancer
+   c) Constrictive Pericarditis
+   d) Head Trauma
+   e) Nephrotic Syndrome
+   **Answer: E**
+
+201. Which of the following diseases is characterized by noncaseating granulomas?
+   a) Sarcoidosis
+   b) Tuberculosis
+   c) Histoplasmosis
+   d) Diptheria
+   e) Measles
+   **Answer: A**
+
+202. Nutmeg Liver is caused by:
+   a) Viral Hepatitis
+   b) Acute Hepatic Congestion
+   c) Chronic Hepatic Congestion
+   d) Fibrosis of the Liver
+   e) None of the Above
+   **Answer: C**
+
+203. Which of the following is not a predisposing factor for pyelonephritis:
+   a) Pregnancy
+   b) Diabetes Mellitus
+   c) Renal Artery Stenosis
+   d) Prostatic Hypertrophy
+   e) Renal Calculi
+   **Answer: C**
+
+204. Poststreptococcal glomerulonephritis is most closely associated with:
+   a) Subepithelial deposits
+   b) Fibrin Leakage
+   c) Peripheral Linear IgG deposits by immunoflorescence
+   d) Berger's Disease
+   e) Tubular immunoflorescence
+   **Answer: A**
+
+205. Crescents are most likely associated with:
+   a) Subepithelial deposits
+   b) Fibrin Leakage
+   c) Peripheral Linear IgG deposits by immunoflorescence
+   d) Berger's Disease
+   e) Tubular immunoflorescence
+   **Answer: A**
+
+206. Dense deposits disease is most closely associated with:
+   a) Alport's Syndrome
+   b) Benign Recurrent Hematuria
+   c) Membranoproliferative glomerulonephritis Type II
+   d) Membranoproliferative glomerulonephritis Type I
+   e) Amyloidosis
+   **Answer: E**
+
+207. Low Serum Complement Levels are present in:
+   a) Systemic Lupus Nephritis
+   b) Acute Post-streptococcal nephritis
+   c) Both A and B
+   d) Neither A nor B
+   **Answer: D**
+
+208. All of the following are true of renal cell carcinoma except:
+   a) The tumor cells secrete erythropoietin
+   b) It originates from the glomeruli
+   c) The tumor cells are rich in glycogen
+   d) The tumor cell is often associated with polycythemia
+   **Answer: C**
+
+209. One of the following is not true about amoebic liver abscess:
+   a) There is Neutrophilia
+   b) The patient is febrile
+   c) Jaundice is always present
+   d) The right lobe of the liver is commonly involved
+   e) Metronidazole is used for treatment
+   **Answer: C**
+
+210. Complications of Plasmodium falciparum malaria do not include:
+   a) Bone Marrow Aplasia
+   b) Nephrotic Syndrome
+   c) Hypoglycaemia
+   d) Haemoglobinuria
+   e) Severe Gastroenteritis
+   **Answer: D**
+
+211. The Chemical Carcinogen, Alfatoxin B1, derived from a fungus which may contaminate peanuts, most commonly induces:
+   a) Transitional Cell Carcinoma of the Lung
+   b) Adenocarcinoma of the Rectum
+   c) Hepatocellular Carcinoma
+   d) Squamous Cell Carcinoma of the Skin
+   e) Renal Cell Carcinoma
+   **Answer: C**
+
+212. Which of the following is not true of Amyloid:
+   a) It is protein in nature
+   b) Complicates Bronchiectasis
+   c) Causes Nephrotic Syndrome
+   d) In Multiple Myeloma, it is of the AA type
+   e) Demonstrated microscopically using crystal violet
+   **Answer: D**
+
+213. Which of the following is seen in Typhoid Fever?
+   a) Haemaphagocytosis is Observed
+   b) Characteristically there is Tachycardia
+   c) The appendix is almost always involved
+   d) There is leucocytosis
+   e) Necrotizing Granuloma is a feature
+   **Answer: A**
+
+214. One of the following is not a Tumor Marker:
+   a) Thromboxan A2
+   b) Alpha Fetoprotein
+   c) Carcinoembryonic Antigen
+   d) Prostate Specific Antigen
+   e) Chorionic Gonadotrophin
+   **Answer: A**
+
+215. Which of the following is a Tumor Marker?
+   a) Thromboxane A2
+   b) Acetylcholine
+   c) Prostaglandin
+   d) ACTH
+   e) Ferritin
+   **Answer: D**
+
+216. Which of the following causes Lymphatic Oedema?
+   a) Sarcoidosis
+   b) Schistosomiasis
+   c) Filariasis
+   d) Syphilis
+   e) Leishmaniasis
+   **Answer: B**
+
+217. Which of the following does not cause Hypokalaemia?
+   a) Diueretics
+   b) Vomiting
+   c) Diarrhoea
+   d) Addison's Disease
+   e) Metabolic Alkalosis
+   **Answer: D**
+
+218. The following are associated with Cachexia except:
+   a) Malignancy
+   b) Anemia
+   c) Wasting
+   d) Hypoplasia
+   e) Tumour Necrosis Factor
+   **Answer: D**
+
+219. Acute effects of Ionizing Radiation do not include:
+   a) Leukemia
+   b) Anemia
+   c) Skin Desquamation
+   d) Pulmonary Oedema
+   e) Vomitting
+   **Answer: D**
+
+220. Primary stage of Syphilis is best diagnosed by:
+   a) VDRL Test
+   b) RPR Test
+   c) Widal Test
+   d) Smear seen under dark ground illumination
+   e) TPHA
+   **Answer: E**
+
+221. Granuloma Formation is not a feature of:
+   a) Tuberculoid Leprosy
+   b) Sarcoidosis
+   c) Schistosoma manson infection
+   d) Tuberculosis
+   e) Cerebral Malaria
+   **Answer: E**
+
+222. Pathological effects of Shock do not include:
+   a) Gastric Ulceration
+   b) D.I.C.
+   c) Acute Renal Tubular Necrosis
+   d) Metabolic Alkalosis
+   e) Adult Respiratory Distress Syndrome
+   **Answer: D**
+
+223. Peg-Shaped ('s Teeth) are characteristically seen in babies born to mothers suffering from:
+   a) Mucosal Leishmaniasis
+   b) Syphilis
+   c) Sarcoidosis
+   d) Intestinal Tuberculosis
+   e) AIDS
+   **Answer: B**
+
+224. In Amoebiasis:
+   a) Condylomata Lata is a feature
+   b) Granuloma Formulation is characteristic
+   c) The small intestine is always involved
+   d) The perianal skin may be affected
+   e) There is an intense infiltration in the lesions by polymorphs
+   **Answer: E**
+
+225. Consequences of Necrosis do not include:
+   a) Dystrophic Calcification
+   b) Resolution
+   c) Inflammatory Reaction
+   d) Fibrosis
+   e) Increased Cellular Enzymes in the Blood
+   **Answer: D**
+
+226. In Lepromatous Leprosy:
+   a) Epitheloid Granuloma Formation is characteristic
+   b) There is loss of the Rete Ridges of the epidermis
+   c) Bacilli are scanty
+   d) Spontaneous cure may occur
+   e) Lepromin test is negative
+   **Answer: E**
+
+227. One of the following is not true about bilharzial portal hypertension:
+   a) Splenomegaly is of the congestive type
+   b) Iron deficiency anemia is a complication
+   c) Periportal fibrosis is the cause
+   d) There is an increased incidence of hepatocellular carcinoma
+   e) Hepatic failure is not an early complication
+   **Answer: D**
+
+228. Gummas most often appear in:
+   a) Spleen
+   b) Pancreas
+   c) Liver and Testes
+   d) Kidneys
+   e) Thyroid
+   **Answer: C**
+
+229. Hepar Lobatum is liver showing:
+   a) Miliary Tuberculosis
+   b) Multiple Gummas and Fibrosis
+   c) Periportal Fibrosis
+   d) Amoebic Abscess
+   e) Sarcoid Granulomas
+   **Answer: B**
+
+230. Metaplasia is most closely associated with:
+   a) Hypercalcemia
+   b) Necrosis
+   c) Chronic Irritation
+   d) Diminished Blood Supply
+   e) Increased Workload
+   **Answer: C**
+
+231. Chest X-Ray of the Lung from a patient suffering of sarcoidosis characteristically shows:
+   a) Apical Cavitation
+   b) Lobar Consolidation
+   c) Dilated Bronchi
+   d) Bilateral Enlarged Hilar Lymph Nodes
+   e) Pleural Thickening
+   **Answer: D**
+
+232. Primary sites of Tuberculosis include all of the following except:
+   a) Skin
+   b) Lungs
+   c) Bones
+   d) Tonsils
+   e) Intestine
+   **Answer: C**
+
+233. The histology of a sarcoid lesion characteristically shows the following except:
+   a) Epitheloid cells and Langhans's Giant Cells
+   b) Asteroid Bodies
+   c) Shauman Bodies
+   d) Caseous Necrosis
+   e) A Cuff of Lymphocytes
+   **Answer: D**
+
+234. In Bilharzial Portal Hypertension:
+   a) There is increased incidence of hepatocellular carcinoma
+   b) Liver cirrhosis occurs in 90% of cases
+   c) Hepatic Failure is an early complication
+   d) Haematemesis is a common complication
+   e) Splenomegaly is due to proliferation of macrophages
+   **Answer: D**
+
+235. One of the following is not a feature of visceral leishmaniasis:
+   a) Weight Loss
+   b) Splenomegaly
+   c) Bone Marrow Failure
+   d) Intermittent Fever
+   e) Bleeding Tendency
+   **Answer: D**
+
+236. The following are not features of the primary focus in pulmonary tuberculosis except:
+   a) Usually undergoes cavitation
+   b) Commonly occurs in the apex of the lung
+   c) May give rise to miliary tuberculosis
+   d) Is known as Assman's Focus
+   e) Is a common cause of haemoptysis
+   **Answer: C**
+
+237. During the early bacteraemic phase of Typhoid Fever, diagnosis is established by:
+   a) Blood Culture
+   b) Widal Test
+   c) Stool Culture
+   d) Urine Culture
+   e) Peritoneal Fluid Culture
+   **Answer: A**
+
+238. The following occur in P. falciparum infection except:
+   a) Jaundice
+   b) Generalized Lymphadenopathy
+   c) Acute Renal Failure
+   d) Cerebral Petechial Hemorrhages
+   e) Splenomegaly
+   **Answer: B**
+
+239. Which of the following is a feature of Lepromatous Leprosy:
+   a) Scanty bacilli
+   b) Granuloma formation
+   c) Negative Lepromin Test
+   d) Thickening of nerves
+   e) Spontaneous recovery
+   **Answer: C**
+
+240. The following are true of Amyloidosis except:
+   a) It is lipid in nature
+   b) Causes Splenomegaly
+   c) Is a common cause of Hepatic Failure
+   d) Deposited Extracellularly
+   e) Is a known cause of Nephrotic Syndrome
+   **Answer: A**
+
+241. In Amoebic Liver Abscess:
+   a) There is marked neutrophilia
+   b) The liver in not enlarged
+   c) Jaundice is a constant feature
+   d) The left lobe is commonly affected
+   e) The patient is afebrile
+   **Answer: A**
+
+242. Which of the following is not a feature of Typhoid Intestinal Lesions?
+   a) Organisms commonly settle in the mucosal lymphoid aggregates
+   b) Ulceration of Peyer's Patches
+   c) Infiltration by Plasma Cells
+   d) Infiltration by Neutrophils
+   e) Infiltration by Lymphocytes
+   **Answer: D**
+
+243. Benign Tumours:
+   a) Commonly Metastasize
+   b) Are Encapsulated
+   c) Have hyperchromatic nuclei
+   d) Infiltrate surrounding tissue
+   e) Commonly recur after removal
+   **Answer: B**
+
+244. The carrier state of Typhoid Fever is due to:
+   a) Persistent Bacteraemia
+   b) Persistent Duodenal Lesions
+   c) Persistent Intestinal Ulcers
+   d) Typhoid Cholecystitis
+   e) Persistent Rose Spots
+   **Answer: D**
+
+245. The following cells are capable of regeneration except:
+   a) Neurons
+   b) Hepatocytes
+   c) Renal Tubular Cells
+   d) Colonic Mucosal Cells
+   e) Cells lining the Respiratory Airways
+   **Answer: A**
+
+246. In Typhoid Fever:
+   a) There is Tachycardia
+   b) The large intestine is commonly affected
+   c) The white cell count is characteristically very high
+   d) Rose spots appear in the intestinal mucosa
+   e) The gallbladder is infected
+   **Answer: E**
+
+247. Serious complications of Typhoid Fever include:
+   a) Intestinal Haemorrhage
+   b) Amyloidosis
+   c) Perforation of Intestine
+   d) Peritonitis
+   e) All of the Above
+   **Answer: E**
+
+248. The sites of Primary Tuberculosis include:
+   a) Oesophagus
+   b) Stomach
+   c) Oropharynx
+   d) Ileocecal
+   e) Both C and D
+   **Answer: E**
+
+249. Which of the following is not used for diagnosis of Typhoid Fever:
+   a) Blood Culture
+   b) Widal
+   c) Stool Culture
+   d) VDRL
+   **Answer: D**
+
+250. The activation of chemical procarcinogen requires activation by:
+   a) Neuropeptidases
+   b) Dismutases
+   c) Collagenase
+   d) P450 dependent Oxygenase
+   e) Alkaline Phosphotase
+   **Answer: D**
+
+251. Immune-Complex Glomerulonephritis is seen with:
+   a) Primary TB
+   b) Tuberculoid Leprosy
+   c) Lepromatous Leprosy
+   d) Typhoid Fever
+   e) Amoebic Dysentery
+   **Answer: C**
+
+252. Exposure to UV light will give rise to which of the following tumours:
+   a) Hepatocellular Carcinoma
+   b) Basal Cell Carcinoma
+   c) Squamous Cell Carcinoma
+   d) Both A and C
+   e) Both B and C
+   **Answer: E**
+
+253. Who of the following is more likely to develop Squamous Cell Carcinoma of the Skin:
+   a) Sudanese
+   b) Nigerians
+   c) Kenyans
+   d) Scandinavian living in
+   e) Bantu South African
+   **Answer: D**
+
+254. In Acute Hemopoetic Syndrome following Ionizing Radiation there is:
+   a) Anemia
+   b) Lymphopenia
+   c) Thrombocytopenia
+   d) Both B and C
+   e) All of the Above
+   **Answer: E**
+
+255. Which of the following is used for screening of food handlers for Typhoid:
+   a) Blood Culture
+   b) Stool Culture
+   c) Widal
+   d) Sputum Culture
+   e) Stools Hatching Test
+   **Answer: C**
+
+256. Which of the following is most likely to develop skin cancer:
+   a) Clerk Typist
+   b) Laboratory Technologist
+   c) Heavy Truck Driver
+   d) Radiology Technologist
+   e) Supermarket Supervisor
+   **Answer: D**
+
+257. Which of the following is associated with Leukemia's and Lymphomas:
+   a) Cyclophosphamide
+   b) Chloramephenicol
+   c) Chloroquine
+   d) Cigarette Smoking
+   e) Heavy Alchohol Consumption
+   **Answer: A**
+
+258. Granuloma Formation in Schistosomiasis is stimulated by:
+   a) Adult Female Antigens
+   b) Adult Male Antigens
+   c) Soluble Egg Antigen
+   d) Cercarial Antigens
+   e) All of the Above
+   **Answer: C**
+
+259. Which of the following is a feature of Chemical Carcinogens:
+   a) They are Hetrophilic
+   b) Amphophilic
+   c) Neutrophilic
+   d) Nucleophilic
+   e) Inactive Cytochrome Oxidase
+   **Answer: C**
+
+260. Sarcoidosis is characterized by the following EXCEPT:
+   a) Asteroid Bodies
+   b) Schuman Bodies
+   c) Caseating Granuloma
+   d) Langhans Giant Cells
+   e) Foreign Body Giant Cell
+   **Answer: C**
+
+261. Which of the following can give rise to Nitrosamins when ingested:
+   a) Fresh Vegetable
+   b) Citric Fruits
+   c) Preserved Food
+   d) Biscuits
+   e) Beef
+   **Answer: C**
+
+262. Individuals with Sickle Cell Trait are resistant to Malaria because:
+   a) They have low hemoglobin
+   b) Anopheles mosquito does not bite them
+   c) Their red blood cells sickle when parasitized and are removed by spleen
+   d) Their red blood cells contain antiparasite antibodies
+   e) None of the Above
+   **Answer: C**
+
+263. Sandy Patches are feature of:
+   a) Primary Tuberculosis
+   b) Urinary Schistosomiasis
+   c) Tuberculoid Leprosy
+   d) Sarcoidosis
+   e) Tertiary Syphilis
+   **Answer: B**
+
+264. Pipe-Stern Fibrosis is:
+   a) Delayed Wound Healing
+   b) Dystrophic Calcification
+   c) Liver Changes in Schistosomiasis
+   d) Hilar Lymph Nodes in Primary TB
+   e) Healed Primary Chancre
+   **Answer: C**
+
+265. Asteroid Bodies are characteristically seen in:
+   a) Secondary Tuberculosis
+   b) Tertiary Syphilis
+   c) Amyloidosis
+   d) Sarcoidosis
+   e) Tuberculoid Leprosy
+   **Answer: D**
+
+266. The hallmark of Syphilis is:
+   a) Endarteritis Obliterans
+   b) Abominal Aneurysm
+   c) Heavy Plasma Cell Infiltrate
+   d) Both A and B
+   e) Both A and C
+   **Answer: E**
+
+267. Syphilitic Aortic Aneurysm:
+   a) Occurs in Thoracic Aorta
+   b) Is due to Ischemic Destruction of Media and Elastic Fibre
+   c) There is Endarteritis of Vasa Vasora
+   d) All of the Above
+   e) None of the Above
+   **Answer: D**
+
+268. Snail Track Ulcers are a feature of:
+   a) Cutaneous Leishmaniasis
+   b) Typhoid Fever
+   c) Extra Intestinal Amoebiasis
+   d) Secondary Syphilis
+   e) Schistosomal Dermatitis
+   **Answer: D**
+
+269. Bilateral Hilar Lymphadenopathy is a feature of:
+   a) Secondary Tuberculosis
+   b) Tertiary Tuberculosis
+   c) Amyloidosis
+   d) Sarcoidosis
+   e) Tuberculoid Leprosy
+   **Answer: D**
+
+270. Which of the following is not true about Syphilitic Primary Chancre:
+   a) Occurs commonly on external genitalia
+   b) Contains treponema pallidum spiroecele
+   c) Has a dense plasma cell infiltrate
+   d) Does not heal spontaneously
+   e) Occurs 3 weeks after contact with an infected individual
+   **Answer: C**
+
+271. Which of the following is not a feature of Schistosomal Portal Hypertension:
+   a) Ascites
+   b) Oesophageal Varices
+   c) Markedly Disturbed Liver Function
+   d) Coput Medusa
+   e) All of the Above
+   **Answer: C**
+
+272. Eosinophilia of Schistosomiasis is stimulated by:
+   a) C3b
+   b) C5a
+   c) TH2 inducing IL-4 and IL-5 production
+   d) Tremor Necrosis Factor
+   e) None of the Above
+   **Answer: C**
+
+273. Which of the following is most likely to occur as a late complication of urinary schistosomiasis:
+   a) Oesophageal Varices
+   b) Ascites
+   c) Carcinoma of Urinary Bladder
+   d) Pulmonary Hypertension
+   e) Cor Pulmonale
+   **Answer: C**
+
+274. Immune-Complex Glomerulonephritis is most likely associated with:
+   a) Tuberculoid Leprosy
+   b) Primary Tuberculosis
+   c) Typhoid Fever
+   d) Schistosomiasis
+   e) Extra Intestinal Amoebiasis
+   **Answer: D**
+
+275. Hydroureter and Hydronephrosis are complications of:
+   a) Sarcoidosis
+   b) Widespread Cancer
+   c) Typhoid Fever
+   d) Urinary Schistosomiasis
+   e) Portal Hypertension
+   **Answer: D**
+
+276. Which of the following is most affected by Ionizing Radiation:
+   a) Kidney
+   b) Liver
+   c) Bone
+   d) Bone Marrow
+   e) Striated Muscle
+   **Answer: D**
+
+277. Which of the following tissues is most affected by Sarcoidosis:
+   a) The Liver
+   b) The Kidneys
+   c) The Lungs
+   d) Skin
+   e) Bone
+   **Answer: C**
+
+278. Flask-shaped Ulcers are characteristically seen in:
+   a) Intestinal Tuberculosis
+   b) Bacillary Dysentery
+   c) Amoebiasis
+   d) Intestinal Schistosomiasis
+   e) Typhoid Fever
+   **Answer: C**
+
+279. Which of the following is associated with inflammation and ulceration of Peyer Patches:
+   a) Intestinal Tuberculosis
+   b) Bacilliary Dysentery
+   c) Amoebiasis
+   d) Intestinal Schistosomiasis
+   e) Typhoid Fever
+   **Answer: E**
+
+280. Ionizing Radiation has a maximum effect at:
+   a) High Oxygen Tension
+   b) Low Oxygen Tension
+   c) High CO2 Tension
+   d) Low CO2 Tension
+   e) High Nitrogen Tension
+   **Answer: B**
+
+281. Pathological Lesions of Typhoid Fever are best seen in:
+   a) Ileo-Caecal Valve
+   b) Appendix
+   c) Peyers Patches
+   d) Anal Mucosa
+   e) 2nd Part of Duodenum
+   **Answer: C**
+
+282. Which of the following is an Immune-Complex Disease:
+   a) Rheumatoid Arthritis
+   b) Bronchial Asthma
+   c) Chronic Osteomyelitis
+   d) Acute Glomerulonephritis
+   e) Secondary Tuberculosis
+   **Answer: D**
+
+283. The killing of Parasites in Leishmaniasis is mediated by:
+   a) -Interferon
+   b) TNF-
+   c) IL-4
+   d) Both A and B
+   e) Both A and C
+   **Answer: D**
+
+284. Which of the following involved in pathogenesis of septic shock:
+   a) Bacterial Wall Lipopolysaccharides
+   b) IL-1
+   c) IL-8
+   d) All of the Above
+   e) None of the Above
+   **Answer: D**
+
+285. In , Post Kalazar Dermal Leishmaniasis:
+   a) Soon follows treatment of visceral leishmaniasis
+   b) The lesion heals spontaneously within few months
+   c) There is deep ulceration of the lesions
+   d) Both A and B
+   e) Both A and C
+   **Answer: D**
+
+286. Which of the following is used for diagnosis of visceral leishmaniasis:
+   a) Blood Culture
+   b) Nasal Smear
+   c) Skin Snip
+   d) Widal Test
+   e) Bone Marrow Smear
+   **Answer: E**
+
+287. Which of the following is associated with deposition of Amyloid :
+   a) Osteoarthritis
+   b) Intestinal Schistosomiasis
+   c) Multiple Myeloma
+   d) Systemic Lupus Erythematous
+   e) Crohn's Disease
+   **Answer: C**
+
+288. Post Hepatic Jaundice is characterized by:
+   a) Pale Stools
+   b) Absence of Bilirubinuria
+   c) Unconjugated Hyperbilirubinemia
+   d) Hematuria
+   e) Elevated Serum Transaminases
+   **Answer: A**
+
+289. Primary Tuberculosis is Characterized by:
+   a) Cavitation and Fibrosis
+   b) Majority of patients are Asymptomatic
+   c) Hilar Lymph Nodes are not affected
+   d) It is mainly disease of adults
+   e) Mainly affects the apex of the lung
+   **Answer: B**
+
+290. When a Cercaria penetrate the skin of man, it is transformed into:
+   a) Metacaria
+   b) Schistomulum
+   c) Sporocyst
+   d) Miracidium
+   e) Redia
+   **Answer: B**
+
+291. Schistosoma Mansoni and Japonicum can cause:
+   a) Hematuria
+   b) Hepatocellular Carcinoma
+   c) Rectal Polyps
+   d) Malabsorption
+   e) Colorectal Carcinoma
+   **Answer: C**
+
+292. Condyloma Latum is seen in:
+   a) Secondary Syphilis
+   b) Extra Intestinal Amoebiasis
+   c) Intestinal Schistosomiasis
+   d) Sarcoidosis
+   e) Secondary TB
+   **Answer: A**
+
+293. Gummas are seen in:
+   a) Tertiary Syphilis
+   b) Intestinal Amoebiasis
+   c) Leishmaniasis
+   d) Sarcoidosis
+   e) Secondary TB
+   **Answer: A**
+
+294. Which type of Amyloid is associated with Long Term Haemoialysis: b)
+   a) B2- Microglobulin
+   c) AA
+   d) Amyloid Endocrine (AE)
+   e) None of the Above
+   **Answer: A**
+
+295. Which of the following are characteristics of Malignant Neoplasms:
+   a) Encapsulation
+   b) Expansile Growth
+   c) Both A and B
+   d) Neither A nor B
+   **Answer: D**
+
+296. The most important enzyme system for the Metabolic Activation of Chemical Carcinogens is:
+   a) Glutathione Reductase
+   b) Cytochrome-P450-dependednt Monooxygenases
+   c) Epoxide Hydrolase
+   d) UDP-Glucuronic Acid Transferase
+   **Answer: B**
+
+297. Which of the following is not a Tumor Marker:
+   a) AFP (Alfa-Feto Protein)
+   b) CEA (Carcino Embryonic Antigen)
+   c) PSA (Prostale Specific Antigen)
+   d) Aflatoxin
+   e) ACTH
+   **Answer: D**
+
+298. The late Mitsuda Reaction is strongly positive in:
+   a) Lepromatous Leprosy
+   b) Tuberculoid Leprosy
+   c) Indeterminate Leprosy
+   d) Borderline Leprosy
+   e) Borderline Lepromatous Leprosy
+   **Answer: B**
+
+299. Snail Track Ulcers are a feature of:
+   a) Intestinal Amoebiasis
+   b) Muco-cutaneous Leishmaniasis
+   c) Dermal Sarcoidosis
+   d) Secondary Syphilis
+   e) Post-Kale Agar Dermal Leishmaniasis
+   **Answer: D**
+
+300. Which of the following is not a feature of Secondary Syphilis:
+   a) Widespread Skin Rash
+   b) Generalized Lymphadenopathy
+   c) Condyloma Lata
+   d) Hepar Lobatum
+   e) Abundant Spirochaete
+   **Answer: D**
+
+301. Which of the following is a Non-Specific Test for Syphilis:
+   a) VDRL (test)
+   b) Widal Test
+   c) Kvein Test
+   d) Mantoux Test
+   e) Lepromin Test
+   **Answer: A**
+
+302. Asteroid and Shauman Bodies are seen in:
+   a) Primary Tuberculosis
+   b) Secondary Tuberculosis
+   c) Sarcoidosis
+   d) Tertiary Syphilis
+   e) Visceral Leishmaniasis
+   **Answer: C**
+
+303. Syphilis Transmission is:
+   a) Venereal
+   b) Through Placenta
+   c) Accidental Inoculation
+   d) Both A and B
+   e) All of the Above
+   **Answer: E**
+
+304. Which of the following is not a feature of Lepromatous Leprosy:
+   a) Involvement and perforation of Nasal Cartilage
+   b) Production of Antibodies to various antigens
+   c) Multinucleated Giant Cells containing Asteroid Bodies
+   d) Lepromatous Cells contain many Bacilli
+   e) Sub epidermal zone is clear of Infiltrate
+   **Answer: C**
+
+305. Which of the following is not a feature of Primary Chanre of Syphilis:
+   a) It is a hard very painful nodule
+   b) Develops at a site of infection
+   c) Persists for weeks and heals spontaneously
+   d) Leaves minimal scarring
+   e) Contains many spirochaetes
+   **Answer: A**
+
+306. Which of the following is not a Malignant Tumor:
+   a) Lung Hamartoma
+   b) Liver Hepatoma
+   c) Brain Glioma
+   d) Skin Melanoma
+   e) Lymphoma
+   **Answer: A**
+
+307. Peg-Shaped ('s Teeth) are seen:
+   a) Mucutaneous Leishmaniasis
+   b) Secondary Syphilis
+   c) Oral Candida (fungal) infection
+   d) Congenital Syphilis
+   e) Gumma of Gingiva
+   **Answer: D**
+
+308. Formation of Epitheloid Cells from Macrophages is induced by:
+   a) IL-10
+   b) IL-4
+   c) C3b
+   d) -Interferon
+   e) IgM
+   **Answer: D**
+
+309. Which of the following clinical patterns of Leprosy is associated with a well developed cell mediated response:
+   a) Lepromatous Leprosy
+   b) Tuberculoid Leprosy
+   c) Borderline Leprosy
+   d) Indeterminate Early Stage
+   e) Borderline Lepromatous
+   **Answer: B**
+
+310. Mycobacterium leprae grows in the laboratory in which of the following media:
+   a) Blood agar
+   b) Maconkey agar
+   c) Lowenston-Johnson Medium
+   d) All of the Above
+   e) None of the Above
+   **Answer: E**
+
+311. Which of the following Tumors does not Metastasize:
+   a) Skin Squamous Cell Carcinoma
+   b) Male Breast Carcinoma
+   c) Gastric Carcinoma
+   d) Skin Basal Cell Carcinoma
+   e) Melano Carcinoma
+   **Answer: D**
+
+312. Bilateral Hilar Lymphadenopathy Lung involvement by Non-Caseating Granuloma is characteristically seen in:
+   a) Primary Tuberculosis
+   b) Post-Primary (secondary) Tuberculosis
+   c) Tuberculoid Leprosy
+   d) Sarcoidosis
+   e) Bacteriuria Phase of Enteric Fever
+   **Answer: D**
+
+313. The hallmarks of Syphilis is (are):
+   a) Endarteritis Obliteraus
+   b) Heavy Plasma Cell Infiltrate
+   c) Epitheloid Granuloma
+   d) Both A and B
+   e) All of the Above
+   **Answer: D**
+
+314. Sites of Primary Intestinal Tuberculosis are:
+   a) The Gum
+   b) Oropharynx
+   c) Ileac Caezal Valve Regie
+   d) Both B and C
+   e) All of the Above
+   **Answer: E**
+
+315. Which of the following is (are) features of Post Primary (Secondary Tuberculosis):
+   a) Can be due to Re-Infection
+   b) Can be due to Re-Activation
+   c) Commonly affects the Upper Lobe
+   d) Both B and C
+   e) All of the Above
+   **Answer: E**
+
+316. Which of the following is (are) portal entry of Lepra Bacilli:
+   a) Skin
+   b) Sexual Transmission
+   c) Upper Respiratory Tract
+   d) Both A and B
+   e) Both A and C
+   **Answer: E**
+
+317. Immuno Deficient Patients are prone to the following except:
+   a) Bacterial Infections
+   b) Viral Infections
+   c) Autoimmune Diseases
+   d) Tumors
+   e) None of the Above
+   **Answer: C**
+
+318. The type of Amyloid associated with Chronic Inflammation is: b)
+   a) AA
+   c) B2 Amyloid
+   d) Transthyrefin
+   e) B2 Microglobulin
+   **Answer: A**
+
+319. Amyloid Material is deposited:
+   a) Intracellularly
+   b) Extracellularly
+   c) In the Kidney only
+   d) Both A and B
+   e) Both A and C
+   **Answer: B**
+
+320. Visceral Leishmaniasis is best diagnosed by the following:
+   a) Demonstration of LD bodies in Bone Marrow
+   b) Demonstration of LD bodies in Lymph Nodes
+   c) Demonstration of LD bodies in Spleen
+   d) Demonstration of LD bodies in Skin
+   e) Leishmania Test
+   **Answer: A**
+
+321. The course of Leishmania Infection is determined by:
+   a) The host T-cell Response
+   b) The species of the Leishmania
+   c) The host B-cell Response
+   d) Both A and B
+   e) Both A and C
+   **Answer: D**
+
+322. The following are true about V. leishmaniasis except:
+   a) It is not common in
+   b) It can cause Thrombocytopenia
+   c) It is transmitted by the Sand Fly
+   d) It is a Zoonotic Infection
+   e) It can cause Immunodeficiency
+   **Answer: A**
+
+323. Unconjugated Hyperbilirubinemia can be found in all of the following except:
+   a) Sickle Cell Anemia
+   b) Viral Hepatitis
+   c) Stone in the Common Bile Duct
+   d) Malaria
+   e) Gilbert's Syndrome
+   **Answer: C**
+
+324. In Rotor Syndrome:
+   a) There is decreased excretion of bilirubin by the hepatocytes
+   b) Defective Conjugation of Bilirubin
+   c) The liver is pigmented
+   d) There is increased urobilinogen in urine
+   e) None of the Above
+   **Answer: A**
+
+325. The following are causes of Secondary Immunodeficiency except:
+   a) Infection
+   b) Malnutrition
+   c) Aging
+   d) DiGeorge's Syndrome
+   e) Radiotherapy
+   **Answer: D**
+
+326. The worst prognosis is found in Amyloidosis associated with:
+   a) Alzahimer's
+   b) Multiple Myloma
+   c) Chronic Inflammation
+   d) Localized Type
+   e) Renal Failure
+   **Answer: C**
+
+327. Plasma Bilirubin is:
+   a) 5% Unconjugated
+   b) 95% Conjugated
+   c) 95% Unconjugated
+   d) Crosses the Blood Brain Barrier in Adults
+   e) Is normally filtered by kidneys
+   **Answer: C**
+
+328. Kala-zar means:
+   a) Black Fever
+   b) Yellow Fever
+   c) Black Ulcer
+   d) Cutaneous Leishmaniasis
+   e) Black Skin
+   **Answer: A**
+
+329. Sickle Cell Anemia mode of inheritance is:
+   a) Autosomal Dominant
+   b) Autosomal Recessive
+   c) Sex-Linked Recessive
+   d) Random Mutation
+   e) None of the Above
+   **Answer: B**
+
+330. Sickle Cell Anemia first presents as:
+   a) Adult Life
+   b) Birth
+   c) Few Months after Birth
+   d) Pre Notaily
+   e) All of the Above
+   **Answer: C**
+
+331. Causes of Iron Deficiency Anemia include all of the following except:
+   a) Peptic Ulcers
+   b) Hemorrhoids
+   c) Low Dietary Iron
+   d) Intra-Vascular Hemolysis
+   e) Menorrhagia
+   **Answer: D**
+
+332. The causes of Aplastic crisis in Sickle Cell Anemia is usually:
+   a) Infection by Coxakie Virus
+   b) Infection by Mumps Virus
+   c) Infection by Molania
+   d) Infection of Paro Virus
+   e) Exhaustion of Erythropoiesis
+   **Answer: D**
+
+333. Hypochromic Microcytic RBCs are found in:
+   a) Iron Deficiency Anemia
+   b) B12 Deficiency
+   c) Folate Deficiency
+   d) Anemia of Chronic Disease
+   e) Sickle Cell Anemia
+   **Answer: A**
+
+334. Excess Growth Hormone in Adults causes:
+   a) Giantisim
+   b) Acromegally
+   c) Dwarfism
+   d) Hypoglycemia
+   e) Has No Effects
+   **Answer: B**
+
+335. Ghon Focus is associated with:
+   a) Emphysema
+   b) Chronic Bronchitis
+   c) Bronchiectasis
+   d) Tuberculosis
+   e) Lobar Pneumonia
+   **Answer: D**
+
+336. The secretion of Parathyroid Hormone is controlled by the concentration of:
+   a) Extracellular Ionized Calcium
+   b) Calcium bound to Citrate
+   c) Calcium bound to Plasma Proteins
+   d) Calcium inside the Bone Matrix
+   e) None of the Above
+   **Answer: A**
+
+337. Which of the following causes enlarged prominent Peyers Patches:
+   a) Intestinal TB
+   b) Enteric Fever
+   c) Amoebiasis
+   d) Intestinal Schistosomiasis
+   e) Visceral Leishmaniasis
+   **Answer: B**
+
+338. Which of the following is not associated with Schistosomiasis:
+   a) Portal Hypertension
+   b) Pulmonary Hypertension
+   c) Intestinal Pseudotumors
+   d) Anti-Basement Membrane Glomerulonephritis
+   e) Splenomegaly
+   **Answer: D**
+
+339. Type AA Amyloid is seen in the following conditions except:
+   a) Bronchiectasis
+   b) Renal Cell Carcinoma
+   c) Hodgkins Disease
+   d) Multiple Myeloma
+   e) Rheumatoid Arthritis
+   **Answer: D**
+
+340. Which of the following is not true about Secondary Syphilis:
+   a) Occurs a few years after Primary Infection
+   b) Generalized Lymphadenopathy
+   c) Snail Track Ulcers
+   d) Conylomata Lata
+   e) Generalized Skin Rash
+   **Answer: A**
+
+341. Almost all the Thyroid Hormone entering the circulation is in the form of:
+   a) Triiodothyronine
+   b) Thyroxine
+   c) Thyroglobulin
+   d) Thyrotropin
+   e) None of the Above
+   **Answer: B**
+
+342. Which of the following is not a Morphologic feature of Chronic Pyelonephritis:
+   a) Thyroidization of lobules
+   b) Symmetric Bilateral Contracted Kidneys
+   c) Periglomerular Fibrosis
+   d) Hyalinization of Glomeruli
+   e) Vascular Changes due to Hypertension
+   **Answer: B**
+
+343. Which of the following is true about Uric Acid Calculi (stones):
+   a) Occur in patients with Hyperuricemia
+   b) Occur when the urine pH is low
+   c) They are Radiolucent
+   d) Only A & C
+   e) All of the Above
+   **Answer: E**
+
+344. In Analgesic Abuse Nephropathy, Papillary Damage is due to:
+   a) Direct Toxic effects of Metabolites
+   b) Formation of Metabolite deposits in Tubules
+   c) Ischemic Effect of Aspirin
+   d) Both A & B
+   e) Both A & C
+   **Answer: E**
+
+345. Which cell in the Central Nervous System is predominantly infected in HIV:
+   a) Astrocyte
+   b) Oligodendrocytes
+   c) Neurons
+   d) Ependymal Cells
+   e) Microglia
+   **Answer: E**
+
+346. Which of the following is not a feature of RPGN:
+   a) Oliguria
+   b) Hypertension
+   c) Crescents
+   d) Urine WBC Casts
+   e) Uremia
+   **Answer: D**
+
+347. Sandy Patches are seen in:
+   a) with Amoebiasis
+   b) Intestine with Typhoid Fever
+   c) Skin with Dermal Leishmaniasis
+   d) Urinary Bladder with Schistosomiasis
+   e) Nerves with Leprosy
+   **Answer: D**
+
+348. Which of the following is not a factor determining susceptibility to infection by Tubercle Bacilli:
+   a) Steroid Therapy
+   b) HIV
+   c) Diabetes Mellitus
+   d) Silicosis
+   e) Bronchial Asthma
+   **Answer: E**
+
+349. Amyloid deposits in the kidney is a cause of:
+   a) Nephritic Syndrome
+   b) Interstitial Nephritis
+   c) Pyonephrosis
+   d) Nephrotic Syndrome
+   e) Acute Tubular Necrosis
+   **Answer: D**
+
+350. Which of the following is not a feature of Acute Diffuse Post-Streptococcal Glomerulonephritis:
+   a) Elevated Serum ASO
+   b) Low C3 Serum Complement
+   c) Antiglomerular Basement Membrane Deposits
+   d) Hypercellular Glomeruli
+   e) Red Cell Casts in the Urine
+   **Answer: C**
+
+351. Hypochromic Microcytic RBCs are seen in:
+   a) Chronic Blood Loss
+   b) Liver Disease
+   c) Folic Acid Deficiency
+   d) Aplastic Anemia
+   e) Pernicious Anemia
+   **Answer: A**
+
+352. Which of the following is not true about Cardiovascular Syphilis:
+   a) Affects Proximal Aorta
+   b) Endarteritis and Periaorteritis of Vasa Vasora
+   c) Aneurysmal Dilation of Arch of Aorta
+   d) Tree-Bark Appearance of Media
+   e) Aortic Valve Stenosis
+   **Answer: E**
+
+353. Which of the following is not true about Sarcoidosis:
+   a) Lung Involvement in 90% of cases
+   b) Bilateral Hilar Lymphadenopathy
+   c) Caeseating Granuloma
+   d) Skin is usually involved
+   e) Females affected more than Males
+   **Answer: C**
+
+354. The following are features of G-6-P-D Deficiency except:
+   a) Females commonly have clinical symptoms
+   b) Hemolysis precipitated by Oxidant Drug
+   c) Neonatal Jaundice is common
+   d) Favism may produce Profound Anemia
+   e) Infection can precipitate Hemolysis
+   **Answer: A**
+
+355. Which of the following is a Specific Test for Diagnosis of Syphilis:
+   a) Rapid Plasma Reagim (RPR)
+   b) VDRL (Venereal Disease Research Laboratory)
+   c) Widal Test
+   d) Mantoux Test
+   e) TPHA (Treponema Pallidum Hemagglutination Assay)
+   **Answer: E**
+
+356. The following are features of Membrano-Proliferative GN except:
+   a) Hypercellular Glomeruli
+   b) Thickened Basement Membranes
+   c) Basement Membrane Spikes
+   d) Accentuated Lobular Pattern
+   e) Presents as Nephrotic or Nephritic Syndrome
+   **Answer: C**
+
+357. During the Intestinal Phase, Enteric Fever is best diagnosed by:
+   a) Blood Culture
+   b) Stool Culture
+   c) Urine Culture
+   d) Widal Test
+   e) Intestinal Biopsy
+   **Answer: D**
+
+358. In Falcifarum Malaria, Rosettes are formed by:
+   a) Adherence of Parasites to RBCs
+   b) Adherence of Macrophages around Parasites
+   c) Adherence of Infected RBCs around Nuclei of Dead Hepatocytes
+   d) Adherence of RBCs in Splenic Sinusoids
+   e) Adherence of Infected RBCs around Uninfected Cells
+   **Answer: E**
+
+359. The most frequent outcome of Acute Diffuse Glomerulonephritis is:
+   a) Progression to Rapidly Progressive GN
+   b) Progression to Acute Renal Failure
+   c) Progression to Chronic Renal Failure
+   d) Complete Recovery on Conservative Therapy
+   e) Progression to Focal Segmental Glomerulosclerosis
+   **Answer: D**
+
+360. Which of the following is not seen in Tuberculoid Leprosy:
+   a) Granuloma with Multinucleated Giant Cells
+   b) Epidermis is Thin
+   c) Swollen Nerves due to Proliferation of Schwann Cells
+   d) Large number of Bacilli in Lepra Cells
+   e) Hypopigmented Anesthetic Skin Lesions
+   **Answer: D**
+
+361. Which of the following is associated with Wegner's Granulomatosis:
+   a) Type III RPGN
+   b) Diffuse Membranous GN
+   c) Alport Syndrome
+   d) Acute Tubular Necrosis
+   e) Henoch-Schoenlein Papura
+   **Answer: A**
+
+362. Which of the following lung changes occur in Falcifarum Malaria due to Secondary Involvement of Micro-circulation:
+   a) Pulmonary Oedema
+   b) Interstitial Oedema
+   c) Hyaline Membrane Formation
+   d) All of the Above
+   e) Only A & B
+   **Answer: D**
+
+363. Which of the following is not a Tumor Marker:
+   a) ACTH
+   b) CEA (Carcino Embryonic Antigen)
+   c) AFP (Alfa Fetoprotein)
+   d) Alfatoxin
+   e) Chorionic Gonadotrophin
+   **Answer: D**
+
+364. Which of the following is not a feature of Sickle Cell Anemia:
+   a) Autosplenectomy occur
+   b) Inheritance is Sex-Linked
+   c) Pigmented Gall Stone Formation is a Complication
+   d) Presentation at 6 months of age
+   e) A Vascular Necrosis of the Head of the Femur occur
+   **Answer: B**
+
+365. The following are causes of Red Blood Macrocytosis except:
+   a) Liver Disease
+   b) Vitamin B12 Disease
+   c) Sideroblastic Anemia
+   d) Renal Failure
+   e) Hemolysis
+   **Answer: C**
+
+366. In Chronic Lymphocytic Leukemia the following are true except:
+   a) Lymphocytosis is a feature
+   b) There is Lymphadenopathy
+   c) Autoimmune Hemolytic Anemia in a Complication
+   d) Anemia is a late presenting feature
+   e) pH-Chromosomal Abnormality is Diagnostic
+   **Answer: E**
+
+367. The following are true in Hemophilia except:
+   a) There is a prolong aPTT
+   b) Skin Hemorrhage is the commonest presentation
+   c) Cyroprecipitate is used for treatment
+   d) Autobodies to Factor VIII form in some patients
+   e) The severity of the disease correlates with the factor level
+   **Answer: D**
+
+368. Which of the following is not true about Beta Thalessemia Major:
+   a) Causes high level of Hb F
+   b) Causes Red Cell Hypochromic
+   c) Rarely required Blood Transfusion
+   d) Is associated with Extramedullary Hemopoiesis
+   e) Causes Splenomegaly
+   **Answer: C**
+
+369. Which of the following is true about Stem Cells:
+   a) They are capable of Self-Renewal
+   b) They are found in the Basal Layer of the Skin
+   c) Their Proliferation of Self-Initation
+   d) They produce a Single Cell
+   e) They are resistant to Ionizing Radiation
+   **Answer: A**
+
+370. Complication of Blood Transfusion include all of the following except:
+   a) Septicemia
+   b) Fat Embolism
+   c) Hepatitis C Infection
+   d) Circulatory Over Load
+   e) Urticaria
+   **Answer: B**
+
+371. Which of the following is a feature of Chronic Myeloid Leukemia:
+   a) Thrombocytopenia is a common feature
+   b) Basophilia is a feature
+   c) Lymphadenopathy is commonly seen
+   d) There is Thrombocytosis
+   e) Bone Marrow Examination is essential for diagnosis
+   **Answer: C**
+
+372. Which of the following are characteristics of Megaloblastic Anemia:
+   a) Pancytopenias
+   b) Giant Metamyelocytes in the Bone Marrow
+   c) High MCV and MCH
+   d) High Level of Bilirubin
+   e) Microcytic Hypochromic RBC
+   **Answer: C**
+
+373. The following features are true in Von Wilbrand Disease except:
+   a) Inheritance is Sex-Linked
+   b) The Bleeding Time is prolonged
+   c) There is Defective Platelets Adhesion
+   d) The PTT is prolonged
+   e) The Patient is
+   **Answer: A**
+
+374. The following are Hyperglycemic except:
+   a) Cortisol
+   b) GH
+   c) Adrenaline
+   d) Insulin
+   e) Glucagon
+   **Answer: D**
+
+375. In Diabetic Ketoacidosis:
+   a) Blood Glucose is High
+   b) Blood Glucose is Low
+   c) Ketone Bodies are High
+   d) A and C
+   e) B and C
+   **Answer: D**
+
+376. GTT is for the diagnosis of:
+   a) Every case of Diabetes
+   b) Follow Up of Diabetes
+   c) Type I Diabetes
+   d) Type II Diabetes
+   e) None of the Above
+   **Answer: A**
+
+377. In Excess Body Water there is:
+   a) Hypertension
+   b) Edema
+   c) Confusion
+   d) Hypotension
+   e) None of the Above
+   **Answer: C**
+
+378. Glycoseloted Hb gives an idea about Glycemic Control in the last:
+   a) 1 Month
+   b) 2 Months
+   c) 3 Months
+   d) 1 Year
+   e) All of the Above
+   **Answer: C**
+
+379. Type I Diabetes Mellitus is characterized by the following except:
+   a) Absolute Insulin Deficiency
+   b) Auto Antibodies
+   c) DKA
+   d) Hyperosmolar Coma
+   e) None of the Above
+   **Answer: D**
+
+380. The most likely complication of Hypertriglyceridemia is:
+   a) IHD
+   b) Angina
+   c) Arcus Senilus
+   d) Acute Pancreatitis
+   e) Obesity
+   **Answer: D**
+
+381. The beat time to do a Lipid Profile in a patient with MI is:
+   a) Within 24 hours
+   b) After 72 hours
+   c) After One Week
+   d) After One Month
+   e) All of the Above
+   **Answer: A**
+
+382. A  Fasting Plasma should not contain:
+   a) Chylomicrons
+   b) VLDL
+   c) LDL
+   d) A and B
+   e) All of the Above
+   **Answer: A**
+
+383. Hypokalemia may be caused by each of the following except:
+   a) Acidosis
+   b) Prolonged Vomiting
+   c) Diarrhea
+   d) Hyperaldosteronism
+   e) Decreased Intake
+   **Answer: A**
+
+384. Hyperkalemia may be caused by each of the following except:
+   a) Renal Failure
+   b) Hypoaldosteroinism
+   c) Alkalosis
+   d) Sample Hemolysis
+   e) None of the Above
+   **Answer: C**
+
+385. In Primary Hyperparathyroidism:
+   a) Ca2+ is increased, PO42- increased
+   b) Ca2+ is decreased, PO42- decreased
+   c) Ca2+ is increased, PO42- decreased
+   d) Ca2+ is decreased, PO42- increased
+   e) Ca2+ is normal, PO42- normal
+   **Answer: A**
+
+386. Diabetic Nephropathy is detected by:
+   a) High Blood Sugar
+   b) Micro Albuminemia
+   c) Glycosuria
+   d) Renal Failure
+   e) Hemoturie
+   **Answer: B**
+
+387. High Cholesterol Predisposes to:
+   a) Obesity
+   b) Atherosclerosis
+   c) Acute Pancreatitis
+   d) Renal Failure
+   e) Peptic Ulcer
+   **Answer: B**
+
+388. Which of the following is the most significant finding on Microscopic Analysis of Urine for a patient suffering from Acute Pyelonephritis:
+   a) Hyaline Cast
+   b) Oval Fat Bodies
+   c) Red Blood Cells
+   d) White Blood Cell Casts
+   e) Triple Phosphate
+   **Answer: D**
+
+389. Which of the following is a known complication of Phenacetin Abuse:
+   a) Papillary Necrosis
+   b) Focal Segmental Glomerulosclerosis
+   c) Nephrocalcinosis
+   d) Acute Interstitial Nephritis
+   e) Arteriosclerosis
+   **Answer: A**
+
+390. Which of the following is a risk factor for Transitional Cell Carcinoma of the Urinary Bladder:
+   a) Diabetes Mellitus
+   b) Recurrent Urinary Tract Infections
+   c) Therapy with Ampicillin
+   d) Cigarette Smoking
+   e) Use of NSAIDS
+   **Answer: E**
+
+391. Which of the following types of Calculi is associated with infection of Urinary Tract Splitting Organisms:
+   a) Calcium Oxalate
+   b) Cystine
+   c) Calcium Phosphate
+   d) Uric Acid
+   e) Magnesium Ammonium Phosphate
+   **Answer: E**
+
+392. Which of the following is a cause of Surgically Treatable Hypertension:
+   a) Diabetes Mellitus
+   b) IgA Nephritis
+   c) Fibromuscular Dysplasia of Renal Artery
+   d) SLE Nephritis
+   e) Goodpasture Syndrome
+   **Answer: C**
+
+393. Which of the following can arise as a complication of using Ampicillin and is associated with Eosinophilia:
+   a) Post Streptococcal Glomerulonephritis
+   b) Interstitial Nephritis
+   c) IgA Nephropathy
+   d) Acute Tubular Necrosis
+   e) Nodular Glomerulosclerosis
+   **Answer: B**
+
+394. Which of the following will give rise to Lipiduria:
+   a) Ascending Pyelonephritis
+   b) Nephritic Syndrome
+   c) Nephrotic Syndrome
+   d) Obstructive Uropathy
+   e) Renal Infarction
+   **Answer: C**
+
+395. A 3 year old child with a solid 10cm Right Renal Mass is most likely having:
+   a) Hydronephrosis
+   b) Renal Cell Carcinoma
+   c) Transitional Cell Carcinoma
+   d) Wilm's Tumor
+   e) Papillary Necrosis
+   **Answer: D**
+
+396. Which of the following is associated with Hyperplastic Arteriosclerosis and Fibrinoid Necrosis:
+   a) Diabetes Mellitus Type II
+   b) Membranoproliferative Glomerulonephritis
+   c) Albort's Syndrome
+   d) Malignant Hypertension
+   e) Analgesic Abuse
+   **Answer: D**
+
+397. Which of the following Renal Changes is most likely to improve following a course of Corticosteroid Therapy:
+   a) Glomerular Crescents
+   b) Fusion of Podocyte Food Processes
+   c) Patchy Tubular Necrosis
+   d) Hyperplastic Arteriosclerosis
+   e) Mesangial Immune Complex Deposition
+   **Answer: B**
+
+398. Which of the following is a feature of Membranous Glomerulonephritis:
+   a) Rapid Onset
+   b) Red Blood Cell Casts
+   c) Oliguria
+   d) Heavy Proteinuria
+   e) Hypertension
+   **Answer: D**
+
+399. Which of the following is a diagnostic feature of Rapidly Progressive Glomerulonephritis:
+   a) Insidious Onset
+   b) Leukocyte Cast in Urine
+   c) Polyuria
+   d) Crescent Formation
+   e) Wireloop Appearance
+   **Answer: D**
+
+400. Which of the following is (are) a feature of Malignant Hypertension:
+   a) Hyperplastic Arteriosclerosis
+   b) Crescent Formation
+   c) Fibrinoid Necrosis
+   d) A & B
+   e) A & C
+   **Answer: E**
+
+401. Which of the following is a feature of Membranous Glomerulonephritis:
+   a) Smokey Red Urine
+   b) Red Blood Cell Casts
+   c) Oliguria
+   d) Albuminuria
+   e) Hypertension
+   **Answer: D**
+
+402. Which of the following is not a feature of Diffuse Post Streptococcal Glomerulonephritis:
+   a) Hypertension
+   b) Peri-Orbital Oedema
+   c) Granular Cast in Urine
+   d) Fusion of Podocyte Food Processes
+   e) Immune Complex Deposition
+   **Answer: D**
+
+403. Low Serum Complement, Hypercellular Glomerulis and Subepithelial Immune Deposits are characteristically seen in:
+   a) Alport's Syndrome
+   b) Minimal Change Disease
+   c) Interstitial Nephritis
+   d) Post Streptococcal GN
+   e) IgA Nephropathy
+   **Answer: D**
+
+404. Mesangial Deposits of IgA are characteristically seen in:
+   a) Alport's Syndrome
+   b) Minimal Change Disease
+   c) Interstitial Nephritis
+   d) Post Streptococcal GN
+   e) IgA Nephropathy
+   **Answer: E**
+
+405. Basement Membrane Spikes are characteristically seen in:
+   a) Minimal Change Disease
+   b) Idiopathic Membranous GN
+   c) Crescent GN
+   d) Post Streptococcal GN
+   e) Alport's Syndrome
+   **Answer: B**
+
+406. Which Glomerular Disease is associated with C-ANCA:
+   a) Type I RBGN
+   b) Type II RBGN
+   c) Type III RBGN
+   d) IgA Nephropathy
+   e) Post-Streptococcal GN
+   **Answer: C**
+
+407. Antiglomerular Basement Membrane Antibodies are characteristically seen in:
+   a) Type I RBGN
+   b) Type II RBGN
+   c) Type III RBGN
+   d) IgA Nephropathy
+   e) Post-Streptococcal GN
+   **Answer: A**
+
+408. Which of the following is not a feature of Mesangial Cells:
+   a) Phagocytic Activity
+   b) Ability to Proliferate
+   c) Metaplasia to Endothelial Cells
+   d) Laying down Mesangial Matrix
+   e) Secretion of Chemical Mediator
+   **Answer: C**
+
+409. Pyonephrosis is a known complication of:
+   a) Interstitial Nephritis
+   b) Acute Pyelonephritis
+   c) Acute Tubular Necrosis
+   d) Post Streptococcal GN
+   e) RPGN
+   **Answer: B**
+
+410. Thyroidization is a feature of:
+   a) Chronic Pyelonephritis
+   b) Renal Osteodystrophy
+   c) Secondary Metaplasia
+   d) Hyperuricemia
+   **Answer: A**
+
+411. Which of the following is associated with Fever, Purpuric Rash, Abdominal Colic & Proteinuria in children:
+   a) Henoch-Schoen Lein Disease
+   b) Nephroblastoma
+   c) Chronic Pyelonephritis
+   d) Interstitial Nephritis
+   e) Minimal Change Disease
+   **Answer: A**
+
+412. HIV associated Kaposi Sarcoma is more prevalent among:
+   a) Homosexuals
+   b) Heterosexuals
+   c) Drug Abusers
+   d) Hemophiliacs
+   e) Female Patients
+   **Answer: A**
+
+413. A smear showing Hyperchromatism & Pleomorphism is an example of:
+   a) Dysplasia
+   b) Metaplasia
+   c) Hypertrophy
+   d) Hyperplasia
+   e) Atrophy
+   **Answer: B**
+
+414. EBV is strongly associated with:
+   a) Hepatocellular Carcinoma
+   b) Burkett's Lymphoma
+   c) Nasopharyngeal Carcinoma
+   d) Both A & B
+   e) Both B & C
+   **Answer: E**
+
+415. Which of the following is not Malignant:
+   a) Melanoma
+   b) Hamartoma
+   c) Adenocarcinoma
+   d) Lymphoma
+   e) Liposarcoma
+   **Answer: B**
+
+416. Which of the following is associated with Hepatic Angiosarcoma:
+   a) Benzene
+   b) Radon
+   c) Cyclophosphamide
+   d) Abestos
+   e) Vinyl Chloride
+   **Answer: E**
+
+417. The following are true about Nasopharyngeal Carcinoma except:
+   a) Commonest Tumor of Childhood in some parts of
+   b) It is associated with infection by Epstein Barr Virus
+   c) Radical Surgery is the standard treatment
+   d) Metastasize the Cervical Lymph Node
+   e) Commonest Tumor in some parts of
+   **Answer: A**
+
+418. Which of the following is not a known risk for Carcinoma of the Larynx:
+   a) Tobacco Smoker
+   b) Alcohol
+   c) Irradiation
+   d) HPV
+   e) EB Virus
+   **Answer: E**
+
+419. In Chronic Bronchitis, cigarettes smoking is not a factor in which of the following:
+   a) Squamous Metaplasia
+   b) Smooth Muscle Hyperplasia
+   c) Interference with Ciliary Action
+   d) Direct Damage to Airway Epithelium
+   e) Inhibits Bronchiolar and Alveolar Leukocytes
+   **Answer: B**
+
+420. Bronchi in patients suffering from Chronic Bronchitis will most likely show:
+   a) Ulceration of Mucosa
+   b) Squamous Metaplasia
+   c) Hypertrophy of Mucus Glands
+   d) Both A & B
+   e) Both B & C
+   **Answer: E**
+
+421. Which of the following is not a complication of Chronic Bronchitis:
+   a) Squamous Metaplasia of Bronchial Epithelium
+   b) Cor-Pulmonale
+   c) COPD (Chronic Obstructive Pulmonary Disease)
+   d) Pulmonary TB
+   e) Heart Failure
+   **Answer: D**
+
+422. Microscopic Examination of Sputum from an Asthmatic will show:
+   a) Many Eosinophils
+   b) Curschman Spiral
+   c) IgE Antibodies
+   d) Both A & B
+   e) Both B & C
+   **Answer: D**
+
+423. Generalized Oedema is most likely seen in:
+   a) Lymphatic Obstruction
+   b) Polyarteritis Nodusa
+   c) Pulmonary Hypertension
+   d) Disease
+   e) Hypoalbuminemia
+   **Answer: E**
+
+424. Which of the following is stained by Congo Red:
+   a) Basement Membranes
+   b) Spirochaetes
+   c) Tubercle Bacilli
+   d) Amyloid
+   e) Collagen
+   **Answer: D**
+
+425. Which type of Necrosis is most typically associated with Pyogenic Infection:
+   a) Fibrinoid Necrosis
+   b) Enzymatic Fat Necrosis
+   c) Coagulation Necrosis
+   d) Caseous Necrosis
+   e) Liquefaction Necrosis
+   **Answer: C**
+
+426. The microscopic appearance of an increased cell size of multiple cells in a tissue, due to an increase in the amount of cytoplasm, with nuclei remaining uniform in size, is best illustrated by:
+   a) The uterine myometrium in pregnancy
+   b) The female breast at puberty
+   c) The liver following partial resection
+   d) The ovary following menopause
+   e) The cervix with chronic inflammation
+   **Answer: A**
+
+427. A Button-Hole Mitral Valve is most likely associated with:
+   a) Marfan's Syndrome
+   b) Congenital Heart Disease
+   c) Rheumatic Heart Disease
+   d) Systemic Lupus Erythematosus
+   e) Atrial Myxoma
+   **Answer: C**
+
+428. A 5 week old baby was brought to the hospital because of difficulty of breathing and occasionally turning blue. There is a Pansystolic Murmer. Which of the following Congenital Cardiac Anomalies is most likely to be present:
+   a) Hypertrophic Subaortic Stenosis
+   b) Hypoplastic Left Heart Syndrome
+   c) Coarctation of the Aorta
+   d) Ventricular Septal Defect
+   e) Bicuspid Aortic Valve
+   **Answer: D**
+
+429. Which of the following is not true about Carcinoma of the Nasopharynx:
+   a) Common in children in
+   b) Common in adults in
+   c) Is associated with EB Virus
+   d) Is usually treated by Chemotherapy
+   e) Is associated with Lymphoid Tissue
+   **Answer: A**
+
+430. Which of the following is not associated with Carcinoma of the Larynx:
+   a) Tobacco Smoking
+   b) Irradiation
+   c) HPV
+   d) EBV
+   e) Alcohol
+   **Answer: D**
+
+431. Which of the following is most likely to develop in a patient who has Congenital Ventricular Septal Defect when he becomes 20 years old:
+   a) Left Atrial Dilation
+   b) Mitral Valve Prolapse
+   c) Pulmonary Hypertension
+   d) Myocardial Infarction
+   e) Cardiac Tamponade
+   **Answer: C**
+
+432. A 66 year old man has had Increasing Malaise for the past year. On physical examination, Ausculation of the chest reveals a Friction Rub. Laboratory Studies show Serum Urea Nitrogen of 100 mg/dl and Creatinine of 9.8 mg/dl. Which of the following forms of Pericarditis is he most likely to have:
+   a) Fibrinous
+   b) Hemorrhage
+   c) Purulent
+   d) Serous
+   e) Constrictive
+   **Answer: A**
+
+433. Which of the following is most likely to give a Hemorrhagic Pleural Effusion:
+   a) Autoimmune Disease
+   b) Chronic Renal Failure
+   c) Rheumatic Fever
+   d) Metastatic Carcinoma
+   e) Acute Myocardial Infarction
+   **Answer: D**
+
+434. Which of the following Cardiovascular Lesions is most likely to be found in a man who died after several months illness of Disseminated Malignancy:
+   a) Tear in Ascending Aortic Intima
+   b) Occlusive Coronary Atheromatous Plaques
+   c) Hypertrophic Cardiomyopathy
+   d) Epicardial Metastases
+   e) Small Mitral Platelet-Fibrin Thrombi
+   **Answer: E**
+
+435. One of the following is not a Tumor Marker:
+   a) (AFP) Alpha Fetoprotein
+   b) (CEA) Carcinoembryonic Antigen
+   c) (PGI2) Prostacyclin
+   d) (PSA) Prostate Specific Antigen
+   e) (HCG) Chorionic Gonadotrophic Hormone
+   **Answer: C**
+
+436. A Patient with Kartagener's Syndrome is at great risk of developing:
+   a) Adenocarcinoma of the Lung
+   b) Bronchiectasis
+   c) Lymphangiectasis
+   d) Pleural Plaques
+   e) Pneumocytosis Carinii Pneumonia
+   **Answer: B**
+
+437. Bronchiectasis may produce or lead to the following except:
+   a) Hemoptysis
+   b) Brain Abscess
+   c) Amyloidosis
+   d) Foul-Smelling Breath
+   e) Bronchogenic Carcinoma
+   **Answer: E**
+
+438. The first histopathologic stage of Lobar Pneumonia is:
+   a) Resolution
+   b) Organization
+   c) Grey Hepatization
+   d) Red Hepatization
+   e) Congestion and Edema
+   **Answer: E**
+
+439. All of the following are true of Bronchopneumonia except: Resolution Immune System
+   a) Characteristically undergoes stages of Congestive Hepatization and
+   b) Generally is the type to occur in the Infant and Geriatric Population
+   c) Main histologic feature is Patchy Consolidation of Lung
+   d) Predisposing Factors include Surgery, Debilitation and a Compromised
+   e) Usually affects both Lungs
+   **Answer: A**
+
+440. Which of the following is not a complication of Myocardial Infarction:
+   a) Mural Thrombosis
+   b) Arrhythmia
+   c) Mitral Stenosis
+   d) Dresseler's Syndrome
+   e) Cardiogenic Shock
+   **Answer: C**
+
+441. Endarteritis Obliterans is most closely associated with:
+   a) Mycotic Aneurysm
+   b) Atherosclerotic Aneurysm
+   c) Dissecting Aneurysm
+   d) Syphilic Aneurysm
+   e) Aneurysm
+   **Answer: D**
+
+442. Lung Abscess is most likely associated with:
+   a) Apsiration of Vomitus
+   b) Hypersensitivity
+   c) Sarcoidosis
+   d) Pneumoconiosis
+   e) Goodpasture's Syndrome
+   **Answer: A**
+
+443. Snail Track Ulcers are seen in:
+   a) Mucosal Leishmaniasis
+   b) Lepromatous Leprosy
+   c) Extra Intestinal Amoebiasis
+   d) Secondary Syphilis
+   e) Advanced Tuberculosis
+   **Answer: D**
+
+444. Condyloma Lata are caused by:
+   a) Human Papilloma Virus
+   b) EB Virus
+   c) Herpes Simplex Type II
+   d) Spirochaetes
+   e) LD Bodies
+   **Answer: D**
+
+445. The most serious complication of Portal Hypertension is:
+   a) Caput Medusa
+   b) Ascites
+   c) Hypoalbuminemia
+   d) Oesophageal Varices
+   e) Hypernatraemia
+   **Answer: D**
+
+446. Which of the following is used for the diagnosis of Sarcoidosis:
+   a) Mantoux Test
+   b) Kveim Test
+   c) Chest X-Ray
+   d) A and C
+   e) B and C
+   **Answer: C**
+
+447. Which of the following tests is most useful in the diagnosis of Rheumatic Fever:
+   a) ASO
+   b) Acute Phase Reactants
+   c) Chest X-Ray
+   d) Both A and B
+   e) Both A and C
+   **Answer: D**
+
+448. Which of the following is NOT a major manifestation of Rheumatic Fever:
+   a) Migratory Polyarthritis
+   b) Carditis
+   c) High ASO Titre
+   d) Sydenhams Chorea
+   e) Subcutaneous Nodules
+   **Answer: C**
+
+449. The organism most encountered in Subacute Bacterial Endocarditis is:
+   a) - Hemolytic Streptococci
+   b) - Hemolytic Streptococci
+   c) Staphylococcus aureus
+   d) Hemophilus influenzae
+   e) Staphylococcus epidermis
+   **Answer: A**
+
+450. The organism most associated with Rheumatic Fever is:
+   a) - Hemolytic Streptococci
+   b) - Hemolytic Streptococci
+   c) Staphylococcus aureus
+   d) Hemophilus influenzae
+   e) Staphylococcus epidermis
+   **Answer: A**
+
+451. The valve most affected by Rheumatic Fever is:
+   a) The Mitral Valve
+   b) The Aortic Valve
+   c) The Pulmonary Valve
+   d) The Tricuspid Valve
+   e) All of the Above
+   **Answer: A**
+
+452. These are features of Non-Bacterial Thrombitic Endocarditis except:
+   a) Occurs in
+   b) Associated with Adenocarcinoma of Pancreas
+   c) Causes of Mycotic Aneurysms
+   d) Formed of Fibrin and Blood Cells
+   **Answer: C**
+
+453. Which of the following types of Secondary Hypertension can be treated Surgically:
+   a) Acute Glomerulonephritis
+   b) Chronic Renal Disease
+   c) Polyarteritis Nodosa
+   d) Renal Artery Stenosis
+   e) Pregnancy Induced Hypertension
+   **Answer: D**
+
+454. Hyperplastic Arteriosclerosis is characteristically seen in:
+   a) Essential Hypertension
+   b) Malignant Hypertension
+   c) Burger's Disease
+   d) Coarctation of Aorta
+   e) Polyarteritis Nodosa
+   **Answer: B**
+
+455. Which of the following is not true about Aortic Dissection:
+   a) Associated with Hypertension
+   b) Causes Marked Dilation of the Aorta
+   c) Associated with Marfan's Syndrome
+   d) Can complicate Arterial Catherization
+   e) Can be a cause of Double-Barrel Aorta
+   **Answer: D**
+
+456. In Acute Myocardial Infarction, sudden death is due to:
+   a) Rupture of Ventricular Aneurysm
+   b) Formation of Large Intramural Thrombus
+   c) Ventricular Arrhythmia
+   d) Formation of Interventricular Septal Defect
+   e) Pulmonary Embolism
+   **Answer: C**
+
+457. Which of the following tests is best for the Diagnosis of Acute Myocardial Infarction:
+   a) ALT
+   b) ESR
+   c) Troponin
+   d) ASO
+   e) LDH
+   **Answer: E**
+
+458. Which of the following is most likely to give rise to Hemorrhagic Pericarditis:
+   a) Chronic Renal Failure
+   b) Rheumatic Fever
+   c) Acute Myocardial Infarction
+   d) Metastatic Carcinoma
+   e) Tuberculosis
+   **Answer: E**
+
+459. Which of the following is not a major manifestation (Jones Criteria) for Acute Rheumatic Fever:
+   a) Carditis
+   b) Erythema Marginatum
+   c) Migratory Polyarthritis
+   d) Infective Endocarditis
+   e) Sydenhams Chorea
+   **Answer: D**
+
+460. Which type of Pericarditis is caused by Uraemia:
+   a) Fibrinous
+   b) Hemorrhagic
+   c) Purulent
+   d) Serous
+   e) Constrictive
+   **Answer: A**
+
+461. Which of the following is associated with Panacinar Emphysema:
+   a) Recurrent Viral Infection
+   b) Exposure to Organic Dust
+   c) Alpha-1-Antitrypsin Deficiency
+   d) Congenital Heart Disease
+   e) Goodpasture Syndrome
+   **Answer: C**
+
+462. Exposure to which of the following gives rise to Pleural Plaque:
+   a) Cotton Fibres
+   b) Silica Dust
+   c) Iron Particles
+   d) Asbestos Fibres
+   e) Bird Dust
+   **Answer: D**
+
+463. Which of the following would give rise to Ineurysmal Arterial Dilation of Medium Size Renal and Mesenteric Artery:
+   a) Benign Nephrosclerosis
+   b) Polyarteritis Nodosa
+   c) Malignant Hypertension
+   d) SLE
+   e) Giant Cell Arteritis
+   **Answer: B**
+
+464. Which of the following does not cause a Lung Abscess:
+   a) Septic Emboli
+   b) Entamoeba Histolytica
+   c) Centrilobular Emphysema
+   d) Foreign Body
+   e) Carcinoma of Bronchus
+   **Answer: C**
+
+465. Which of the following is most likely to be found in an adult male who developed Sudden Pleurtic Chest Pain 15 days after Abdominal Surgery:
+   a) Lobar Pneumonia
+   b) Pulmonary Infarction
+   c) Upper Lobe Abscess
+   d) Bronchiectasis
+   e) Extrinsic Alveolitis
+   **Answer: B**
+
+466. A 21 year old drug addict who develops Fever, Splenomegaly and Sphincter Hemorrhage is most likely to be suffering from:
+   a) Glomerulonephritis
+   b) Rheumatic Fever
+   c) Infective Endocarditis
+   d) Bronchopneumonia
+   e) Visceral Leishmaniasis
+   **Answer: C**
+
+467. Which of the following is a complication of Myocardial Infarction:
+   a) Septal Hypertrophy
+   b) Calcific Aortic Valvular Stenosis
+   c) Interventricular Septal Defect
+   d) Constrictive Pericarditis
+   e) Endocardial Fibroelastosis
+   **Answer: D**
+
+468. Causes of Hypercalcemia include all of the following EXCEPT:
+   a) Malignancy
+   b) Hyperparathyroidism
+   c) Sarcoidosis
+   d) Acute Pancreatitis
+   e) Vitamin D Intoxication
+   **Answer: D**
+
+469. A common cause of Secondary Hyperaldosteronism is:
+   a) Congestive Cardiac Failure
+   b) Pituitary Adenoma
+   c) Adrenal Adenoma
+   d) Tuberculosis of the Adrenal Gland
+   e) None of the Above
+   **Answer: A**
+
+470. In Hyperaldosteronism:
+   a) There is a Low Potassium and a High Urinary Sodium
+   b) The Potassium concentration is High in Serum and Low in Urine
+   c) The Potassium concentration is Low in Serum and High in Urine
+   d) The Serum Calcium is Increased
+   e) The Blood Glucose is Low
+   **Answer: C**
+
+471. Elevation of this component is a Negative Risk Factor for Atherosclerosis:
+   a) LDL
+   b) VLDL
+   c) Chylomicrons
+   d) HDL
+   e) IDL
+   **Answer: A**
+
+472. In Grave’s Disease one would least likely expect:
+   a) Goitre
+   b) Increased Sweating
+   c) Increased Metabolic Rate
+   d) Increased TSH
+   e) Tremors
+   **Answer: D**
+
+473. Intracellular and Extracellular Fluids have a similar:
+   a) Potassium ion concentration
+   b) Sodium ion concentration
+   c) Chloride concentration
+   d) Colloid Osmotic Pressure
+   e) Total Osmolality
+   **Answer: E**
+
+474. Which of the following does NOT predispose to Gastric Carcinoma:
+   a) Infection with H. Pylori
+   b) Cigarette Smoking
+   c) Hypochlorhydria
+   d) Pyloric Stenosis
+   e) Smoked & Salted Foods
+   **Answer: D**
+
+475. Which of the following is NOT seen in Celiac Disease:
+   a) Atrophy of Villi
+   b) Epitheloid Granuloma
+   c) Loss of Microvillous Brush Border
+   d) Elongated Crypts
+   e) Infiltration of Lamina Propria by Plasma Cells and Lymphocytes
+   **Answer: B**
+
+476. Which of the following would give rise to an Eczematous Scaling of the Nipple in a 40 year old Female:
+   a) Galactocele
+   b) Paget’s Disease of the Breast
+   c) Fat Necrosis
+   d) Fungal Infection
+   e) Inflammatory Carcinoma
+   **Answer: B**
+
+477. Which of the following is NOT a known complication of Duodenal Ulcers:
+   a) Bleeding
+   b) Malignant Transformation
+   c) Perforation
+   d) Obstruction
+   e) Pyloric Stenosis
+   **Answer: E**
+
+478. Which of the following is NOT a feature of Osteogenesis Imperfecta:
+   a) Caused by a Deficiency of Type I Collagen
+   b) Inherited as Autosomal Dominant
+   c) Only affects Long Bone
+   d) Type II is associated with Multiple Fractures in Utero & its Fatal
+   e) Patients have Blue Sclera
+   **Answer: C**
+
+479. Squamous Carcinoma of the Oesophagus is associated with the following EXCEPT:
+   a) High Incidence in Blacks
+   b) Alcoholism
+   c) Tobacco Usage
+   d) H. Pylori Infection
+   e) Plummer-Vinsion Syndrome
+   **Answer: D**
+
+480. The following are features of Achondroplasia EXCEPT:
+   a) There is reduced proliferation of chondrocytes
+   b) Inherited as Autosomal Dominant
+   c) 80% of cases are New Mutations
+   d) Associated with Short Life Span
+   e) Trunk is relatively normal
+   **Answer: D**
+
+481. The following are associated with Mallory-Weiss Syndrome (oesophageal laceration) EXCEPT:
+   a) Severe Retching
+   b) Alcoholism
+   c) Excessive Vomiting
+   d) Haematemesis
+   e) Squamous Carcinoma
+   **Answer: E**
+
+482. The following are features of Autoimmune Gastritis EXCEPT:
+   a) Auto Antibodies to Gastric Parietal
+   b) Association with Hashimoto Thyoiditis
+   c) Gastric Mucosal Atrophy
+   d) Hyperacidity
+   e) Intestinal Metaplasia
+   **Answer: D**
+
+483. Which of the following is NOT associated with Barrett’s Oesophagus:
+   a) Gastrointestinal Bleeding
+   b) Reflux Oesophagitis
+   c) Keratinizing Squamous Carcinoma
+   d) Long History of Heart Burn
+   e) Epithelial Dysplasia
+   **Answer: C**
+
+484. Which of the following is NOT associated with Acute Gastritis:
+   a) Severe Stress
+   b) Shock
+   c) Excessive Alcohol Consumption
+   d) Crohn’s Disease
+   e) Excessive use of Aspirin
+   **Answer: D**
+
+485. Which of the following is associated with Congenital Adrenal Hyperplasia:
+   a) Phenylalanine Transferase Deficiency
+   b) Galactose-1-Uridyl Transferase Deficiency
+   c) Glucose-6-Phosphatase Deficiency
+   d) 21-Hydroxylase Deficiency
+   e) Iodine Peroxidase Deficiency
+   **Answer: D**
+
+486. The following are risk factors for Colo-Rectal Cancer EXCEPT:
+   a) Low Fibre Diet
+   b) Familial Polyposis Coli
+   c) Intestinal Amoebiasis
+   d) High Cholesterol Intake
+   e) Obesity
+   **Answer: C**
+
+487. Which of the following is the most significant risk factor for Cervical Squamous Carcinoma:
+   a) Obesity
+   b) Diabetes Mellitus
+   c) Multiple Pregnancies
+   d) Many Sex Partners
+   e) Oral Contraceptives
+   **Answer: D**
+
+488. Which of the following is NOT a feature of Appendiceal Carcinoids:
+   a) Can be Asymptomatic
+   b) Can be detected incidentally
+   c) No remarkable Pleomorphism or Mitotic Activity
+   d) Can Metastasize to the Liver
+   e) Always cause Carcinoid Syndrome
+   **Answer: C**
+
+489. The following are features of Ulcertaive Colitis EXCEPT:
+   a) Well Defined Epitheloid Granuloma
+   b) Pseudopolyps
+   c) Crypt Abscesses
+   d) Ulcers along Long Axis of
+   e) Completely  Serosal Surface
+   **Answer: A**
+
+490. The following are features of Crohn’s Disease EXCEPT:
+   a) Skip Areas
+   b) Transmural Inflammation
+   c) Non-Caseating Granuloma
+   d) Megacolon
+   e) Cobblestone Appearance
+   **Answer: D**
+
+491. Cervical Squamous Carcinoma will arise in:
+   a) Exo-Cervix
+   b) Endocervical Glands
+   c) Endocervix
+   d) Transformation Zone
+   e) Cervical Polyp
+   **Answer: A**
+
+492. Which of the following is NOT true about Diverticular Disease (colonic diverticulosis):
+   a) Most common is Sigmoid Colon
+   b) Risk Factor for Carcinoma
+   c) Occurs alongside Taeni coli
+   d) There is focal weakness in the Colonic Wall
+   **Answer: B**
+
+493. Which of the following is NOT true about Retroperitoneal Fibrosis:
+   a) Causes Obliteration of the Ureters
+   b) Encircles Abdominal Aorta
+   c) Shows a Prominent Lymphocyte Infiltrate
+   d) Reported following administration of Methysergide & other medicine
+   e) Develops into well differentiated Fibrosarcoma
+   **Answer: B**
+
+494. Which of the following is NOT an Extraintestinal manifestation of Crohn’s Disease:
+   a) Polyarthritis
+   b) Ankylosing Spondylitis
+   c) Cholecystitis
+   d) Erythema Nodosum
+   e) Uveitis
+   **Answer: C**
+
+495. Which of the following is associated with Maternal DES (diethylstilbestrol) Exposure:
+   a) Vaginal Adenosis
+   b) HCG (human gonadotropin)
+   c) Alpha-Fetoprotein
+   d) Lichen Sclerosis
+   e) Condyloma Acuminata
+   **Answer: A**
+
+496. Chronic Endometritis is associated with all of the following EXCEPT:
+   a) Frequently presents with Menometorrhagia
+   b) Most cases are associated with Pelvic Inflammatory Disease (PID)
+   c) Presence of Plasma Cells is necessary to establish the diagnosis
+   d) Cytomegalovirus is the most common causative agent
+   **Answer: D**
+
+497. Which of the following is NOT a necessary component of Cirrhosis of the Liver:
+   a) Fibrosis
+   b) Nodules of Regenerating Liver Cells
+   c) Active (acute) Inflammatory Process with Piece Meal Necrosis
+   d) Distortion of Entire Liver Architecture
+   e) Distortion of Intrahepatic Blood Flow
+   **Answer: E**
+
+498. Crohn’s Disease (regional enteritis) is associated with each of the following Extraintestinal manifestations EXCEPT:
+   a) Pernicious Anemia
+   b) Uveitis
+   c) Ankylosing Spondylitis
+   d) Rheumatic Carditis
+   e) Erythema Nodosum
+   **Answer: D**
+
+499. Which of the following diseases is likely to be complicated by Malignancy:
+   a) Familial Polyposis Coli
+   b) Crohn’s Disease
+   c) Ulcerative Colitis
+   d) Chronic Duodenal Ulcer
+   e) H. Pylori Gastritis
+   **Answer: A**
+
+500. Which of the following is MOST characteristic of Crohn’s Disease as compared with Ulcerative Colitis:
+   a) Tends to occur in Young Adults
+   b) Tends to involve the Mucosa continuously
+   c) Involves the  Wall Transmurally
+   d) May occur in both the Large & Small Intestine
+   e) Increases the probability of developing cancer
+   **Answer: D**
+
+501. Which of the following is NOT true about Cystic Fibrosis:
+   a) It affects GIT, Respiratory Tract & Reproductive Tract
+   b) Leads to Viscid Mucus Secretion
+   c) Associated with Squamous Metaplasia
+   d) There is a defect in Epithelial Calcium Transport
+   e) Associated with Bronchiectasis
+   **Answer: D**
+
+502. Prion Protein (PrP) is associated with:
+   a) Bovine Spongiform Encephalopathy
+   b) -Antitrypsin Deficiency
+   c) Cystic Fibrosis
+   d) Neuro-Fibromatosis
+   e) Paget’s Disease of the Bone
+   **Answer: A**
+
+503. Negri Bodies (Cytoplasmic Inclusions) are seen:
+   a) Hepatitis B viral infection
+   b) Visceral Leishmaniasis
+   c) Rabies
+   d) Mad Cow Disease
+   e) Whipple Disease
+   **Answer: C**
+
+504. Which of the following is least likely to be complicated by Colorectal Carcinoma:
+   a) Familial Adenomatous Polyposis Coli
+   b) Villous Adenoma
+   c) Tubular Adenoma
+   d) Hyperplastic Polyps
+   e) Ulcerative Colitis
+   **Answer: C**
+
+505. A Localized White Plaque on the Oral Mucosa with Atrophic or Dysplastic Epithelium and an Inflammatory Infiltrate is most likely:
+   a) Diptheria
+   b) Leukoplakia
+   c) Oral Candidiasis
+   d) Mucosal Leishmaniasis
+   e) Iron Deficiency Anemia
+   **Answer: B**
+
+506. A single 6 month old ulcer on the lateral side of the tongue of an adult male is most likely:
+   a) Candidiasis
+   b) Leukoplakia
+   c) Secondary Syphilis
+   d) Squamous Carcinoma
+   e) Mucosal Leishmaniasis
+   **Answer: D**
+
+507. Which of the following is NOT associated with Sjorgen’s Syndrome:
+   a) Autoimmune Aetiology
+   b) Affects Salivary and Lacrimal Glands
+   c) Associated with Hypergammaglobulinemia
+   d) Can develop into Epithelial Carcinoma
+   e) Associated with Rheumatoid Arthritis
+   **Answer: D**
+
+508. The following are true about Pleomorphic Salivary Gland Adenoma EXCEPT:
+   a) Arise most commonly in Parotids
+   b) Well Circumscribed but have extension in adjacent tissues
+   c) Composed of epithelial and mesenchymal elements
+   d) Commonly (more than 50%) become Malignant
+   e) Most Common Salivary Gland Tumor
+   **Answer: D**
+
+509. Which of the following is NOT true about Plummer-Vinson Syndrome:
+   a) Transverse Folds of Mucosa of Oesophagus
+   b) Associated with Megaloblastic Anemia
+   c) More common in Females
+   d) Increased Incidence of Carcinoma
+   e) Can be visualized by Radiologist during Barium Swallow
+   **Answer: B**
+
+510. Barrett’s Esophagus is:
+   a) Metaplasia of Oesophageal Squamous Epithelium
+   b) A Web formed of Folded Mucosa
+   c) A Pulsion Diverticulum
+   d) In-Situ Carcinoma of the Oesophagus
+   e) Oesophageal Candidiasis
+   **Answer: A**
+
+511. Which of the following is true about Hypertrophic Pyloric Stenosis:
+   a) Commonly affects Females
+   b) Usually presents at age 5 years
+   c) Obstruction is caused by Hamartoma of Mucosa
+   d) The Pyloric Muscle is greatly thickened
+   e) Predispose to Chronic Peptic Ulcer
+   **Answer: D**
+
+512. Which of the following is NOT a Gastric Mucosa Protection mechanism:
+   a) Mucus Secretion
+   b) Bicarbonate secretion
+   c) Bacterial Flora
+   d) Epithelial Barrier
+   e) Prostaglandin
+   **Answer: C**
+
+513. Macrovesicular Steatosis in the Liver is most characteristically associated with:
+   a) Wilson’s Disease
+   b) Chronic Alcoholism
+   c) Hepatitis B Infection
+   d) Autoimmune Hepatitis
+   e) Secondary Biliary Cirrhosis
+   **Answer: B**
+
+514. Antimitochondrial Antibodies are most likely used for the diagnosis of:
+   a) Microscopic Polyarteritis Nodosa
+   b) Celiac Disease
+   c) Primary Biliary Cirrhosis
+   d) Pernicious Anemia
+   e) Crohn’s Disease
+   **Answer: C**
+
+515. In Primary Hemochromatosis, Iron is deposited in the following tissues EXCEPT:
+   a) Liver
+   b) Myocardium
+   c) Neurons
+   d) Pancreas
+   e) Endocrine Glands
+   **Answer: C**
+
+516. Hepatitis B Vaccination will show the following marker:
+   a) HBs-Ab
+   b) HBsAb + HBcAb-
+   c) HBe Ab
+   d) HBc Ab
+   e) All of the Above
+   **Answer: B**
+
+517. Hepatic Angiosarcoma is associated with:
+   a) Vinyl Chloride
+   b) Arsenic
+   c) Thorotrast
+   d) All of the Above
+   e) None of the Above
+   **Answer: D**
+
+518. Which of the following is NOT a Risk Factor for Hepatocellular Carcinoma:
+   a) Hepatitis B
+   b) Hepatitis C
+   c) Saxitoxin
+   d) Cirrhosis
+   e) Alcoholism
+   **Answer: C**
+
+519. The following Paraneoplastic Syndrome are associated with Hepatocellular Carcinoma EXCEPT:
+   a) Hypoglycemia
+   b) Hyperglycemia
+   c) Gynaecomastia
+   d) Raised Levels of HCG
+   e) DIC
+   **Answer: A**
+
+520. Ground-Glass Hepatocytes are seen in: 685.Which of the following is true about Ulcerative Colitis:
+   a) Wilson’s Disease
+   b) Hemochromatosis
+   c) Primary Sclerosing Cholangitis
+   d) Hepatitis B Infection
+   e) Halothane Toxicity
+   a) Inflammation is Transmural
+   b) The disease is characterized by Skip Lesions
+   c) Affects all parts of GIT
+   d) Crypt Abscesses are frequently seen
+   e) Non-Caseating Granulomas are seen
+   **Answer: D**
+
+521. Estimation of which of the following is used for the diagnosis of Carcinoid Syndrome:
+   a) Urinary 5HIAA
+   b) Urinary VMA
+   c) Urinary Amino Acids
+   d) Urinary Serotonin
+   e) Urinary Gastrin
+   **Answer: A**
+
+522. Which of the following is true about Crohn’s Disease:
+   a) Inflammation is Transmural
+   b) Only affects Small & Large Intestine
+   c) Commonly complicated by Malignancy
+   d) Is not a cause of Malabsorption
+   e) Is not associated with Extraintestinal Lesions
+   **Answer: A**
+
+523. Gastric Lymphoma is a known complication of:
+   a) Zollinger-Ellison Syndrome
+   b) Autoimmune Gastritis
+   c) Gastric Crohn’s Disease
+   d) H. Pylori associated Gastritis
+   e) Peutz-Jegher Syndrome
+   **Answer: D**
+
+524. The following are features of Crohn’s Disease EXCEPT: 689.Which of the following bears the highest risk of Malignant Complication:
+   a) Skip Lesions
+   b) Deep Fissures
+   c) Granuloma Formation
+   d) Fistula
+   e) High Incidence of Malignancy
+   a) Crohn’s Disease
+   b) Familial Polyposis Coli
+   c) Ulcerative Colitis
+   d) Celiac Disease
+   e) Villous Adenoma of Rectum
+   **Answer: B**
+
+525. String Sign in Radiology is seen in:
+   a) Carcinoma of Oesophagus
+   b) Achalasia
+   c) Hypertrophic Pyloric Stenosis
+   d) Crohn’s Disease
+   e) Hirschsprung Disease
+   **Answer: D**
+
+526. Which of the following is a feature of Hemophilia A:
+   a) The PTT is prolonged
+   b) The PT is prolonged
+   c) Bleeding Time is prolonged
+   d) It is due to Factor IX deficiency
+   e) Platelet Count is Low
+   **Answer: A**
+
+527. Complications of Blood Transfusion include all of the following EXCEPT:
+   a) Septicemia
+   b) Fat Embolism
+   c) Hepatitis C Infection
+   d) Circulatory Overload
+   e) Urticaria
+   **Answer: B**
+
+528. All of the following are causes of Pancytopenia EXCEPT: 693.Which of the following is a known complication of AIDS:
+   a) Chloramphenicol
+   b) Viral Hepatitis
+   c) Hemophilia
+   d) Radiation
+   e) Megaloblastic Anemia
+   a) Adenocarcinoma
+   b) Bronchiectasis
+   c) Lymphangiectasis
+   d) Pleural Plaques
+   e) Pneumocystitis carinii Pneumonia
+   **Answer: E**
+
+529. Which of the following is not associated with deposition of Amyloid AA:
+   a) Rheumatoid Arthritis
+   b) Tuberculosis
+   c) Systemic Lupus Erythematous
+   d) Multiple Myeloma
+   e) Lepramatous Leprosy
+   **Answer: D**
+
+530. Inhalation of which of the following is associated with Pleural Mesothelioma:
+   a) Cotton Fibers
+   b) Silica Dust
+   c) Fumes with Iron Particles
+   d) Asbestos
+   e) Beryllium
+   **Answer: D**
+
+531. A Diabetic Patient with Nodular Glomerulosclerosis will present clinically with:
+   a) Hematuria
+   b) Flank Pain
+   c) Nephrotic Syndrome
+   d) Nephritic Syndrome
+   e) Anuria
+   **Answer: C**
+
+532. Neonatal Respiratory Distress Syndrome is most closely associated with:
+   a) Moldy Hay
+   b) Pigeon Fancier’s Disease
+   c) Surfactant Deficiency
+   d) Bronchial Obstruction
+   e) Cystic Fibrosis
+   **Answer: C**
+
+533. Sarcoidosis is most closely associated with:
+   a) Hemoptysis
+   b) Asteroid Bodies
+   c) Hematemesis
+   d) Excessive Surfactant
+   e) Acute Glomerulonephritis
+   **Answer: B**
+
+534. In Bronchiectasis one commonly see:
+   a) Chronic Productive Cough
+   b) Hemoptysis
+   c) Lower Lobe Disease predominantly
+   d) Grossly Abnormal Bronchograms
+   e) All of the Above
+   **Answer: E**
+
+535. Cavitary Disease at the Apex of the Lung suggests a Diagnosis of:
+   a) Pancoast Tumor
+   b) Pneumococcal Pneumonia
+   c) Hypersensitivity Pneumonia
+   d) Secondary Tuberculosis
+   e) Bronchogenic Carcinoma
+   **Answer: D**
+
+536. The following are known risk factors for aetiology of Breast Carcinoma EXCEPT:
+   a) Positive Family History
+   b) Ophorectomy before age of 35 years
+   c) Early Menarche
+   d) Late Menopause
+   e) Hormone Replacement Therapy
+   **Answer: B**
+
+537. Which of the following Thyroid Lesions shows Psammoma Bodies:
+   a) Medullary Carcinoma
+   b) Follicular Carcinoma
+   c) Papillary Carcinoma
+   d) Anaplastic Carcinoma
+   e) Hashimoto’s Thyroiditis
+   **Answer: A**
+
+538. Which of the following is the most common Testicular Tumor:
+   a) Seminoma
+   b) Embryonal Carcinoma
+   c) Choriocarcinoma
+   d) Mature Teratoma
+   e) Leydig Cell Tumor
+   **Answer: A**
+
+539. Non-Caseating Granulomas are seen in all of the following EXCEPT:
+   a) Crohn’s Disease
+   b) Ulcerative Colitis
+   c) Primary Biliary Cirrhosis
+   d) Temporal Arteritis
+   e) Sarcoidosis
+   **Answer: B**
+
+540. Which of the following Maternal Conditions is most associated with Infant Respiratory Distress Syndrome:
+   a) Hyperemisis Gravidarum
+   b) Iron Deficiency Anemia
+   c) Folate Deficiency
+   d) Gestational Diabetes
+   e) Systemic Lupus Erythematous
+   **Answer: D**
+
+541. Which of the following Auto Antibodies is associated with Microscopic Polyarteritis Nodosa:
+   a) Antimitochondrial Antibodies
+   b) Antineutrophil Cytoplasmic Antibody
+   c) Antinuclear Antibody
+   d) Anti Smooth Muscle Receptor Antibody
+   e) Anti Basement Membrane Antibody
+   **Answer: B**
+
+542. Which of the following most likely arise as a complication of Gastric Adenocarcinoma:
+   a) Barret Mucosa
+   b) Cushing Syndrome
+   c) Krukenberg Tumor
+   d) Oesophageal Varices
+   e) Primary Sclerosing Cholangitis
+   **Answer: C**
+
+543. A 50 year old Non-Smoker Female was diagnosed as having Lung Malignancy. Which of the following Histologic Types of Lung Cancer is she most likely having:
+   a) Squamous Cell Carcinoma
+   b) Small Cell Carcinoma
+   c) Carcinoid Tumor
+   d) Adenocarcinoma
+   e) Mesthelioma
+   **Answer: D**
+
+544. Which of the following Ovarian Tumors is associated with Endometrial Hyperplasia and Endometrial Carcinoma:
+   a) Serous Cystadenoma
+   b) Granulosa Cell Tumors
+   c) Dysgerminoma
+   d) Choriocarcinoma
+   e) Mature Cystic Teratoma
+   **Answer: B**
+
+545. Which of the following is pathognomonic of Rheumatic Fever in an Aschoff Body:
+   a) Foci of Fibrinoid Degeneration
+   b) Lymphocytes
+   c) Plasma Cells
+   d) Anitschow Cells
+   e) Multinucleated Giant Cells
+   **Answer: D**
+
+546. Which of the following Arterial Diseases is characterized histiologically by a Granulomatous Inflammatory Reaction with Multinucleated Giant Cells:
+   a) Atherosclerosis
+   b) Thromboangitis Obliterans
+   c) Temporal Arteritis
+   d) Polyarteritis Nodosa
+   e) Syndrome
+   **Answer: C**
+
+547. Which of the following is NOT a morphologic feature of Acute Viral B Hepatitis:
+   a) Ground Glass Hepatocytes
+   b) Sanded Nuclei
+   c) Cholestasis
+   d) Bile Duct Proliferation
+   e) Kupffer Cell Hyperplasia
+   **Answer: D**
+
+548. Which of the following is associated with Ulcerative Colitis:
+   a) Acute Pancreatitis
+   b) Fistula Formation
+   c) H. pylori associated Gastritis
+   d) Primary Sclerosing Cholangitis
+   e) Primary Biliary Cirrhosis
+   **Answer: D**
+
+549. 24 Hours after a patient had a Myocardial Infarction, which of the following complications will he most likely experience:
+   a) Constrictive Pericarditis
+   b) Cardiac Arrhytmia
+   c) Thromboembolism
+   d) Myocardial Rupture
+   e) Floppy Mitral Valve
+   **Answer: B**
+
+550. 80 year old male suffering from Left Ventricular Failure is most likely having as an underlying cause:
+   a) Acute Rheumatic Fever
+   b) Dilated Cardiomyopathy
+   c) Mitral Valve Stenosis
+   d) Calcific Aortic Stenosis
+   e) Infective Endocarditis
+   **Answer: D**
+
+551. Which of the following Ovarian Tumors has a prominent lymphocytic component and resembles Testicular Seminoma:
+   a) Granulosa Cell Tumor
+   b) Dysgerminoma
+   c) Brenner Tumor
+   d) Mucinous Cystadenoma
+   e) Papillary Adenocarcinoma
+   **Answer: B**
+
+552. Which of the following has the worst long term prognosis:
+   a) Hepatitis A
+   b) Hepatitis B
+   c) Hepatitis C
+   d) Hepatitis D
+   e) Hepatitis E
+   **Answer: C**
+
+553. Estimation of level CEA (Carcino-Embryonic Antigen) is most helpful in:
+   a) Diagnosis of Pre-Invasive Colo-Rectal Cancer
+   b) Diagnosis of Metastatic Colo-Rectal Carcinoma
+   c) Post-Surgical Follow-up of Colo-Rectal Cancer
+   d) Malignant Change in Ulcerative Colitis
+   e) Malignant Change in Crohn’s Disease
+   **Answer: C**
+
+554. Visual Disturbances and Weak Upper Extremity Pulse are signs of:
+   a) Goodpasture Disease
+   b) Disease
+   c) Polyartritis Nodosa
+   d) Takayasu Disease
+   e) Thromboangitis Obliterans
+   **Answer: D**
+
+555. Cobble-Stone appearance is seen in:
+   a) Ulcerative Colitis
+   b) Ischemic Colitis
+   c) Crohn’s Disease
+   d) Non-Familial Polyposis
+   e) Diverticulitis
+   **Answer: C**
+
+556. Which of the following is not considered as a factor of Myocardial insult leading to Dilated Cardiomyopathy:
+   a) Coxsackie Virus B Infection
+   b) Pregnancy
+   c) Alcohol Abuse
+   d) Thyrotoxicosis
+   e) Thiamine Deficiency
+   **Answer: D**
+
+557. Flask-Shaped Ulcers are seen in:
+   a) Intestinal Schistosomiasis
+   b) Intestinal Amoebiasis
+   c) Crohn’s Disease
+   d) Ulcerative Colitis
+   e) Enteric Fever
+   **Answer: B**
+
+558. Crypt Abscesses, Pseudopolyps and Broad-Based Ulcer are seen in:
+   a) Intestinal Schistosomiasis
+   b) Intestinal Amoebiasis
+   c) Crohn’s Disease
+   d) Ulcerative Colitis
+   e) Enteric Fever
+   **Answer: D**
+
+559. Which of the following Cardiac Lesions is most likely to develop in a patient who has advanced Carcinoma of the Pancreas:
+   a) Dilated Cardiomyopathy
+   b) Non-Bacterial Thrombotic Endocarditis
+   c) Acute Fibrimous Pericarditis
+   d) Endocardial Fibrosis
+   e) Obstruction of Right Outflow Tract
+   **Answer: B**
+
+560. Which of the following risk factors for Atherosclerosis is controllable:
+   a) Increasing Age
+   b) Male Gender
+   c) Cigarette Smoking
+   d) Family History
+   e) Genetic Abnormalities
+   **Answer: C**
+
+561. Which of the following has the highest risk for Colo-Rectal Carcinoma:
+   a) Ulcerative Colitis
+   b) Crohn’s Disease
+   c) Familial Polyposis Coli
+   d) Non-Familial Polyposis
+   e) Diverticulosis
+   **Answer: C**
+
+562. Which of the following is a risk factor for Testicular Malignancy:
+   a) History of Mumps Infection
+   b) Testicular Atrophy
+   c) Infertility
+   d) Cryptorchidism
+   e) Oestrogen Therapy
+   **Answer: D**
+
+563. Which of the following would give a Dilated Left Atrium:
+   a) Essential Hypertension
+   b) Hypertrophic Cardiomyopathy
+   c) Mitral Valve Stenosis
+   d) Aortic Aneurysm
+   e) Carcinoid Syndrome
+   **Answer: C**
+
+564. Which of the following is NOT strogly associated with Smoking:
+   a) Thromboangitis Obliterans
+   b) Atherosclerosis
+   c) Type B- Chronic Gastritis
+   d) Renal Cell Carcinoma
+   e) Impotence
+   **Answer: C**
+
+565. Which of the following Antibodies is associated with Primary Biliary Cirrhosis:
+   a) Antimitochondrial Antibodies
+   b) Antineutrophil Cytoplasmic Antibodies
+   c) Antinuclear Antibodies
+   d) Anti-Smooth Muscle Receptor Antibodies
+   e) Anti-Basement Membrane Antibodies
+   **Answer: A**
+
+566. Which of the following Malignant Tumors is associated with Human Papilloma Virus (HPV):
+   a) Squamous Cell Carcinoma
+   b) Adenocarcinoma
+   c) Clear Cell Carcinoma
+   d) Lymphoma
+   e) Gastrointestinal Stromal Tumor
+   **Answer: A**
+
+567. In a 23 year old female with a Butterfly Skin Rash, Vegetations on the Mitral Valve and a Positive Antinuclear Antibody the most likely diagnosis is:
+   a) Rheumatic Fever
+   b) Infective Endocarditis
+   c) Cardiovascular Syphillis
+   d) Mitral Valve Prolapse
+   e) SLE
+   **Answer: E**
+
+568. Cytoplasmic Negri Bodies are seen in:
+   a) HIV Meningoencephalitis
+   b) Mad Cow Disease
+   c) Poliomyelitis
+   d) Rabies
+   e) EBV Encephalitis
+   **Answer: D**
+
+569. Which of the following is likely to be associated with a Flattened Gastric Mucosa with No Acute Ulceration:
+   a) Diet high in Nitrites
+   b) Hyperchlorahydria
+   c) Hypoparathyroidism
+   d) Menetrier Disease
+   e) Autoantibodies to Parietal Cells
+   **Answer: E**
+
+570. Which of the following is a major factor for Atherosclerosis:
+   a) High Carbohydrate Intake
+   b) Obesity
+   c) Physical Activity
+   d) Cigarette Smoking
+   e) Post-Menopausal Oestrogen Deficiency
+   **Answer: D**
+
+571. Which of the following Cardiac Valves are most likely to be affected in Rheumatic Heart Disease:
+   a) Aortic and Tricuspid
+   b) Mitral and Pulmonary
+   c) Aortic and Pulmonary
+   d) Mitral and Tricuspid
+   e) Mitral and Aortic
+   **Answer: E**
+
+572. The most important factor in the aetiology of Female Breast Cancer is:
+   a) Prolonged use of Contraceptive Pill
+   b) Early Marriage
+   c) Cigarette Smoking
+   d) Strong Maternal History
+   e) Strong Paternal History
+   **Answer: D**
+
+573. -Antitrypsin Deficiency is associated with:
+   a) Neonatal Hepatitis
+   b) Liver Cirrhosis
+   c) Panacinar Emphysema
+   d) B and C
+   e) All of the Above
+   **Answer: D**
+
+574. Which of the following Large Intestinal Polyps carries the highest risk for cancer:
+   a) Tubular Adenoma smaller than 1cm in Diameter
+   b) Schistosomal Inflammatory Polyp
+   c) Hyperplastic Polyp
+   d) Sessile Villous Adenoma larger than 4cm in Diameter
+   e) Juvenile Polyp
+   **Answer: D**
+
+575. Epidural Hematoma are commonly the result of Bleeding from:
+   a) Ruptured Bridging Vein
+   b) Arteriovenous Malformation
+   c) Middle Meningeal Artery Damage
+   d) Rupture of Hypertensive Microaneurysm
+   e) Rupture of a  Aneurysm
+   **Answer: C**
+
+576. The following is NOT TRUE about Crohn’s Disease:
+   a) Transmural Involvement of Bowel
+   b) Non-Caseating Granulomas
+   c) Formation of Fistula
+   d) Cobblestone appearance of Mucosa
+   e) The disease is limited to the Terminal Ileum
+   **Answer: E**
+
+577. Which of the following is associated with Ulcerative Colitis:
+   a) Primary Biliary Cirrhosis
+   b) Secondary Biliary Cirrhosis
+   c) Hepatic Adenoma
+   d) Primary Sclerosing Cholangitis
+   e) Hepatic Granuloma
+   **Answer: D**
+
+578. The most important histological feature for the diagnosis of Chronic Hepatitis is:
+   a) Kupffer Cell Hyperplasia
+   b) Interface Hepatitis (piece meal necrosis)
+   c) Mallory Bodies
+   d) Sanded Nuclei
+   e) Steatosis
+   **Answer: B**
+
+579. In Classic Acute Viral Hepatitis, there is:
+   a) Kupffer Cell Hyperplasia
+   b) Bridging Necrosis of Hepatocytes
+   c) Neutrophil Infiltrate in the Portal Tract
+   d) Both A & B
+   e) Granuloma Formation
+   **Answer: D**
+
+580. Which of the following is NOT a feature of Primary Biliary Cirrhosis:
+   a) A High Serum Alkaline Phosphatase
+   b) Presence of Antimitochondrial Antibodies
+   c) Commoner in Males
+   d) Affects Medium-Sized Intrahepatic Ducts
+   e) Both B & C
+   **Answer: C**
+
+581. Which of the following is True about Mallory Bodies:
+   a) They are swollen Mitochondria
+   b) Diagnostic of Alcoholic Hepatitis
+   c) Seen in Primary Biliary Cirrhosis
+   d) Both B & C
+   e) None of the Above
+   **Answer: B**
+
+582. Osteogenic Sarcomas can arise as a complication of:
+   a) Osteopetrosis
+   b) Osteomalacia
+   c) Brown Tumor of Bone
+   d) Paget’s Disease of Bone
+   e) Rickets
+   **Answer: D**
+
+583. Which of the following morpholgic features are NOT SEEN in Ulcerative Colitis:
+   a) Non-Caseating Granulomas
+   b) Pesudopolyps
+   c) Toxic Megacolon
+   d) Crypt Abscesses
+   e) Infiltration of Lamina Propria by Mononuclear Inflammatory Cells
+   **Answer: A**
+
+584. The Ovarian Tumor most commonly associated with Endometrial Adenocarcinoma is:
+   a) Serous Cystadenocarcinoma
+   b) Mucinous Cyst Adenoma
+   c) Brenner’s Tumor
+   d) Granulosa Cell Tumor
+   e) Gonadoblastoma
+   **Answer: D**
+
+585. Primary Biliary Cirrhosis is best diagnosed by:
+   a) Antimitochondrial Antibodies
+   b) Antimicrosomal Antibodies
+   c) Anti-Neutrophilic Cytoplasmic Antibodies
+   d) Plasma Ceruloplasmin Level
+   e) Liver Biopsy stained for Iron
+   **Answer: A**
+
+586. Hypercalcemia is associated with all of the following EXCEPT:
+   a) Primary Hyperthyroidism
+   b) Sarcoidosis
+   c) Osteoporosis
+   d) Multiple Myeloma
+   e) Milk-Alkali Syndrome
+   **Answer: C**
+
+587. Which of the following is most useful for monitoring long term (2 -3 months) compliance in a Diabetic on Insulin:
+   a) Glycosylated Hemoglobin
+   b) Random Blood Glucose
+   c) Urine Ketones
+   d) Fructosamine Assay
+   e) Post-Brandial Blood Sugar
+   **Answer: A**
+
+588. A 20 year old woman died 3 months after having a (miscarriage). The autopsy shows Metastatic Tumor involving the Lungs, Liver, Brain and Vagina. What was the Precursor Condition:
+   a) Invasive Mole
+   b) Hydatidiform Mole
+   c) Choriocarcinoma
+   d) Cystic Teratoma of Ovary
+   e) Endometrial Carcinoma
+   **Answer: A**
+
+589. Pseudomyxoma Peritonei is most closely associated with:
+   a) Mucinous Cystadenoma
+   b) Granulosa Cell Tumor
+   c) Endometroid Carcinoma
+   d) Dysgerminoma
+   e) Hilus Cell Tumor
+   **Answer: A**
+
+590. Genetic Factors are not involved in the Etiology of:
+   a) Pernicious Anemia
+   b) Carcinoma of the Breast
+   c) Insulin Dependant Diabetes
+   d) Extrinsic Bronchial Asthma
+   e) Chronic Active Hepatitis
+   **Answer: E**
+
+591. The following are true about Hyperbilirubinemia EXCEPT:
+   a) Decreased by UV Light
+   b) A feature of Dubin-Johnson Syndrome
+   c) A cause of Kernicterus in the Newborn
+   d) Is Unconjugated in Viral Hepatitis
+   e) A feature of Carcinoma of the Head of the Pancreas
+   **Answer: D**
+
+592. Which of the following is associated with Maternal DES (Diethylstilbestrol) Exposure:
+   a) Vaginal Adenosis
+   b) HCG (human chorionic gonadotrophin)
+   c) Alpha-Fetoprotein
+   d) Lichen Scerosis
+   e) Condyloma Acuiminata
+   **Answer: A**
+
+593. A 20 year old female presents to you with numerous wart-like lesions on the Vulvular and Perianal areas. The best diagnosis is:
+   a) Herpes
+   b) Bowen’s Disease
+   c) Paget’s Disease
+   d) Condyloma Acuiminata
+   e) Primary Syphilis
+   **Answer: D**
+
+594. Causes of Nephrotic Syndrome include all of the following EXCEPT:
+   a) Diabetes Mellitus
+   b) SLE
+   c) Malaria
+   d) Viral Hepatitis
+   e) Post-Streptococcal Glomerulonephritis
+   **Answer: E**
+
+595. The following are true about Primary Biliary Cirrhosis EXCEPT:
+   a) Common in Females
+   b) Present with Pruritis
+   c) Jaundice develops early in the course
+   d) Associated with Antimitochondrial Antibodies
+   e) Alkaline Phosphatase is Elevated
+   **Answer: C**
+
+596. Diabetic Microngiopathy can lead to all of the following EXCEPT:
+   a) Retinopathy
+   b) Nephropathy
+   c) Neuropathy
+   d) Myocardial Infarction
+   e) None of the Above
+   **Answer: D**
+
+597. Which of the following is NOT a feature of Iron Deficiency Anemia:
+   a) The patient can be Asymptomatic
+   b) Atrophic Glossitis can occur
+   c) Pica can occur
+   d) Can be caused by Hookworm Infection
+   e) Splenomegaly is a common finding
+   **Answer: E**
+
+598. Which of the following would give rise to an Arrhythmia and Sudden Death in a 20 year old male:
+   a) Rheumatic Heart Disease
+   b) Viral Myocarditis
+   c) Systemic Lupus Erythematous
+   d) Hypertrophic Cardiomyopathy
+   e) Diabetes Mellitus
+   **Answer: D**
+
+599. Which of the following is a cause of death 48 hours following a Myocardial Infarction:
+   a) Constrictive Pericarditis
+   b) Cardiac Arrhythmia
+   c) Hepatic Necrosis
+   d) Thromboembolism
+   e) Myocardial Rupture
+   **Answer: A**
+
+600. Which of the following is associated with Carcinoma of the Head of the Pancreas:
+   a) Dilated Cardiomyopathy
+   b) Non-Bacterial Thrombotic Endocarditis
+   c) Acute Fibrinous Pericarditis
+   d) Endocardial Fibrosis
+   e) Acute Myocardial Infarction
+   **Answer: B**
+
+601. Which of the following will give rise to Lipiduria:
+   a) Ascending Pyelopnephritis
+   b) Nephritic Syndrome
+   c) Nephrotic Syndrome
+   d) Obstructive Uropathy
+   e) Renal Infarction
+   **Answer: C**
+
+602. Which of the following can arise as a complication of using Drugs:
+   a) Post-Streptococcal Glomerulonephritis
+   b) Interstitial Nephritis
+   c) IgA Neuropathy
+   d) Acute Tubular Necrosis
+   e) Nodular Glomeulosclerosis
+   **Answer: B**
+
+603. Which of the following would give an Hb of 20.5 g/dL:
+   a) Hydronephrosis
+   b) Renal Cell Carcinoma
+   c) Renal Calculi
+   d) Enlarged Multicystic Kidneys on Abdominal Ultrasounds
+   e) Prostatic Carcinoma
+   **Answer: B**
+
+604. Which of the following most likely to Fibrinous Pericarditis in a 17 year old boy:
+   a) Autoimmune Disease
+   b) Chronic Renal Failure
+   c) Rheumatic Fever
+   d) Metastatic Carcinoma
+   e) Acute Myocardial Infarction
+   **Answer: C**
+
+605. Patients with Multiple Myeloma present with the following EXCEPT:
+   a) Painful Bones
+   b) Hypercalcemia
+   c) Infections
+   d) Uremia
+   e) Peripheral Neuropathy
+   **Answer: E**
+
+606. Inhalation of which of the following will increase the risk for Bronchogenic Carcinoma in Smokers:
+   a) Cotton Fibers
+   b) Silica Dust
+   c) Fumes with Iron Particles
+   d) Asbestos
+   e) Berryllium
+   **Answer: D**
+
+607. Which of the following can arise as a complication of Aspiration of Vomitus:
+   a) Squamous Cell Carcinoma
+   b) Lung Abscess
+   c) Chronic Bronchitis
+   d) Bronchiectasis
+   e) Bronchopulmonary Sequestration
+   **Answer: B**
+
+608. Which of the following is a known complication of Asbestosis: f) Pneumothorax
+   a) Adenocarcinoma
+   b) Bronchiectasis
+   c) Lymphangiectasis
+   d) Pleural Plaques
+   e) Pneumocystic carnii Pneumonia
+   **Answer: D**
+
+609. Which of the following is associated with Panacinar Emphysema:
+   a) Decreased Serum Ceruloplasmin
+   b) Increase Sweat Chloride
+   c) Elevated Blood Ethanol
+   d) Decreased Serum Alpha-1-Antitrypsin
+   e) Positive Urine Opiates
+   **Answer: D**
+
+610. Which of the following is the most frequent risk factor of Anaplastic Small Cell Carcinoma:
+   a) Silicosis
+   b) Radon Gas Exposure
+   c) Smoking
+   d) Asbestosis
+   e) Passive Smoking
+   **Answer: C**
+
+611. The following are true about Heparin EXCEPT:
+   a) It is an Oral Anticoagulant Drug
+   b) Its action is mediated through Antithrombin III
+   c) Can cause Thrombocytopenia
+   d) It is monitored by the PTT
+   e) Its Antidote is Protamine
+   **Answer: A**
+
+612. In a 28 years old male, which of the following would give rise to an Enlarged Left Testis and Serum Elevated B-HCG and AFP:
+   a) Choriocarcinoma
+   b) Embryonal Carcinoma
+   c) Seminoma
+   d) Yolk Sac Tumor
+   e) Leydig Cell Tumor
+   **Answer: B**
+
+613. The etiology of Thromboangitis Obliterans is believed to be:
+   a) Hypercoaguable State
+   b) Autoimmunity
+   c) Direct Endothelial Injury or Hypersensitivity to Tobacco
+   d) Infection by Chlamydia
+   e) A form of Syphilitic Vasculitis
+   **Answer: C**
+
+614. Which of the following is a feature of Henoch-Schonelin Syndrome:
+   a) Diffuse Cellularity of Glomeruli
+   b) Diffuse Thickening of Basement Membrane
+   c) Crescent Formation
+   d) Mesangial Depostion of IgA
+   e) Tram-Track Appearance of Basement Membrane
+   **Answer: D**
+
+615. The most significant criteria for the histological diagnosis of Barrett’s Esopgahus:
+   a) Presence of Lamina Propria Papillae in the Upper 1/3rd of Epithelim
+   b) Neutrophil Inflammatory Infiltrate
+   c) Presence of Goblet Cells
+   d) Hyperkeratosis and Acanthosis of Squamous Epithelium
+   e) All of the Above
+   **Answer: C**
+
+616. In Parathyroid Hyperplasia there is:
+   a) Fat Cell Hyperplasia
+   b) Oxyphil Cell Hyperplasia
+   c) Chief Cell Hyperplasia
+   d) C-Cell Hyperplasia
+   e) All of the Above
+   **Answer: C**
+
+617. The commonest cause of Cushing’s Syndrome is:
+   a) Pituitary Adenoma
+   b) Adrenocortical Adenoma
+   c) Adrenocortical Hyperplasia
+   d) Exogenous Steroids
+   e) Adrenal Carcinoma
+   **Answer: D**
+
+618. Conn’s Syndrome is an Aldosterone Secreting:
+   a) Medullary Adenoma
+   b) Medullary Carcinoma
+   c) Adrenocortical Hyperplasia
+   d) Adrenocortical Adenoma
+   e) Adrenocortical Carcinoma
+   **Answer: D**
+
+619. A Paraganglioma is:
+   a) Occurs near the Wrist Joints
+   b) Of Chromaffin Origin
+   c) Seen in Adrenal Medulla
+   d) A & B
+   e) A & C
+   **Answer: C**
+
+620. A Craniopharyngioma consists of:
+   a) Squamous Cells
+   b) Glial Cells
+   c) Schwan Cells
+   d) Acidophils
+   e) Neuronal Cells
+   **Answer: A**
+
+621. Which of the following is a Pathologic finding in Alzheimer’s Disease:
+   a) Atrophy of Caudate Nucleus and Gliosis
+   b) Wallerian Degeneration and Gliosis
+   c) Substantia Nigra Depigmentation and Loss of Neurone
+   d) Neurofibrillary Tangles and Neuritic Plaques
+   e) Anterior Horn Cells Loss
+   **Answer: C**
+
+622. An 80 year old male suffering from Left Ventricular Failure is most likely having as an underlying cause:
+   a) Acute Rheumatic Fever
+   b) Dilated Cardiomyopathy
+   c) Mitral Valve Stenosis
+   d) Calcific Aortic Stenosis
+   e) Infective Endocarditis
+   **Answer: D**
+
+623. Which of the following can cause serious complications when Infection occurs during Pregnancy:
+   a) HAV
+   b) HBV
+   c) HCV
+   d) HDV
+   e) HEV
+   **Answer: E**
+
+624. Parakeratosis and Munro Micro-Abscesses are seen in:
+   a) Acne Vulgaris
+   b) Psoriasis
+   c) Subacute Dermatitis
+   d) Lichen Planus
+   e) Mycosis Fungoide
+   **Answer: B**
+
+625. Gastric Signet Cell Carcinoma metastasizing to both ovaries is:
+   a) Pseudomyxoma Peritonei
+   b) Brenner’s Tumor
+   c) Meig’s Syndrome
+   d) Krukenberg Tumor
+   e) Stroma Ovarii
+   **Answer: D**
+
+626. Liquefaction Degeneration of the Basal Layer and Saw-Tooth Appearance of Epiderma-Dermal Function is seen in:
+   a) Psoriasis
+   b) Acne Vulgaris
+   c) Junctional Nevus
+   d) Lichen Planus
+   e) Pemphigus
+   **Answer: D**
+
+627. Which of the following is associated with Arthritis:
+   a) Lichen Planus
+   b) Pemphigus
+   c) Dermatitis Herpetiforms
+   d) Psoriasis
+   e) Lentigo Maligna
+   **Answer: D**
+
+628. Which of the following Cells secrete Surfactant:
+   a) Macrophages
+   b) Alveolar Endothelial Cells
+   c) Type I Alveolar Pneumocytes
+   d) Type II Alveolar Pneumocytes
+   e) Bronchial Neuroendocrine Cells
+   **Answer: D**
+
+629. Renal Papillary Necrosis is often associated with:
+   a) Post Streptococcal GN
+   b) Urinary Schistosomiasis
+   c) Diabetes Mellitus
+   d) Quinine Therapy
+   e) All of the Above
+   **Answer: C**
+
+630. Ground Glass Nuclei are characteristically seen in:
+   a) Granulosa Cell Tumor
+   b) Meningioma
+   c) Signet Ring Cells of Gastric Mucosa
+   d) Carcinoid Tumors
+   e) Papillary Carcinoma of the Thyroid
+   **Answer: E**
+

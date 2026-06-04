@@ -114,7 +114,7 @@ const SUBJECTS = [
   { id:'biochemistry', name:'Biochemistry',   year:'1st', icon:'BC', info:'1000+ MCQs',            available:true },
 
   // 2nd Year
-  { id:'pathology',    name:'Pathology',      year:'2nd', icon:'PA', info:'Coming Soon',           available:false },
+  { id:'pathology',    name:'Pathology',      year:'2nd', icon:'PA', info:'630+ MCQs',            available:true  },
   { id:'microbiology', name:'Microbiology',   year:'2nd', icon:'MI', info:'Coming Soon',           available:false },
   { id:'pharmacology', name:'Pharmacology',   year:'2nd', icon:'PR', info:'1200+ MCQs',            available:true  },
 
@@ -400,6 +400,7 @@ const SUBJECT_FILES = {
   'psm':          'Community-Medicine-MCQ-Companion-Clean.txt',
   'fmt':          'fmt.txt',
   'pharmacology': 'Pharmacology.txt',
+  'pathology':    'pathology_clean.txt',
   'medicine':     'general.txt',
   'obstetrics':   'Obstetrics.txt',
   'gynaecology':  'Obstetrics.txt',
@@ -673,13 +674,13 @@ function parseBoldAnswerFormat(text) {
     // If question spans multiple lines before options, collect them
     let optStart = -1;
     for (let i = 1; i < answerLineIdx; i++) {
-      if (/^[a-dA-D][\.\)]\s/.test(lines[i])) { optStart = i; break; }
+      if (/^[a-eA-E][\.\)]\s/.test(lines[i])) { optStart = i; break; }
     }
     if (optStart === -1) continue;
 
     // Collect continuation of question text (lines between line 0 and first option that are NOT options)
     for (let i = 1; i < optStart; i++) {
-      if (!/^[a-dA-D][\.\)]\s/.test(lines[i]) && !/^\*\*/.test(lines[i])) {
+      if (!/^[a-eA-E][\.\)]\s/.test(lines[i]) && !/^\*\*/.test(lines[i])) {
         questionText += ' ' + lines[i];
       }
     }
@@ -689,16 +690,16 @@ function parseBoldAnswerFormat(text) {
     // Parse options: inline (space-separated) or one-per-line
     const optionLines = lines.slice(optStart, answerLineIdx);
 
-    // Try inline: "a. opt1 b. opt2 c. opt3 d. opt4" all on one line
+    // Try inline: "a. opt1 b. opt2 c. opt3 d. opt4 e. opt5" all on one line
     const fullOpts = optionLines.join(' ');
     let options = [];
-    const inlineMatches = [...fullOpts.matchAll(/([a-dA-D])[\.\)]\s*(.+?)(?=\s[a-dA-D][\.\)]|$)/g)];
+    const inlineMatches = [...fullOpts.matchAll(/([a-eA-E])[\.\)]\s*(.+?)(?=\s[a-eA-E][\.\)]|$)/g)];
     if (inlineMatches.length >= 2) {
       options = inlineMatches.map(m => ({ label: m[1].toLowerCase(), text: m[2].trim() }));
     } else {
       // One per line
       for (const line of optionLines) {
-        const m = line.match(/^([a-dA-D])[\.\)]\s*(.+)/);
+        const m = line.match(/^([a-eA-E])[\.\)]\s*(.+)/);
         if (m) options.push({ label: m[1].toLowerCase(), text: m[2].trim() });
       }
     }
@@ -1283,6 +1284,7 @@ document.addEventListener('DOMContentLoaded', () => {
   setTimeout(() => loadQuestions('obstetrics'), 3500);
   setTimeout(() => loadQuestions('fmt'), 4000);
   setTimeout(() => loadQuestions('pharmacology'), 4500);
+  setTimeout(() => loadQuestions('pathology'), 5000);
 
   // ── Exit modal wiring ──
   const exitModal     = document.getElementById('exitModal');
