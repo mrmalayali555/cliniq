@@ -655,9 +655,10 @@ function parseQuestions(text, subject = '') {
 // ── Bold-Answer Format Parser (surgery, ortho, paeds, obs, medicine) ──
 function parseBoldAnswerFormat(text) {
   const questions = [];
-  // Match numbered questions: "1. " or "1.1 " or "1.1. " format
-  // Split by numbered question start (handles plain "1. " AND chapter.sub "1.1 " formats)
-  const qBlocks = text.split(/\n(?=\d+(?:\.\d+)?[\.\)]\s)/);
+  // Match numbered questions: "1. " or "1.1 " format
+  // Pharmacology uses N.N (chapter.sub) format — split on newline before digit.digit space
+  // Also handle plain "1. " format
+  const qBlocks = text.split(/\n(?=\d+\.\d+\s|\d+[\.\)]\s)/);
 
   for (const block of qBlocks) {
     const lines = block.split('\n').map(l => l.trim()).filter(l => l);
@@ -669,8 +670,8 @@ function parseBoldAnswerFormat(text) {
 
     const answerRaw = lines[answerLineIdx].replace(/\*\*/g, '').replace(/^Answer:\s*/i, '').trim();
 
-    // Question text: first line minus the number prefix (handles "1. " and "1.1 " formats)
-    let questionText = lines[0].replace(/^\d+(?:\.\d+)?[\.\)]\s*/, '').trim();
+    // Question text: first line minus the number prefix (handles "1. ", "1.1 " formats)
+    let questionText = lines[0].replace(/^\d+(?:\.\d+)?\s*[\.\)]?\s*/, '').trim();
     // If question spans multiple lines before options, collect them
     let optStart = -1;
     for (let i = 1; i < answerLineIdx; i++) {
